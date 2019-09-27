@@ -1,0 +1,46 @@
+
+[
+    {
+        "entity": "example",
+        "month": 1,
+        "year": 1900,
+        "summary": "The what, why, and how TLDR",
+        "tags": {
+            "motive": "?",
+            "actor": "?",
+            "root-cause": "?"
+        },
+        "links": [
+            "https://example.com"
+        ]
+    },
+    {
+        "entity": "13 aviation companies",
+        "month": 8,
+        "year": 2018,
+        "summary": "Nation state phishing and water hole campaign led to IP theft",
+        "tags": {
+            "motive": "Espionage",
+            "actor": "China",
+            "root-cause": "APT Tactics"
+        },
+        "links": [
+            "https://www.reddit.com/r/securitybreach/comments/9tumcs/13_aerospace_companies_unknown_dates/"
+        ]
+    },
+    {
+        "entity": "AccuDoc",
+        "month": 12,
+        "year": 2017,
+        "summary": "Spill from an open S3 bucket",
+        "tags": {
+            "motive": "Hacktivism:Press",
+            "actor": "?",
+            "root-cause": "?"
+        },
+        "links": [
+            "https://www.reddit.com/r/securitybreach/comments/a23x7h/accudoc_0918/?"
+        ]
+    }
+]
+
