@@ -14,3 +14,9 @@ Defensive security starts with situational awareness, it's the first two stages 
 
 ## Current state/condition
 * A json file with a couple of entries extracted from https://docs.google.com/spreadsheets/d/1UHS9rbGuQZOydJ7XVkUPSlFkFb2ZAvkzX5mq-MxrE2A/edit#gid=0
+
+## Next state
+* All data from the sheet above imported
+
+## ETA for next state?
+9/29/2019
