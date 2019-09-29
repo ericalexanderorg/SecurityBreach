@@ -1,0 +1,1327 @@
+{
+  "supported": true,
+  "tag-taxonomy": {
+    "motive": {
+      "Espionage": "Nation state or business stealing information for espionage purposes",
+      "Hacktivism:Press": "Associated press benefited the whistleblower.",
+      "Hacktivism:Schadenfreude": "Associated press did not benefit the whistleblower but shamed the exploited entity",
+      "Hacktivism:Unknown": "Motivation unknown. The event neither clearly benefited the exploiter nor shamed the exploited entity.",
+      "Money:Bank Transfer": "Money was stolen through a bank transer.",
+      "Money:Credit Card": "Money was stolen through credit card transactions.",
+      "Money:Cryptocurrency": "Money was stolen through Cryptocurrency transactions.",
+      "Money:Ransom": "Money was stolen through ransom.",
+      "PII:?": "PII was stolen for unknown reasons."
+    },
+    "actor": {
+      "China": "Speculation that it was the Chinese government.",
+      "MageCart": "Speculation the entity was one or more MageCart teams.",
+      "SamSam": "?",
+      "?": "Actor is unknown"
+    },
+    "initial-access": {
+      "ATT&CK:T1326": {
+        "description": "Domain Registration Hijacking is the act of changing the registration of a domain name without the permission of the original registrant.",
+        "link": "https://attack.mitre.org/techniques/T1326/"
+      },
+      "ATT&CK:T1193": {
+        "description": "Spearphishing Attachment",
+        "link": "https://attack.mitre.org/techniques/T1193/"
+      },
+      "ATT&CK:T1192": {
+        "description": "Spearphishing Link",
+        "link": "https://attack.mitre.org/techniques/T1192/"
+      },
+      "ATT&CK:T1078": {
+        "description": "Valid Accounts",
+        "link": "https://attack.mitre.org/techniques/T1192/"
+      },
+      "OWASP:A10": {
+        "description": "Insufficient Logging & Monitoring",
+        "link": "https://www.owasp.org/index.php/Top_10-2017_A10-Insufficient_Logging%26Monitoring"
+      },
+      "OWASP:A5": {
+        "description": "Broken Access Control.",
+        "link": "https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control"
+      },
+      "OWASP:A6": {
+        "description": "Broken Authentication and Session Management",
+        "link": "https://www.owasp.org/index.php/Top_10-2017_A6-Security_Misconfiguration"
+      },
+      "OWASP:A9": {
+        "description": "Using Components with Known Vulerabilities",
+        "link": "https://www.owasp.org/index.php/Top_10-2017_A6-Security_Misconfiguration"
+      },
+      "BEC:Impersonation": {
+        "description": "Attacker poses as a trusted entity and requests an action to be taken that leads to monetary loss.",
+        "link": "https://www.barracuda.com/glossary/business-email-compromise#targetText=BEC%20Exploits&targetText=Although%20the%20perpetrators%20of%20BEC,with%20some%20form%20of%20malware."
+      },
+      "BGP Hijack": {
+        "description": "Trafic re-routed through unauthorized BGP advertisements.",
+        "link": "https://www.cloudflare.com/learning/security/glossary/bgp-hijacking/"
+      }
+    }
+  },
+  "breaches": [
+    {
+      "entity": "13 aviation companies",
+      "month": "?",
+      "year": "?",
+      "summary": "Nation state phishing and water hole campaign led to IP theft. ",
+      "tags": {
+        "motive": "Espionage",
+        "actor": "China",
+        "initial-access": "ATT&CK:T1193"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9tumcs/13_aerospace_companies_unknown_dates/"
+      ]
+    },
+    {
+      "entity": "AccuDoc",
+      "month": "9",
+      "year": "2018",
+      "summary": "",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a23x7h/accudoc_0918/?"
+      ]
+    },
+    {
+      "entity": "Alteryx",
+      "month": "12",
+      "year": "2017",
+      "summary": "Data spill from open s3 bucket",
+      "tags": {
+        "motive": "Hacktivism:Press",
+        "actor": "?",
+        "initial-access": "A5-Broken Access Control"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/7n3ask/alteryx/"
+      ]
+    },
+    {
+      "entity": "Australian Emergency Warning System",
+      "month": "1",
+      "year": "2019",
+      "summary": "Account Compromise used to send unauthorized warning messages",
+      "tags": {
+        "motive": "Hacktivism:Schadenfreude",
+        "actor": "",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/adiknh/australian_emergency_warning_system_0119/?"
+      ]
+    },
+    {
+      "entity": "Bankers Life",
+      "month": "4",
+      "year": "2018",
+      "summary": "Credential theft resulted in unauthorized data access",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwob0/bankers_life_42018/?"
+      ]
+    },
+    {
+      "entity": "Benefit Mall",
+      "month": "10",
+      "year": "2018",
+      "summary": "Phishing email led to an Account Compromise",
+      "tags": {
+        "motive": "",
+        "actor": "",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ad84ft/benefit_mall_1018/?"
+      ]
+    },
+    {
+      "entity": "BevMo",
+      "month": "8",
+      "year": "2018",
+      "summary": "Javascript injected in site to steal credit card information",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "MageCart",
+        "initial-access": "A10-Insufficient Logging & Monitoring"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a9cu7v/bevmo_0818/"
+      ]
+    },
+    {
+      "entity": "BlackWallet",
+      "month": "1",
+      "year": "2018",
+      "summary": "ATT&CK:T1326 for MITM purposes",
+      "tags": {
+        "motive": "Money:Cryptocurrency",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1326"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/7qdbr6/blackwallet_jan_2018/"
+      ]
+    },
+    {
+      "entity": "Blind",
+      "month": "12",
+      "year": "2018",
+      "summary": "Exposed elastic search instance",
+      "tags": {
+        "motive": "Hacktivism:Schadenfreude",
+        "actor": "?",
+        "initial-access": "A5-Broken Access Control"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a95s44/blind_1218/?"
+      ]
+    },
+    {
+      "entity": "Blur",
+      "month": "12",
+      "year": "2018",
+      "summary": "User data accidentally exposed to the internet",
+      "tags": {
+        "motive": "",
+        "actor": "",
+        "initial-access": "A5-Broken Access Control"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ad7xl6/blur_1218/?"
+      ]
+    },
+    {
+      "entity": "British Airways",
+      "month": "9",
+      "year": "2017",
+      "summary": "Javascript injected in site to steal credit card information",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "MageCart",
+        "initial-access": "A10-Insufficient Logging & Monitoring"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwqqs/british_airways_92017/"
+      ]
+    },
+    {
+      "entity": "Bulletproof Coffee",
+      "month": "10",
+      "year": "2017",
+      "summary": "Javascript injected in site to steal credit card information",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "MageCart",
+        "initial-access": "A10-Insufficient Logging & Monitoring"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/7lw17q/bulletproof_coffee/"
+      ]
+    },
+    {
+      "entity": "California Girl Scouts",
+      "month": "10",
+      "year": "2018",
+      "summary": "Email ATT&CK:T1078d and contained PII",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwmh0/girl_scouts_102018/?"
+      ]
+    },
+    {
+      "entity": "Carefirst",
+      "month": "6",
+      "year": "2014",
+      "summary": "Unauthorized system access",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/7k7rz2/carefirst_breach/"
+      ]
+    },
+    {
+      "entity": "Caribou Cofee",
+      "month": "12",
+      "year": "2018",
+      "summary": "Compromised POS system",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a9cqz8/caribou_coffee_1218/?"
+      ]
+    },
+    {
+      "entity": "Carphone Warehouse",
+      "month": "7",
+      "year": "2015",
+      "summary": "Site compromised due to known (6 years) wordpress plugin vulnerability",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "A9-Using Components With Known Vulnerabilities"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/82cemw/carphone_warehouse/"
+      ]
+    },
+    {
+      "entity": "Catawba County",
+      "month": "3",
+      "year": "2018",
+      "summary": "Malware discovered on county computers",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/82cga3/catawba_county/"
+      ]
+    },
+    {
+      "entity": "Cathay Pacific Airways",
+      "month": "10",
+      "year": "2018",
+      "summary": "?",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwlb8/cathay_pacific_airways_102018/?"
+      ]
+    },
+    {
+      "entity": "Century Springs",
+      "month": "11",
+      "year": "2018",
+      "summary": "Javascript injected in site to steal credit card information",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "MageCart",
+        "initial-access": "A10-Insufficient Logging & Monitoring"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a9ct59/century_springs_0918/?"
+      ]
+    },
+    {
+      "entity": "Chilis",
+      "month": "5",
+      "year": "2018",
+      "summary": "Phishing email led to malware that led to unauthorized data access",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1193"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/91ck48/chilis_may_2018/"
+      ]
+    },
+    {
+      "entity": "City of Ames",
+      "month": "11",
+      "year": "2018",
+      "summary": "",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a23ykb/city_of_ames_1118/?"
+      ]
+    },
+    {
+      "entity": "Coincheck",
+      "month": "1",
+      "year": "2018",
+      "summary": "Cryptocurrency theft",
+      "tags": {
+        "motive": "Money:Cryptocurrency",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/7tg04u/coincheck/"
+      ]
+    },
+    {
+      "entity": "ComplyRight",
+      "month": "?",
+      "year": "?",
+      "summary": "?",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwo5g/complyright/?"
+      ]
+    },
+    {
+      "entity": "discountmugs.com",
+      "month": "12",
+      "year": "2018",
+      "summary": "Javascript injected in site to steal credit card information",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "MageCart",
+        "initial-access": "A10-Insufficient Logging & Monitoring"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ad823n/discountmugscom_1218/?"
+      ]
+    },
+    {
+      "entity": "DOD Contractor",
+      "month": "11",
+      "year": "2018",
+      "summary": "?",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwlqc/dod_contractor_112018/?"
+      ]
+    },
+    {
+      "entity": "East Tennessee State University",
+      "month": "11",
+      "year": "2018",
+      "summary": "Credential theft originating from a phishing email",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9zeir4/east_tennessee_state_university_112018/?"
+      ]
+    },
+    {
+      "entity": "Electrum",
+      "month": "12",
+      "year": "2018",
+      "summary": "Phishing email tricked users into installing malware",
+      "tags": {
+        "motive": "Money:Cryptocurrency",
+        "actor": "",
+        "initial-access": "ATT&CK:T1193"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ad7vzh/electrum_1218/?"
+      ]
+    },
+    {
+      "entity": "Equifax",
+      "month": "5",
+      "year": "2017",
+      "summary": "Server running un-patched software used to pivot into network",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "A9-Using Components With Known Vulnerabilities"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwrl9/equifax_92017/?"
+      ]
+    },
+    {
+      "entity": "Exactis",
+      "month": "6",
+      "year": "2018",
+      "summary": "Exposed elastic search DB contained PII",
+      "tags": {
+        "motive": "Hacktivism:Press",
+        "actor": "?",
+        "initial-access": "A5-Broken Access Control"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwn0x/exactis_62018/?"
+      ]
+    },
+    {
+      "entity": "Exude",
+      "month": "9",
+      "year": "2018",
+      "summary": "ATT&CK:T1078 resulted in a PII data spill",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a9csia/exude_0918/?"
+      ]
+    },
+    {
+      "entity": "Facebook",
+      "month": "9",
+      "year": "2018",
+      "summary": "SSO logic flaw led to authentication bypass",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "A6-Broken Authentication and Session Management"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9jqfi1/facebook_201809/"
+      ]
+    },
+    {
+      "entity": "FastaBooking",
+      "month": "6",
+      "year": "2018",
+      "summary": "\"Server compromised",
+      "tags": {
+        "motive": " malware installed",
+        "actor": " data exfiltrated\"",
+        "initial-access": ""
+      },
+      "links": [
+        "Money:Credit Card"
+      ]
+    },
+    {
+      "entity": "Fedex",
+      "month": "2",
+      "year": "2018",
+      "summary": "Exposed S3 bucket",
+      "tags": {
+        "motive": "Hacktivism:Press",
+        "actor": "?",
+        "initial-access": "A5-Broken Access Control"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/7y0yma/httpwwwzdnetcomarticleunsecuredserverexposesfedexc/"
+      ]
+    },
+    {
+      "entity": "Five Guys",
+      "month": "8",
+      "year": "2018",
+      "summary": "Phishing email lead to unauthorized access to 19k PII records",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a2405z/five_guys_0818/?"
+      ]
+    },
+    {
+      "entity": "Florida Dept Health",
+      "month": "10",
+      "year": "2018",
+      "summary": "O365 ATT&CK:T1078d",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwlij/florida_dept_health_102018/?"
+      ]
+    },
+    {
+      "entity": "Forever 21",
+      "month": "12",
+      "year": "2017",
+      "summary": "Unauthorized system access",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/7n39sl/forever_21/"
+      ]
+    },
+    {
+      "entity": "Fox IT",
+      "month": "9",
+      "year": "2017",
+      "summary": "ATT&CK:T1326 for MITM purposes",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1326"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/7k7se6/foxit_breach/"
+      ]
+    },
+    {
+      "entity": "Gentoo/Github",
+      "month": "6",
+      "year": "2018",
+      "summary": "Administrative Gentoo related Github ATT&CK:T1078d",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/8w4e56/gentoogithub_july_2018/"
+      ]
+    },
+    {
+      "entity": "GoGet",
+      "month": "1",
+      "year": "2018",
+      "summary": "Unauthorized system access",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/7u6d3e/goget/"
+      ]
+    },
+    {
+      "entity": "Hammer Nutrition",
+      "month": "1",
+      "year": "2018",
+      "summary": "Javascript injected in site to steal credit card information",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "MageCart",
+        "initial-access": "A10-Insufficient Logging & Monitoring"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ad85o7/hammer_nutrition_0118/?"
+      ]
+    },
+    {
+      "entity": "healthcare.gov",
+      "month": "11",
+      "year": "2018",
+      "summary": "Possible ATT&CK:T1078 led to unauthorized data access. ",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9w5bsq/healthcaregov_nov_2018/"
+      ]
+    },
+    {
+      "entity": "HSBC",
+      "month": "11",
+      "year": "2018",
+      "summary": "Credential stuffing attack",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwlz1/hsbc_112018/?"
+      ]
+    },
+    {
+      "entity": "Imgur",
+      "month": "?",
+      "year": "2014",
+      "summary": "Data dump found suggested an incident occured",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/7lw1lu/imgur/"
+      ]
+    },
+    {
+      "entity": "Infowars",
+      "month": "11",
+      "year": "2018",
+      "summary": "Javascript injected in site to steal credit card information",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "MageCart",
+        "initial-access": "A10-Insufficient Logging & Monitoring"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a9crkx/infowars_1118/?"
+      ]
+    },
+    {
+      "entity": "Jason's Deli",
+      "month": "12",
+      "year": "2017",
+      "summary": "?",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/7n3b2t/jasons_deli/"
+      ]
+    },
+    {
+      "entity": "Kars4Kids",
+      "month": "11",
+      "year": "2018",
+      "summary": "Open MongoDB",
+      "tags": {
+        "motive": "Hacktivism:Press",
+        "actor": "?",
+        "initial-access": "A5-Broken Access Control"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9zeji8/kars4kids_112018/?"
+      ]
+    },
+    {
+      "entity": "Kitronik",
+      "month": "8",
+      "year": "2018",
+      "summary": "Javascript injected in site to steal credit card information",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "MageCart",
+        "initial-access": "A10-Insufficient Logging & Monitoring"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwr83/kitronik_82018/?"
+      ]
+    },
+    {
+      "entity": "Mailgun/Reddit",
+      "month": "1",
+      "year": "2018",
+      "summary": "Mailgun employee ATT&CK:T1078d",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/7ooqra/mailgunreddit/"
+      ]
+    },
+    {
+      "entity": "Marriott/Starwood",
+      "month": "11",
+      "year": "2018",
+      "summary": "",
+      "tags": {
+        "motive": "Espionage",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a23vou/marriottstarwood_1118/?"
+      ]
+    },
+    {
+      "entity": "Minnesota Dept. Human Services",
+      "month": "10",
+      "year": "2018",
+      "summary": "Phishing -> malware -> data access",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1193"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwm5m/minnesota_dept_human_services_102018/?"
+      ]
+    },
+    {
+      "entity": "MJ Insurance",
+      "month": "11",
+      "year": "2018",
+      "summary": "Phishing email led to an ATT&CK:T1078",
+      "tags": {
+        "motive": "",
+        "actor": "",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ad86a5/mj_insurance_1118/?"
+      ]
+    },
+    {
+      "entity": "Multiple",
+      "month": "?",
+      "year": "2018",
+      "summary": "RDP brute force lead to data ransom",
+      "tags": {
+        "motive": "Money:Ransom",
+        "actor": "SamSam",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a24a49/samsam_ransomware_18/?"
+      ]
+    },
+    {
+      "entity": "Multiple",
+      "month": "?",
+      "year": "2006",
+      "summary": "State led trade secret theft/espionage",
+      "tags": {
+        "motive": "Espionage",
+        "actor": "China",
+        "initial-access": "ATT&CK:T1193"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a8a3y8/us_charges_china_intelligence_officers_over/"
+      ]
+    },
+    {
+      "entity": "Multiple",
+      "month": "?",
+      "year": "2017",
+      "summary": "Vulnerability in CC processing software used to exploit multiple entities",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a95rm4/click2gov_17/?"
+      ]
+    },
+    {
+      "entity": "Multiple consumer spyware companies",
+      "month": "4",
+      "year": "2017",
+      "summary": "\"API compromise",
+      "tags": {
+        "motive": " to server",
+        "actor": " to domain admin\"",
+        "initial-access": ""
+      },
+      "links": [
+        "Hacktivism:Schadenfreude"
+      ]
+    },
+    {
+      "entity": "Multiple cryptocurrency companies",
+      "month": "?",
+      "year": "2018",
+      "summary": "Phishing -> malware -> digital wallet theft",
+      "tags": {
+        "motive": "Money:Cryptocurrency",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1193"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwmvc/multiple_cryptocurrency_companies_2018/?"
+      ]
+    },
+    {
+      "entity": "MyEtherWallet.com/AWS",
+      "month": "4",
+      "year": "2018",
+      "summary": "BGP hijacked to route traffic Route53 traffic to an attacker's server",
+      "tags": {
+        "motive": "Money:Cryptocurrency",
+        "actor": "?",
+        "initial-access": "BGP Hijack"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/8eok7n/myetherwalletcomaws_route_53_april_2018/"
+      ]
+    },
+    {
+      "entity": "myfitnesspal.com",
+      "month": "3",
+      "year": "2018",
+      "summary": "Data dump made public",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/885st6/myfitnesspall_march_2018/"
+      ]
+    },
+    {
+      "entity": "Newegg",
+      "month": "9",
+      "year": "2017",
+      "summary": "Javascript injected in site to steal credit card information",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "MageCart",
+        "initial-access": "A10-Insufficient Logging & Monitoring"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwqja/newegg_92017/?"
+      ]
+    },
+    {
+      "entity": "NiceHash",
+      "month": "12",
+      "year": "2017",
+      "summary": "Unauthorized system access",
+      "tags": {
+        "motive": "Money:Cryptocurrency",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/7i29ld/nicehash_breach/"
+      ]
+    },
+    {
+      "entity": "Orbitz",
+      "month": "1",
+      "year": "2016",
+      "summary": "?",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwn9b/orbitz_12016/?"
+      ]
+    },
+    {
+      "entity": "OS News",
+      "month": "1",
+      "year": "2019",
+      "summary": "Root cause unknown ATM",
+      "tags": {
+        "motive": "",
+        "actor": "",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ad7ykg/os_news_0119/?"
+      ]
+    },
+    {
+      "entity": "OXO",
+      "month": "6",
+      "year": "2017",
+      "summary": "Javascript injected in site to steal credit card information",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "MageCart",
+        "initial-access": "A10-Insufficient Logging & Monitoring"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ad837k/oxo_617/?"
+      ]
+    },
+    {
+      "entity": "PageUp",
+      "month": "5",
+      "year": "2018",
+      "summary": "?",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9zej5b/pageup_52018/?"
+      ]
+    },
+    {
+      "entity": "Panera",
+      "month": "4",
+      "year": "2018",
+      "summary": "No access control on API allowed retreiving customer data",
+      "tags": {
+        "motive": "Hacktivism:?",
+        "actor": "?",
+        "initial-access": "A5-Broken Access Control"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwnez/panera_42018/"
+      ]
+    },
+    {
+      "entity": "PayPal",
+      "month": "12",
+      "year": "2017",
+      "summary": "Unauthorized system access",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/7n3bcu/tio_networks/"
+      ]
+    },
+    {
+      "entity": "Reddit",
+      "month": "6",
+      "year": "2018",
+      "summary": "Privileged reddit employee accounts compromised due to password re-use",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/93r5of/reddit_201808/"
+      ]
+    },
+    {
+      "entity": "San Diego Unified School District",
+      "month": "1",
+      "year": "2018",
+      "summary": "Credentials stolen through phishing campaign",
+      "tags": {
+        "motive": "",
+        "actor": "",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a9cw3o/san_diego_unified_school_district/?"
+      ]
+    },
+    {
+      "entity": "SHEIN",
+      "month": "?",
+      "year": "2018",
+      "summary": "?",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwoh5/shein_2018/?"
+      ]
+    },
+    {
+      "entity": "Sky Brasil",
+      "month": "11",
+      "year": "2018",
+      "summary": "Exposed elastic search instance",
+      "tags": {
+        "motive": "Hacktivism:Schadenfreude",
+        "actor": "?",
+        "initial-access": "A5-Broken Access Control"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a2493z/sky_brasil_1118/"
+      ]
+    },
+    {
+      "entity": "T-Mobile",
+      "month": "8",
+      "year": "2018",
+      "summary": "",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/a23zk0/tmobile_82018/?"
+      ]
+    },
+    {
+      "entity": "Taskrabbit",
+      "month": "4",
+      "year": "2018",
+      "summary": "Site defaced and emails sent to users",
+      "tags": {
+        "motive": "Hacktivism:Schadenfreude",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/8cs2c5/taskrabbit_april_2018/"
+      ]
+    },
+    {
+      "entity": "texthelp.com",
+      "month": "2",
+      "year": "2018",
+      "summary": "Unauthorized javascript uploaded to site",
+      "tags": {
+        "motive": "Money:Cryptocurrency",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/88j9bf/texthelp_feb_2018/"
+      ]
+    },
+    {
+      "entity": "The National Bank of Blacksburg",
+      "month": "5",
+      "year": "2016",
+      "summary": "Phishing email led to malware that led to unauthorized transactions",
+      "tags": {
+        "motive": "Money:Bank Transfer",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1193"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/91oo7b/the_national_bank_of_blacksburg_july_2018/"
+      ]
+    },
+    {
+      "entity": "Ticket Master",
+      "month": "2",
+      "year": "2018",
+      "summary": "Javascript injected in site to steal credit card information",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "MageCart",
+        "initial-access": "A10-Insufficient Logging & Monitoring"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwr03/ticketmaster_22018/?"
+      ]
+    },
+    {
+      "entity": "Ticketfly",
+      "month": "4",
+      "year": "2018",
+      "summary": "?",
+      "tags": {
+        "motive": "Hacktivism:Schadenfreude",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwnnd/ticketfly_42018/?"
+      ]
+    },
+    {
+      "entity": "Timehop",
+      "month": "12",
+      "year": "2017",
+      "summary": "Administrative GCP ATT&CK:T1078d. ",
+      "tags": {
+        "motive": "",
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/8x7ajt/timehop_july_2018/"
+      ]
+    },
+    {
+      "entity": "Typeform",
+      "month": "7",
+      "year": "2018",
+      "summary": "?",
+      "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwo0a/typeform_72018/?"
+      ]
+    },
+    {
+      "entity": "usps",
+      "month": "11",
+      "year": "2018",
+      "summary": "API broken access control",
+      "tags": {
+        "motive": "Hacktivism:Unknown",
+        "actor": "?",
+        "initial-access": "A5-Broken Access Control"
+      },
+      "links": [
+        "https://krebsonsecurity.com/2018/11/usps-site-exposed-data-on-60-million-users/"
+      ]
+    },
+    {
+      "entity": "Vision Direct",
+      "month": "11",
+      "year": "2018",
+      "summary": "Javascript injected in site to steal credit card information",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "MageCart",
+        "initial-access": "A10-Insufficient Logging & Monitoring"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9zeiat/vision_direct_112018/?"
+      ]
+    },
+    {
+      "entity": "Voxox",
+      "month": "11",
+      "year": "2018",
+      "summary": "Elastic search data exposed SMS records of 26 million individuals",
+      "tags": {
+        "motive": "Hacktivism:Press",
+        "actor": "?",
+        "initial-access": "A5-Broken Access Control"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/9xwhoi/voxox_112018/"
+      ]
+    },
+    {
+      "entity": "Wolverine Solutions Group",
+      "month": "9",
+      "year": "2018",
+      "summary": "Ransomware incident",
+      "tags": {
+        "motive": "",
+        "actor": "",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ad83os/wolverine_solutions_group_918/?"
+      ]
+    },
+    {
+      "entity": "DX.Exchange",
+      "month": "1",
+      "year": "2019",
+      "summary": "Site leaking data in session tokens",
+      "tags": {
+        "motive": "Hacktivism:Press",
+        "actor": "",
+        "initial-access": "A5-Broken Access Control"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ahm3ug/dxexchange_0119/?"
+      ]
+    },
+    {
+      "entity": "Amadeus",
+      "month": "1",
+      "year": "2019",
+      "summary": "User data easily enumerated",
+      "tags": {
+        "motive": "Hacktivism:Press",
+        "actor": "",
+        "initial-access": "A5-Broken Access Control"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ahm5xy/amadeus_0119/?"
+      ]
+    },
+    {
+      "entity": "Tecnimont",
+      "month": "1",
+      "year": "2019",
+      "summary": "Employee duped into wiring $18.6 million",
+      "tags": {
+        "motive": "Money:Bank Transfer",
+        "actor": "",
+        "initial-access": "BEC:Impersonation"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ahm72o/tecnimont_0119/?"
+      ]
+    },
+    {
+      "entity": "Quora",
+      "month": "12",
+      "year": "2018",
+      "summary": "Breach notification that data was accessed. No further details",
+      "tags": {
+        "motive": "",
+        "actor": "",
+        "initial-access": ""
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ahm7lp/quora_1218/?"
+      ]
+    },
+    {
+      "entity": "Aimbridge Hospitality Holdings",
+      "month": "9",
+      "year": "2018",
+      "summary": "Email ATT&CK:T1078d leading to PII access",
+      "tags": {
+        "motive": "",
+        "actor": "",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ahm836/aimbridge_hospitality_holdings_0918/?"
+      ]
+    },
+    {
+      "entity": "Global Imports",
+      "month": "8",
+      "year": "2018",
+      "summary": "Javascript injected in site to steal credit card information",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "MageCart",
+        "initial-access": "A10-Insufficient Logging & Monitoring"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ahm8kc/global_imports/?"
+      ]
+    },
+    {
+      "entity": "Jensen Precast",
+      "month": "10",
+      "year": "2018",
+      "summary": "Email ATT&CK:T1078d leading to PII access",
+      "tags": {
+        "motive": "",
+        "actor": "",
+        "initial-access": "ATT&CK:T1078"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ahm91w/jensen_precast_1018/?"
+      ]
+    },
+    {
+      "entity": "E-Z Up",
+      "month": "10",
+      "year": "2018",
+      "summary": "Javascript injected in site to steal credit card information",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "MageCart",
+        "initial-access": "A10-Insufficient Logging & Monitoring"
+      },
+      "links": [
+        "https://www.reddit.com/r/securitybreach/comments/ahm9jt/ez_up_1018/?"
+      ]
+    }
+  ]
+}
+  
