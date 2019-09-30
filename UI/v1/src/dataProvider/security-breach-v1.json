@@ -64,8 +64,8 @@
   "breaches": [
     {
       "entity": "13 aviation companies",
-      "month": "?",
-      "year": "?",
+      "month": 1,
+      "year": 1900,
       "summary": "Nation state phishing and water hole campaign led to IP theft. ",
       "tags": {
         "motive": "Espionage",
@@ -78,11 +78,11 @@
     },
     {
       "entity": "AccuDoc",
-      "month": "9",
-      "year": "2018",
-      "summary": "",
+      "month": 9,
+      "year": 2018,
+      "summary": "?",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": ""
       },
@@ -92,8 +92,8 @@
     },
     {
       "entity": "Alteryx",
-      "month": "12",
-      "year": "2017",
+      "month": 12,
+      "year": 2017,
       "summary": "Data spill from open s3 bucket",
       "tags": {
         "motive": "Hacktivism:Press",
@@ -106,12 +106,12 @@
     },
     {
       "entity": "Australian Emergency Warning System",
-      "month": "1",
-      "year": "2019",
+      "month": 1,
+      "year": 2019,
       "summary": "Account Compromise used to send unauthorized warning messages",
       "tags": {
         "motive": "Hacktivism:Schadenfreude",
-        "actor": "",
+        "actor": "?",
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
@@ -120,8 +120,8 @@
     },
     {
       "entity": "Bankers Life",
-      "month": "4",
-      "year": "2018",
+      "month": 4,
+      "year": 2018,
       "summary": "Credential theft resulted in unauthorized data access",
       "tags": {
         "motive": "PII:?",
@@ -134,12 +134,12 @@
     },
     {
       "entity": "Benefit Mall",
-      "month": "10",
-      "year": "2018",
+      "month": 10,
+      "year": 2018,
       "summary": "Phishing email led to an Account Compromise",
       "tags": {
-        "motive": "",
-        "actor": "",
+        "motive": "?",
+        "actor": "?",
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
@@ -148,8 +148,8 @@
     },
     {
       "entity": "BevMo",
-      "month": "8",
-      "year": "2018",
+      "month": 8,
+      "year": 2018,
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
@@ -162,8 +162,8 @@
     },
     {
       "entity": "BlackWallet",
-      "month": "1",
-      "year": "2018",
+      "month": 1,
+      "year": 2018,
       "summary": "ATT&CK:T1326 for MITM purposes",
       "tags": {
         "motive": "Money:Cryptocurrency",
@@ -176,8 +176,8 @@
     },
     {
       "entity": "Blind",
-      "month": "12",
-      "year": "2018",
+      "month": 12,
+      "year": 2018,
       "summary": "Exposed elastic search instance",
       "tags": {
         "motive": "Hacktivism:Schadenfreude",
@@ -190,12 +190,12 @@
     },
     {
       "entity": "Blur",
-      "month": "12",
-      "year": "2018",
+      "month": 12,
+      "year": 2018,
       "summary": "User data accidentally exposed to the internet",
       "tags": {
-        "motive": "",
-        "actor": "",
+        "motive": "?",
+        "actor": "?",
         "initial-access": "A5-Broken Access Control"
       },
       "links": [
@@ -204,8 +204,8 @@
     },
     {
       "entity": "British Airways",
-      "month": "9",
-      "year": "2017",
+      "month": 9,
+      "year": 2017,
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
@@ -218,8 +218,8 @@
     },
     {
       "entity": "Bulletproof Coffee",
-      "month": "10",
-      "year": "2017",
+      "month": 10,
+      "year": 2017,
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
@@ -232,8 +232,8 @@
     },
     {
       "entity": "California Girl Scouts",
-      "month": "10",
-      "year": "2018",
+      "month": 10,
+      "year": 2018,
       "summary": "Email ATT&CK:T1078d and contained PII",
       "tags": {
         "motive": "PII:?",
@@ -246,8 +246,8 @@
     },
     {
       "entity": "Carefirst",
-      "month": "6",
-      "year": "2014",
+      "month": 6,
+      "year": 2014,
       "summary": "Unauthorized system access",
       "tags": {
         "motive": "PII:?",
@@ -260,8 +260,8 @@
     },
     {
       "entity": "Caribou Cofee",
-      "month": "12",
-      "year": "2018",
+      "month": 12,
+      "year": 2018,
       "summary": "Compromised POS system",
       "tags": {
         "motive": "Money:Credit Card",
@@ -274,8 +274,8 @@
     },
     {
       "entity": "Carphone Warehouse",
-      "month": "7",
-      "year": "2015",
+      "month": 7,
+      "year": 2015,
       "summary": "Site compromised due to known (6 years) wordpress plugin vulnerability",
       "tags": {
         "motive": "PII:?",
@@ -288,11 +288,11 @@
     },
     {
       "entity": "Catawba County",
-      "month": "3",
-      "year": "2018",
+      "month": 3,
+      "year": 2018,
       "summary": "Malware discovered on county computers",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": ""
       },
@@ -302,8 +302,8 @@
     },
     {
       "entity": "Cathay Pacific Airways",
-      "month": "10",
-      "year": "2018",
+      "month": 10,
+      "year": 2018,
       "summary": "?",
       "tags": {
         "motive": "PII:?",
@@ -316,8 +316,8 @@
     },
     {
       "entity": "Century Springs",
-      "month": "11",
-      "year": "2018",
+      "month": 11,
+      "year": 2018,
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
@@ -330,8 +330,8 @@
     },
     {
       "entity": "Chilis",
-      "month": "5",
-      "year": "2018",
+      "month": 5,
+      "year": 2018,
       "summary": "Phishing email led to malware that led to unauthorized data access",
       "tags": {
         "motive": "Money:Credit Card",
@@ -344,11 +344,11 @@
     },
     {
       "entity": "City of Ames",
-      "month": "11",
-      "year": "2018",
-      "summary": "",
+      "month": 11,
+      "year": 2018,
+      "summary": "?",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": ""
       },
@@ -358,8 +358,8 @@
     },
     {
       "entity": "Coincheck",
-      "month": "1",
-      "year": "2018",
+      "month": 1,
+      "year": 2018,
       "summary": "Cryptocurrency theft",
       "tags": {
         "motive": "Money:Cryptocurrency",
@@ -372,8 +372,8 @@
     },
     {
       "entity": "ComplyRight",
-      "month": "?",
-      "year": "?",
+      "month": 1,
+      "year": 1900,
       "summary": "?",
       "tags": {
         "motive": "PII:?",
@@ -386,8 +386,8 @@
     },
     {
       "entity": "discountmugs.com",
-      "month": "12",
-      "year": "2018",
+      "month": 12,
+      "year": 2018,
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
@@ -400,11 +400,11 @@
     },
     {
       "entity": "DOD Contractor",
-      "month": "11",
-      "year": "2018",
+      "month": 11,
+      "year": 2018,
       "summary": "?",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": ""
       },
@@ -414,8 +414,8 @@
     },
     {
       "entity": "East Tennessee State University",
-      "month": "11",
-      "year": "2018",
+      "month": 11,
+      "year": 2018,
       "summary": "Credential theft originating from a phishing email",
       "tags": {
         "motive": "PII:?",
@@ -428,12 +428,12 @@
     },
     {
       "entity": "Electrum",
-      "month": "12",
-      "year": "2018",
+      "month": 12,
+      "year": 2018,
       "summary": "Phishing email tricked users into installing malware",
       "tags": {
         "motive": "Money:Cryptocurrency",
-        "actor": "",
+        "actor": "?",
         "initial-access": "ATT&CK:T1193"
       },
       "links": [
@@ -442,8 +442,8 @@
     },
     {
       "entity": "Equifax",
-      "month": "5",
-      "year": "2017",
+      "month": 5,
+      "year": 2017,
       "summary": "Server running un-patched software used to pivot into network",
       "tags": {
         "motive": "PII:?",
@@ -456,8 +456,8 @@
     },
     {
       "entity": "Exactis",
-      "month": "6",
-      "year": "2018",
+      "month": 6,
+      "year": 2018,
       "summary": "Exposed elastic search DB contained PII",
       "tags": {
         "motive": "Hacktivism:Press",
@@ -470,8 +470,8 @@
     },
     {
       "entity": "Exude",
-      "month": "9",
-      "year": "2018",
+      "month": 9,
+      "year": 2018,
       "summary": "ATT&CK:T1078 resulted in a PII data spill",
       "tags": {
         "motive": "PII:?",
@@ -484,8 +484,8 @@
     },
     {
       "entity": "Facebook",
-      "month": "9",
-      "year": "2018",
+      "month": 9,
+      "year": 2018,
       "summary": "SSO logic flaw led to authentication bypass",
       "tags": {
         "motive": "PII:?",
@@ -498,12 +498,12 @@
     },
     {
       "entity": "FastaBooking",
-      "month": "6",
-      "year": "2018",
+      "month": 6,
+      "year": 2018,
       "summary": "\"Server compromised",
       "tags": {
         "motive": " malware installed",
-        "actor": " data exfiltrated\"",
+        "actor": " data exfiltrated\"?",
         "initial-access": ""
       },
       "links": [
@@ -512,8 +512,8 @@
     },
     {
       "entity": "Fedex",
-      "month": "2",
-      "year": "2018",
+      "month": 2,
+      "year": 2018,
       "summary": "Exposed S3 bucket",
       "tags": {
         "motive": "Hacktivism:Press",
@@ -526,8 +526,8 @@
     },
     {
       "entity": "Five Guys",
-      "month": "8",
-      "year": "2018",
+      "month": 8,
+      "year": 2018,
       "summary": "Phishing email lead to unauthorized access to 19k PII records",
       "tags": {
         "motive": "PII:?",
@@ -540,8 +540,8 @@
     },
     {
       "entity": "Florida Dept Health",
-      "month": "10",
-      "year": "2018",
+      "month": 10,
+      "year": 2018,
       "summary": "O365 ATT&CK:T1078d",
       "tags": {
         "motive": "PII:?",
@@ -554,8 +554,8 @@
     },
     {
       "entity": "Forever 21",
-      "month": "12",
-      "year": "2017",
+      "month": 12,
+      "year": 2017,
       "summary": "Unauthorized system access",
       "tags": {
         "motive": "Money:Credit Card",
@@ -568,11 +568,11 @@
     },
     {
       "entity": "Fox IT",
-      "month": "9",
-      "year": "2017",
+      "month": 9,
+      "year": 2017,
       "summary": "ATT&CK:T1326 for MITM purposes",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": "ATT&CK:T1326"
       },
@@ -582,11 +582,11 @@
     },
     {
       "entity": "Gentoo/Github",
-      "month": "6",
-      "year": "2018",
+      "month": 6,
+      "year": 2018,
       "summary": "Administrative Gentoo related Github ATT&CK:T1078d",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": "ATT&CK:T1078"
       },
@@ -596,11 +596,11 @@
     },
     {
       "entity": "GoGet",
-      "month": "1",
-      "year": "2018",
+      "month": 1,
+      "year": 2018,
       "summary": "Unauthorized system access",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": ""
       },
@@ -610,8 +610,8 @@
     },
     {
       "entity": "Hammer Nutrition",
-      "month": "1",
-      "year": "2018",
+      "month": 1,
+      "year": 2018,
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
@@ -624,8 +624,8 @@
     },
     {
       "entity": "healthcare.gov",
-      "month": "11",
-      "year": "2018",
+      "month": 11,
+      "year": 2018,
       "summary": "Possible ATT&CK:T1078 led to unauthorized data access. ",
       "tags": {
         "motive": "PII:?",
@@ -638,11 +638,11 @@
     },
     {
       "entity": "HSBC",
-      "month": "11",
-      "year": "2018",
+      "month": 11,
+      "year": 2018,
       "summary": "Credential stuffing attack",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": "ATT&CK:T1078"
       },
@@ -652,11 +652,11 @@
     },
     {
       "entity": "Imgur",
-      "month": "?",
-      "year": "2014",
+      "month": 1,
+      "year": 2014,
       "summary": "Data dump found suggested an incident occured",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": ""
       },
@@ -666,8 +666,8 @@
     },
     {
       "entity": "Infowars",
-      "month": "11",
-      "year": "2018",
+      "month": 11,
+      "year": 2018,
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
@@ -680,8 +680,8 @@
     },
     {
       "entity": "Jason's Deli",
-      "month": "12",
-      "year": "2017",
+      "month": 12,
+      "year": 2017,
       "summary": "?",
       "tags": {
         "motive": "Money:Credit Card",
@@ -694,8 +694,8 @@
     },
     {
       "entity": "Kars4Kids",
-      "month": "11",
-      "year": "2018",
+      "month": 11,
+      "year": 2018,
       "summary": "Open MongoDB",
       "tags": {
         "motive": "Hacktivism:Press",
@@ -708,8 +708,8 @@
     },
     {
       "entity": "Kitronik",
-      "month": "8",
-      "year": "2018",
+      "month": 8,
+      "year": 2018,
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
@@ -722,11 +722,11 @@
     },
     {
       "entity": "Mailgun/Reddit",
-      "month": "1",
-      "year": "2018",
+      "month": 1,
+      "year": 2018,
       "summary": "Mailgun employee ATT&CK:T1078d",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": "ATT&CK:T1078"
       },
@@ -736,9 +736,9 @@
     },
     {
       "entity": "Marriott/Starwood",
-      "month": "11",
-      "year": "2018",
-      "summary": "",
+      "month": 11,
+      "year": 2018,
+      "summary": "?",
       "tags": {
         "motive": "Espionage",
         "actor": "?",
@@ -750,8 +750,8 @@
     },
     {
       "entity": "Minnesota Dept. Human Services",
-      "month": "10",
-      "year": "2018",
+      "month": 10,
+      "year": 2018,
       "summary": "Phishing -> malware -> data access",
       "tags": {
         "motive": "PII:?",
@@ -764,12 +764,12 @@
     },
     {
       "entity": "MJ Insurance",
-      "month": "11",
-      "year": "2018",
+      "month": 11,
+      "year": 2018,
       "summary": "Phishing email led to an ATT&CK:T1078",
       "tags": {
-        "motive": "",
-        "actor": "",
+        "motive": "?",
+        "actor": "?",
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
@@ -778,8 +778,8 @@
     },
     {
       "entity": "Multiple",
-      "month": "?",
-      "year": "2018",
+      "month": 1,
+      "year": 2018,
       "summary": "RDP brute force lead to data ransom",
       "tags": {
         "motive": "Money:Ransom",
@@ -792,8 +792,8 @@
     },
     {
       "entity": "Multiple",
-      "month": "?",
-      "year": "2006",
+      "month": 1,
+      "year": 2006,
       "summary": "State led trade secret theft/espionage",
       "tags": {
         "motive": "Espionage",
@@ -806,8 +806,8 @@
     },
     {
       "entity": "Multiple",
-      "month": "?",
-      "year": "2017",
+      "month": 1,
+      "year": 2017,
       "summary": "Vulnerability in CC processing software used to exploit multiple entities",
       "tags": {
         "motive": "Money:Credit Card",
@@ -820,12 +820,12 @@
     },
     {
       "entity": "Multiple consumer spyware companies",
-      "month": "4",
-      "year": "2017",
+      "month": 4,
+      "year": 2017,
       "summary": "\"API compromise",
       "tags": {
         "motive": " to server",
-        "actor": " to domain admin\"",
+        "actor": " to domain admin\"?",
         "initial-access": ""
       },
       "links": [
@@ -834,8 +834,8 @@
     },
     {
       "entity": "Multiple cryptocurrency companies",
-      "month": "?",
-      "year": "2018",
+      "month": 1,
+      "year": 2018,
       "summary": "Phishing -> malware -> digital wallet theft",
       "tags": {
         "motive": "Money:Cryptocurrency",
@@ -848,8 +848,8 @@
     },
     {
       "entity": "MyEtherWallet.com/AWS",
-      "month": "4",
-      "year": "2018",
+      "month": 4,
+      "year": 2018,
       "summary": "BGP hijacked to route traffic Route53 traffic to an attacker's server",
       "tags": {
         "motive": "Money:Cryptocurrency",
@@ -862,11 +862,11 @@
     },
     {
       "entity": "myfitnesspal.com",
-      "month": "3",
-      "year": "2018",
+      "month": 3,
+      "year": 2018,
       "summary": "Data dump made public",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": ""
       },
@@ -876,8 +876,8 @@
     },
     {
       "entity": "Newegg",
-      "month": "9",
-      "year": "2017",
+      "month": 9,
+      "year": 2017,
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
@@ -890,8 +890,8 @@
     },
     {
       "entity": "NiceHash",
-      "month": "12",
-      "year": "2017",
+      "month": 12,
+      "year": 2017,
       "summary": "Unauthorized system access",
       "tags": {
         "motive": "Money:Cryptocurrency",
@@ -904,8 +904,8 @@
     },
     {
       "entity": "Orbitz",
-      "month": "1",
-      "year": "2016",
+      "month": 1,
+      "year": 2016,
       "summary": "?",
       "tags": {
         "motive": "Money:Credit Card",
@@ -918,12 +918,12 @@
     },
     {
       "entity": "OS News",
-      "month": "1",
-      "year": "2019",
+      "month": 1,
+      "year": 2019,
       "summary": "Root cause unknown ATM",
       "tags": {
-        "motive": "",
-        "actor": "",
+        "motive": "?",
+        "actor": "?",
         "initial-access": ""
       },
       "links": [
@@ -932,8 +932,8 @@
     },
     {
       "entity": "OXO",
-      "month": "6",
-      "year": "2017",
+      "month": 6,
+      "year": 2017,
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
@@ -946,11 +946,11 @@
     },
     {
       "entity": "PageUp",
-      "month": "5",
-      "year": "2018",
+      "month": 5,
+      "year": 2018,
       "summary": "?",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": ""
       },
@@ -960,8 +960,8 @@
     },
     {
       "entity": "Panera",
-      "month": "4",
-      "year": "2018",
+      "month": 4,
+      "year": 2018,
       "summary": "No access control on API allowed retreiving customer data",
       "tags": {
         "motive": "Hacktivism:?",
@@ -974,8 +974,8 @@
     },
     {
       "entity": "PayPal",
-      "month": "12",
-      "year": "2017",
+      "month": 12,
+      "year": 2017,
       "summary": "Unauthorized system access",
       "tags": {
         "motive": "PII:?",
@@ -988,11 +988,11 @@
     },
     {
       "entity": "Reddit",
-      "month": "6",
-      "year": "2018",
+      "month": 6,
+      "year": 2018,
       "summary": "Privileged reddit employee accounts compromised due to password re-use",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": "ATT&CK:T1078"
       },
@@ -1002,12 +1002,12 @@
     },
     {
       "entity": "San Diego Unified School District",
-      "month": "1",
-      "year": "2018",
+      "month": 1,
+      "year": 2018,
       "summary": "Credentials stolen through phishing campaign",
       "tags": {
-        "motive": "",
-        "actor": "",
+        "motive": "?",
+        "actor": "?",
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
@@ -1016,11 +1016,11 @@
     },
     {
       "entity": "SHEIN",
-      "month": "?",
-      "year": "2018",
+      "month": 1,
+      "year": 2018,
       "summary": "?",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": ""
       },
@@ -1030,8 +1030,8 @@
     },
     {
       "entity": "Sky Brasil",
-      "month": "11",
-      "year": "2018",
+      "month": 11,
+      "year": 2018,
       "summary": "Exposed elastic search instance",
       "tags": {
         "motive": "Hacktivism:Schadenfreude",
@@ -1044,11 +1044,11 @@
     },
     {
       "entity": "T-Mobile",
-      "month": "8",
-      "year": "2018",
-      "summary": "",
+      "month": 8,
+      "year": 2018,
+      "summary": "?",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": ""
       },
@@ -1058,8 +1058,8 @@
     },
     {
       "entity": "Taskrabbit",
-      "month": "4",
-      "year": "2018",
+      "month": 4,
+      "year": 2018,
       "summary": "Site defaced and emails sent to users",
       "tags": {
         "motive": "Hacktivism:Schadenfreude",
@@ -1072,8 +1072,8 @@
     },
     {
       "entity": "texthelp.com",
-      "month": "2",
-      "year": "2018",
+      "month": 2,
+      "year": 2018,
       "summary": "Unauthorized javascript uploaded to site",
       "tags": {
         "motive": "Money:Cryptocurrency",
@@ -1086,8 +1086,8 @@
     },
     {
       "entity": "The National Bank of Blacksburg",
-      "month": "5",
-      "year": "2016",
+      "month": 5,
+      "year": 2016,
       "summary": "Phishing email led to malware that led to unauthorized transactions",
       "tags": {
         "motive": "Money:Bank Transfer",
@@ -1100,8 +1100,8 @@
     },
     {
       "entity": "Ticket Master",
-      "month": "2",
-      "year": "2018",
+      "month": 2,
+      "year": 2018,
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
@@ -1114,8 +1114,8 @@
     },
     {
       "entity": "Ticketfly",
-      "month": "4",
-      "year": "2018",
+      "month": 4,
+      "year": 2018,
       "summary": "?",
       "tags": {
         "motive": "Hacktivism:Schadenfreude",
@@ -1128,11 +1128,11 @@
     },
     {
       "entity": "Timehop",
-      "month": "12",
-      "year": "2017",
+      "month": 12,
+      "year": 2017,
       "summary": "Administrative GCP ATT&CK:T1078d. ",
       "tags": {
-        "motive": "",
+        "motive": "?",
         "actor": "?",
         "initial-access": "ATT&CK:T1078"
       },
@@ -1142,8 +1142,8 @@
     },
     {
       "entity": "Typeform",
-      "month": "7",
-      "year": "2018",
+      "month": 7,
+      "year": 2018,
       "summary": "?",
       "tags": {
         "motive": "PII:?",
@@ -1156,8 +1156,8 @@
     },
     {
       "entity": "usps",
-      "month": "11",
-      "year": "2018",
+      "month": 11,
+      "year": 2018,
       "summary": "API broken access control",
       "tags": {
         "motive": "Hacktivism:Unknown",
@@ -1170,8 +1170,8 @@
     },
     {
       "entity": "Vision Direct",
-      "month": "11",
-      "year": "2018",
+      "month": 11,
+      "year": 2018,
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
@@ -1184,8 +1184,8 @@
     },
     {
       "entity": "Voxox",
-      "month": "11",
-      "year": "2018",
+      "month": 11,
+      "year": 2018,
       "summary": "Elastic search data exposed SMS records of 26 million individuals",
       "tags": {
         "motive": "Hacktivism:Press",
@@ -1198,12 +1198,12 @@
     },
     {
       "entity": "Wolverine Solutions Group",
-      "month": "9",
-      "year": "2018",
+      "month": 9,
+      "year": 2018,
       "summary": "Ransomware incident",
       "tags": {
-        "motive": "",
-        "actor": "",
+        "motive": "?",
+        "actor": "?",
         "initial-access": ""
       },
       "links": [
@@ -1212,12 +1212,12 @@
     },
     {
       "entity": "DX.Exchange",
-      "month": "1",
-      "year": "2019",
+      "month": 1,
+      "year": 2019,
       "summary": "Site leaking data in session tokens",
       "tags": {
         "motive": "Hacktivism:Press",
-        "actor": "",
+        "actor": "?",
         "initial-access": "A5-Broken Access Control"
       },
       "links": [
@@ -1226,12 +1226,12 @@
     },
     {
       "entity": "Amadeus",
-      "month": "1",
-      "year": "2019",
+      "month": 1,
+      "year": 2019,
       "summary": "User data easily enumerated",
       "tags": {
         "motive": "Hacktivism:Press",
-        "actor": "",
+        "actor": "?",
         "initial-access": "A5-Broken Access Control"
       },
       "links": [
@@ -1240,12 +1240,12 @@
     },
     {
       "entity": "Tecnimont",
-      "month": "1",
-      "year": "2019",
+      "month": 1,
+      "year": 2019,
       "summary": "Employee duped into wiring $18.6 million",
       "tags": {
         "motive": "Money:Bank Transfer",
-        "actor": "",
+        "actor": "?",
         "initial-access": "BEC:Impersonation"
       },
       "links": [
@@ -1254,12 +1254,12 @@
     },
     {
       "entity": "Quora",
-      "month": "12",
-      "year": "2018",
+      "month": 12,
+      "year": 2018,
       "summary": "Breach notification that data was accessed. No further details",
       "tags": {
-        "motive": "",
-        "actor": "",
+        "motive": "?",
+        "actor": "?",
         "initial-access": ""
       },
       "links": [
@@ -1268,12 +1268,12 @@
     },
     {
       "entity": "Aimbridge Hospitality Holdings",
-      "month": "9",
-      "year": "2018",
+      "month": 9,
+      "year": 2018,
       "summary": "Email ATT&CK:T1078d leading to PII access",
       "tags": {
-        "motive": "",
-        "actor": "",
+        "motive": "?",
+        "actor": "?",
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
@@ -1282,8 +1282,8 @@
     },
     {
       "entity": "Global Imports",
-      "month": "8",
-      "year": "2018",
+      "month": 8,
+      "year": 2018,
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
@@ -1296,12 +1296,12 @@
     },
     {
       "entity": "Jensen Precast",
-      "month": "10",
-      "year": "2018",
+      "month": 10,
+      "year": 2018,
       "summary": "Email ATT&CK:T1078d leading to PII access",
       "tags": {
-        "motive": "",
-        "actor": "",
+        "motive": "?",
+        "actor": "?",
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
@@ -1310,8 +1310,8 @@
     },
     {
       "entity": "E-Z Up",
-      "month": "10",
-      "year": "2018",
+      "month": 10,
+      "year": 2018,
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
