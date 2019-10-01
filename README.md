@@ -2,6 +2,7 @@
 Catalog of security breaches. 
 
 View the data through the UI: https://ericalexander.org/SecurityBreach
+
 View the JSON data directly: https://raw.githubusercontent.com/ericalexanderorg/SecurityBreach/master/UI/v1/src/dataProvider/security-breach-v1.json
 
 ## Why?
