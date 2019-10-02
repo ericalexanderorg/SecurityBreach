@@ -15,7 +15,8 @@ import {
     ReferenceArrayInput,
     BooleanInput,
     AutocompleteArrayInput,
-    ReferenceArrayField
+    ReferenceArrayField, 
+    DateField
 } from 'react-admin';
 
 const PostFilter = (props) => (
@@ -25,10 +26,9 @@ const PostFilter = (props) => (
 );
 
 export const BreachList = props => (
-    <List {...props} filters={<PostFilter />} bulkActions={false} sort={{ field: 'year', order: 'DESC' }}>
+    <List {...props} filters={<PostFilter />} bulkActions={false} sort={{ field: 'Start Date', order: 'DESC' }}>
         <Datagrid hasBulkActions={false} expand={<BreachShow />}>
-            <TextField source="month" />
-            <TextField source="year" />
+            <TextField source="Start Date" />
             <TextField source="entity" />
             <TextField source="summary" />
             <TextField source="tags.actor" />
@@ -38,18 +38,10 @@ export const BreachList = props => (
     </List>
 );
 
+
 export const BreachShow = (props) => (
     <Show {...props}>
         <SimpleShowLayout>
-        <TextField source="month" />
-            <TextField source="year" />
-            <TextField source="entity" />
-            <TextField source="summary" />
-            <ReferenceArrayField label="Tags">
-                <SingleFieldList>
-                    <ChipField source="tags" />
-                </SingleFieldList>
-            </ReferenceArrayField>
             <ArrayField source="links">
                 <Datagrid>
                     <UrlField source="url" />
