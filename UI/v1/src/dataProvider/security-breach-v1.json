@@ -58,6 +58,10 @@
       "BGP Hijack": {
         "description": "Trafic re-routed through unauthorized BGP advertisements.",
         "link": "https://www.cloudflare.com/learning/security/glossary/bgp-hijacking/"
+      },
+      "OWASP:A1": {
+        "description": "Injection",
+        "link": "https://www.owasp.org/index.php/Top_10-2017_A1-Injection"
       }
     }
   },
@@ -1320,6 +1324,20 @@
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/ahm9jt/ez_up_1018/?"
+      ]
+    },
+    {
+      "entity": "Comodo discussion board and support forums (ITarian Forum)",
+      "month": 9,
+      "year": 2019,
+      "summary": "vBulletin 0-day Used to exposes 245,000 Users' Data",
+      "tags": {
+        "motive": "Hacktivism:Unknown",
+        "actor": "?",
+        "initial-access": "OWASP:A1"
+      },
+      "links": [
+        "https://thehackernews.com/2019/10/Comodo-vbulletin-hacked.html"
       ]
     }
   ]
