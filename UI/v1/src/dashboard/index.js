@@ -1,3 +1,3 @@
-//import DashboardComponent from './dashboard';
+import DashboardComponent from './dashboard';
 
-//export const Dashboard = DashboardComponent;
+export const Dashboard = DashboardComponent;

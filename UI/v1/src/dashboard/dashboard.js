@@ -1,11 +1,8 @@
-import React, { Component } from 'react';
+import React, { Component, props } from 'react';
 import { GET_LIST, Responsive } from 'react-admin';
-import { dataProvider } from '../dataprovider';
-
+import dataProvider from '../dataProvider';
 import Welcome from './welcome';
-import SystemCount from './systemcount';
-import PetCount from './petcount';
-import OwnerCount from './ownercount';
+import Graphs from './graphs';
 
 
 const styles = {
@@ -20,43 +17,22 @@ class Dashboard extends Component {
     state = {};
 
     componentDidMount() {
-        dataProvider(GET_LIST, 'systems', {
+        dataProvider(GET_LIST, 'motives', {
             sort: { field: 'name', order: 'DESC' },
             pagination: { page: 1, perPage: 1000 },
             })
             .then(response => response.data)
-            .then(systems => {
-                this.setState({ sc: systems.length })
+            .then(motivesCount => {
+                this.setState({ mc: motivesCount })
                 }
             )
-        dataProvider(GET_LIST, 'systems', {
-                sort: { field: 'name', order: 'DESC' },
-                pagination: { page: 1, perPage: 1000 },
-                })
-               .then(response => response.data
-                        .filter(systems => systems.pet === true)
-                )
-                .then(systems => {
-                    this.setState({ pc: systems.length })
-                    }
-                ) 
-        dataProvider(GET_LIST, 'owners', {
-            sort: { field: 'owner', order: 'DESC' },
-            pagination: { page: 1, perPage: 1000 },
-            })
-            .then(response => response.data)
-            .then(owners => {
-                this.setState({ oc: owners.length })
-                }
-            )   
     }
 
     render() {
         const {
-            sc,
-            pc,
-            oc,
+            mc
         } = this.state; 
+
         return (
             <Responsive
                 xsmall={
@@ -64,11 +40,6 @@ class Dashboard extends Component {
                         <div style={styles.flexColumn}>
                             <div style={{ marginBottom: '2em' }}>
                                 <Welcome />
-                            </div>
-                            <div style={styles.flex}>
-                                <SystemCount value={sc} />
-                                <PetCount value={pc} />
-                                <OwnerCount value={oc} />
                             </div>
                         </div>
                     </div>
@@ -80,9 +51,7 @@ class Dashboard extends Component {
                                 <Welcome />
                             </div>
                             <div style={styles.flex}>
-                                <SystemCount value={sc} />
-                                <PetCount value={pc} />
-                                <OwnerCount value={oc} />
+                                <Graphs value={mc} />
                             </div>
                         </div>
                     </div>
@@ -94,9 +63,7 @@ class Dashboard extends Component {
                                 <Welcome />
                             </div>
                             <div style={styles.flex}>
-                                <SystemCount value={sc} />
-                                <PetCount value={pc} />
-                                <OwnerCount value={oc} />
+                                <Graphs value={mc} />
                             </div>
                         </div>
                     </div>
