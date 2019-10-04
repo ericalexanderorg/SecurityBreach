@@ -1330,11 +1330,12 @@
       "entity": "Comodo discussion board and support forums (ITarian Forum)",
       "month": 9,
       "year": 2019,
-      "summary": "vBulletin 0-day Used to exposes 245,000 Users' Data",
+      "summary": "vBulletin 0-day used to expose users' data",
       "tags": {
         "motive": "Hacktivism:Unknown",
         "actor": "?",
-        "initial-access": "OWASP:A1"
+        "initial-access": "OWASP:A1",
+        "impacted-user-count": "245000" 
       },
       "links": [
         "https://thehackernews.com/2019/10/Comodo-vbulletin-hacked.html"
