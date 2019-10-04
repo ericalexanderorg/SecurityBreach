@@ -34,6 +34,7 @@ export const BreachList = props => (
             <TextField source="tags.actor" />
             <TextField source="tags.initial-access" />
             <TextField source="tags.motive" />
+            <TextField source="tags.impacted-user-count" />
         </Datagrid>
     </List>
 );
