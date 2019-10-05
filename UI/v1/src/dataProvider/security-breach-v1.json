@@ -1363,7 +1363,7 @@
       "month": 5,
       "year": 2019,
       "summary": "Customers, delivery workers and merchants had their information stolen by hackers",
-      "tag": {
+      "tags": {
         "motive": "Hacktivism:?",
         "actor": "?",
         "initial-access": "?",
@@ -1378,7 +1378,7 @@
       "month": 9,
       "year": 2019,
       "summary": "Entire internal IT infrastructure was stopped following an unconfirmed ransomware attack",
-      "tag": {
+      "tags": {
         "motive": "Money:Ransom",
         "actor": "?",
         "initial-access": "?",
@@ -1394,7 +1394,7 @@
       "month": 9,
       "year": 2019,
       "summary": "Entire internal IT infrastructure was stopped following an unconfirmed ransomware attack",
-      "tag": {
+      "tags": {
         "motive": "Money:Ransom",
         "actor": "?",
         "initial-access": "?",
