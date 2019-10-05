@@ -5,6 +5,7 @@ import CardWelcome from './cardWelcome';
 import CardMotives from './cardMotives';
 import CardActor from './cardActor';
 import CardAccess from './cardAccess';
+import HelpWanted from './cardHelpWanted'
 
 const styles = {
     flex: { display: 'flex' },
@@ -62,6 +63,9 @@ class DashboardComponent extends Component {
                             <div style={{ marginBottom: '2em' }}>
                                 <CardWelcome />
                             </div>
+                            <div style={{ marginBottom: '2em' }}>
+                                <HelpWanted />
+                            </div>
                         </div>
                     </div>
                 }
@@ -70,6 +74,9 @@ class DashboardComponent extends Component {
                         <div style={styles.flexColumn}>
                             <div style={{ marginBottom: '2em' }}>
                                 <CardWelcome />
+                            </div>
+                            <div style={{ marginBottom: '2em' }}>
+                                <HelpWanted />
                             </div>
                             <div style={styles.flex, { marginBottom: '2em' }}>
                                 <CardMotives value={motiveData} />
