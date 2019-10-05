@@ -112,15 +112,14 @@
 
         for (var key in rawData) {
             if (key.startsWith("tag-")) {
-                if (!data.tag) {
-                    data.tag = {}
+                if (!data.tags) {
+                    data.tags = {}
                 }
                 var tagKey = key.split("tag-")[1];
-                data.tag[tagKey] = rawData[key];
+                data.tags[tagKey] = rawData[key];
             } else if (key.startsWith("links")) {
                 data.links = [rawData[key]]
             } else {
-
                 data[key] = rawData[key];
             }
         }
