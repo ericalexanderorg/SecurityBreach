@@ -1,0 +1,147 @@
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <style>
+        .container {
+            width: 500px;
+            clear: both;
+        }
+
+        .container input,
+        select {
+            width: 100%;
+            clear: both;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <form id="breachCollectionForm">
+            <label for="entity">Entity</label>
+            <input type="text" name="entity" required><br>
+            <label for="month">month</label>
+            <input type="number" name="month" required><br>
+            <label for="year">Year</label>
+            <input type="number" name="year" required><br>
+            <label for="summary">Summary</label>
+            <input type="text" name="summary" required><br>
+            <label for="tag-motive">Motive</label>
+            <select form="breachCollectionForm" name="tag-motive" required>
+                <option value="Espionage">Espionage</option>
+                <option value="Hacktivism:Press">Hacktivism:Press</option>
+                <option value="Hacktivism:Schadenfreude">Hacktivism:Schadenfreude</option>
+                <option value="Hacktivism:?">Hacktivism:?</option>
+                <option value="Money:Bank Transfer">Money:Bank Transfer</option>
+                <option value="Money:Credit Card">Money:Credit Card</option>
+                <option value="Money:Ransom">Money:Ransom</option>
+                <option value="Money:Sale on dark web">Money:Sale on dark web</option>
+            </select><br>
+            <label for="tag-actor">Actor</label>
+            <select form="breachCollectionForm" name="tag-actor" required>
+                <option value="?" selected>?</option>
+                <option value="China">China</option>
+                <option value="MageCart">MageCart</option>
+                <option value="SamSam">SamSam</option>
+                <option value="BEC">BEC</option>
+            </select><br>
+            <label for="tag-initial-access">Initial access</label>
+            <select form="breachCollectionForm" name="tag-initial-access" required>
+                <option value="?" selected>?</option>
+                <option value="ATT&CK:T1326">ATT&CK:T1326, Domain Registration Hijacking</option>
+                <option value="ATT&CK:T1193">Spearphishing Attachment</option>
+                <option value="ATT&CK:T1192">Spearphishing Link</option>
+                <option value="ATT&CK:T1078">ATT&CK:T1078, Valid Accounts</option>
+                <option value="OWASP:A10">OWASP:A10, Insufficient Logging & Monitoring</option>
+                <option value="OWASP:A5">OWASP:A5, Broken Access Control</option>
+                <option value="OWASP:A6">OWASP:A6, Broken Authentication and Session Management</option>
+                <option value="OWASP:A9">OWASP:A9, Using Components with Known Vulerabilities</option>
+                <option value="BEC:Impersonation">BEC:Impersonation, Attacker poses as a trusted entity</option>
+                <option value="BGP Hijack">BGP Hijack, Trafic re-routed through unauthorized BGP</option>
+                <option value="OWASP:A1">OWASP:A1, Injection</option>
+            </select><br>
+            <label for="tag-impacted-user-count">Impacted users</label>
+            <input type="number" name="tag-impacted-user-count" required><br>
+            <label for="links">Link</label>
+            <input type="url" name="links" required><br><br>
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+
+    <div class="results">
+        <h2 class="results__heading">Form Data</h2>
+        <pre class="results__display-wrapper"><code class="results__display"></code></pre>
+    </div>
+
+
+
+
+</body>
+<script>
+    // Adapted from here: https://lengstorf.com/get-form-values-as-json/
+
+    /**
+     * Retrieves input data from a form and returns it as a JSON object.
+     * @param  {HTMLFormControlsCollection} elements  the form elements
+     * @return {Object}                               form data as an object literal
+     */
+    const formToJSON = elements => [].reduce.call(elements, (data, element) => {
+        if (isValidElement(element)) {
+            if (isNaN(element.value)) {
+                data[element.name] = element.value;
+            } else {
+                data[element.name] = Number(element.value);
+            }
+        }
+        return data;
+    }, {});
+
+    const handleFormSubmit = event => {
+
+        // Stop the form from submitting since we’re handling that with AJAX.
+        event.preventDefault();
+
+        // TODO: Call our function to get the form data.
+        const rawData = formToJSON(form.elements);
+
+        var data = {}
+
+        for (var key in rawData) {
+            if (key.startsWith("tag-")) {
+                if (!data.tag) {
+                    data.tag = {}
+                }
+                var tagKey = key.split("tag-")[1];
+                data.tag[tagKey] = rawData[key];
+            } else if (key.startsWith("links")) {
+                data.links = [rawData[key]]
+            } else {
+
+                data[key] = rawData[key];
+            }
+        }
+
+
+
+        // Demo only: print the form data onscreen as a formatted JSON object.
+        const dataContainer = document.getElementsByClassName('results__display')[0];
+
+        // Use `JSON.stringify()` to make the output valid, human-readable JSON.
+        dataContainer.textContent = JSON.stringify(data, null, "  ");
+    };
+
+    const form = document.getElementById('breachCollectionForm');
+    form.addEventListener('submit', handleFormSubmit);
+
+    /**
+ * Checks that an element has a non-empty `name` and `value` property.
+ * @param  {Element} element  the element to check
+ * @return {Bool}             true if the element is an input, false if not
+ */
+    const isValidElement = element => {
+        return element.name && element.value;
+    };
+</script>
+
+</html>
