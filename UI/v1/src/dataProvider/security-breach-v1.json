@@ -10,6 +10,7 @@
       "Money:Credit Card": "Money was stolen through credit card transactions.",
       "Money:Cryptocurrency": "Money was stolen through Cryptocurrency transactions.",
       "Money:Ransom": "Money was stolen through ransom.",
+      "Money:Sale on dark web": "The data was put on sale on the dark web.",
       "PII:?": "PII was stolen for unknown reasons."
     },
     "actor": {
@@ -1340,6 +1341,21 @@
       },
       "links": [
         "https://thehackernews.com/2019/10/Comodo-vbulletin-hacked.html"
+      ]
+    },
+    {
+      "entity": "Breach of Zynga's game 'Words With Friends'",
+      "month": 9,
+      "year": 2019,
+      "summary": "Massive user database was accessed",
+      "tags": {
+        "motive": "Money:Sale on dark web",
+        "actor": "Gnosticplayers",
+        "initial-access": "?",
+        "impacted-user-count": "218000000" 
+      },
+      "links": [
+        "https://thehackernews.com/2019/09/zynga-game-hacking.html"
       ]
     }
   ]
