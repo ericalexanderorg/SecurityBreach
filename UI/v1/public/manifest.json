@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "SecurityBreach",
+  "name": "Crowd sourced OSINT securiyt breach data.",
   "icons": [
     {
       "src": "favicon.ico",
