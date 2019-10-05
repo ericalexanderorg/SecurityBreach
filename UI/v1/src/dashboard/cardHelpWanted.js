@@ -27,7 +27,7 @@ const CardWelcome = ({ classes, translate }) => (
                 <QueueIcon style={{ paddingRight: '0.5em' }} />
                 Intake Queue
             </Button>
-            <Button href="https://github.com/ericalexanderorg/SecurityBreach/issues?q=is%3Aissue+is%3Aopen+label%3Aintake">
+            <Button href="https://github.com/PointCloudLibrary/pcl/wiki/A-step-by-step-guide-on-preparing-and-submitting-a-pull-request">
                 <HelpIcon style={{ paddingRight: '0.5em' }} />
                 How to submit a pull request (PR)
             </Button>
