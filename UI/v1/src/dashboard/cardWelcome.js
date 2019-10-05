@@ -17,14 +17,17 @@ const styles = {
 };
 
 
-const Welcome = ({ classes, translate }) => (
+const CardWelcome = ({ classes, translate }) => (
     <Card>
         <CardContent>
             <Typography variant="headline" component="h2">
-                What is this?
+                SecurityBreach
             </Typography>
             <Typography component="p">
-                This is a catalog of crowd sourced security breach data.  
+                This is a catalog of crowd sourced security breach data.
+            </Typography>
+            <Typography component="p">
+                Anyone can edit this data through GitHub or use <a href="https://raw.githubusercontent.com/ericalexanderorg/SecurityBreach/master/UI/v1/src/dataProvider/security-breach-v1.json">this data</a> in any way they'd like.
             </Typography>
         </CardContent>
         <CardActions style={{ justifyContent: 'flex-start' }}>
@@ -45,4 +48,4 @@ const enhance = compose(
     translate
 );
 
-export default enhance(Welcome);
+export default enhance(CardWelcome);

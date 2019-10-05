@@ -5,7 +5,7 @@
       "Espionage": "Nation state or business stealing information for espionage purposes",
       "Hacktivism:Press": "Associated press benefited the whistleblower.",
       "Hacktivism:Schadenfreude": "Associated press did not benefit the whistleblower but shamed the exploited entity",
-      "Hacktivism:Unknown": "Motivation unknown. The event neither clearly benefited the exploiter nor shamed the exploited entity.",
+      "Hacktivism:?": "Motivation unknown. The event neither clearly benefited the exploiter nor shamed the exploited entity.",
       "Money:Bank Transfer": "Money was stolen through a bank transer.",
       "Money:Credit Card": "Money was stolen through credit card transactions.",
       "Money:Cryptocurrency": "Money was stolen through Cryptocurrency transactions.",
@@ -16,6 +16,7 @@
       "China": "Speculation that it was the Chinese government.",
       "MageCart": "Speculation the entity was one or more MageCart teams.",
       "SamSam": "?",
+      "BEC": "Speculation the entity is one or more BEC teams. Commonly operating out of an African country.",
       "?": "Actor is unknown"
     },
     "initial-access": {
@@ -88,7 +89,7 @@
       "tags": {
         "motive": "?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/a23x7h/accudoc_0918/?"
@@ -256,7 +257,7 @@
       "tags": {
         "motive": "PII:?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/7k7rz2/carefirst_breach/"
@@ -270,7 +271,7 @@
       "tags": {
         "motive": "Money:Credit Card",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/a9cqz8/caribou_coffee_1218/?"
@@ -298,7 +299,7 @@
       "tags": {
         "motive": "?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/82cga3/catawba_county/"
@@ -312,7 +313,7 @@
       "tags": {
         "motive": "PII:?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/9xwlb8/cathay_pacific_airways_102018/?"
@@ -354,7 +355,7 @@
       "tags": {
         "motive": "?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/a23ykb/city_of_ames_1118/?"
@@ -368,7 +369,7 @@
       "tags": {
         "motive": "Money:Cryptocurrency",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/7tg04u/coincheck/"
@@ -382,7 +383,7 @@
       "tags": {
         "motive": "PII:?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/9xwo5g/complyright/?"
@@ -410,7 +411,7 @@
       "tags": {
         "motive": "?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/9xwlqc/dod_contractor_112018/?"
@@ -506,9 +507,9 @@
       "year": 2018,
       "summary": "\"Server compromised",
       "tags": {
-        "motive": " malware installed",
-        "actor": " data exfiltrated\"?",
-        "initial-access": ""
+        "motive": "?",
+        "actor": "?",
+        "initial-access": "?"
       },
       "links": [
         "Money:Credit Card"
@@ -564,7 +565,7 @@
       "tags": {
         "motive": "Money:Credit Card",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/7n39sl/forever_21/"
@@ -606,7 +607,7 @@
       "tags": {
         "motive": "?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/7u6d3e/goget/"
@@ -634,7 +635,7 @@
       "tags": {
         "motive": "PII:?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/9w5bsq/healthcaregov_nov_2018/"
@@ -662,7 +663,7 @@
       "tags": {
         "motive": "?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/7lw1lu/imgur/"
@@ -690,7 +691,7 @@
       "tags": {
         "motive": "Money:Credit Card",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/7n3b2t/jasons_deli/"
@@ -746,7 +747,7 @@
       "tags": {
         "motive": "Espionage",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/a23vou/marriottstarwood_1118/?"
@@ -816,7 +817,7 @@
       "tags": {
         "motive": "Money:Credit Card",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/a95rm4/click2gov_17/?"
@@ -826,11 +827,11 @@
       "entity": "Multiple consumer spyware companies",
       "month": 4,
       "year": 2017,
-      "summary": "\"API compromise",
+      "summary": "API compromise",
       "tags": {
-        "motive": " to server",
-        "actor": " to domain admin\"?",
-        "initial-access": ""
+        "motive": "?",
+        "actor": "?",
+        "initial-access": "?"
       },
       "links": [
         "Hacktivism:Schadenfreude"
@@ -872,7 +873,7 @@
       "tags": {
         "motive": "?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/885st6/myfitnesspall_march_2018/"
@@ -900,7 +901,7 @@
       "tags": {
         "motive": "Money:Cryptocurrency",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/7i29ld/nicehash_breach/"
@@ -914,7 +915,7 @@
       "tags": {
         "motive": "Money:Credit Card",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/9xwn9b/orbitz_12016/?"
@@ -928,7 +929,7 @@
       "tags": {
         "motive": "?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/ad7ykg/os_news_0119/?"
@@ -956,7 +957,7 @@
       "tags": {
         "motive": "?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/9zej5b/pageup_52018/?"
@@ -984,7 +985,7 @@
       "tags": {
         "motive": "PII:?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/7n3bcu/tio_networks/"
@@ -1026,7 +1027,7 @@
       "tags": {
         "motive": "?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/9xwoh5/shein_2018/?"
@@ -1054,7 +1055,7 @@
       "tags": {
         "motive": "?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/a23zk0/tmobile_82018/?"
@@ -1068,7 +1069,7 @@
       "tags": {
         "motive": "Hacktivism:Schadenfreude",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/8cs2c5/taskrabbit_april_2018/"
@@ -1082,7 +1083,7 @@
       "tags": {
         "motive": "Money:Cryptocurrency",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/88j9bf/texthelp_feb_2018/"
@@ -1095,7 +1096,7 @@
       "summary": "Phishing email led to malware that led to unauthorized transactions",
       "tags": {
         "motive": "Money:Bank Transfer",
-        "actor": "?",
+        "actor": "BEC",
         "initial-access": "ATT&CK:T1193"
       },
       "links": [
@@ -1124,7 +1125,7 @@
       "tags": {
         "motive": "Hacktivism:Schadenfreude",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/9xwnnd/ticketfly_42018/?"
@@ -1152,7 +1153,7 @@
       "tags": {
         "motive": "PII:?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/9xwo0a/typeform_72018/?"
@@ -1164,7 +1165,7 @@
       "year": 2018,
       "summary": "API broken access control",
       "tags": {
-        "motive": "Hacktivism:Unknown",
+        "motive": "Hacktivism:?",
         "actor": "?",
         "initial-access": "A5-Broken Access Control"
       },
@@ -1208,7 +1209,7 @@
       "tags": {
         "motive": "?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/ad83os/wolverine_solutions_group_918/?"
@@ -1249,7 +1250,7 @@
       "summary": "Employee duped into wiring $18.6 million",
       "tags": {
         "motive": "Money:Bank Transfer",
-        "actor": "?",
+        "actor": "BEC",
         "initial-access": "BEC:Impersonation"
       },
       "links": [
@@ -1264,7 +1265,7 @@
       "tags": {
         "motive": "?",
         "actor": "?",
-        "initial-access": ""
+        "initial-access": "?"
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/ahm7lp/quora_1218/?"
@@ -1332,7 +1333,7 @@
       "year": 2019,
       "summary": "vBulletin 0-day used to expose users' data",
       "tags": {
-        "motive": "Hacktivism:Unknown",
+        "motive": "Hacktivism:?",
         "actor": "?",
         "initial-access": "OWASP:A1",
         "impacted-user-count": "245000" 
