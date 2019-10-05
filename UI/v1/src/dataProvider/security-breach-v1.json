@@ -1357,6 +1357,21 @@
       "links": [
         "https://thehackernews.com/2019/09/zynga-game-hacking.html"
       ]
+    },
+    {
+      "entity": "Doordash",
+      "month": 5,
+      "year": 2019,
+      "summary": "Customers, delivery workers and merchants had their information stolen by hackers",
+      "tag": {
+        "motive": "Hacktivism:?",
+        "actor": "?",
+        "initial-access": "?",
+        "impacted-user-count": 4900000
+      },
+      "links": [
+        "https://techcrunch.com/2019/09/26/doordash-data-breach/"
+      ]
     }
   ]
 }
