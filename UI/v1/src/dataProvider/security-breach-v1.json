@@ -51,7 +51,7 @@
       },
       "OWASP:A9": {
         "description": "Using Components with Known Vulerabilities",
-        "link": "https://www.owasp.org/index.php/Top_10-2017_A6-Security_Misconfiguration"
+        "link": "https://www.owasp.org/index.php/Top_10-2017_A9-Using_Components_with_Known_Vulnerabilities"
       },
       "BEC:Impersonation": {
         "description": "Attacker poses as a trusted entity and requests an action to be taken that leads to monetary loss.",
