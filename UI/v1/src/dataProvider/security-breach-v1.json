@@ -1388,6 +1388,22 @@
       "links": [
         "https://securityaffairs.co/wordpress/91959/security/demant-ransomware-attack.html"
       ]
+    },
+    {
+      "entity": "Ten hospitals (3 U.S. and 7 Australia)",
+      "month": 9,
+      "year": 2019,
+      "summary": "Entire internal IT infrastructure was stopped following an unconfirmed ransomware attack",
+      "tag": {
+        "motive": "Money:Ransom",
+        "actor": "?",
+        "initial-access": "?",
+        "impacted-user-count": 0,
+        "cost-usd": 0
+      },
+      "links": [
+        "https://securityaffairs.co/wordpress/92015/hacking/hospitals-ransomware-attacks.html"
+      ]
     }
   ]
 }
