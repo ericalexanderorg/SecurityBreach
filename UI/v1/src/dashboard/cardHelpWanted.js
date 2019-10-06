@@ -4,6 +4,7 @@ import { translate } from 'react-admin';
 import { Button, Card, CardActions, CardContent, withStyles, Typography } from '@material-ui/core';
 import QueueIcon from '@material-ui/icons/Queue';
 import HelpIcon from '@material-ui/icons/Help';
+import NoteAddIcon from '@material-ui/icons/NoteAdd';
 
 const styles = {
     media: {
@@ -19,10 +20,14 @@ const CardWelcome = ({ classes, translate }) => (
                 Help Wanted
             </Typography>
             <Typography component="p">
-                We need help classifying breach data. Check out or intake queue and submit a PR to update this data.
+                Submit a breach or help categorize a breach we've collected in our intake queue.
             </Typography>
         </CardContent>
         <CardActions style={{ justifyContent: 'flex-start' }}>
+            <Button href="/#/breaches/create" style={{ 'margin-top': '1em' }}>
+                <NoteAddIcon style={{ paddingRight: '0.5em' }} />
+                New Breach
+            </Button>
             <Button href="https://github.com/ericalexanderorg/SecurityBreach/issues?q=is%3Aissue+is%3Aopen+label%3Aintake">
                 <QueueIcon style={{ paddingRight: '0.5em' }} />
                 Intake Queue
