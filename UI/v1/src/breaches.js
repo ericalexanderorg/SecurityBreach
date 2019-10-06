@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { Component } from 'react';
 import { 
     Show, 
     SimpleShowLayout, 
@@ -18,12 +18,12 @@ import {
     TabbedForm,
     FormTab,
     NumberInput,
-    ShowButton
+    ShowButton,
+    DisabledInput,
+    FormDataConsumer,
+    SimpleFormIterator
 } from 'react-admin';
 import { Button, Card, CardActions, CardContent, withStyles, Typography } from '@material-ui/core';
-import QueueIcon from '@material-ui/icons/Queue';
-import HelpIcon from '@material-ui/icons/Help';
-//import FlatButton from 'material-ui/FlatButton';
 
 const BreachFilter = (props) => (
     <Filter {...props}>
@@ -58,7 +58,7 @@ export const BreachShow = (props) => (
     </Show>
 );
 
-var Aside = () => (
+const Aside = () => (
     <div style={{ width: "50%", 'margin-left': '1em' }}>
         <Card>
             <CardContent>
@@ -80,37 +80,8 @@ var Aside = () => (
                 </Typography>
             </CardContent>
         </Card>
-        <Card style={{ 'margin-top': '1em' }}>
-            <CardContent>
-                <Typography variant="headline" component="h2">
-                    Form JSON Output
-                </Typography>
-                <Typography key={this.state.formJSON} component="pre" style={{ 'margin-top': '1em' }}>
-                    {JSON.stringify(this.state.formJSON, null, 4)}
-                </Typography>
-            </CardContent>
-        </Card>
     </div>
 )
-
-var formJson = {};
-
-const validateBreachCreation = (values) => {
-    console.log(values)
-    formJson = values
-    //this.setState({ state: this.state });
-    const errors = {};
-    if (!values.firstName) {
-        errors.firstName = ['The firstName is required'];
-    }
-    if (!values.age) {
-        errors.age = ['The age is required'];
-    } else if (values.age < 18) {
-        errors.age = ['Must be over 18'];
-    }
-    errors.entity = ['Must be over 18'];
-    return errors
-};
 
 export const BreachCreate = (props) => (
     <Create title={'Add new breach data'} aside={<Aside />} {...props}>
@@ -123,9 +94,15 @@ export const BreachCreate = (props) => (
                 <TextInput source="Tags.initial-access" defaultValue={"?"} />
                 <TextInput source="Tags.motive" defaultValue={"?"} />
                 <NumberInput source="Tags.impacted-user-count" defaultValue={0}/>
-                <Typography component="pre" style={{ 'margin-top': '1em' }}>
-                    {JSON.stringify(formJson, null, 4)}
-                </Typography>
+                <FormDataConsumer>
+                    {({ formData, ...rest }) =>
+                    (
+                        <Typography component="pre" style={{ 'margin-top': '1em' }}>
+                            {JSON.stringify(formJSON, null, 4)}
+                        </Typography>
+                    )
+                    }
+                </FormDataConsumer>
             </SimpleForm>
     </Create>
 );
