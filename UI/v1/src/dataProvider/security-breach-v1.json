@@ -1357,6 +1357,53 @@
       "links": [
         "https://thehackernews.com/2019/09/zynga-game-hacking.html"
       ]
+    },
+    {
+      "entity": "Doordash",
+      "month": 5,
+      "year": 2019,
+      "summary": "Customers, delivery workers and merchants had their information stolen by hackers",
+      "tags": {
+        "motive": "Hacktivism:?",
+        "actor": "?",
+        "initial-access": "?",
+        "impacted-user-count": 4900000
+      },
+      "links": [
+        "https://techcrunch.com/2019/09/26/doordash-data-breach/"
+      ]
+    },
+    {
+      "entity": "Danish company Demant",
+      "month": 9,
+      "year": 2019,
+      "summary": "Entire internal IT infrastructure was stopped following an unconfirmed ransomware attack",
+      "tags": {
+        "motive": "Money:Ransom",
+        "actor": "?",
+        "initial-access": "?",
+        "impacted-user-count": 0,
+        "cost-usd": 95000000
+      },
+      "links": [
+        "https://securityaffairs.co/wordpress/91959/security/demant-ransomware-attack.html"
+      ]
+    },
+    {
+      "entity": "Ten hospitals (3 U.S. and 7 Australia)",
+      "month": 9,
+      "year": 2019,
+      "summary": "Paralyzing ransomware attacks that are stopping hospitals from taking new patients",
+      "tags": {
+        "motive": "Money:Ransom",
+        "actor": "?",
+        "initial-access": "?",
+        "impacted-user-count": 0,
+        "cost-usd": 0
+      },
+      "links": [
+        "https://securityaffairs.co/wordpress/92015/hacking/hospitals-ransomware-attacks.html"
+      ]
     }
   ]
 }
