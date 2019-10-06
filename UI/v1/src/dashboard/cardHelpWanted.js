@@ -24,7 +24,7 @@ const CardWelcome = ({ classes, translate }) => (
             </Typography>
         </CardContent>
         <CardActions style={{ justifyContent: 'flex-start' }}>
-            <Button href="/#/breaches/create" style={{ 'margin-top': '1em' }}>
+            <Button href="#/breaches/create" style={{ 'margin-top': '1em' }}>
                 <NoteAddIcon style={{ paddingRight: '0.5em' }} />
                 New Breach
             </Button>
