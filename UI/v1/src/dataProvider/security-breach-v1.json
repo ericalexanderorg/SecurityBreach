@@ -1337,7 +1337,7 @@
         "motive": "Hacktivism:?",
         "actor": "?",
         "initial-access": "OWASP:A1",
-        "impacted-user-count": "245000" 
+        "impacted-user-count": 245000 
       },
       "links": [
         "https://thehackernews.com/2019/10/Comodo-vbulletin-hacked.html"
@@ -1352,7 +1352,7 @@
         "motive": "Money:Sale on dark web",
         "actor": "Gnosticplayers",
         "initial-access": "?",
-        "impacted-user-count": "218000000" 
+        "impacted-user-count": 218000000 
       },
       "links": [
         "https://thehackernews.com/2019/09/zynga-game-hacking.html"
