@@ -1404,6 +1404,55 @@
       "links": [
         "https://securityaffairs.co/wordpress/92015/hacking/hospitals-ransomware-attacks.html"
       ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "Unknown US based oil/gas/chemical supplier",
+      "summary": "Asterisk PBX exploit allowed the attacker to gain insight into organization actions",
+      "tags": {
+          "impacted-user-count": 0,
+          "initial-access": "OWASP:A1",
+          "actor": "?",
+          "motive": "Espionage"
+      },
+      "links": [
+          "https://threatpost.com/voip-espionage-campaign-utilities-supplier/148916/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "entity": "Focus Brands",
+      "summary": "Unauthorized code was able to extract CC data and exfiltrate",
+      "tags": {
+          "impacted-user-count": 0,
+          "initial-access": "OWASP:A10",
+          "actor": "?",
+          "motive": "Money:Credit Card"
+      },
+      "links": [
+          "https://www.bleepingcomputer.com/news/security/four-us-food-chains-disclose-payment-card-theft-via-pos-malware/",
+          "https://www.moes.com/paymentcardnotification",
+          "https://www.mcalistersdeli.com/paymentcardnotification",
+          "https://www.schlotzskys.com/paymentcardnotification"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 11,
+      "entity": "Zendesk",
+      "summary": "Unauthorized access to PII, TLS certs, config settings, and integration keys.",
+      "tags": {
+          "impacted-user-count": 15000,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "PII:?"
+      },
+      "links": [
+          "https://threatpost.com/zendesk-exposes-10000-accounts/148881/",
+          "https://www.zendesk.com/blog/security-update-2019/"
+      ]
     }
   ]
 }
