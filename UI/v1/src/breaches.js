@@ -109,32 +109,34 @@ export const BreachCreate = (props) => (
                     { id: 'MageCart', name: 'Speculation the entity was one or more MageCart teams' },
                     { id: 'SamSam', name: 'SamSam' },
                     { id: 'BEC', name: 'Speculation the entity is one or more BEC teams. Commonly operating out of an African country' },
-                    { id: '?', name: '?' },
+                    { id: '?', name: 'Unknown' }
                 ]} />
                 <SelectInput source="tags.initial-access" choices={[
-                    { id: 'ATT&CK:T1326', name: 'Domain Registration Hijacking is the act of changing the registration of a domain name without the permission of the original registrant.' },
-                    { id: 'ATT&CK:T1193', name: 'Spearphishing Attachment' },
-                    { id: 'ATT&CK:T1192', name: 'Spearphishing Link' },
-                    { id: 'ATT&CK:T1078', name: 'Valid Accounts' },
-                    { id: 'OWASP:A10', name: 'Insufficient Logging & Monitoring' },
-                    { id: 'OWASP:A5', name: 'Broken Access Control' },
-                    { id: 'OWASP:A6', name: 'Broken Authentication and Session Management' },
-                    { id: 'OWASP:A9', name: 'Using Components with Known Vulerabilities' },
-                    { id: 'BEC:Impersonation', name: 'Attacker poses as a trusted entity and requests an action to be taken that leads to monetary loss' },
-                    { id: 'BGP Hijack', name: 'Trafic re-routed through unauthorized BGP advertisements' },
-                    { id: 'OWASP:A1', name: 'Injection' },
+                    { id: 'ATT&CK:T1326', name: 'ATT&CK:T1326: Domain Registration Hijacking is the act of changing the registration of a domain name without the permission of the original registrant.' },
+                    { id: 'ATT&CK:T1193', name: 'ATT&CK:T1193: Spearphishing Attachment' },
+                    { id: 'ATT&CK:T1192', name: 'ATT&CK:T1192: Spearphishing Link' },
+                    { id: 'ATT&CK:T1078', name: 'ATT&CK:T1078: Valid Accounts' },
+                    { id: 'OWASP:A1', name: 'OWASP:A1: Injection' },
+                    { id: 'OWASP:A5', name: 'OWASP:A5: Broken Access Control' },
+                    { id: 'OWASP:A6', name: 'OWASP:A6: Broken Authentication and Session Management' },
+                    { id: 'OWASP:A9', name: 'OWASP:A9: Using Components with Known Vulerabilities' },
+                    { id: 'OWASP:A10', name: 'OWASP:A10: Insufficient Logging & Monitoring' },
+                    { id: 'BEC:Impersonation', name: 'BEC:Impersonation: Attacker poses as a trusted entity and requests an action to be taken that leads to monetary loss' },
+                    { id: 'BGP Hijack', name: 'BGP Hijack: Trafic re-routed through unauthorized BGP advertisements' },
+                    { id: '?', name: 'Unknown' }
                 ]} />
                 <SelectInput source="tags.motive" choices={[
-                    { id: 'Espionage', name: 'Nation state or business stealing information for espionage purposes' },
-                    { id: 'Hacktivism:Press', name: 'Associated press benefited the whistleblower'},
-                    { id: 'Hacktivism:Schadenfreude', name: 'Associated press did not benefit the whistleblower but shamed the exploited entity'},
-                    { id: 'Hacktivism:?', name: 'Motivation unknown. The event neither clearly benefited the exploiter nor shamed the exploited entity' },
-                    { id: 'Money:Bank Transfer', name: 'Money was stolen through a bank transer'},
-                    { id: 'Money:Credit Card', name: 'Money was stolen through credit card transactions'},
-                    { id: 'Money:Cryptocurrency', name: 'Money was stolen through Cryptocurrency transactions' },
-                    { id: 'Money:Ransom', name: 'Money was stolen through ransom'},
-                    { id: 'Money:Sale on dark web', name: 'The data was put on sale on the dark web'},
-                    { id: 'PII:?', name: 'PII was stolen for unknown reasons' },
+                    { id: 'Espionage', name: 'Espionage: Nation state or business stealing information for espionage purposes' },
+                    { id: 'Hacktivism:Press', name: 'Hacktivism:Press: Associated press benefited the whistleblower'},
+                    { id: 'Hacktivism:Schadenfreude', name: 'Hacktivism:Schadenfreude: Associated press did not benefit the whistleblower but shamed the exploited entity'},
+                    { id: 'Hacktivism:?', name: 'Hacktivism:?: Motivation unknown. The event neither clearly benefited the exploiter nor shamed the exploited entity' },
+                    { id: 'Money:Bank Transfer', name: 'Money:Bank Transfer: Money was stolen through a bank transer'},
+                    { id: 'Money:Credit Card', name: 'Money:Credit Card: Money was stolen through credit card transactions'},
+                    { id: 'Money:Cryptocurrency', name: 'Money:Cryptocurrency: Money was stolen through Cryptocurrency transactions' },
+                    { id: 'Money:Ransom', name: 'Money:Ransom: Money was stolen through ransom'},
+                    { id: 'Money:Sale on dark web', name: 'Money:Sale on dark web: The data was put on sale on the dark web'},
+                    { id: 'PII:?', name: 'PII:?: PII was stolen for unknown reasons' },
+                    { id: '?', name: 'Unknown' }
                 ]} />
                 <NumberInput source="tags.impacted-user-count" defaultValue={0}/>
                 <LongTextInput source="links.0" defaultValue={"Link to reference"} />
