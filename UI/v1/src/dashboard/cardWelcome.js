@@ -21,11 +21,11 @@ const styles = {
 const CardWelcome = ({ classes, translate }) => (
     <Card>
         <CardContent>
-            <Typography variant="headline" component="h2">
+            <Typography variant="headline" component="h1">
                 SecurityBreach
             </Typography>
             <Typography component="p">
-                This is a catalog of crowd sourced security breach data.Anyone can edit this data through GitHub or use this data  in any way they'd like.
+                This is a catalog of crowd sourced security breach data. Anyone can edit this data through GitHub or use this data in any way they'd like.
             </Typography>
         </CardContent>
         <CardActions style={{ justifyContent: 'flex-start' }}>
