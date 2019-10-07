@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-    - uses: actions/checkout@master
+      uses: actions/checkout@master
 
     - name: Set Node.js 10.x
       uses: actions/setup-node@master
@@ -23,14 +23,13 @@ jobs:
         npm install -g yarn
         yarn install
 
-    - name: Build
+    - name: Build and Deploy
       working-directory: ./UI/v1
       run: yarn build
 
     - name: Deploy
-      working-directory: ./UI/v1
       uses: maxheld83/ghpages@v0.2.1
       if: success()
       env:
         GH_PAT: ${{ secrets.GH_PAT }}
-        BUILD_DIR: build/
+        BUILD_DIR: UI/v1/build/
