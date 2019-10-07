@@ -1,3 +1,4 @@
 web.config
+UI/v1/build/*
 UI/v1/node_modules/*
 UI/v1/yarn-error.log
