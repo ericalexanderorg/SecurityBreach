@@ -1453,6 +1453,130 @@
           "https://threatpost.com/zendesk-exposes-10000-accounts/148881/",
           "https://www.zendesk.com/blog/security-update-2019/"
       ]
+    },
+    {
+      "year": 2018,
+      "month": 10,
+      "entity": "E-Z UP",
+      "summary": "Unauthorized code added to exfiltrate CC data",
+      "tags": {
+          "impacted-user-count": 0,
+          "initial-access": "OWASP:A10",
+          "motive": "Money:Credit Card",
+          "actor": "MageCart"
+      },
+      "links": [
+          "https://oag.ca.gov/system/files/E-Z%20UP%2C%20Inc.%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0%20%28notice%29_0.pdf"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 1,
+      "entity": "Who was breached?",
+      "summary": "Short summary of what happened",
+      "tags": {
+          "impacted-user-count": 124,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "?"
+      },
+      "links": [
+          "https://m.signalvnoise.com/yesterdays-mass-login-attack-on-basecamp-is-another-reminder-to-protect-yourself/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 1,
+      "entity": "Rubrik",
+      "summary": "Database hosted in AWS exposed to the internet with no authentication enabled",
+      "tags": {
+          "impacted-user-count": 0,
+          "actor": "?",
+          "initial-access": "OWASP:A5",
+          "motive": "Hacktivism:Press"
+      },
+      "links": [
+          "https://techcrunch.com/2019/01/29/rubrik-data-leak/"
+      ]
+    },
+    {
+      "year": 2018,
+      "month": 9,
+      "entity": "Veeam",
+      "summary": "MongoDB exposed to the internet with no authentication",
+      "tags": {
+          "impacted-user-count": 440000000,
+          "actor": "?",
+          "initial-access": "OWASP:A5",
+          "motive": "Hacktivism:Press"
+      },
+      "links": [
+          "https://techcrunch.com/2018/09/11/veeam-security-lapse-leaked-over-440-million-email-addresses/",
+          "https://www.linkedin.com/pulse/veeam-inadvertently-exposed-marketing-info-hundreds-its-bob-diachenko/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 1,
+      "entity": "Ascension",
+      "summary": "Elastic Search DB exposed to the internet with no authentication",
+      "tags": {
+          "impacted-user-count": 24000000,
+          "actor": "?",
+          "initial-access": "OWASP:A5",
+          "motive": "Hacktivism:Press"
+      },
+      "links": [
+          "https://www.softwaretestingnews.co.uk/19025-2-sbi-leaks-financial-data/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "Three companies in the United States and Europe",
+      "summary": "Short summary of what happened",
+      "tags": {
+          "impacted-user-count": 0,
+          "actor": "China",
+          "initial-access": "ATT&CK:T1078",
+          "motive": "Espionage"
+      },
+      "links": [
+          "https://www.recordedfuture.com/apt10-cyberespionage-campaign/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 2,
+      "entity": "1177 Care Guide",
+      "summary": "Web server exposed call recordings with patient data.",
+      "tags": {
+          "impacted-user-count": 2700000,
+          "actor": "?",
+          "initial-access": "OWASP:A5",
+          "motive": "Hacktivism:Press"
+      },
+      "links": [
+          "https://computersweden.idg.se/2.2683/1.714787/inspelade-samtal-1177-vardguiden-oskyddade-internet"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 2,
+      "entity": "Coinomi customers",
+      "summary": "BTC wallet software had spellcheck functionality that posted encryption keys to unauthorized sites",
+      "tags": {
+          "impacted-user-count": 0,
+          "actor": "?",
+          "initial-access": "OWASP:A10",
+          "motive": "Money:Cryptocurrency"
+      },
+      "links": [
+          "https://decrypt.co/5414/alleged-coinomi-exploit-concern",
+          "https://medium.com/coinomi/official-statement-on-spell-check-findings-547ca348676b",
+          "https://avoid-coinomi.com/", 
+          "https://www.reddit.com/r/COINOMI/comments/av01oz/coinnomi_hacked/"
+      ]
     }
   ]
 }
