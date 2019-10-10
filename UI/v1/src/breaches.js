@@ -140,6 +140,7 @@ export const BreachCreate = (props) => (
                     { id: '?', name: 'Unknown' }
                 ]} />
                 <NumberInput source="tags.impacted-user-count" defaultValue={0}/>
+                <NumberInput source="tags.cost-usd" defaultValue={0}/>
                 <LongTextInput source="links.0" defaultValue={"Link to reference"} />
                 <FormDataConsumer>
                     {({ formData, ...rest }) =>
