@@ -1577,7 +1577,174 @@
           "https://avoid-coinomi.com/", 
           "https://www.reddit.com/r/COINOMI/comments/av01oz/coinnomi_hacked/"
       ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "Volusion",
+      "summary": "Hackers Breach Volusion And Start Collecting Card Details From Thousands Of Sites",
+      "tags": {
+          "impacted-user-count": 0,
+          "actor": "MageCart",
+          "initial-access": "?",
+          "motive": "Money:Credit Card"
+      },
+      "links": [
+          "https://www.zdnet.com/article/hackers-breach-volusion-and-start-collecting-card-details-from-thousands-of-sites/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "TransUnion",
+      "summary": "An unauthorized person was able to gain access to a TransUnion Canada web portal and use it to pull consumer credit files.",
+      "tags": {
+          "impacted-user-count": 0,
+          "actor": "?",
+          "initial-access": "ATT&CK:T1078",
+          "motive": "PII:?"
+      },
+      "links": [
+          "https://www.bleepingcomputer.com/news/security/credit-info-exposed-in-transunion-data-security-incident/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "UNICEF",
+      "summary": "UNICEF has leaked thousands of individuals' personal data through its online learning portal Agora.",
+      "tags": {
+          "impacted-user-count": 8000,
+          "actor": "?",
+          "initial-access": "OWASP:A5",
+          "motive": "?"
+      },
+      "links": [
+          "https://www.itpro.co.uk/security/34388/unicef-leaks-more-than-8000-users-personal-data"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "Verlo",
+      "summary": "Database exposed to the internet with no authentication enabled.",
+      "tags": {
+          "impacted-user-count": 387000,
+          "actor": "?",
+          "initial-access": "OWASP:A5",
+          "motive": "Hacktivism:Press"
+      },
+      "links": [
+          "https://threatpost.com/mattress-company-leaks-data-records-of-387k-customers/148530/",
+          "https://www.scmagazine.com/home/security-news/data-breach/sleeping-on-the-job-verlo-mattress-factory-exposes-database/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "Two hotel chains",
+      "summary": "Unauthorized javascript used to ex-filtrate credit card data",
+      "tags": {
+          "impacted-user-count": 0,
+          "actor": "MageCart",
+          "initial-access": "OWASP:A10",
+          "motive": "Money:Credit Card"
+      },
+      "links": [
+          "https://securityaffairs.co/wordpress/91503/malware/magecart-hotel-chain-websites.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "Healthcare Industry",
+      "summary": "PACS servers exposed to the internet with no authentication",
+      "tags": {
+          "impacted-user-count": 45000000,
+          "actor": "?",
+          "initial-access": "OWASP:A5",
+          "motive": "Hacktivism:Press"
+      },
+      "links": [
+          "https://securityaffairs.co/wordpress/91452/hacking/pacs-servers-unprotected-online.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "Lion Air",
+      "summary": "Open S3 bucket with passenger data",
+      "tags": {
+          "impacted-user-count": 0,
+          "actor": "?",
+          "initial-access": "OWASP:A5",
+          "motive": "Money:Sale on dark web"
+      },
+      "links": [
+          "https://www.darkreading.com/attacks-breaches/lion-air-the-latest-to-get-tripped-up-by-misconfigured-aws-s3-/d/d-id/1335864?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "8 Cities",
+      "summary": "Short summary of what happened",
+      "tags": {
+          "impacted-user-count": 294929,
+          "actor": "?",
+          "motive": "Money:Sale on dark web",
+          "initial-access": "?"
+      },
+      "links": [
+          "https://threatpost.com/payment-card-breach-hits-8-cities-using-vulnerable-bill-portal/148521/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "Tesco",
+      "summary": "Unsecured Azure blob",
+      "tags": {
+          "impacted-user-count": 10000000,
+          "actor": "?",
+          "initial-access": "OWASP:A5",
+          "motive": "Hacktivism:Schadenfreude"
+      },
+      "links": [
+          "https://www.theregister.co.uk/2019/09/20/tesco_parking_app_10s_millions_anpr_photos_exposed/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "Thinkful",
+      "summary": "Unauthorized access to a valid admin account.",
+      "tags": {
+          "impacted-user-count": 0,
+          "actor": "?",
+          "initial-access": "ATT&CK:T1078",
+          "motive": "?"
+      },
+      "links": [
+          "https://securityaffairs.co/wordpress/91605/breaking-news/thinkful-data-breach.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "DoorDash",
+      "summary": "Unauthorized access to data detected by company",
+      "tags": {
+          "impacted-user-count": 5000000,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "?"
+      },
+      "links": [
+          "https://threatpost.com/doordash-data-breach-impacts-personal-data-of-almost-5m-users/148724/"
+      ]
     }
   ]
 }
+
   
