@@ -1743,6 +1743,166 @@
       "links": [
           "https://threatpost.com/doordash-data-breach-impacts-personal-data-of-almost-5m-users/148724/"
       ]
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "entity": "Cars using GPS tracking: 7,000 iTrack and 20,000 ProTrack",
+      "summary": "Hacker found that accounts used a default password and then brute-forced “millions of usernames” to find valid user accounts",
+      "tags": {
+          "impacted-user-count": 27000,
+          "actor": "?",
+          "initial-access": "OWASP:A6",
+          "motive": "Hacktivism:Schadenfreude",
+          "cost-usd": null
+      },
+      "links": [
+          "https://www.vice.com/en_us/article/zmpx4x/hacker-monitor-cars-kill-engine-gps-tracking-apps"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "103 Checkers and Rally's Restaurants",
+      "summary": "Malware was installed on POSs",
+      "tags": {
+          "impacted-user-count": null,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "Money:Credit Card",
+          "cost-usd": null
+      },
+      "links": [
+          "https://thehackernews.com/2019/05/credit-card-checkers-restaurants.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "Flipboard",
+      "summary": "Hackers managed to gain unauthorized access to for nearly 10 months. User database was possibly compromised",
+      "tags": {
+          "impacted-user-count": null,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "PII:?",
+          "cost-usd": null
+      },
+      "links": [
+          "https://thehackernews.com/2019/05/flipboard-data-breach-hacking.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "entity": "FMC Consulting",
+      "summary": "Publicly accessible ElasticSearch cluster leaked millions of resumes and company records, as well as customers and employees PII data",
+      "tags": {
+          "impacted-user-count": 20500000,
+          "initial-access": "OWASP:A6",
+          "motive": "PII:?",
+          "actor": "?",
+          "cost-usd": null
+      },
+      "links": [
+          "https://www.bleepingcomputer.com/news/security/headhunting-firm-leaks-millions-of-resumes-client-private-data/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "entity": "Quest Diagnostics Incorporated ",
+      "summary": "The entity was directly impacted by a data breach reported by one of its billing providers (American Medical Collection Agency). The breach was in the web payments page",
+      "tags": {
+          "impacted-user-count": 11900000,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "PII:?",
+          "cost-usd": null
+      },
+      "links": [
+          "https://www.bleepingcomputer.com/news/security/billing-details-for-119m-quest-diagnostics-clients-exposed/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "entity": "Emuparadise",
+      "summary": "Hack of the Emuparadise vBulletin forums",
+      "tags": {
+          "impacted-user-count": 1100000,
+          "motive": "Money:Sale on dark web",
+          "initial-access": "?",
+          "actor": "?",
+          "cost-usd": null
+      },
+      "links": [
+          "https://www.bleepingcomputer.com/news/security/gaming-site-emuparadise-suffered-data-breach-of-11m-accounts/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "First American Financial Corp",
+      "summary": "No authentication was needed to access web site that contained sensitive documents",
+      "tags": {
+          "impacted-user-count": 885000000,
+          "initial-access": "OWASP:A6",
+          "actor": "?",
+          "motive": "?",
+          "cost-usd": null
+      },
+      "links": [
+          "https://krebsonsecurity.com/2019/05/ny-investigates-exposure-of-885-million-mortgage-documents/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "entity": "ASCO Industries",
+      "summary": "ASCO’s machines were infected with an unidentified piece of ransomware",
+      "tags": {
+          "impacted-user-count": 1000,
+          "motive": "Money:Ransom",
+          "initial-access": "?",
+          "actor": "?",
+          "cost-usd": null
+      },
+      "links": [
+          "https://www.securityweek.com/aircraft-parts-maker-asco-severely-hit-ransomware"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "entity": "Three U.S. universities",
+      "summary": "Unauthorized access to some of their employees' email accounts.",
+      "tags": {
+          "impacted-user-count": null,
+          "motive": "PII:?",
+          "actor": "?",
+          "initial-access": "?",
+          "cost-usd": null
+      },
+      "links": [
+          "https://www.bleepingcomputer.com/news/security/three-us-universities-disclose-data-breaches-over-two-day-span/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "entity": "X Social Media (ad agency)",
+      "summary": "Important database was left exposed on the internet without a password, allowing anyone to access and download its content",
+      "tags": {
+          "impacted-user-count": 150000,
+          "initial-access": "OWASP:A6",
+          "motive": "?",
+          "actor": "?",
+          "cost-usd": null
+      },
+      "links": [
+          "https://www.zdnet.com/article/ad-agency-leaks-data-on-us-military-veterans-combat-injuries/"
+      ]
     }
   ]
 }
