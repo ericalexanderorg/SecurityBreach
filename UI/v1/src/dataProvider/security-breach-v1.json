@@ -37,6 +37,10 @@
         "description": "Valid Accounts",
         "link": "https://attack.mitre.org/techniques/T1192/"
       },
+      "ATT&CK:T1451": {
+        "description": "SIM Card Swap",
+        "link": "https://attack.mitre.org/techniques/T1451/"
+      },
       "OWASP:A10": {
         "description": "Insufficient Logging & Monitoring",
         "link": "https://www.owasp.org/index.php/Top_10-2017_A10-Insufficient_Logging%26Monitoring"
@@ -1902,6 +1906,183 @@
       },
       "links": [
           "https://www.zdnet.com/article/ad-agency-leaks-data-on-us-military-veterans-combat-injuries/"
+      ]
+    },
+    {
+      "year": 2017,
+      "month": 9,
+      "entity": "Imperva",
+      "summary": "AWS keys found on a compromised EC2 instance used to access RDS snapshots.",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "PII:?"
+      },
+      "links": [
+          "https://thehackernews.com/2019/08/imperva-waf-breach.html",
+          "https://www.imperva.com/blog/ceoblog/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 8,
+      "entity": "80 e-commerce sites",
+      "summary": "Credit card data ex-filtrated through unauthorized java script. ",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "MageCart",
+          "initial-access": "OWASP:A10",
+          "motive": "Money:Credit Card"
+      },
+      "links": [
+          "https://thehackernews.com/2019/08/magecart-hacking-credit-card.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 8,
+      "entity": "PerCSoft",
+      "summary": "Data encrypted and held ransom. ",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "Money:Ransom"
+      },
+      "links": [
+          "https://krebsonsecurity.com/2019/08/ransomware-bites-dental-data-backup-firm/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "XKCD",
+      "summary": "User data found in leak",
+      "tags": {
+          "impacted-user-count": 562000,
+          "cost-usd": 0,
+          "actor": "?",
+          "initial-access": "OWASP:A9",
+          "motive": "PII:?"
+      },
+      "links": [
+          "http://feedproxy.google.com/~r/TheHackersNews/~3/eV4pJvvSErI/xkcd-forum-hacked.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 8,
+      "entity": "Poshmark",
+      "summary": "Company news release regarding unauthorized data access",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "PII:?"
+      },
+      "links": [
+          "https://www.zdnet.com/article/poshmark-clothing-marketplace-says-hacker-stole-customer-details/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "Who was breached?",
+      "summary": "Facebook data scraped prior to a policy change, aggregated, and found on a DB exposed to the internet with no authentication",
+      "tags": {
+          "impacted-user-count": 419000000,
+          "cost-usd": 0,
+          "actor": "Hacktivist:GDI Foundation",
+          "initial-access": "OWASP:A5",
+          "motive": "Hacktivism:Press"
+      },
+      "links": [
+          "https://techcrunch.com/2019/09/04/facebook-phone-numbers-exposed/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "Who was breached?",
+      "summary": "Ransomware incident that used Ryuk malware",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 400000,
+          "actor": "Criminal:Grim Spider",
+          "initial-access": "?",
+          "motive": "?"
+      },
+      "links": [
+          "https://threatpost.com/ransomware-demand-massachusetts-city-no-thanks/148034/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "Twitter",
+      "summary": "Unauthorized access to CEO's account using sim swapping to perform an account recovery.",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": null,
+          "actor": "?",
+          "initial-access": "ATT&CK:T1078",
+          "motive": "?"
+      },
+      "links": [
+          "https://thehackernews.com/2019/09/tweet-via-sms-text-message-hacking.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "Toyota Boshoku Corporation",
+      "summary": "Short summary of what happened",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 37472000,
+          "initial-access": "?",
+          "actor": "Criminal:BEC",
+          "motive": "Money:Bank Transfer"
+      },
+      "links": [
+          "https://www.bleepingcomputer.com/news/security/over-37-million-lost-by-toyota-boshoku-subsidiary-in-bec-scam/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 3,
+      "entity": "Toyota",
+      "summary": "Public notice that a system was breached",
+      "tags": {
+          "impacted-user-count": 31000000,
+          "cost-usd": 0,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "?"
+      },
+      "links": [
+          "https://www.bleepingcomputer.com/news/security/toyota-security-breach-exposes-personal-info-of-31-million-clients/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 8,
+      "entity": "Monster.com",
+      "summary": "Monster sold resume data to a company who had a breach. Not much detail on the breach.",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "?"
+      },
+      "links": [
+          "https://www.scmagazine.com/home/security-news/monster-com-job-applicants-info-exposed-on-unprotected-server/"
       ]
     }
   ]
