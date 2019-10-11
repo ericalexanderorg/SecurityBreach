@@ -106,10 +106,13 @@ export const BreachCreate = (props) => (
                 <TextInput source="entity" defaultValue={"Who was breached?"} />
                 <LongTextInput source="summary" defaultValue={"Short summary of what happened"} />
                 <SelectInput source="tags.actor" choices={[
-                    { id: 'China', name: 'Speculation that it was the Chinese government' },
-                    { id: 'MageCart', name: 'Speculation the entity was one or more MageCart teams' },
-                    { id: 'SamSam', name: 'SamSam' },
-                    { id: 'BEC', name: 'Speculation the entity is one or more BEC teams. Commonly operating out of an African country' },
+                    { id: 'Nation State:China', name: 'Speculation that it was the Chinese government' },
+                    { id: 'Nation State', name: 'Misc Nation State entity' },
+                    { id: 'Criminal:MageCart', name: 'Speculation the entity was one or more MageCart teams' },
+                    { id: 'Criminal:SamSam', name: 'SamSam' },
+                    { id: 'Criminal:BEC', name: 'Speculation the entity is one or more BEC teams. Commonly operating out of an African country' },
+                    { id: 'Criminal', name: 'Misc criminal entity' },
+                    { id: 'Hacktivist', name: 'Misc hacktivist entity' },
                     { id: '?', name: 'Unknown' }
                 ]} />
                 <SelectInput source="tags.initial-access" choices={[
@@ -117,6 +120,7 @@ export const BreachCreate = (props) => (
                     { id: 'ATT&CK:T1193', name: 'ATT&CK:T1193: Spearphishing Attachment' },
                     { id: 'ATT&CK:T1192', name: 'ATT&CK:T1192: Spearphishing Link' },
                     { id: 'ATT&CK:T1078', name: 'ATT&CK:T1078: Valid Accounts' },
+                    { id: 'ATT&CK:T1451', name: 'ATT&CK:T1451: SIM Card Swap' },
                     { id: 'OWASP:A1', name: 'OWASP:A1: Injection' },
                     { id: 'OWASP:A5', name: 'OWASP:A5: Broken Access Control' },
                     { id: 'OWASP:A6', name: 'OWASP:A6: Broken Authentication and Session Management' },
