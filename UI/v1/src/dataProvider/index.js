@@ -4,14 +4,13 @@ import data from './security-breach-v1';
 function dataCounts(data, k, transformed) {
     // Get unique counts
     transformed[k]=[]
-    console.log(transformed)
     var x = data.reduce((acc, val) => {
         acc[val] = acc[val] === undefined ? 1 : acc[val] += 1;
         return acc;
     }, {});
     // Add counts to our key
     Object.keys(x).forEach(function (key) {
-        transformed[k].push({ name: key, value: x[key] })
+        transformed[k].push([key, x[key]])
     });
     return(transformed)
 }
@@ -47,11 +46,34 @@ function transformData(data) {
         // Add data we want to graph on the dashboard
         motives.push(breach['tags']['motive']);
         access.push(breach['tags']['initial-access']);
-        actor.push(breach['tags']['actor']);
+        // Break down actor to their actor type, makes for a better graph/insight
+        var a = breach['tags']['actor']
+        if (a.indexOf(":")){
+            var fields = a.split(":")
+            a = fields[0]
+        }
+        actor.push(a)
     });
     transformed=dataCounts(motives, 'motives', transformed)
     transformed=dataCounts(access, 'access', transformed)
     transformed=dataCounts(actor, 'actor', transformed)
+    // Access data needs an additional transformation
+    // ATT&CK:T1193 isn't apparent that it's attributed to "Spearphishing Attachment"
+    console.log(transformed['access'])
+    transformed['access'].forEach(function(item, index){
+        //console.log(val[0])
+        try {
+            console.log(data['tag-taxonomy']['initial-access'][item[0]]['description'])
+            transformed['access'][index][0] = data['tag-taxonomy']['initial-access'][item[0]]['description']
+        }
+        catch(error) {
+            console.log(item[0])
+            console.log(error)
+            //transformed['access'][index][0] = "Unknown"
+          }
+    });
+
+    console.log(transformed['access'])
     return(transformed);
 }
 

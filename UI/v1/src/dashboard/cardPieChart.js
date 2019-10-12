@@ -5,31 +5,32 @@ import CardContent from '@material-ui/core/CardContent';
 import Typography from '@material-ui/core/Typography';
 import { withStyles } from '@material-ui/core/styles';
 import { translate } from 'react-admin';
-import {PieChart, Pie, Tooltip} from 'recharts';
-
-let renderLabel = function(entry) {
-    return entry.name;
-}
+import {Chart} from 'react-google-charts';
 
 const styles = {
     media: {
         height: '18em',
     },
+    marginBottom: '2em',
 };
 
-const CardActor = ({ value, classes, translate }) => (
+const CardPieChart = ({ title, subject, value }) => (
     <Card>
         <CardContent>
             <Typography variant="headline" component="h2">
-                Actor
+                {title}
             </Typography>
             <Typography component="p">
-                What's the concensus on who the actor was?
+                {subject}
             </Typography>
-            <PieChart width={800} height={800}>
-            <Pie dataKey="value" isAnimationActive={true} data={value} cx="50%" cy="50%" outerRadius={200} fill="#8884d8" label={renderLabel} />
-            <Tooltip />
-        </PieChart>
+            <Chart
+                width={'100%'}
+                height={'400px'}
+                chartType="PieChart"
+                loader={<div>Loading Chart</div>}
+                data={value}
+                rootProps={{ 'data-testid': '1' }}
+            />
         </CardContent>
     </Card>
 );
@@ -39,4 +40,4 @@ const enhance = compose(
     translate
 );
 
-export default CardActor;
+export default enhance(CardPieChart);

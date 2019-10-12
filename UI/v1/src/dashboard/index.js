@@ -2,9 +2,7 @@ import React, { Component, props } from 'react';
 import { GET_LIST, Responsive } from 'react-admin';
 import dataProvider from '../dataProvider';
 import CardWelcome from './cardWelcome';
-import CardMotives from './cardMotives';
-import CardActor from './cardActor';
-import CardAccess from './cardAccess';
+import CardPieChart from './cardPieChart';
 import HelpWanted from './cardHelpWanted'
 
 const styles = {
@@ -14,6 +12,17 @@ const styles = {
     rightCol: { flex: 1, marginLeft: '1em' },
     singleCol: { marginTop: '2em', marginBottom: '2em' },
 };
+
+function transformChartData(header, data){
+    var ar = []
+    ar.push(header)
+    Object.keys(data).forEach(function (key) {
+        ar.push([ data[key][0], data[key][1] ])
+    });
+    return ar
+}
+
+
 
 class DashboardComponent extends Component {
     state = {};
@@ -25,7 +34,7 @@ class DashboardComponent extends Component {
             })
             .then(response => response.data)
             .then(motivesCount => {
-                this.setState({ motiveData: motivesCount })
+                this.setState({ motiveData: transformChartData(['Motive', 'Count'], motivesCount) })
                 }
             )
         dataProvider(GET_LIST, 'access', {
@@ -34,7 +43,7 @@ class DashboardComponent extends Component {
             })
             .then(response => response.data)
             .then(accessCount => {
-                this.setState({ accessData: accessCount })
+                this.setState({ accessData: transformChartData(['Access', 'Count'], accessCount) })
                 }
             )
         dataProvider(GET_LIST, 'actor', {
@@ -43,7 +52,7 @@ class DashboardComponent extends Component {
             })
             .then(response => response.data)
             .then(actorCount => {
-                this.setState({ actorData: actorCount })
+                this.setState({ actorData: transformChartData(['Actor', 'Count'], actorCount) })
                 }
             )
     }
@@ -55,42 +64,27 @@ class DashboardComponent extends Component {
             actorData
         } = this.state; 
 
+
         return (
-            <Responsive
-                xsmall={
-                    <div>
-                        <div style={styles.flexColumn}>
-                            <div style={{ marginBottom: '2em' }}>
-                                <CardWelcome />
-                            </div>
-                            <div style={{ marginBottom: '2em' }}>
-                                <HelpWanted />
-                            </div>
-                        </div>
+            <div>
+                <div style={styles.flexColumn}>
+                    <div style={{ marginBottom: '2em' }}>
+                        <CardWelcome />
                     </div>
-                }
-                small={
-                    <div>
-                        <div style={styles.flexColumn}>
-                            <div style={{ marginBottom: '2em' }}>
-                                <CardWelcome />
-                            </div>
-                            <div style={{ marginBottom: '2em' }}>
-                                <HelpWanted />
-                            </div>
-                            <div style={styles.flex, { marginBottom: '2em' }}>
-                                <CardMotives value={motiveData} />
-                            </div>
-                            <div style={styles.flex, { marginBottom: '2em' }}>
-                                <CardAccess value={accessData} />
-                            </div>
-                            <div style={styles.flex, { marginBottom: '2em' }}>
-                                <CardActor value={actorData} />
-                            </div>
-                        </div>
+                    <div style={{ marginBottom: '2em' }}>
+                        <HelpWanted />
                     </div>
-                }
-            />
+                    <div style={styles.flex, { marginBottom: '2em' }}>
+                        <CardPieChart value={accessData} title={'Access'} subject={'How did the actor gain initial access?'} />
+                    </div>
+                    <div style={styles.flex, { marginBottom: '2em' }}>
+                        <CardPieChart value={motiveData} title={'Motive'} subject={'Why did the actor seek access?'} />
+                    </div>
+                    <div style={styles.flex, { marginBottom: '2em' }}>
+                        <CardPieChart value={actorData} title={'Actor'} subject={'Speculation and/or concensus on who the actor was?'} />
+                    </div> 
+                </div>
+            </div>
         );
     }
 }
