@@ -2169,7 +2169,7 @@
       "year": 2019,
       "month": 4,
       "entity": "Online shop for the Atlanta Hawks",
-      "summary": "Short summary of what happened",
+      "summary": "The online shop was infected with MageCart",
       "tags": {
           "impacted-user-count": null,
           "cost-usd": null,
@@ -2185,7 +2185,7 @@
       "year": 2019,
       "month": 4,
       "entity": "City of Columbia government website",
-      "summary": "Short summary of what happened",
+      "summary": "Website had a security flaw in its search tool. It allowed anyone view passwords for the website's database and email protocol servers",
       "tags": {
           "impacted-user-count": 0,
           "cost-usd": null,
@@ -2259,6 +2259,151 @@
       },
       "links": [
           "https://success.docker.com/article/docker-hub-user-notification"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "entity": "Wyzant",
+      "summary": "An unknown attacker was able to gain access to one of the databases",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "motive": "PII:?",
+          "initial-access": "?",
+          "actor": "?"
+      },
+      "links": [
+          "https://thehackernews.com/2019/05/wyzant-data-breach.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "Baltimore city government",
+      "summary": "Ransomware named RobbinHood infected the majority of city servers",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "motive": "Money:Ransom",
+          "actor": "?",
+          "initial-access": "?"
+      },
+      "links": [
+          "https://www.baltimoresun.com/politics/bs-md-ci-it-outage-20190507-story.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "Best of the Web",
+      "summary": "The script used by Best of the Web to display their trust seal on their customers' websites was compromised and 2 two key logging scripts were added to it",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "motive": "?",
+          "initial-access": "?",
+          "actor": "?"
+      },
+      "links": [
+          "https://www.bleepingcomputer.com/news/security/keyloggers-injected-in-web-trust-seal-supply-chain-attack/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "Stackoverflow.com",
+      "summary": "a build deployed to the development tier for stackoverflow.com contained a bug, which allowed an attacker to log in to our development tier as well as escalate their access on the production",
+      "tags": {
+          "impacted-user-count": 184,
+          "cost-usd": null,
+          "motive": "?",
+          "actor": "?",
+          "initial-access": "OWASP:A6"
+      },
+      "links": [
+          "https://stackoverflow.blog/2019/05/17/update-to-security-incident-may-17-2019/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "Teamviewer",
+      "summary": "hackers used Winnti to breach into the network",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "actor": "Nation State:China",
+          "motive": "Espionage",
+          "initial-access": "?"
+      },
+      "links": [
+          "https://www.zdnet.com/article/chinese-cyberspies-breached-teamviewer-in-2016/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "entity": "Outlook for Android app",
+      "summary": "Short summary of what happened",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "motive": "?",
+          "actor": "?",
+          "initial-access": "OWASP:A9"
+      },
+      "links": [
+          "https://thehackernews.com/2019/06/outlook-app-android.html", 
+          "https://thehackernews.com/2019/06/microsoft-outlook-vulnerability.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "entity": "Incisivemedia",
+      "summary": "An unprotected database server exposed user records",
+      "tags": {
+          "impacted-user-count": 330000,
+          "cost-usd": null,
+          "actor": "?",
+          "initial-access": "OWASP:A5",
+          "motive": "PII:?"
+      },
+      "links": [
+          "https://www.reddit.com/r/netsec/comments/bty412/investmentweekcouk_left_330k_user_records_exposed/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "Canva",
+      "summary": "Hacker GnosticPlayers stole PII data",
+      "tags": {
+          "impacted-user-count": 139000000,
+          "cost-usd": null,
+          "motive": "Money:Sale on dark web",
+          "actor": "Hacktivist",
+          "initial-access": "?"
+      },
+      "links": [
+          "https://www.zdnet.com/article/australian-tech-unicorn-canva-suffers-security-breach/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "Perceptics",
+      "summary": "Hacker Boris Bullet-Dodger obtained hundreds of gigabytes of internal files",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "motive": "Hacktivism:Schadenfreude",
+          "actor": "Hacktivist",
+          "initial-access": "?"
+      },
+      "links": [
+          "https://www.theregister.co.uk/2019/05/23/perceptics_hacked_license_plate_recognition/"
       ]
     }
   ]
