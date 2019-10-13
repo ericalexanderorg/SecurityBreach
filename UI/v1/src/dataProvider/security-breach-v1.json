@@ -2083,6 +2083,183 @@
       "links": [
           "https://www.scmagazine.com/home/security-news/monster-com-job-applicants-info-exposed-on-unprotected-server/"
       ]
+    },
+    {
+      "year": 2018,
+      "month": 10,
+      "entity": "Citrix",
+      "summary": "The attackers stole business documents and other files from a shared network drive used by the company for storing current and historical documents",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "actor": "?",
+          "motive": "?",
+          "initial-access": "OWASP:A6"
+      },
+      "links": [
+          "https://www.theregister.co.uk/2019/03/08/citrix_hacked_data_stolen/",
+          "https://www.resecurity.com/article/citrix"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 3,
+      "entity": "Bithumb",
+      "summary": "The private key for the EOS hot wallet account belonging to Bithumb was stolen, possibly with the help of an insider",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": 19000000,
+          "actor": "Criminal",
+          "initial-access": "?",
+          "motive": "Money:Cryptocurrency"
+      },
+      "links": [
+          "https://thehackernews.com/2019/03/bithumb-cryptocurrency-hacked.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "entity": "Facebook",
+      "summary": "2 AWS S3 buckets, owned by Facebook app developers, containing Facebook user data were openly exposed (configured to allow public download of files) for an unknown period of time.",
+      "tags": {
+          "impacted-user-count": 540000000,
+          "cost-usd": null,
+          "initial-access": "OWASP:A5",
+          "motive": "?",
+          "actor": "?"
+      },
+      "links": [
+          "https://www.upguard.com/breaches/facebook-user-data-leak"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "entity": "Facebook",
+      "summary": "2 AWS S3 buckets, owned by Facebook app developers, containing Facebook user data were openly exposed (configured to allow public download of files) for an unknown period of time.",
+      "tags": {
+          "impacted-user-count": 540000000,
+          "cost-usd": null,
+          "initial-access": "OWASP:A5",
+          "motive": "?",
+          "actor": "?"
+      },
+      "links": [
+          "https://www.upguard.com/breaches/facebook-user-data-leak"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 3,
+      "entity": "matrix.org",
+      "summary": "An attacker gained access to the servers hosting Matrix.org. The intruder had access to the production databases, potentially giving them access to unencrypted message data, password hashes and access tokens.",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "actor": "?",
+          "initial-access": "OWASP:A9",
+          "motive": "Hacktivism:?"
+      },
+      "links": [
+          "https://matrix.org/blog/2019/04/11/we-have-discovered-and-addressed-a-security-breach-updated-2019-04-12"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "entity": "Online shop for the Atlanta Hawks",
+      "summary": "Short summary of what happened",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "motive": "Money:Credit Card",
+          "actor": "Criminal:MageCart",
+          "initial-access": "?"
+      },
+      "links": [
+          "https://www.bleepingcomputer.com/news/security/atlanta-hawks-online-shop-hit-with-credit-card-stealing-attack/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "entity": "City of Columbia government website",
+      "summary": "Short summary of what happened",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": null,
+          "actor": "?",
+          "initial-access": "OWASP:A6",
+          "motive": "?"
+      },
+      "links": [
+          "https://www.cnet.com/news/south-carolina-capital-website-has-a-security-flaw-that-exposed-passwords/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "entity": "Vehicle Maker Aebi Schmidt",
+      "summary": "That malware-based cyberattack caused the disruption of operations, such as email management",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "motive": "Money:Ransom",
+          "initial-access": "?",
+          "actor": "?"
+      },
+      "links": [
+          "https://securityaffairs.co/wordpress/84501/malware/aebi-schmidt-ransomware.html", 
+          "https://techcrunch.com/2019/04/23/aebi-schmidt-ransomware/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "entity": "Cleveland Hopkins International Airport",
+      "summary": "Attack affected email, payroll, record-keeping systems and information screens",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "motive": "Money:Ransom",
+          "actor": "?"
+      },
+      "links": [
+          "https://www.scmagazine.com/home/security-news/ransomware-disables-cleveland-airports-email-systems-information-screens/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 2,
+      "entity": "Bodybuilding.com",
+      "summary": "Hackers broken in via phishing email. No credit card information was stolen because they are not stored by the entity.",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "initial-access": "?",
+          "motive": "PII:?",
+          "actor": "?"
+      },
+      "links": [
+          "https://www.cyberdefensemagazine.com/bodybuilding-com-forces-password-reset-after-a-security-breach/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "entity": "Docker Hub",
+      "summary": "Unauthorized access to a single Docker Hub database storing a subset of non-financial user data",
+      "tags": {
+          "impacted-user-count": 190000,
+          "cost-usd": null,
+          "initial-access": "?",
+          "motive": "?",
+          "actor": "?"
+      },
+      "links": [
+          "https://success.docker.com/article/docker-hub-user-notification"
+      ]
     }
   ]
 }
