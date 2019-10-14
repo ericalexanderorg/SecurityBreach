@@ -15,12 +15,11 @@ import {
     LongTextInput,
     NumberInput,
     FormDataConsumer,
+    maxValue,
 } from 'react-admin';
-import { Button, Card, CardActions, CardContent, withStyles, Typography } from '@material-ui/core';
+import { Button, Card, CardActions, CardContent, Typography } from '@material-ui/core';
 import NoteAddIcon from '@material-ui/icons/NoteAdd';
 import HelpIcon from '@material-ui/icons/Help';
-
-
 const BreachFilter = (props) => (
     <Filter {...props}>
         <TextInput label="Search" source="q" alwaysOn />
@@ -102,7 +101,7 @@ export const BreachCreate = (props) => (
     <Create title={'Add new breach data'} aside={<Aside />} {...props}>
             <SimpleForm saving={true}>
                 <NumberInput source="year" label="Start Year" defaultValue={d.getFullYear()} />
-                <NumberInput source="month" label="Start Month"  defaultValue={d.getMonth()} />
+                <NumberInput source="month" label="Start Month"  defaultValue={d.getMonth()} validate={maxValue(12)} />
                 <TextInput source="entity" defaultValue={"Who was breached?"} />
                 <LongTextInput source="summary" defaultValue={"Short summary of what happened"} />
                 <SelectInput source="tags.actor" choices={[
@@ -116,10 +115,11 @@ export const BreachCreate = (props) => (
                     { id: '?', name: 'Unknown' }
                 ]} />
                 <SelectInput source="tags.initial-access" choices={[
-                    { id: 'ATT&CK:T1326', name: 'ATT&CK:T1326: Domain Registration Hijacking is the act of changing the registration of a domain name without the permission of the original registrant.' },
-                    { id: 'ATT&CK:T1193', name: 'ATT&CK:T1193: Spearphishing Attachment' },
-                    { id: 'ATT&CK:T1192', name: 'ATT&CK:T1192: Spearphishing Link' },
                     { id: 'ATT&CK:T1078', name: 'ATT&CK:T1078: Valid Accounts' },
+                    { id: 'ATT&CK:T1192', name: 'ATT&CK:T1192: Spearphishing Link' },
+                    { id: 'ATT&CK:T1193', name: 'ATT&CK:T1193: Spearphishing Attachment' },
+                    { id: 'ATT&CK:T1200', name: 'ATT&CK:T1200: Hardware Additions' },
+                    { id: 'ATT&CK:T1326', name: 'ATT&CK:T1326: Domain Registration Hijacking is the act of changing the registration of a domain name without the permission of the original registrant.' },
                     { id: 'ATT&CK:T1451', name: 'ATT&CK:T1451: SIM Card Swap' },
                     { id: 'OWASP:A1', name: 'OWASP:A1: Injection' },
                     { id: 'OWASP:A5', name: 'OWASP:A5: Broken Access Control' },
