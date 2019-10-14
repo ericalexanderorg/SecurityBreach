@@ -67,6 +67,10 @@
       "OWASP:A1": {
         "description": "Injection",
         "link": "https://www.owasp.org/index.php/Top_10-2017_A1-Injection"
+      },
+      "ATT&CK:T1200": {
+        "description": "Hardware Additions",
+        "link": "https://attack.mitre.org/techniques/T1200/"
       }
     }
   },
@@ -2404,6 +2408,167 @@
       },
       "links": [
           "https://www.theregister.co.uk/2019/05/23/perceptics_hacked_license_plate_recognition/"
+      ]
+    },
+    {
+      "year": 2018,
+      "month": 4,
+      "entity": "NASA’s JPL Network",
+      "summary": "The hackers reportedly stole about 500MB of data related to human spaceflight",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "actor": "?",
+          "initial-access": "ATT&CK:T1200",
+          "motive": "?"
+      },
+      "links": [
+          "https://www.extremetech.com/internet/293563-a-rogue-raspberry-pi-let-hackers-into-nasas-jpl-network"
+      ]
+    },
+    {
+      "year": 2018,
+      "month": 12,
+      "entity": "Desjardins credit union",
+      "summary": "Data was leaked after an ill-intentioned employee disclosed it to hackers",
+      "tags": {
+          "impacted-user-count": 2900000,
+          "cost-usd": null,
+          "actor": "?",
+          "motive": "PII:?",
+          "initial-access": "?"
+      },
+      "links": [
+          "https://securityaffairs.co/wordpress/87415/data-breach/desjardins-data-leak.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "entity": "Eurofins",
+      "summary": "The unknown ransomware attack disrupted some of its IT systems and the company took offline many other systems and servers to minimize the damage",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "motive": "Money:Ransom",
+          "initial-access": "?",
+          "actor": "?"
+      },
+      "links": [
+          "https://www.helpnetsecurity.com/2019/06/24/eurofins-ransomware-attack/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 3,
+      "entity": "Sun Prairie city, Wisconsin",
+      "summary": "an unauthorized party had illegitimate access to the email accounts of certain employees",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "motive": "PII:?",
+          "initial-access": "OWASP:A6",
+          "actor": "?"
+      },
+      "links": [
+          "https://www.scmagazine.com/home/security-news/sun-prairie-wisc-warns-of-data-breach-after-intruder-accesses-employee-email-accounts/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "PCM Inc",
+      "summary": "Attackers stole administrative credentials that PCM uses to manage client accounts within Office 365",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "?"
+      },
+      "links": [
+          "https://krebsonsecurity.com/2019/06/breach-at-cloud-solution-provider-pcm-inc/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "Orvibo",
+      "summary": "ElasticSearch database server with no password protection",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "initial-access": "OWASP:A5",
+          "motive": "?",
+          "actor": "?"
+      },
+      "links": [
+          "https://www.welivesecurity.com/2019/07/02/two-billion-logs-leaked-smart-home/", 
+          "https://www.bleepingcomputer.com/news/security/billions-of-records-including-passwords-leaked-by-smart-home-vendor/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 7,
+      "entity": "Jiangsu Provincial Public Security Department",
+      "summary": "A publicly accessible and unsecured ElasticSearch server exposed two databases containing PII",
+      "tags": {
+          "impacted-user-count": 90000000,
+          "cost-usd": null,
+          "motive": "?",
+          "actor": "?",
+          "initial-access": "OWASP:A5"
+      },
+      "links": [
+          "https://www.bleepingcomputer.com/news/security/over-90-million-records-leaked-by-chinese-public-security-department/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 7,
+      "entity": "Maryland Department of Labor",
+      "summary": "Hackers accessed databases containing PII data",
+      "tags": {
+          "impacted-user-count": 78000,
+          "cost-usd": null,
+          "initial-access": "?",
+          "actor": "?",
+          "motive": "PII:?"
+      },
+      "links": [
+          "https://securityaffairs.co/wordpress/88157/data-breach/maryland-department-of-labor-data-breach.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 7,
+      "entity": "New York City's Monroe College",
+      "summary": "A ransomware attack installed throughout the college's network has shutdown the college's computer systems",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "motive": "Money:Ransom",
+          "initial-access": "?",
+          "actor": "?"
+      },
+      "links": [
+          "https://www.bleepingcomputer.com/news/security/monroe-college-hit-with-ransomware-2-million-demanded/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 6,
+      "entity": "La Porte County, Indiana",
+      "summary": "An Emotet infection that delivered Trickbot trojan, which then deployed Ryuk ransomware",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": 130000,
+          "motive": "Money:Ransom",
+          "initial-access": "?",
+          "actor": "?"
+      },
+      "links": [
+          "https://www.bleepingcomputer.com/news/security/la-porte-county-pays-130-000-ransom-to-ryuk-ransomware/"
       ]
     }
   ]
