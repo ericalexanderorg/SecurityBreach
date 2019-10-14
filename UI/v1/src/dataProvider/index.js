@@ -26,11 +26,9 @@ function transformData(data) {
     var actor = [];
     data.breaches.forEach(function(breach){
         // Add a Start Date key so it's easier to display/sort in react-admin
+        var month = breach['month'];
         if (breach['month'] < 10){
-            var month = "0"+breach['month'].toString();
-        }
-        else {
-            var month = breach['month'];
+            month = "0"+breach['month'].toString();
         }
         breach['Start Date'] = breach['year'].toString()+month
 
