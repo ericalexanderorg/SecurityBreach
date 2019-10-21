@@ -2587,7 +2587,23 @@
           "https://twitter.com/hexdefined/status/1185864801261477891", 
           "https://nordvpn.com/nl/blog/official-response-datacenter-breach/"
       ]
-  }
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "Avast",
+      "summary": "The intruder took advantage of a temporary VPN profile that should no longer have been active",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "initial-access": "OWASP:A6",
+          "actor": "?",
+          "motive": "?"
+      },
+      "links": [
+          "https://www.bleepingcomputer.com/news/security/hackers-breach-avast-antivirus-network-through-insecure-vpn-profile/"
+      ]
+    }
   ]
 }
 
