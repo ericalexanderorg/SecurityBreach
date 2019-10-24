@@ -222,11 +222,12 @@
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
-        "actor": "Criminal:Magecart",
+        "actor": "Criminal:Carbanak",
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwqqs/british_airways_92017/"
+        "https://www.reddit.com/r/securitybreach/comments/9xwqqs/british_airways_92017/",
+        "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"
       ]
     },
     {
@@ -894,11 +895,12 @@
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
-        "actor": "Criminal:Magecart",
+        "actor": "Criminal:Carbanak",
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwqja/newegg_92017/?"
+        "https://www.reddit.com/r/securitybreach/comments/9xwqja/newegg_92017/?",
+        "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"
       ]
     },
     {
@@ -1118,11 +1120,12 @@
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
-        "actor": "Criminal:Magecart",
+        "actor": "Criminal:Carbanak",
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwr03/ticketmaster_22018/?"
+        "https://www.reddit.com/r/securitybreach/comments/9xwr03/ticketmaster_22018/?",
+        "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"
       ]
     },
     {
