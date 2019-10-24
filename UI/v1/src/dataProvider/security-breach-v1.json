@@ -2655,7 +2655,23 @@
       "links": [
           "https://www.wired.com/story/cozy-bear-dukes-russian-hackers-new-tricks/"
       ]
-  }
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "over 2,000 Docker hosts",
+      "summary": "A worm named Graboid carries out cryptojacking inside containers, spreads a few dockers hosts at a time, and mines Monero",
+      "tags": {
+          "impacted-user-count": 2.034,
+          "cost-usd": null,
+          "motive": "Money:Cryptocurrency",
+          "initial-access": "OWASP:A6",
+          "actor": "?"
+      },
+      "links": [
+          "https://www.helpnetsecurity.com/2019/10/18/cryptojacking-worm-docker/"
+      ]
+    }
   ]
 }
 
