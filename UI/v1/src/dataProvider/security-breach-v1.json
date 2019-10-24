@@ -2623,7 +2623,23 @@
           "https://krebsonsecurity.com/2019/10/ransomware-hits-b2b-payments-firm-billtrust/", 
           "http://wittichen-supply.com/billtrust-service-interruption/"
       ]
-  }
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "Unknown US travel agency",
+      "summary": "Elastic search db containing travel details exposed to the internet with no auth",
+      "tags": {
+        "impacted-user-count": 2000,
+        "cost-usd": 0,
+        "actor": "Hacktivist:VPN Mentor",
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+      },
+      "links": [
+        "https://www.vpnmentor.com/blog/us-travel-military-leak/"
+      ]
+    }
   ]
 }
 
