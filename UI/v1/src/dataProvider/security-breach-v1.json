@@ -222,11 +222,12 @@
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
-        "actor": "Criminal:Magecart",
+        "actor": "Criminal:Carbanak",
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwqqs/british_airways_92017/"
+        "https://www.reddit.com/r/securitybreach/comments/9xwqqs/british_airways_92017/",
+        "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"
       ]
     },
     {
@@ -894,11 +895,12 @@
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
-        "actor": "Criminal:Magecart",
+        "actor": "Criminal:Carbanak",
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwqja/newegg_92017/?"
+        "https://www.reddit.com/r/securitybreach/comments/9xwqja/newegg_92017/?",
+        "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"
       ]
     },
     {
@@ -1118,11 +1120,12 @@
       "summary": "Javascript injected in site to steal credit card information",
       "tags": {
         "motive": "Money:Credit Card",
-        "actor": "Criminal:Magecart",
+        "actor": "Criminal:Carbanak",
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwr03/ticketmaster_22018/?"
+        "https://www.reddit.com/r/securitybreach/comments/9xwr03/ticketmaster_22018/?",
+        "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"
       ]
     },
     {
@@ -2602,6 +2605,71 @@
       },
       "links": [
           "https://www.bleepingcomputer.com/news/security/hackers-breach-avast-antivirus-network-through-insecure-vpn-profile/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "Billtrust",
+      "summary": "On Thursday, Oct. 17 Billtrust was hit by a ransomware attack",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "motive": "Money:Ransom",
+          "initial-access": "?",
+          "actor": "?"
+      },
+      "links": [
+          "https://krebsonsecurity.com/2019/10/ransomware-hits-b2b-payments-firm-billtrust/", 
+          "http://wittichen-supply.com/billtrust-service-interruption/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "Unknown US travel agency",
+      "summary": "Elastic search db containing travel details exposed to the internet with no auth",
+      "tags": {
+        "impacted-user-count": 2000,
+        "cost-usd": 0,
+        "actor": "Hacktivist:VPN Mentor",
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+      },
+      "links": [
+        "https://www.vpnmentor.com/blog/us-travel-military-leak/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "the ministries of foreign affairs at two Eastern European countries and one EU nation",
+      "summary": "Hackers have been caught perpetrating a years-long campaign",
+      "tags": {
+          "impacted-user-count": null,
+          "cost-usd": null,
+          "motive": "Espionage",
+          "initial-access": "?",
+          "actor": "Hacktivist:The Dukes"
+      },
+      "links": [
+          "https://www.wired.com/story/cozy-bear-dukes-russian-hackers-new-tricks/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "over 2,000 Docker hosts",
+      "summary": "A worm named Graboid carries out cryptojacking inside containers, spreads a few dockers hosts at a time, and mines Monero",
+      "tags": {
+          "impacted-user-count": 2.034,
+          "cost-usd": null,
+          "motive": "Money:Cryptocurrency",
+          "initial-access": "OWASP:A6",
+          "actor": "?"
+      },
+      "links": [
+          "https://www.helpnetsecurity.com/2019/10/18/cryptojacking-worm-docker/"
       ]
     }
   ]
