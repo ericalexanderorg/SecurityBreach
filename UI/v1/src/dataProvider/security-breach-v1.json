@@ -2134,7 +2134,7 @@
           "cost-usd": null,
           "initial-access": "OWASP:A5",
           "motive": "?",
-          "actor": "?"
+          "actor": "Hacktivisit:Upguard"
       },
       "links": [
           "https://www.upguard.com/breaches/facebook-user-data-leak"
@@ -2503,7 +2503,7 @@
           "cost-usd": null,
           "initial-access": "OWASP:A5",
           "motive": "?",
-          "actor": "?"
+          "actor": "Hacktivist:vpnMentor"
       },
       "links": [
           "https://www.welivesecurity.com/2019/07/02/two-billion-logs-leaked-smart-home/", 
@@ -2519,7 +2519,7 @@
           "impacted-user-count": 90000000,
           "cost-usd": null,
           "motive": "?",
-          "actor": "?",
+          "actor": "Hacktivist:GDFI",
           "initial-access": "OWASP:A5"
       },
       "links": [
