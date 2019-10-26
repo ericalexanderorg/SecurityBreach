@@ -2134,7 +2134,7 @@
         "cost-usd": null,
         "initial-access": "OWASP:A5",
         "motive": "?",
-        "actor": "Hacktivisit:Upguard"
+        "actor": "Hacktivist:Upguard"
       },
       "links": [
         "https://www.upguard.com/breaches/facebook-user-data-leak"
