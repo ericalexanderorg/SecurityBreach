@@ -2678,14 +2678,79 @@
       "entity": "Adobe",
       "summary": "Unsecured elastic search DB exposed to the internet",
       "tags": {
-      "impacted-user-count": 750000000,
-      "cost-usd": 0,
-      "actor": "Hacktivist:Bob Diachenko",
-      "initial-access": "OWASP:A5",
-      "motive": "Hacktivism:Schadenfreude"
+        "impacted-user-count": 750000000,
+        "cost-usd": 0,
+        "actor": "Hacktivist:Bob Diachenko",
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Schadenfreude"
       },
       "links": [
-      "https://thehackernews.com/2019/10/adobe-database-leaked.html"
+        "https://thehackernews.com/2019/10/adobe-database-leaked.html"
+      ]
+    },
+    {
+      "year": 2017,
+      "month": 7,
+      "entity": "Who was breached?",
+      "summary": "Los Angeles Superior Court",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 47479,
+        "actor": "Criminal",
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Money:Credit Card"
+      },
+      "links": [
+        "https://securityaffairs.co/wordpress/92891/cyber-crime/los-angeles-superior-court-hack.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "City of Baltimore",
+      "summary": "Ransomware incident",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 6000000,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "Money:Ransom"
+      },
+      "links": [
+          "https://www.techdirt.com/articles/20191004/19564743128/city-baltimore-blew-off-76000-ransomware-demand-only-to-find-out-bunch-data-had-never-been-backed-up.shtml"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "Pitney Bowes",
+      "summary": "Ransomware incident",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "Money:Ransom"
+      },
+      "links": [
+          "https://nakedsecurity.sophos.com/2019/10/16/pitney-bowes-and-groupe-m6-join-ransomwares-victim-list/",
+          "https://threatpost.com/pitney-bowes-hit-with-ransomware-attack/149156/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "Groupe M6",
+      "summary": "Ransomware incident",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "?",
+          "initial-access": "?",
+          "motive": "Money:Ransom"
+      },
+      "links": [
+          "https://nakedsecurity.sophos.com/2019/10/16/pitney-bowes-and-groupe-m6-join-ransomwares-victim-list/"
       ]
     }
   ]
