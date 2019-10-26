@@ -2752,6 +2752,22 @@
       "links": [
           "https://nakedsecurity.sophos.com/2019/10/16/pitney-bowes-and-groupe-m6-join-ransomwares-victim-list/"
       ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "A popular Asian mobile hardware and software vendor",
+      "summary": "Research into known bad actor uncovered a breached entity ",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "Nation State:Winnti Group",
+          "initial-access": "?",
+          "motive": "?"
+      },
+      "links": [
+          "https://www.scmagazine.com/home/security-news/gaming/major-software-vendor-compromised-with-previously-undocumented-portreuse-backdoor/"
+      ]
     }
   ]
 }
