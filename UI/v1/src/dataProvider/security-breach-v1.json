@@ -11,6 +11,7 @@
       "Money:Cryptocurrency": "Money was stolen through Cryptocurrency transactions.",
       "Money:Ransom": "Money was stolen through ransom.",
       "Money:Sale on dark web": "The data was put on sale on the dark web.",
+      "Money:Misc": "Catch all for any type of financial gain",
       "PII:?": "PII was stolen for unknown reasons."
     },
     "actor": {
@@ -75,20 +76,6 @@
     }
   },
   "breaches": [
-    {
-      "entity": "13 aviation companies",
-      "month": 1,
-      "year": 1900,
-      "summary": "Nation state phishing and water hole campaign led to IP theft. ",
-      "tags": {
-        "motive": "Espionage",
-        "actor": "Nation State:China",
-        "initial-access": "ATT&CK:T1193"
-      },
-      "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9tumcs/13_aerospace_companies_unknown_dates/"
-      ]
-    },
     {
       "entity": "AccuDoc",
       "month": 9,
@@ -802,20 +789,6 @@
       },
       "links": [
         "https://www.reddit.com/r/securitybreach/comments/a24a49/samsam_ransomware_18/?"
-      ]
-    },
-    {
-      "entity": "Multiple",
-      "month": 1,
-      "year": 2006,
-      "summary": "State led trade secret theft/espionage",
-      "tags": {
-        "motive": "Espionage",
-        "actor": "Nation State:China",
-        "initial-access": "ATT&CK:T1193"
-      },
-      "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a8a3y8/us_charges_china_intelligence_officers_over/"
       ]
     },
     {
@@ -1538,21 +1511,6 @@
       },
       "links": [
         "https://www.softwaretestingnews.co.uk/19025-2-sbi-leaks-financial-data/"
-      ]
-    },
-    {
-      "year": 2019,
-      "month": 9,
-      "entity": "Three companies in the United States and Europe",
-      "summary": "Short summary of what happened",
-      "tags": {
-        "impacted-user-count": 0,
-        "actor": "Nation State:China",
-        "initial-access": "ATT&CK:T1078",
-        "motive": "Espionage"
-      },
-      "links": [
-        "https://www.recordedfuture.com/apt10-cyberespionage-campaign/"
       ]
     },
     {
@@ -2334,22 +2292,6 @@
     },
     {
       "year": 2019,
-      "month": 5,
-      "entity": "Teamviewer",
-      "summary": "hackers used Winnti to breach into the network",
-      "tags": {
-        "impacted-user-count": null,
-        "cost-usd": null,
-        "actor": "Nation State:China",
-        "motive": "Espionage",
-        "initial-access": "?"
-      },
-      "links": [
-        "https://www.zdnet.com/article/chinese-cyberspies-breached-teamviewer-in-2016/"
-      ]
-    },
-    {
-      "year": 2019,
       "month": 6,
       "entity": "Outlook for Android app",
       "summary": "Short summary of what happened",
@@ -2756,22 +2698,6 @@
     {
       "year": 2019,
       "month": 10,
-      "entity": "A popular Asian mobile hardware and software vendor",
-      "summary": "Research into known bad actor uncovered a breached entity ",
-      "tags": {
-        "impacted-user-count": 0,
-        "cost-usd": 0,
-        "actor": "Nation State:Winnti Group",
-        "initial-access": "?",
-        "motive": "?"
-      },
-      "links": [
-        "https://www.scmagazine.com/home/security-news/gaming/major-software-vendor-compromised-with-previously-undocumented-portreuse-backdoor/"
-      ]
-    },
-    {
-      "year": 2019,
-      "month": 10,
       "entity": "Click2Mail.com",
       "summary": "Breach identified after entity notified many of it's users targeted in spam campaign",
       "tags": {
@@ -2821,8 +2747,8 @@
     {
       "year": 2012,
       "month": 12,
-      "entity": "Compromised company website and then used zero day CVE-2012-4792 to futher pivot",
-      "summary": "Entity targeted for aeronautic related intellectual property",
+      "entity": "Capstone Turbine",
+      "summary": "Compromised company website and then used zero day CVE-2012-4792 to futher pivot",
       "tags": {
         "impacted-user-count": 0,
         "cost-usd": 0,
@@ -2832,7 +2758,9 @@
       },
       "links": [
         "https://www.zdnet.com/article/building-chinas-comac-c919-airplane-involved-a-lot-of-hacking-report-says/",
-        "https://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-black-vine-cyberespionage-group.pdf"
+        "https://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-black-vine-cyberespionage-group.pdf",
+        "https://arstechnica.com/tech-policy/2018/10/feds-say-chinese-spies-and-their-hired-hackers-stole-aviation-secrets/",
+        "https://eromang.zataz.com/2013/01/02/capstone-turbine-corporation-also-targeted-in-the-cfr-watering-hole-attack-and-more/"
       ]
     },
     {
@@ -2885,6 +2813,626 @@
       "links": [
         "https://www.zdnet.com/article/building-chinas-comac-c919-airplane-involved-a-lot-of-hacking-report-says/",
         "https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach"
+      ]
+    },
+    {
+      "year": 2012,
+      "month": 12,
+      "entity": "Council on Foreign Relations",
+      "summary": "Entity targeted for aeronautic related intellectual property",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:Turbine Panda",
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://eromang.zataz.com/2013/01/02/capstone-turbine-corporation-also-targeted-in-the-cfr-watering-hole-attack-and-more/"
+      ]
+    },
+    {
+      "year": 2017,
+      "month": 11,
+      "entity": "Visma",
+      "summary": "Valid credentials used to login via Citrix and/or TeamViewer",
+      "tags": {
+        "impacted-user-count": 0,
+        "actor": "Nation State:APT10",
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://www.recordedfuture.com/apt10-cyberespionage-campaign/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "Teamviewer",
+      "summary": "Remote access gained through unknown means and then Winnti malware used to pivot",
+      "tags": {
+        "impacted-user-count": null,
+        "cost-usd": null,
+        "actor": "Nation State:APT10",
+        "motive": "Espionage",
+        "initial-access": "?"
+      },
+      "links": [
+        "https://www.zdnet.com/article/chinese-cyberspies-breached-teamviewer-in-2016/",
+        "https://www.spiegel.de/plus/teamviewer-wie-hacker-das-deutsche-vorzeige-start-up-ausspionierten-a-00000000-0002-0001-0000-000163955857"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 9,
+      "entity": "HPE",
+      "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "Nation State:APT10",
+          "initial-access": "?",
+          "motive": "Espionage"
+      },
+      "links": [
+          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+          "https://www.sacs.co.za/2019/06/28/4918/"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 9,
+      "entity": "IBM",
+      "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "Nation State:APT10",
+          "initial-access": "?",
+          "motive": "Espionage"
+      },
+      "links": [
+          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+          "https://www.sacs.co.za/2019/06/28/4918/"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 9,
+      "entity": "Telefonaktiebolaget LM Ericsson",
+      "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "Nation State:APT10",
+          "initial-access": "?",
+          "motive": "Espionage"
+      },
+      "links": [
+          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+          "https://www.sacs.co.za/2019/06/28/4918/"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 9,
+      "entity": "Fujitsu",
+      "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "Nation State:APT10",
+          "initial-access": "?",
+          "motive": "Espionage"
+      },
+      "links": [
+          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+          "https://www.sacs.co.za/2019/06/28/4918/"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 9,
+      "entity": "Tata Consultancy Services",
+      "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "Nation State:APT10",
+          "initial-access": "?",
+          "motive": "Espionage"
+      },
+      "links": [
+          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+          "https://www.sacs.co.za/2019/06/28/4918/"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 9,
+      "entity": "NTT Data",
+      "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "Nation State:APT10",
+          "initial-access": "?",
+          "motive": "Espionage"
+      },
+      "links": [
+          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+          "https://www.sacs.co.za/2019/06/28/4918/"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 9,
+      "entity": "Dimension Data",
+      "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "Nation State:APT10",
+          "initial-access": "?",
+          "motive": "Espionage"
+      },
+      "links": [
+          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+          "https://www.sacs.co.za/2019/06/28/4918/"
+      ]
+    },
+    {
+      "year": 2015,
+      "month": 8,
+      "entity": "Sabre",
+      "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "Nation State:APT10",
+          "initial-access": "?",
+          "motive": "Espionage"
+      },
+      "links": [
+          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+          "https://www.sacs.co.za/2019/06/28/4918/",
+          "https://siliconangle.com/2015/08/10/american-airlines-and-sabre-hit-by-reported-chinese-hack/"
+      ]
+    },
+    {
+      "year": 2015,
+      "month": 8,
+      "entity": "American Airlines",
+      "summary": "Targeted in Chinese espionage campaign",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "Nation State:APT10",
+          "initial-access": "?",
+          "motive": "Espionage"
+      },
+      "links": [
+          "https://siliconangle.com/2015/08/10/american-airlines-and-sabre-hit-by-reported-chinese-hack/"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 9,
+      "entity": "Huntington Ingalls Industries",
+      "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "Nation State:APT10",
+          "initial-access": "?",
+          "motive": "Espionage"
+      },
+      "links": [
+          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+          "https://www.sacs.co.za/2019/06/28/4918/"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 9,
+      "entity": "thyssenkrupp",
+      "summary": "Targetted in nation state backed espionage campaign using winnti malware",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "Nation State:APT41",
+          "initial-access": "?",
+          "motive": "Espionage"
+      },
+      "links": [
+          "https://www.thyssenkrupp.com/en/newsroom/dataprotection",
+          "https://www.bleepingcomputer.com/news/security/asian-hackers-stole-technical-trade-secrets-from-german-steelmaker-thyssenkrupp/",
+          "https://medium.com/chronicle-blog/winnti-more-than-just-windows-and-gates-e4f03436031a",
+          "https://www.wiwo.de/my/technologie/digitale-welt/attacke-auf-thyssenkrupp-schon-2016-griff-winnti-an-exklusiver-report-aus-dem-auge-des-sturms/14949912.html",
+          "https://github.com/TKCERT/winnti-nmap-script",
+          "https://github.com/TKCERT/winnti-detector",
+          "https://github.com/TKCERT/winnti-suricata-lua"
+      ]
+    },
+    {
+      "year": 2018,
+      "month": 1,
+      "entity": "Bayer Covestro",
+      "summary": "Targetted in nation state backed espionage campaign using winnti malware",
+      "tags": {
+          "impacted-user-count": 0,
+          "cost-usd": 0,
+          "actor": "Nation State:APT41",
+          "initial-access": "?",
+          "motive": "Espionage"
+      },
+      "links": [
+          "https://www.2-spyware.com/bayer-cyber-attack-chinese-hackers-wicked-panda-used-winnti-malware"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "A popular Asian mobile hardware and software vendor",
+      "summary": "Research into known bad actor uncovered a breached entity ",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://www.scmagazine.com/home/security-news/gaming/major-software-vendor-compromised-with-previously-undocumented-portreuse-backdoor/",
+        "https://www.bleepingcomputer.com/news/security/winnti-group-uses-new-portreuse-malware-against-asian-manufacturer/"
+      ]
+    },
+    {
+      "year": 2013,
+      "month": 4,
+      "entity": "ESTsoft Corp",
+      "summary": "Video game entity targeted by nation state entity for financial gain",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://securelist.com/winnti-more-than-just-a-game/37029/"
+      ]
+    },
+    {
+      "year": 2013,
+      "month": 4,
+      "entity": "Kog Co., Ltd.",
+      "summary": "Video game entity targeted by nation state entity for financial gain",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://securelist.com/winnti-more-than-just-a-game/37029/"
+      ]
+    },
+    {
+      "year": 2013,
+      "month": 4,
+      "entity": "LivePlex Corp",
+      "summary": "Video game entity targeted by nation state entity for financial gain",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://securelist.com/winnti-more-than-just-a-game/37029/"
+      ]
+    },
+    {
+      "year": 2013,
+      "month": 4,
+      "entity": "MGAME Corp",
+      "summary": "Video game entity targeted by nation state entity for financial gain",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://securelist.com/winnti-more-than-just-a-game/37029/"
+      ]
+    },
+    {
+      "year": 2013,
+      "month": 4,
+      "entity": "Rosso Index KK",
+      "summary": "Video game entity targeted by nation state entity for financial gain",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://securelist.com/winnti-more-than-just-a-game/37029/"
+      ]
+    },
+    {
+      "year": 2013,
+      "month": 4,
+      "entity": "Wemade",
+      "summary": "Video game entity targeted by nation state entity for financial gain",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://securelist.com/winnti-more-than-just-a-game/37029/"
+      ]
+    },
+    {
+      "year": 2013,
+      "month": 4,
+      "entity": "YNK Japan",
+      "summary": "Video game entity targeted by nation state entity for financial gain",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://securelist.com/winnti-more-than-just-a-game/37029/"
+      ]
+    },
+    {
+      "year": 2013,
+      "month": 4,
+      "entity": "Guangzhou YuanLuo",
+      "summary": "Video game entity targeted by nation state entity for financial gain",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://securelist.com/winnti-more-than-just-a-game/37029/"
+      ]
+    },
+    {
+      "year": 2013,
+      "month": 4,
+      "entity": "Fantasy Technology Corp",
+      "summary": "Video game entity targeted by nation state entity for financial gain",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://securelist.com/winnti-more-than-just-a-game/37029/"
+      ]
+    },
+    {
+      "year": 2013,
+      "month": 4,
+      "entity": "Neowiz",
+      "summary": "Video game entity targeted by nation state entity for financial gain",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://securelist.com/winnti-more-than-just-a-game/37029/"
+      ]
+    },
+    {
+      "year": 2011,
+      "month": 1,
+      "entity": "Gameforge",
+      "summary": "Video game entity targeted by nation state entity for financial gain",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "ATT&CK:T1193",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://web.br.de/interaktiv/winnti/english/"
+      ]
+    },
+    {
+      "year": 2014,
+      "month": 1,
+      "entity": "Henkel",
+      "summary": "Targeted in nation state espionage campaign",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "ATT&CK:T1193",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://web.br.de/interaktiv/winnti/english/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 1,
+      "entity": "Bostik",
+      "summary": "Targeted in nation state espionage campaign",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://web.br.de/interaktiv/winnti/english/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 1,
+      "entity": "Shin-Etsu Chemical",
+      "summary": "Targeted in nation state espionage campaign",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://web.br.de/interaktiv/winnti/english/"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 6,
+      "entity": "Sumitomo Electric",
+      "summary": "Targeted in nation state espionage campaign",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://web.br.de/interaktiv/winnti/english/"
+      ]
+    },
+    {
+      "year": 2015,
+      "month": 7,
+      "entity": "BASF",
+      "summary": "Targeted in nation state espionage campaign",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://web.br.de/interaktiv/winnti/english/"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 6,
+      "entity": "Siemens",
+      "summary": "Targeted in nation state espionage campaign",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://web.br.de/interaktiv/winnti/english/"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 6,
+      "entity": "Roche",
+      "summary": "Targeted in nation state espionage campaign",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://web.br.de/interaktiv/winnti/english/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 1,
+      "entity": "Hong Kong Government",
+      "summary": "Targeted in nation state espionage campaign",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://web.br.de/interaktiv/winnti/english/",
+        "https://media.cert.europa.eu/static/MEMO/2019/TLP-WHITE-CERT-EU-MEMO-190725-1.pdf"
+      ]
+    },
+    {
+      "year": 2018,
+      "month": 1,
+      "entity": "Central Tibetan Administration",
+      "summary": "Targeted in nation state espionage campaign",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://web.br.de/interaktiv/winnti/english/",
+        "https://media.cert.europa.eu/static/MEMO/2019/TLP-WHITE-CERT-EU-MEMO-190725-1.pdf"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 1,
+      "entity": "Valve",
+      "summary": "Targeted by nation state",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://media.cert.europa.eu/static/MEMO/2019/TLP-WHITE-CERT-EU-MEMO-190725-1.pdf"
       ]
     }
   ]

@@ -1,7 +1,6 @@
 import React from 'react';
 import {
     Show,
-    SimpleShowLayout,
     Filter,
     TextInput,
     List,
@@ -38,11 +37,11 @@ export const BreachList = props => (
             <TextField source="Start Date" />
             <TextField source="entity" />
             <TextField source="summary" />
-            <TextField source="tags.actor" />
-            <TextField source="tags.initial-access" />
-            <TextField source="tags.motive" />
-            <TextField source="tags.impacted-user-count" />
-            <TextField source="tags.cost-usd" />
+            <TextField source="actor"/>
+            <TextField source="initial-access" label="Initial Access"/>
+            <TextField source="motive" label="Motive"/>
+            <TextField source="impacted-user-count" label="Impacted User Count"/>
+            <TextField source="cost-usd" label="USD Cost"/>
         </Datagrid>
     </List>
 );
@@ -50,13 +49,11 @@ export const BreachList = props => (
 
 export const BreachShow = (props) => (
     <Show {...props}>
-        <SimpleShowLayout>
             <ArrayField source="links">
                 <Datagrid>
-                    <UrlField source="url" />
+                    <UrlField source="url" label="Links"/>
                 </Datagrid>
             </ArrayField>
-        </SimpleShowLayout>
     </Show>
 );
 
@@ -152,6 +149,7 @@ export const BreachCreate = withStyles(inlineInputStyle)(({ classes, ...props })
                 { id: 'Money:Cryptocurrency', name: 'Money:Cryptocurrency: Money was stolen through Cryptocurrency transactions' },
                 { id: 'Money:Ransom', name: 'Money:Ransom: Money was stolen through ransom' },
                 { id: 'Money:Sale on dark web', name: 'Money:Sale on dark web: The data was put on sale on the dark web' },
+                { id: 'Money:Misc', name: 'Money:Misc: Catch all for any type of finanically motivated breach' },
                 { id: 'PII:?', name: 'PII:?: PII was stolen for unknown reasons' },
                 { id: '?', name: 'Unknown' }
             ]} />
