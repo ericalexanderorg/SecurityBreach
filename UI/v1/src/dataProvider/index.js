@@ -15,6 +15,19 @@ function dataCounts(data, k, transformed) {
     return(transformed)
 }
 
+function transformMissingInt(breach, key){
+    // Handle missing keys gracefully
+    console.log(breach)
+    breach[key]=""
+    if (breach['tags'].hasOwnProperty(key) && breach['tags'][key]!=0 && breach['tags'][key]!=null) {
+            breach[key]=breach['tags'][key]
+            console.log('hit')
+            console.log(breach)
+    }
+    
+    return breach
+}
+
 function transformData(data) {
     // react-admin is finicky about it's data, need to massage it a little
     var transformed = {};
@@ -40,6 +53,14 @@ function transformData(data) {
         });
         breach['links']=links;
         transformed['breaches'].push(breach);
+
+        // Copy imperitive tags to top level so it's easier to sort in both react-admin and in the export
+        breach['actor']=breach['tags']['actor']
+        breach['motive']=breach['tags']['motive']
+        breach['initial-access']=breach['tags']['initial-access']
+        // Gracefully handle some missing int tags
+        breach=transformMissingInt(breach, 'cost-usd')
+        breach=transformMissingInt(breach, 'impacted-user-count')
 
         // Add data we want to graph on the dashboard
         motives.push(breach['tags']['motive']);
