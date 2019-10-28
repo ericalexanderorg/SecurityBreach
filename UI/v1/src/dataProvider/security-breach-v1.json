@@ -2869,16 +2869,16 @@
       "entity": "HPE",
       "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
       "tags": {
-          "impacted-user-count": 0,
-          "cost-usd": 0,
-          "actor": "Nation State:APT10",
-          "initial-access": "?",
-          "motive": "Espionage"
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT10",
+        "initial-access": "?",
+        "motive": "Espionage"
       },
       "links": [
-          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
-          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
-          "https://www.sacs.co.za/2019/06/28/4918/"
+        "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+        "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+        "https://www.sacs.co.za/2019/06/28/4918/"
       ]
     },
     {
@@ -2887,16 +2887,16 @@
       "entity": "IBM",
       "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
       "tags": {
-          "impacted-user-count": 0,
-          "cost-usd": 0,
-          "actor": "Nation State:APT10",
-          "initial-access": "?",
-          "motive": "Espionage"
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT10",
+        "initial-access": "?",
+        "motive": "Espionage"
       },
       "links": [
-          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
-          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
-          "https://www.sacs.co.za/2019/06/28/4918/"
+        "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+        "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+        "https://www.sacs.co.za/2019/06/28/4918/"
       ]
     },
     {
@@ -2905,16 +2905,16 @@
       "entity": "Telefonaktiebolaget LM Ericsson",
       "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
       "tags": {
-          "impacted-user-count": 0,
-          "cost-usd": 0,
-          "actor": "Nation State:APT10",
-          "initial-access": "?",
-          "motive": "Espionage"
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT10",
+        "initial-access": "?",
+        "motive": "Espionage"
       },
       "links": [
-          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
-          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
-          "https://www.sacs.co.za/2019/06/28/4918/"
+        "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+        "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+        "https://www.sacs.co.za/2019/06/28/4918/"
       ]
     },
     {
@@ -2923,16 +2923,16 @@
       "entity": "Fujitsu",
       "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
       "tags": {
-          "impacted-user-count": 0,
-          "cost-usd": 0,
-          "actor": "Nation State:APT10",
-          "initial-access": "?",
-          "motive": "Espionage"
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT10",
+        "initial-access": "?",
+        "motive": "Espionage"
       },
       "links": [
-          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
-          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
-          "https://www.sacs.co.za/2019/06/28/4918/"
+        "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+        "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+        "https://www.sacs.co.za/2019/06/28/4918/"
       ]
     },
     {
@@ -2941,16 +2941,16 @@
       "entity": "Tata Consultancy Services",
       "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
       "tags": {
-          "impacted-user-count": 0,
-          "cost-usd": 0,
-          "actor": "Nation State:APT10",
-          "initial-access": "?",
-          "motive": "Espionage"
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT10",
+        "initial-access": "?",
+        "motive": "Espionage"
       },
       "links": [
-          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
-          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
-          "https://www.sacs.co.za/2019/06/28/4918/"
+        "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+        "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+        "https://www.sacs.co.za/2019/06/28/4918/"
       ]
     },
     {
@@ -2959,16 +2959,16 @@
       "entity": "NTT Data",
       "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
       "tags": {
-          "impacted-user-count": 0,
-          "cost-usd": 0,
-          "actor": "Nation State:APT10",
-          "initial-access": "?",
-          "motive": "Espionage"
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT10",
+        "initial-access": "?",
+        "motive": "Espionage"
       },
       "links": [
-          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
-          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
-          "https://www.sacs.co.za/2019/06/28/4918/"
+        "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+        "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+        "https://www.sacs.co.za/2019/06/28/4918/"
       ]
     },
     {
@@ -2977,16 +2977,16 @@
       "entity": "Dimension Data",
       "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
       "tags": {
-          "impacted-user-count": 0,
-          "cost-usd": 0,
-          "actor": "Nation State:APT10",
-          "initial-access": "?",
-          "motive": "Espionage"
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT10",
+        "initial-access": "?",
+        "motive": "Espionage"
       },
       "links": [
-          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
-          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
-          "https://www.sacs.co.za/2019/06/28/4918/"
+        "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+        "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+        "https://www.sacs.co.za/2019/06/28/4918/"
       ]
     },
     {
@@ -2995,17 +2995,17 @@
       "entity": "Sabre",
       "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
       "tags": {
-          "impacted-user-count": 0,
-          "cost-usd": 0,
-          "actor": "Nation State:APT10",
-          "initial-access": "?",
-          "motive": "Espionage"
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT10",
+        "initial-access": "?",
+        "motive": "Espionage"
       },
       "links": [
-          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
-          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
-          "https://www.sacs.co.za/2019/06/28/4918/",
-          "https://siliconangle.com/2015/08/10/american-airlines-and-sabre-hit-by-reported-chinese-hack/"
+        "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+        "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+        "https://www.sacs.co.za/2019/06/28/4918/",
+        "https://siliconangle.com/2015/08/10/american-airlines-and-sabre-hit-by-reported-chinese-hack/"
       ]
     },
     {
@@ -3014,14 +3014,14 @@
       "entity": "American Airlines",
       "summary": "Targeted in Chinese espionage campaign",
       "tags": {
-          "impacted-user-count": 0,
-          "cost-usd": 0,
-          "actor": "Nation State:APT10",
-          "initial-access": "?",
-          "motive": "Espionage"
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT10",
+        "initial-access": "?",
+        "motive": "Espionage"
       },
       "links": [
-          "https://siliconangle.com/2015/08/10/american-airlines-and-sabre-hit-by-reported-chinese-hack/"
+        "https://siliconangle.com/2015/08/10/american-airlines-and-sabre-hit-by-reported-chinese-hack/"
       ]
     },
     {
@@ -3030,16 +3030,16 @@
       "entity": "Huntington Ingalls Industries",
       "summary": "Multiple entities targeted in Operation Cloud Hopper campaign",
       "tags": {
-          "impacted-user-count": 0,
-          "cost-usd": 0,
-          "actor": "Nation State:APT10",
-          "initial-access": "?",
-          "motive": "Espionage"
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT10",
+        "initial-access": "?",
+        "motive": "Espionage"
       },
       "links": [
-          "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
-          "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
-          "https://www.sacs.co.za/2019/06/28/4918/"
+        "https://www.reuters.com/investigates/special-report/china-cyber-cloudhopper/",
+        "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
+        "https://www.sacs.co.za/2019/06/28/4918/"
       ]
     },
     {
@@ -3048,20 +3048,20 @@
       "entity": "thyssenkrupp",
       "summary": "Targetted in nation state backed espionage campaign using winnti malware",
       "tags": {
-          "impacted-user-count": 0,
-          "cost-usd": 0,
-          "actor": "Nation State:APT41",
-          "initial-access": "?",
-          "motive": "Espionage"
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
       },
       "links": [
-          "https://www.thyssenkrupp.com/en/newsroom/dataprotection",
-          "https://www.bleepingcomputer.com/news/security/asian-hackers-stole-technical-trade-secrets-from-german-steelmaker-thyssenkrupp/",
-          "https://medium.com/chronicle-blog/winnti-more-than-just-windows-and-gates-e4f03436031a",
-          "https://www.wiwo.de/my/technologie/digitale-welt/attacke-auf-thyssenkrupp-schon-2016-griff-winnti-an-exklusiver-report-aus-dem-auge-des-sturms/14949912.html",
-          "https://github.com/TKCERT/winnti-nmap-script",
-          "https://github.com/TKCERT/winnti-detector",
-          "https://github.com/TKCERT/winnti-suricata-lua"
+        "https://www.thyssenkrupp.com/en/newsroom/dataprotection",
+        "https://www.bleepingcomputer.com/news/security/asian-hackers-stole-technical-trade-secrets-from-german-steelmaker-thyssenkrupp/",
+        "https://medium.com/chronicle-blog/winnti-more-than-just-windows-and-gates-e4f03436031a",
+        "https://www.wiwo.de/my/technologie/digitale-welt/attacke-auf-thyssenkrupp-schon-2016-griff-winnti-an-exklusiver-report-aus-dem-auge-des-sturms/14949912.html",
+        "https://github.com/TKCERT/winnti-nmap-script",
+        "https://github.com/TKCERT/winnti-detector",
+        "https://github.com/TKCERT/winnti-suricata-lua"
       ]
     },
     {
@@ -3070,14 +3070,14 @@
       "entity": "Bayer Covestro",
       "summary": "Targetted in nation state backed espionage campaign using winnti malware",
       "tags": {
-          "impacted-user-count": 0,
-          "cost-usd": 0,
-          "actor": "Nation State:APT41",
-          "initial-access": "?",
-          "motive": "Espionage"
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
       },
       "links": [
-          "https://www.2-spyware.com/bayer-cyber-attack-chinese-hackers-wicked-panda-used-winnti-malware"
+        "https://www.2-spyware.com/bayer-cyber-attack-chinese-hackers-wicked-panda-used-winnti-malware"
       ]
     },
     {
@@ -3433,6 +3433,102 @@
       },
       "links": [
         "https://media.cert.europa.eu/static/MEMO/2019/TLP-WHITE-CERT-EU-MEMO-190725-1.pdf"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 7,
+      "entity": "City Power Johannesburg",
+      "summary": "Databases compromised, encrypted, and ransom requested to decrypt. ",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "links": [
+        "https://www.securitymagazine.com/articles/90618-city-power-hit-by-ransomware-attack"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "City of Johannesburg",
+      "summary": "Data compromised and ransom requested to prevent public disclosure of data",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Criminal:Shadow Kill Hackers",
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "links": [
+        "https://nakedsecurity.sophos.com/2019/10/28/johannesburg-hit-by-second-malware-attack/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "UniCredit",
+      "summary": "Speculation that entity data was found on the black market",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Sale on dark web"
+      },
+      "links": [
+        "https://threatpost.com/magecart-attack-skin-care-site/149580/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "Betty Jean Kerr People's Health Centers",
+      "summary": "Credit card skimmer code on website",
+      "tags": {
+        "impacted-user-count": 152000,
+        "cost-usd": 0,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "links": [
+        "https://threatpost.com/magecart-attack-skin-care-site/149580/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "First Aid Beauty ",
+      "summary": "Credit card skimmer code on website",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Criminal:MageCart",
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+      },
+      "links": [
+        "https://threatpost.com/magecart-attack-skin-care-site/149580/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 7,
+      "entity": "Krystal",
+      "summary": "Entity notifying customers regarding a breach but are not providing details",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "?",
+        "initial-access": "?",
+        "motive": "?"
+      },
+      "links": [
+        "http://www.krystal.com/security/"
       ]
     }
   ]
