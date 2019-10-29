@@ -10,3 +10,4 @@ jobs:
       - uses: ericalexanderorg/github-actions/auto-summry@master
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          SUMMRY_API_KEY: ${{ secrets.SUMMRY_API_KEY }}
