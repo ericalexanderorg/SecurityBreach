@@ -1,10 +1,10 @@
 name: Auto Summry
-description: 'Adds a comment with a summary of the URL in the issue.'
 on:
   issues:
     types: [opened]
 jobs:
   addSummryComment:
+    runs-on: ubuntu-latest
     name: Add Summry Comment
     steps:
       - uses: ericalexanderorg/github-actions/auto-summry@master
