@@ -2,13 +2,11 @@ name: Auto Summry
 description: 'Adds a comment with a summary of the URL in the issue.'
 on:
   issues:
-    types: [intake]
+    types: [opened]
 jobs:
   addSummryComment:
     name: Add Summry Comment
     steps:
       - uses: ericalexanderorg/github-actions/auto-summry@master
-      - name: Apply Triage Label
-        uses: actions/github@v1.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
