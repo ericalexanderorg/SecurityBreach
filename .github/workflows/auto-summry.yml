@@ -8,7 +8,5 @@ jobs:
     name: Add Summry Comment
     steps:
       - uses: ericalexanderorg/github-actions/auto-summry@master
-      - name: Apply Triage Label
-        uses: actions/github@v1.0.0
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
