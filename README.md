@@ -1,5 +1,5 @@
 # SecurityBreach
-Crowd sourced catalog of security breaches. 
+Crowd sourced catalog of security breaches. [Join us on Slack](https://join.slack.com/t/securitybreach/shared_invite/enQtNzk1ODA5MDk5NzE0LTAwODQxMDZkNzAxM2FmZDc2ZGJjN2ZiMmUwOGY2MmI2Y2Q0Y2U3ODhiZTFkMmYzN2JlNjExMDAzM2EyMGI2YjE)
 
 View the data through the UI: https://ericalexander.org/SecurityBreach
 
