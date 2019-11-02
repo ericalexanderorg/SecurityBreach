@@ -87,7 +87,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a23x7h/accudoc_0918/?"
+        "https://www.theregister.co.uk/2018/11/29/accudoc_atrium_health_data_breach/"
       ]
     },
     {
@@ -101,7 +101,7 @@
         "initial-access": "OWASP:A5"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/7n3ask/alteryx/"
+        "http://beta.latimes.com/business/technology/la-fi-tn-alteryx-data-breach-20171222-story.html"
       ]
     },
     {
@@ -115,7 +115,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/adiknh/australian_emergency_warning_system_0119/?"
+        "https://www.abc.net.au/news/2019-01-07/emergency-text-service-hacked-warning-about-personal-data-sent/10688748"
       ]
     },
     {
@@ -129,7 +129,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwob0/bankers_life_42018/?"
+        "https://www.ibj.com/articles/71110-data-breach-at-bankers-life-under-investigation-by-state-insurance-department"
       ]
     },
     {
@@ -143,7 +143,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ad84ft/benefit_mall_1018/?"
+        "https://oag.ca.gov/system/files/BMC%20-%20FINAL%20CONSUMER%20NOTICE_0.pdf"
       ]
     },
     {
@@ -157,7 +157,7 @@
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a9cu7v/bevmo_0818/"
+        "https://oag.ca.gov/system/files/Sample%20Notice_27.pdf"
       ]
     },
     {
@@ -171,7 +171,7 @@
         "initial-access": "ATT&CK:T1326"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/7qdbr6/blackwallet_jan_2018/"
+        "https://www.bleepingcomputer.com/news/security/hackers-hijack-dns-server-of-blackwallet-to-steal-400-000/"
       ]
     },
     {
@@ -185,7 +185,7 @@
         "initial-access": "OWASP:A5"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a95s44/blind_1218/?"
+        "https://techcrunch.com/2018/12/20/blind-anonymous-app-data-exposure/"
       ]
     },
     {
@@ -199,7 +199,7 @@
         "initial-access": "OWASP:A5"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ad7xl6/blur_1218/?"
+        "https://www.abine.com/blog/2018/blur-security-update/"
       ]
     },
     {
@@ -213,7 +213,7 @@
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwqqs/british_airways_92017/",
+        "https://www.riskiq.com/blog/labs/magecart-british-airways-breach/",
         "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"
       ]
     },
@@ -228,7 +228,7 @@
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/7lw17q/bulletproof_coffee/"
+        "https://www.theregister.co.uk/2017/11/27/bulletproof_coffee_hacked/"
       ]
     },
     {
@@ -242,7 +242,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwmh0/girl_scouts_102018/?"
+        "http://techgenix.com/california-girl-scouts-data-breach/"
       ]
     },
     {
@@ -256,7 +256,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/7k7rz2/carefirst_breach/"
+        "https://krebsonsecurity.com/2015/05/carefirst-blue-cross-breach-hits-1-1m/"
       ]
     },
     {
@@ -270,7 +270,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a9cqz8/caribou_coffee_1218/?"
+        "https://www.zdnet.com/article/caribou-coffee-chain-announces-card-breach-impacting-239-stores/"
       ]
     },
     {
@@ -284,7 +284,8 @@
         "initial-access": "OWASP:A9"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/82cemw/carphone_warehouse/"
+        "https://www.databreachtoday.com/carphone-warehouse-breach-striking-failures-trigger-fine-a-10571",
+        "https://ico.org.uk/media/action-weve-taken/mpns/2172972/carphone-warehouse-mpn-20180110.pdf"
       ]
     },
     {
@@ -298,7 +299,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/82cga3/catawba_county/"
+        "http://www.wbtv.com/story/37649426/catawba-county-employee-computers-hacked"
       ]
     },
     {
@@ -312,7 +313,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwlb8/cathay_pacific_airways_102018/?"
+        "https://www.nytimes.com/2018/10/25/business/cathay-pacific-hack.html"
       ]
     },
     {
@@ -326,7 +327,7 @@
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a9ct59/century_springs_0918/?"
+        "https://ago.vermont.gov/blog/2018/12/14/century-spring-notice-of-data-breach-to-consumers/"
       ]
     },
     {
@@ -336,11 +337,54 @@
       "summary": "Phishing email led to malware that led to unauthorized data access",
       "tags": {
         "motive": "Money:Credit Card",
-        "actor": "?",
+        "actor": "Criminal:FIN7",
         "initial-access": "ATT&CK:T1193"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/91ck48/chilis_may_2018/"
+        "http://brinker.com/mediaroom/partials/newsdetail.html?news_id=135394",
+        "https://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100"
+      ]
+    },
+    {
+      "entity": "Chipotle",
+      "month": 5,
+      "year": 2018,
+      "summary": "Phishing email led to malware that led to unauthorized data access",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "Criminal:FIN7",
+        "initial-access": "ATT&CK:T1193"
+      },
+      "links": [
+        "https://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100"
+      ]
+    },
+    {
+      "entity": "Arbys",
+      "month": 5,
+      "year": 2018,
+      "summary": "Phishing email led to malware that led to unauthorized data access",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "Criminal:FIN7",
+        "initial-access": "ATT&CK:T1193"
+      },
+      "links": [
+        "https://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100"
+      ]
+    },
+    {
+      "entity": "Red Robin",
+      "month": 5,
+      "year": 2018,
+      "summary": "Phishing email led to malware that led to unauthorized data access",
+      "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "Criminal:FIN7",
+        "initial-access": "ATT&CK:T1193"
+      },
+      "links": [
+        "https://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100"
       ]
     },
     {
@@ -354,7 +398,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a23ykb/city_of_ames_1118/?"
+        "https://www.desmoinesregister.com/story/news/2018/11/30/ames-information-data-breach-parking-ticket-online-payment-system-central-iowa-hacking-crime/2168241002/"
       ]
     },
     {
@@ -368,7 +412,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/7tg04u/coincheck/"
+        "https://www.coindesk.com/numbers-not-coincheck-isnt-another-mt-gox/"
       ]
     },
     {
@@ -382,7 +426,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwo5g/complyright/?"
+        "https://krebsonsecurity.com/2018/07/human-resources-firm-complyright-breached/"
       ]
     },
     {
@@ -396,7 +440,7 @@
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ad823n/discountmugscom_1218/?"
+        "https://ago.vermont.gov/blog/2018/12/26/bel-usa-notice-of-data-breach-to-consumers/"
       ]
     },
     {
@@ -410,7 +454,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwlqc/dod_contractor_112018/?"
+        "https://www.forbes.com/sites/leemathews/2018/10/14/department-of-defense-data-breach-exposes-30000-employees/#231f93b91a6b"
       ]
     },
     {
@@ -424,7 +468,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9zeir4/east_tennessee_state_university_112018/?"
+        "https://www.wvlt.tv/content/news/Data-breach-leaves-thousands-of-ETSU-employees-vulnerable--500860311.html"
       ]
     },
     {
@@ -438,7 +482,7 @@
         "initial-access": "ATT&CK:T1193"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ad7vzh/electrum_1218/?"
+        "https://www.reddit.com/r/CryptoCurrency/comments/a9yji3/electrum_wallet_hacked_200_btc_stolen_so_far/"
       ]
     },
     {
@@ -452,7 +496,7 @@
         "initial-access": "OWASP:A9"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwrl9/equifax_92017/?"
+        "https://www.usatoday.com/story/tech/2017/09/26/timeline-events-surrounding-equifax-data-breach/703691001/"
       ]
     },
     {
@@ -466,7 +510,7 @@
         "initial-access": "OWASP:A5"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwn0x/exactis_62018/?"
+        "https://www.wired.com/story/exactis-database-leak-340-million-records/"
       ]
     },
     {
@@ -480,7 +524,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a9csia/exude_0918/?"
+        "https://ago.vermont.gov/blog/2018/12/14/exude-inc-notice-of-data-breach-to-consumers/"
       ]
     },
     {
@@ -494,21 +538,22 @@
         "initial-access": "OWASP:A6"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9jqfi1/facebook_201809/"
+        "https://news.ycombinator.com/item?id=18094823"
       ]
     },
     {
       "entity": "FastaBooking",
       "month": 6,
       "year": 2018,
-      "summary": "\"Server compromised",
+      "summary": "Server compromise led to unauthorized personal data access",
       "tags": {
-        "motive": "?",
-        "actor": "?",
+        "motive": "PII:?",
+        "actor": "Criminal",
         "initial-access": "?"
       },
       "links": [
-        "Money:Credit Card"
+        "https://www.bleepingcomputer.com/news/security/hundreds-of-hotels-affected-by-data-breach-at-hotel-booking-software-provider/",
+        "https://www.darkreading.com/attacks-breaches/hundreds-of-hotels-hit-in-fastbooking-breach/d/d-id/1332162"
       ]
     },
     {
@@ -522,7 +567,7 @@
         "initial-access": "OWASP:A5"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/7y0yma/httpwwwzdnetcomarticleunsecuredserverexposesfedexc/"
+        "http://www.zdnet.com/article/unsecured-server-exposes-fedex-customer-records/"
       ]
     },
     {
@@ -536,7 +581,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a2405z/five_guys_0818/?"
+        "http://ago.vermont.gov/blog/2018/11/02/five-guys-holdings-inc-notice-of-data-breach-to-consumers/"
       ]
     },
     {
@@ -550,7 +595,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwlij/florida_dept_health_102018/?"
+        "https://www.pnj.com/story/news/2018/11/09/florida-department-health-reports-data-breach-medical-info/1946263002/"
       ]
     },
     {
@@ -564,21 +609,22 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/7n39sl/forever_21/"
+        "http://wwd.com/fashion-news/fashion-scoops/forever-21-security-breach-details-11082973/",
+        "https://gizmodo.com/hackers-broke-into-forever-21s-payment-system-for-over-1821668357"
       ]
     },
     {
       "entity": "Fox IT",
       "month": 9,
       "year": 2017,
-      "summary": "ATT&CK:T1326 for MITM purposes",
+      "summary": "Domain registry account accessed and used to reroute traffic through DNS",
       "tags": {
         "motive": "?",
         "actor": "?",
         "initial-access": "ATT&CK:T1326"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/7k7se6/foxit_breach/"
+        "https://www.fox-it.com/en/insights/blogs/blog/fox-hit-cyber-attack/"
       ]
     },
     {
@@ -592,7 +638,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/8w4e56/gentoogithub_july_2018/"
+        "https://wiki.gentoo.org/wiki/Github/2018-06-28"
       ]
     },
     {
@@ -606,7 +652,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/7u6d3e/goget/"
+        "https://www.goget.com.au/notification/"
       ]
     },
     {
@@ -620,7 +666,7 @@
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ad85o7/hammer_nutrition_0118/?"
+        "https://oag.ca.gov/system/files/1st%20Email%20Notification%2012-17-18_0.pdf"
       ]
     },
     {
@@ -634,7 +680,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9w5bsq/healthcaregov_nov_2018/"
+        "https://techcrunch.com/2018/11/09/hackers-stole-income-immigration-and-tax-data-in-healthcare-gov-breach-government-confirms/"
       ]
     },
     {
@@ -648,7 +694,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwlz1/hsbc_112018/?"
+        "https://www.americanbanker.com/news/hsbc-suffers-data-breach-on-small-number-of-online-accounts"
       ]
     },
     {
@@ -662,7 +708,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/7lw1lu/imgur/"
+        "https://blog.imgur.com/2017/11/24/notice-of-data-breach/"
       ]
     },
     {
@@ -676,21 +722,21 @@
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a9crkx/infowars_1118/?"
+        "https://www.zdnet.com/article/card-skimming-malware-removed-from-infowars-online-store/"
       ]
     },
     {
       "entity": "Jason's Deli",
-      "month": 12,
-      "year": 2017,
-      "summary": "?",
+      "month": 5,
+      "year": 2018,
+      "summary": "Phishing email led to malware that led to unauthorized data access",
       "tags": {
         "motive": "Money:Credit Card",
-        "actor": "?",
-        "initial-access": "?"
+        "actor": "Criminal:FIN7",
+        "initial-access": "ATT&CK:T1193"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/7n3b2t/jasons_deli/"
+        "https://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100"
       ]
     },
     {
@@ -704,7 +750,7 @@
         "initial-access": "OWASP:A5"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9zeji8/kars4kids_112018/?"
+        "https://techcrunch.com/2018/11/13/kars4kids-data-breach/"
       ]
     },
     {
@@ -718,7 +764,7 @@
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwr83/kitronik_82018/?"
+        "https://www.zdnet.com/article/magecart-claims-fresh-victim-in-kitronik/"
       ]
     },
     {
@@ -732,7 +778,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/7ooqra/mailgunreddit/"
+        "http://blog.mailgun.com/mailgun-security-incident-and-important-customer-information/"
       ]
     },
     {
@@ -746,7 +792,8 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a23vou/marriottstarwood_1118/?"
+        "https://techcrunch.com/2018/11/30/starwood-hotels-says-500-million-guest-records-stolen-in-massive-data-breach/",
+        "https://www.nytimes.com/2018/11/30/business/marriott-data-breach.html"
       ]
     },
     {
@@ -760,7 +807,7 @@
         "initial-access": "ATT&CK:T1193"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwm5m/minnesota_dept_human_services_102018/?"
+        "https://kstp.com/politics/new-probe-launched-into-department-of-human-services-serious-data-breach/5112579/"
       ]
     },
     {
@@ -774,7 +821,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ad86a5/mj_insurance_1118/?"
+        "https://oag.ca.gov/system/files/CHDOCS01-%232634704-v1-AG-CA-Notification-Letter_0.PDF"
       ]
     },
     {
@@ -788,7 +835,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a24a49/samsam_ransomware_18/?"
+        "https://www.scmagazine.com/home/security-news/four-iranian-nationals-indicted-in-samsam-attacks/"
       ]
     },
     {
@@ -802,21 +849,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a95rm4/click2gov_17/?"
-      ]
-    },
-    {
-      "entity": "Multiple consumer spyware companies",
-      "month": 4,
-      "year": 2017,
-      "summary": "API compromise",
-      "tags": {
-        "motive": "?",
-        "actor": "?",
-        "initial-access": "?"
-      },
-      "links": [
-        "Hacktivism:Schadenfreude"
+        "https://geminiadvisory.io/hacked-click2gov-exposed-payment-data/"
       ]
     },
     {
@@ -830,7 +863,7 @@
         "initial-access": "ATT&CK:T1193"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwmvc/multiple_cryptocurrency_companies_2018/?"
+        "https://thenextweb.com/hardfork/2018/10/19/cryptocurrency-attack-report/"
       ]
     },
     {
@@ -844,7 +877,7 @@
         "initial-access": "BGP Hijack"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/8eok7n/myetherwalletcomaws_route_53_april_2018/"
+        "https://doublepulsar.com/hijack-of-amazons-internet-domain-service-used-to-reroute-web-traffic-for-two-hours-unnoticed-3a6f0dda6a6f"
       ]
     },
     {
@@ -858,7 +891,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/885st6/myfitnesspall_march_2018/"
+        "https://content.myfitnesspal.com/security-information/notice.html"
       ]
     },
     {
@@ -872,7 +905,7 @@
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwqja/newegg_92017/?",
+        "https://techcrunch.com/2018/09/19/newegg-credit-card-data-breach/",
         "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"
       ]
     },
@@ -887,7 +920,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/7i29ld/nicehash_breach/"
+        "https://www.reddit.com/r/NiceHash/comments/7i0s6o/official_press_release_statement_by_nicehash/"
       ]
     },
     {
@@ -901,7 +934,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwn9b/orbitz_12016/?"
+        "https://www.lifelock.com/learn-data-breaches-orbitz-data-breach-what-to-do-next.html"
       ]
     },
     {
@@ -915,7 +948,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ad7ykg/os_news_0119/?"
+        "https://www.osnews.com/story/128924/what-happened-here/"
       ]
     },
     {
@@ -929,7 +962,7 @@
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ad837k/oxo_617/?"
+        "https://ago.vermont.gov/blog/2018/12/28/oxo-notice-of-data-breach-to-consumers-2/"
       ]
     },
     {
@@ -943,7 +976,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9zej5b/pageup_52018/?"
+        "https://www.itwire.com/open-sauce/85366-pageup-claims-no-data-taken-in-breach-please-pull-the-other-one.html"
       ]
     },
     {
@@ -957,7 +990,7 @@
         "initial-access": "OWASP:A5"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwnez/panera_42018/"
+        "https://krebsonsecurity.com/2018/04/panerabread-com-leaks-millions-of-customer-records/"
       ]
     },
     {
@@ -971,7 +1004,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/7n3bcu/tio_networks/"
+        "http://www.tallahassee.com/story/news/2017/12/28/potential-data-breach-affects-customers-who-use-remote-payment-kiosksmay-affect-thousands-tallahasse/987390001/"
       ]
     },
     {
@@ -985,7 +1018,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/93r5of/reddit_201808/"
+        "https://www.reddit.com/r/announcements/comments/93qnm5/we_had_a_security_incident_heres_what_you_need_to/"
       ]
     },
     {
@@ -999,7 +1032,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a9cw3o/san_diego_unified_school_district/?"
+        "https://www.sandiegounified.org/datasafety"
       ]
     },
     {
@@ -1013,7 +1046,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwoh5/shein_2018/?"
+        "https://www.zdnet.com/article/shein-fashion-retailer-announces-breach-affecting-6-42-million-users/"
       ]
     },
     {
@@ -1027,7 +1060,7 @@
         "initial-access": "OWASP:A5"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a2493z/sky_brasil_1118/"
+        "https://www.scmagazine.com/home/security-news/sky-brasil-one-of-the-biggest-subscription-television-services-in-brazil-is-the-latest-elasticsearch-server-user-to-leave-its-customers-exposed-after-not-securing-the-server-with-a-password/"
       ]
     },
     {
@@ -1041,7 +1074,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/a23zk0/tmobile_82018/?"
+        "https://www.t-mobile.com/customers/6305378821"
       ]
     },
     {
@@ -1055,7 +1088,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/8cs2c5/taskrabbit_april_2018/"
+        "https://www.cnet.com/news/taskrabbit-investigates-cybersecurity-incident-app-taken-down/"
       ]
     },
     {
@@ -1069,7 +1102,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/88j9bf/texthelp_feb_2018/"
+        "https://www.texthelp.com/en-gb/company/corporate-blog/february-2018/data-security-investigation-underway-at-texthelp/"
       ]
     },
     {
@@ -1083,7 +1116,7 @@
         "initial-access": "ATT&CK:T1193"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/91oo7b/the_national_bank_of_blacksburg_july_2018/"
+        "https://krebsonsecurity.com/2018/07/hackers-breached-virginia-bank-twice-in-eight-months-stole-2-4m/"
       ]
     },
     {
@@ -1097,7 +1130,7 @@
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwr03/ticketmaster_22018/?",
+        "https://nakedsecurity.sophos.com/2018/06/28/ticketmaster-breach-what-happened-and-what-to-do/",
         "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"
       ]
     },
@@ -1112,7 +1145,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwnnd/ticketfly_42018/?"
+        "https://www.tomsguide.com/us/ticketfly-data-breach,news-27374.html"
       ]
     },
     {
@@ -1126,7 +1159,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/8x7ajt/timehop_july_2018/"
+        "https://www.timehop.com/security"
       ]
     },
     {
@@ -1140,7 +1173,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwo0a/typeform_72018/?"
+        "https://nakedsecurity.sophos.com/2018/07/03/typeform-data-breach-hits-thousands-of-survey-accounts/"
       ]
     },
     {
@@ -1168,7 +1201,7 @@
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9zeiat/vision_direct_112018/?"
+        "https://www.theregister.co.uk/2018/11/19/vision_direct_fesses_up_to_hack_that_exposed_customer_names_and_payment_deets/"
       ]
     },
     {
@@ -1182,7 +1215,7 @@
         "initial-access": "OWASP:A5"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/9xwhoi/voxox_112018/"
+        "https://techcrunch.com/2018/11/15/millions-sms-text-messages-leaked-two-factor-codes/"
       ]
     },
     {
@@ -1196,7 +1229,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ad83os/wolverine_solutions_group_918/?"
+        "https://ago.vermont.gov/blog/2018/12/28/wolverine-solutions-group-snotice-of-data-breach-to-consumers/"
       ]
     },
     {
@@ -1210,7 +1243,7 @@
         "initial-access": "OWASP:A5"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ahm3ug/dxexchange_0119/?"
+        "https://arstechnica.com/information-technology/2019/01/hot-new-trading-site-leaked-oodles-of-user-data-including-login-tokens/"
       ]
     },
     {
@@ -1224,7 +1257,7 @@
         "initial-access": "OWASP:A5"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ahm5xy/amadeus_0119/?"
+        "https://www.bankinfosecurity.com/airline-booking-system-exposed-passenger-details-a-11952"
       ]
     },
     {
@@ -1238,7 +1271,7 @@
         "initial-access": "BEC:Impersonation"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ahm72o/tecnimont_0119/?"
+        "https://www.bankinfosecurity.com/bec-scam-leads-to-theft-186-million-a-11930"
       ]
     },
     {
@@ -1252,7 +1285,7 @@
         "initial-access": "?"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ahm7lp/quora_1218/?"
+        "https://www.fraud.org/quora_2018"
       ]
     },
     {
@@ -1266,7 +1299,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ahm836/aimbridge_hospitality_holdings_0918/?"
+        "https://agportal-s3bucket.s3.amazonaws.com/uploadedfiles/Home/Safeguarding_Consumers/Data_Breach/AimbridgeHospitalityHoldingsLLC.2018-12-31.PDF"
       ]
     },
     {
@@ -1280,7 +1313,7 @@
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ahm8kc/global_imports/?"
+        "https://oag.ca.gov/system/files/A%26A%20Consumer%20Notice%20Proof%20-%20FINAL%201-9-19_0.pdf"
       ]
     },
     {
@@ -1294,7 +1327,7 @@
         "initial-access": "ATT&CK:T1078"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ahm91w/jensen_precast_1018/?"
+        "https://oag.ca.gov/system/files/Jensen%20-%20CA%20Regulatory%20Notification%20Letter_0%20%28notice%29_0.pdf"
       ]
     },
     {
@@ -1308,7 +1341,7 @@
         "initial-access": "OWASP:A10"
       },
       "links": [
-        "https://www.reddit.com/r/securitybreach/comments/ahm9jt/ez_up_1018/?"
+        "https://oag.ca.gov/system/files/E-Z%20UP%2C%20Inc.%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0%20%28notice%29_0.pdf"
       ]
     },
     {
