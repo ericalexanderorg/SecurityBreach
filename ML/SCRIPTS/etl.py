@@ -40,7 +40,10 @@ def get_summries(breach):
                     print('Daily quota hit. Will not attempt to pull SUMMRY again')
                     pull_summry = False
                 else:
-                    print('Could not pull summry. Error:{}'.format(data['sm_api_message']))
+                    api_error = "API ERROR: {}".format(data['sm_api_message'])
+                    print(api_error)
+                    # Add error to cache so we don't try and pull again
+                    data['sm_api_content'] = api_error
             if 'sm_api_content' in data:
                 summry = data['sm_api_content']
                 # Write it to our cache
@@ -72,18 +75,23 @@ def main():
                         this_data = {'Tag': breach['tags'][tag], 'Data': summry}
                         data[tag].append(this_data)
     
-    # Create our CSV files
+
+    print('Creating CSV files')
     csv_columns = ['Tag','Data']
     for tag in essential_tags:
         csv_file = "../DATA/CSV/{}.csv".format(tag)
-        try:
-            with open(csv_file, 'w') as csvfile:
-                writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
-                writer.writeheader()
-                for d in data[tag]:
+        #try:
+        with open(csv_file, 'w') as csvfile:
+            print('Opened {}'.format(csv_file))
+            writer = csv.DictWriter(csvfile, fieldnames=csv_columns)
+            writer.writeheader()
+            for d in data[tag]:
+                try:
                     writer.writerow(d)
-        except IOError:
-            print("I/O error") 
+                except:
+                    print("Error writing the following data to file {}: {}".format(csv_file,d))
+        #except IOError:
+        #    print("I/O error writing file {}".format(csv_file)) 
 
 
 if __name__ == "__main__":
