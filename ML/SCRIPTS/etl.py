@@ -9,7 +9,7 @@ from urllib.parse import quote
 # pull the summry if we don't already have it
 def get_summries(breach):
     # Set flag to determine if we're going to attempt to pull summry from their API
-    pull_summry = False
+    pull_summry = True
     summries=[]
     for link in breach['links']:
         # extract the domain name, we'll use it in our filename
