@@ -1,6 +1,7 @@
 import json
 import os
 import requests
+from datetime import datetime
 from urllib.parse import urlparse
 from urllib.parse import quote
 
@@ -15,54 +16,57 @@ def debug(message):
 def get_essential_tags():
     return ['actor','motive','initial-access']
 
+def get_summry(link, entity, year=datetime.now().year, month=datetime.now().month):
+    # Set flag to determine if we're going to attempt to pull summry from their API
+    pull_summry = True
+    # extract the domain name, we'll use it in our filename
+    parsed_uri = urlparse(link)
+    domain = parsed_uri.netloc
+    # clean up our entity name so it works in the filename
+    entity = quote(entity, safe= '')
+    # define our filename
+    fname = '{}.{}.{}.{}.txt'.format(year, month, entity, domain).lower()
+    debug(fname)
+    # File already exists in our cache?
+    fpath = '../DATA/SUMMRY/{}'.format(fname)
+    if os.path.exists(fpath):
+        debug('Link found in cache: {}'.format(link))
+        f = open(fpath, "r")
+        return f.read()
+    elif pull_summry:
+        # Pull the summry
+        debug('Pulling summry: {}'.format(link))
+        api_url = "https://api.smmry.com/&SM_API_KEY={}&SM_URL={}".format(os.environ.get('SM_API_KEY'),link)
+        r = requests.get(api_url)
+        data = r.json()
+        if 'sm_api_message' in data:
+            if 'INVALID API KEY' in data['sm_api_message']:
+                debug('Invalid SUMMRY api key, exiting')
+                os._exit(1)
+            elif 'DAILY QUOTA' in data['sm_api_message']:
+                debug('Daily quota hit. Will not attempt to pull SUMMRY again')
+                pull_summry = False
+            elif 'SENTENCE AMOUNT REDUCED' in data['sm_api_message']:
+                debug(data['sm_api_message'])
+                # we'll use it, carry on
+            else:
+                api_error = "API ERROR: {}".format(data['sm_api_message'])
+                debug(api_error)
+                # Add error to cache so we don't try and pull again
+                data['sm_api_content'] = api_error
+        if 'sm_api_content' in data:
+            summry = data['sm_api_content']
+            # Write it to our cache
+            f = open(fpath, "a")
+            f.write(summry)
+        return summry
 
 # pull the summry if we don't already have it
 def get_breach_summrys(breach):
-    # Set flag to determine if we're going to attempt to pull summry from their API
-    pull_summry = True
     summries=[]
     for link in breach['links']:
-        # extract the domain name, we'll use it in our filename
-        parsed_uri = urlparse(link)
-        domain = parsed_uri.netloc
-        # clean up our entity name so it works in the filename
-        entity = quote(breach['entity'], safe= '')
-        # define our filename
-        fname = '{}.{}.{}.{}.txt'.format(breach['year'], breach['month'], entity, domain).lower()
-        debug(fname)
-        # File already exists in our cache?
-        fpath = '../DATA/SUMMRY/{}'.format(fname)
-        if os.path.exists(fpath):
-            debug('Link found in cache: {}'.format(link))
-            f = open(fpath, "r")
-            summries.append(f.read())
-        elif pull_summry:
-            # Pull the summry
-            debug('Pulling summry: {}'.format(link))
-            api_url = "https://api.smmry.com/&SM_API_KEY={}&SM_URL={}".format(os.environ.get('SM_API_KEY'),link)
-            r = requests.get(api_url)
-            data = r.json()
-            if 'sm_api_message' in data:
-                if 'INVALID API KEY' in data['sm_api_message']:
-                    debug('Invalid SUMMRY api key, exiting')
-                    os._exit(1)
-                elif 'DAILY QUOTA' in data['sm_api_message']:
-                    debug('Daily quota hit. Will not attempt to pull SUMMRY again')
-                    pull_summry = False
-                else:
-                    api_error = "API ERROR: {}".format(data['sm_api_message'])
-                    debug(api_error)
-                    # Add error to cache so we don't try and pull again
-                    data['sm_api_content'] = api_error
-            if 'sm_api_content' in data:
-                summry = data['sm_api_content']
-                # Write it to our cache
-                f = open(fpath, "a")
-                f.write(summry)
-                # append it to our results
-                summries.append(summry)
-        return summries
-
+        summries.append(get_summry(link, breach['entity'], breach['year'], breach['month']))
+    return summries
 
 def get_summrys():
     # Pull in breach data
