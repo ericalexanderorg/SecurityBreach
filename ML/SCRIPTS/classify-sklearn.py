@@ -1,12 +1,13 @@
 import sys
 import os
+import json
+from datetime import datetime
 from sklearn.datasets import load_files
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import SGDClassifier
 from sklearn.naive_bayes import MultinomialNB
-from datetime import datetime
 import etl as base
 
 def transform_name(name):
@@ -58,14 +59,10 @@ def main(url='', entity=''):
         # Establish frequency counts
         tfidf_transformer = TfidfTransformer()
         X_train_tfidf = tfidf_transformer.fit_transform(X_train_counts)
-        # Select classifier based on etag
-        # Not sure why but the nb classifier works better with actor
-        if etag in ['actor']:
-            # Train classifier using multi-nomial naive bayse
-            clf = MultinomialNB().fit(X_train_tfidf, train.target)
-        else:
-            # Train using stochastic gradient descent
-            clf = SGDClassifier().fit(X_train_tfidf, train.target)
+        # Train classifier using multi-nomial naive bayse
+        #clf = MultinomialNB().fit(X_train_tfidf, train.target)
+        # Train using stochastic gradient descent
+        clf = SGDClassifier().fit(X_train_tfidf, train.target)
 
         # Predict current summry
         # Establish occurance counts
@@ -84,10 +81,10 @@ def main(url='', entity=''):
         print('------------------------------------------------------------------------------------')
         print(summry)
         print('------------------------------------------------------------------------------------')
-        print(output)
+        print(json.dumps(output, indent=4, sort_keys=True))
         print('------------------------------------------------------------------------------------')
     else:
-        return(output)
+        return output
 
 if __name__ == "__main__":
     main()

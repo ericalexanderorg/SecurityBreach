@@ -18,6 +18,7 @@
       "Nation State": "Speculation the actor was a nation state.",
       "Criminal": "Speculation the actor was a criminal entity.",
       "Hacktivist": "Speculation or clear attribution that the actor acted to shed light on a vulnerable system.",
+      "Insider": "Authorized entity who used their access for malicious purposes.",
       "?": "Actor is unknown"
     },
     "initial-access": {
@@ -3563,6 +3564,287 @@
       "links": [
         "http://www.krystal.com/security/"
       ]
-    }
+    },
+    {
+      "entity": "Lyca Mobile",
+      "links": [
+        "https://securityaffairs.co/wordpress/93474/hacktivism/lulzsecita-lyca-mobile.html"
+      ],
+      "month": 11,
+      "summary": "Italian branch of Anonymous and LulzSecITA hacked websites of Lyca Mobile",
+      "tags": {
+        "actor": "Hacktivist:Anonymous",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Bitpoint",
+      "links": [
+        "https://www.infosecurity-magazine.com/news/japanese-exchange-bitpoint/"
+      ],
+      "month": 7,
+      "summary": "Japan-based cryptocurrency exchange Bitpoint has become the latest to lose tens of millions of dollars",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 10000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Bulgarian Tax Agency",
+      "links": [
+        "https://thehackernews.com/2019/07/bulgaria-nra-data-breach.html"
+      ],
+      "month": 7,
+      "summary": "PII stolen from Bulgarian Tax Agency",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 5000000,
+        "initial-access": "?",
+        "motive": "PII:?"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "AMCA",
+      "links": [
+        "https://www.scmagazine.com/home/security-news/data-breach/2-2-million-clinical-pathology-laboratories-patients-exposed-in-amca-breach/",
+        "https://healthitsecurity.com/news/amca-files-chapter-11-after-data-breach-impacting-quest-labcorp"
+      ],
+      "month": 7,
+      "summary": "The list of companies impacted by the American Medical Collection Agency data breach has grown, with",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 10000000,
+        "impacted-user-count": 20000000,
+        "initial-access": "?",
+        "motive": "PII:?"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "iNSYNQ",
+      "links": [
+        "https://krebsonsecurity.com/2019/07/quickbooks-cloud-hosting-firm-insynq-hit-in-ransomware-attack/"
+      ],
+      "month": 7,
+      "summary": "Cloud hosting provider iNSYNQ says it is trying to recover from a ransomware attack.",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Lancaster University",
+      "links": [
+        "https://www.itpro.co.uk/security/34070/lancaster-university-hit-by-double-data-breach"
+      ],
+      "month": 7,
+      "summary": "Personal information belonging to students has been stolen.",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1192",
+        "motive": "Money:Misc"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Deer Valley Resort",
+      "links": [
+        "https://www.scmagazine.com/home/retail/two-deer-valley-resort-restaurants-hit-with-pos-data-breach/"
+      ],
+      "month": 1,
+      "summary": "The Mariposa and the Royal Street Cafe in Deer Valley, Colo had their POS hacked",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Stockx",
+      "links": [
+        "https://techcrunch.com/2019/08/01/stockx-security-concerns-reset-passwords/"
+      ],
+      "month": 8,
+      "summary": "Some security teams obtain lists of previously breached passwords that make their way online, scramb",
+      "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "?"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "AT&T",
+      "links": [
+        "https://www.zdnet.com/article/at-t-employees-took-bribes-to-plant-malware-on-the-companys-network/"
+      ],
+      "month": 8,
+      "summary": "AT&T employees took bribes to unlock millions of smartphones, and to install malware and unauthorize",
+      "tags": {
+        "actor": "Insider",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Binance KYC",
+      "links": [
+        "https://thehackernews.com/2019/08/binance-kyc-data-leak.html",
+        "https://www.binance.com/en/blog/365766157488967680/Statement-on-False-KYC-Leak",
+        "https://decrypt.co/4648/binance-kraken-exchange-data-haul"
+      ],
+      "month": 8,
+      "summary": "Malta-based cryptocurrency exchange Binance has become a victim of a ransom demand from a scammer wh",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 290000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Suprema",
+      "links": [
+        "https://www.theguardian.com/technology/2019/aug/14/major-breach-found-in-biometrics-system-used-by-banks-uk-police-and-defence-firms"
+      ],
+      "month": 8,
+      "summary": "The fingerprints of over 1 million people, as well as facial recognition information, unencrypted, and exposed.",
+      "tags": {
+        "actor": "Hacktivism:Press",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "National Baseball Hall of Fame",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/national-baseball-hall-of-fame-hit-by-payment-card-stealing-attack/"
+      ],
+      "month": 11,
+      "summary": "The web site for the National Baseball Hall of Fame in Cooperstown, NY was hacked to include a malic",
+      "tags": {
+        "actor": "Criminal:MageCart",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+      },
+      "year": 2018
+    },
+    {
+      "entity": "European Central Bank",
+      "links": [
+        "https://thehackernews.com/2019/08/european-central-bank-hack.html"
+      ],
+      "month": 11,
+      "summary": "The European Central Bank confirmed Thursday that it had been hit by a cyberattack that involved att",
+      "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 481,
+        "initial-access": "?",
+        "motive": "PII:?"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Luscious",
+      "links": [
+        "https://threatpost.com/adult-content-site-exposed-personal-data-of-1m-users/147572/",
+        "https://www.vpnmentor.com/blog/report-luscious-data-breach/"
+      ],
+      "month": 8,
+      "summary": "The personal information more than a million users of popular adult website Luscious, including emai",
+      "tags": {
+        "actor": "Hacktivist:vpnMentor",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "MoviePass",
+      "links": [
+        "https://www.scmagazine.com/home/security-news/moviepass-database-exposes-161-million-records/",
+        "https://techcrunch.com/2019/08/20/moviepass-thousands-data-exposed-leak/"
+      ],
+      "month": 8,
+      "summary": "An exposed database on a MoviePass subdomain housing 161 million records was left unsecured and expo",
+      "tags": {
+        "actor": "Hacktivist:SpiderSilk",
+        "cost-usd": 0,
+        "impacted-user-count": 58000,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Hy-Vee",
+      "links": [
+          "https://krebsonsecurity.com/2019/08/breach-at-hy-vee-supermarket-chain-tied-to-sale-of-5m-stolen-credit-debit-cards/",
+          "https://www.argusleader.com/story/news/2019/10/03/hy-vee-data-breach-seven-sioux-falls-locations-affected-security-breach/3857299002/"
+      ],
+      "month": 12,
+      "summary": "Credit card data found for sale on dark web and triangulated to a breach at Hy-Vee",
+      "tags": {
+          "actor": "Criminal",
+          "cost-usd": 0,
+          "impacted-user-count": 0,
+          "initial-access": "?",
+          "motive": "Money:Credit Card"
+      },
+      "year": 2018
+  },
+  {
+    "entity": "Hostinger",
+    "links": [
+        "https://threatpost.com/hostinger-data-breach-14m-passwords/147681/",
+        "https://www.hostinger.com/blog/security-incident-what-you-need-to-know/?trifyguhioy8"
+    ],
+    "month": 8,
+    "summary": "Unauthorized third party gained access to an internal system API server",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 14000000,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "PII:?"
+    },
+    "year": 2019
+}
+
+  
   ]
 }
