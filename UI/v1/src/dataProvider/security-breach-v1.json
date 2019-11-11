@@ -3563,6 +3563,119 @@
       "links": [
         "http://www.krystal.com/security/"
       ]
+    },
+    {
+      "entity": "Lyca Mobile",
+      "links": [
+        "https://securityaffairs.co/wordpress/93474/hacktivism/lulzsecita-lyca-mobile.html"
+      ],
+      "month": 11,
+      "summary": "Italian branch of Anonymous and LulzSecITA hacked websites of Lyca Mobile",
+      "tags": {
+        "actor": "Hacktivist:Anonymous",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Bitpoint",
+      "links": [
+        "https://www.infosecurity-magazine.com/news/japanese-exchange-bitpoint/"
+      ],
+      "month": 7,
+      "summary": "Japan-based cryptocurrency exchange Bitpoint has become the latest to lose tens of millions of dollars",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 10000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Bulgarian Tax Agency",
+      "links": [
+        "https://thehackernews.com/2019/07/bulgaria-nra-data-breach.html"
+      ],
+      "month": 7,
+      "summary": "PII stolen from Bulgarian Tax Agency",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 5000000,
+        "initial-access": "?",
+        "motive": "PII:?"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "AMCA",
+      "links": [
+        "https://www.scmagazine.com/home/security-news/data-breach/2-2-million-clinical-pathology-laboratories-patients-exposed-in-amca-breach/",
+        "https://healthitsecurity.com/news/amca-files-chapter-11-after-data-breach-impacting-quest-labcorp"
+      ],
+      "month": 7,
+      "summary": "The list of companies impacted by the American Medical Collection Agency data breach has grown, with",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 10000000,
+        "impacted-user-count": 20000000,
+        "initial-access": "?",
+        "motive": "PII:?"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "iNSYNQ",
+      "links": [
+        "https://krebsonsecurity.com/2019/07/quickbooks-cloud-hosting-firm-insynq-hit-in-ransomware-attack/"
+      ],
+      "month": 7,
+      "summary": "Cloud hosting provider iNSYNQ says it is trying to recover from a ransomware attack.",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Lancaster University",
+      "links": [
+        "https://www.itpro.co.uk/security/34070/lancaster-university-hit-by-double-data-breach"
+      ],
+      "month": 7,
+      "summary": "Personal information belonging to students has been stolen.",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1192",
+        "motive": "Money:Misc"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Deer Valley Resort",
+      "links": [
+          "https://www.scmagazine.com/home/retail/two-deer-valley-resort-restaurants-hit-with-pos-data-breach/"
+      ],
+      "month": 1,
+      "summary": "The Mariposa and the Royal Street Cafe in Deer Valley, Colo had their POS hacked",
+      "tags": {
+          "actor": "Criminal",
+          "cost-usd": 0,
+          "impacted-user-count": 0,
+          "initial-access": "?",
+          "motive": "Money:Credit Card"
+      },
+      "year": 2019
     }
   ]
 }

@@ -1,12 +1,13 @@
 import sys
 import os
+import json
+from datetime import datetime
 from sklearn.datasets import load_files
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.linear_model import SGDClassifier
 from sklearn.naive_bayes import MultinomialNB
-from datetime import datetime
 import etl as base
 
 def transform_name(name):
@@ -84,10 +85,10 @@ def main(url='', entity=''):
         print('------------------------------------------------------------------------------------')
         print(summry)
         print('------------------------------------------------------------------------------------')
-        print(output)
+        print(json.dumps(output, indent=4, sort_keys=True))
         print('------------------------------------------------------------------------------------')
     else:
-        return(output)
+        return output
 
 if __name__ == "__main__":
     main()
