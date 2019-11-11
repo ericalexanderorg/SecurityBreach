@@ -115,6 +115,7 @@ export const BreachCreate = withStyles(inlineInputStyle)(({ classes, ...props })
                 { id: 'Criminal:BEC', name: 'Speculation the entity is one or more BEC teams. Commonly operating out of an African country' },
                 { id: 'Criminal', name: 'Misc criminal entity' },
                 { id: 'Hacktivist', name: 'Misc hacktivist entity' },
+                { id: 'Insider', name: 'Insider' },
                 { id: '?', name: 'Unknown' }
             ]} />
             <FormDataConsumer formClassName={classes.inlineBlock}>

@@ -59,14 +59,10 @@ def main(url='', entity=''):
         # Establish frequency counts
         tfidf_transformer = TfidfTransformer()
         X_train_tfidf = tfidf_transformer.fit_transform(X_train_counts)
-        # Select classifier based on etag
-        # Not sure why but the nb classifier works better with actor
-        if etag in ['actor']:
-            # Train classifier using multi-nomial naive bayse
-            clf = MultinomialNB().fit(X_train_tfidf, train.target)
-        else:
-            # Train using stochastic gradient descent
-            clf = SGDClassifier().fit(X_train_tfidf, train.target)
+        # Train classifier using multi-nomial naive bayse
+        #clf = MultinomialNB().fit(X_train_tfidf, train.target)
+        # Train using stochastic gradient descent
+        clf = SGDClassifier().fit(X_train_tfidf, train.target)
 
         # Predict current summry
         # Establish occurance counts

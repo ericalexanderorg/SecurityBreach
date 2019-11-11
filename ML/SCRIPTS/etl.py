@@ -43,7 +43,7 @@ def get_summry(link, entity, year=datetime.now().year, month=datetime.now().mont
             if 'INVALID API KEY' in data['sm_api_message']:
                 debug('Invalid SUMMRY api key, exiting')
                 os._exit(1)
-            elif 'DAILY QUOTA' in data['sm_api_message']:
+            if 'DAILY QUOTA' in data['sm_api_message']:
                 debug('Daily quota hit. Will not attempt to pull SUMMRY again')
                 pull_summry = False
             elif 'SENTENCE AMOUNT REDUCED' in data['sm_api_message']:
@@ -59,6 +59,10 @@ def get_summry(link, entity, year=datetime.now().year, month=datetime.now().mont
             # Write it to our cache
             f = open(fpath, "a")
             f.write(summry)
+        else:
+            print('Error pulling summry on url: {}'.format(link))
+            print(data)
+            os._exit(1)
         return summry
 
 # pull the summry if we don't already have it
