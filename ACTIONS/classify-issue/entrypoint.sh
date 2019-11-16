@@ -2,6 +2,8 @@
 
 # CD to where actions/checkout adds code
 cd "$GITHUB_WORKSPACE" || exit
+echo "$PWD"
+ls -alh
 
 # Set issue number and title
 GITHUB_ISSUE_NUMBER=$(jq --raw-output .issue.number "$GITHUB_EVENT_PATH")
