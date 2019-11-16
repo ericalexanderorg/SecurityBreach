@@ -3943,6 +3943,22 @@
       "links": [
         "https://www.bleepingcomputer.com/news/security/brooklyn-hospital-loses-patient-data-in-ransomware-attack/"
       ]
+    },
+    {
+      "year": 2019,
+      "month": 11,
+      "entity": "Nikkei",
+      "summary": "BEC scam resulted in $29 million loss",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 29000000,
+        "actor": "Criminal:BEC",
+        "initial-access": "?",
+        "motive": "Money:Bank Transfer"
+      },
+      "links": [
+        "https://threatpost.com/bec-scam-nikkei-29-million/149834/"
+      ]
     }
   ]
 }
