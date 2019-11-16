@@ -3843,6 +3843,22 @@
         "motive": "PII:?"
       },
       "year": 2019
+    },
+    {
+      "entity": "action test",
+      "links": [
+        "https://www.wired.com/story/sandworm-russia-cyberattack-links/"
+      ],
+      "month": 11,
+      "summary": "Since the Russian military agency known as the GRU first entered the spotlight as the hackers that t",
+      "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "year": 2019
     }
   ]
 }
