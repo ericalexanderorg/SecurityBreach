@@ -24,20 +24,24 @@ pip3 install requests
 # Prep dataset file by removing last 3 lines that contain: }]}
 echo "Prepping dataset"
 DATA_FILE="./UI/v1/src/dataProvider/security-breach-v1.json"
-TEMP=$(cat $DATA_FILE | head -n -3 file)
+TEMP=$(head -n -3 $DATA_FILE)
 echo "$TEMP" > $DATA_FILE
-echo "   }," >> $DATA_FILE
+echo "}," >> $DATA_FILE
 
 # Classify and append to dataset
 echo "Classifying"
 JSON="ERROR CLASSIFYING!"
-$JSON=$(python ./ML/SCRIPTS/classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE")
+$JSON=$(python ML/SCRIPTS/classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE")
 echo "$JSON" >> $DATA_FILE
 
-# Add last two lines we removed earlier
+
 echo "Finalizing data file"
-echo "  ]" >> "$DATA_FILE"
-echo "}" >> "$DATA_FILE"
+# Add last two lines we removed earlier
+echo "]}" >> "$DATA_FILE"
+# Clean up the data file with jq, also validates json.
+cat $DATA_FILE | jq > tmp.out
+mv tmp.out $DATA_FILE
+
 
 # Pass issue number to next step using output variable
 echo "Generating ouput"
