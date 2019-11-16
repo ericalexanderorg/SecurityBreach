@@ -1,0 +1,33 @@
+name: Classifiy Issue
+on:
+  issues:
+    types: [opened]
+jobs:
+  classifyIssue:
+    runs-on: ubuntu-latest
+    name: Classifiy Issue
+    steps:
+      - name: Checkout repo
+        id: checkout
+        uses: actions/checkout@v1
+      - name: Classify
+        id: classify
+        uses: ericalexanderorg/SecurityBreach/ACTIONS/classify-issue@master
+          env:
+            GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+            SUMMRY_API_KEY: ${{ secrets.SUMMRY_API_KEY }}
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v1
+        with:
+          token: ${{ secrets.GH_PAT }}
+          commit-message: fixes #${{ env.ISSUE_NUMBER }}
+          author-email: security-breach-auto-classify@users.noreply.github.com
+          author-name: Auto Classify
+          title: ${{ env.BRANCH_NAME }}
+          body: ${{ env.BRANCH_NAME }}
+          labels: auto-classify
+          branch: ${{ env.BRANCH_NAME }}
+      - name: Check outputs
+        run: |
+          echo "Pull Request Number - ${{ env.PULL_REQUEST_NUMBER }}"

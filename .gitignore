@@ -3,3 +3,5 @@ UI/v1/build/*
 UI/v1/node_modules/*
 UI/v1/yarn-error.log
 ML/SCRIPTS/__pycache__/*
+yarn.lock
+node_modules
