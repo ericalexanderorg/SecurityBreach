@@ -33,6 +33,5 @@ python ML/SCRIPTS/classify-sklearn.py $URL $GITHUB_ISSUE_TITLE >> $DATA_FILE
 echo "  ]" >> $DATA_FILE
 echo "}" >> $DATA_FILE
 
-# Export variables used in next steps
-export BRANCH_NAME=$BRANCH_NAME
-export ISSUE_NUMBER=$GITHUB_ISSUE_NUMBER
+# Pass issue number to next step using output variable
+echo ::set-output name=issue_number::$GITHUB_ISSUE_NUMBER

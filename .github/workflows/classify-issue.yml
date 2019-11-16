@@ -21,13 +21,13 @@ jobs:
         uses: peter-evans/create-pull-request@v1
         with:
           token: ${{ secrets.GH_PAT }}
-          commit-message: fixes #${{ env.ISSUE_NUMBER }}
+          commit-message: fixes #${{ steps.classify.outputs.issue_number }}
           author-email: security-breach-auto-classify@users.noreply.github.com
           author-name: Auto Classify
-          title: ${{ env.BRANCH_NAME }}
-          body: ${{ env.BRANCH_NAME }}
+          title: issue-${{ steps.classify.outputs.issue_number }}
+          body: issue-${{ steps.classify.outputs.issue_number }}
           labels: auto-classify
-          branch: ${{ env.BRANCH_NAME }}
+          branch: issue-${{ steps.classify.outputs.issue_number }}
       - name: Check outputs
         run: |
           echo "Pull Request Number - ${{ env.PULL_REQUEST_NUMBER }}"
