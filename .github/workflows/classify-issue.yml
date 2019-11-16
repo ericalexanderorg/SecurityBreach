@@ -24,10 +24,10 @@ jobs:
           commit-message: fixes #${{ steps.classify.outputs.issue_number }}
           author-email: security-breach-auto-classify@users.noreply.github.com
           author-name: Auto Classify
-          title: issue-${{ steps.classify.outputs.issue_number }}
-          body: issue-${{ steps.classify.outputs.issue_number }}
+          title: auto-classify-issue-${{ steps.classify.outputs.issue_number }}
+          body: auto-classify-issue-${{ steps.classify.outputs.issue_number }}
           labels: auto-classify
-          branch: issue-${{ steps.classify.outputs.issue_number }}
+          branch: auto-classify-issue-${{ steps.classify.outputs.issue_number }}
       - name: Check outputs
         run: |
           echo "Pull Request Number - ${{ env.PULL_REQUEST_NUMBER }}"

@@ -1,7 +1,10 @@
 #!/bin/bash
 
+# CD to where actions/checkout adds code
+cd $GITHUB_WORKSPACE
+
 # Set issue number and title
-GITHUB_ISSUE_NUMBER=$(jq --raw-output .issue.id "$GITHUB_EVENT_PATH")
+GITHUB_ISSUE_NUMBER=$(jq --raw-output .issue.number "$GITHUB_EVENT_PATH")
 GITHUB_ISSUE_TITLE=$(jq --raw-output .issue.title "$GITHUB_EVENT_PATH")
 
 # Grab the issue body and extract the first URL
@@ -22,7 +25,7 @@ pip3 install -r ML/SCRIPTS/requirements-classify-sklearn.txt
 
 # Prep dataset file by removing last 3 lines that contain: }]}
 $DATA_FILE="UI/v1/src/dataProvider/security-breach-v1.json"
-$TEMP=$(cat UI/v1/src/dataProvider/security-breach-v1.json | head -n -3 file)
+$TEMP=$(cat $DATA_FILE | head -n -3 file)
 echo "$TEMP" > $DATA_FILE
 echo "   }," >> $DATA_FILE
 
