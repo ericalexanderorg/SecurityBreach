@@ -8,29 +8,36 @@ GITHUB_ISSUE_NUMBER=$(jq --raw-output .issue.number "$GITHUB_EVENT_PATH")
 GITHUB_ISSUE_TITLE=$(jq --raw-output .issue.title "$GITHUB_EVENT_PATH")
 
 # Grab the issue body and extract the first URL
+echo "Getting URL from issue body"
 GITHUB_ISSUE_BODY=$(jq --raw-output .issue.body "$GITHUB_EVENT_PATH")
 echo "$GITHUB_ISSUE_BODY"
 URL=$(echo "$GITHUB_ISSUE_BODY" | grep -o "https\?://[a-zA-Z0-9./?=_-]*")
 echo "$URL"
 
-# Install dependencies.
+echo "Installing dependencies"
 #pip3 install -r ./ML/SCRIPTS/requirements-classify-sklearn.txt
 pip3 install requests
 
+
 # Prep dataset file by removing last 3 lines that contain: }]}
-DATA_FILE="UI/v1/src/dataProvider/security-breach-v1.json"
+echo "Prepping dataset"
+DATA_FILE="./UI/v1/src/dataProvider/security-breach-v1.json"
 TEMP=$(cat $DATA_FILE | head -n -3 file)
 echo "$TEMP" > $DATA_FILE
 echo "   }," >> $DATA_FILE
 
 # Classify and append to dataset
-JSON=$(python ML/SCRIPTS/classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE")
+echo "Classifying"
+JSON="ERROR CLASSIFYING!"
+$JSON=$(python ./ML/SCRIPTS/classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE")
 echo "$JSON" >> $DATA_FILE
 
 # Add last two lines we removed earlier
+echo "Finalizing data file"
 echo "  ]" >> "$DATA_FILE"
 echo "}" >> "$DATA_FILE"
 
 # Pass issue number to next step using output variable
+echo "Generating ouput"
 echo ::set-output name=issue_number::"$GITHUB_ISSUE_NUMBER"
 echo ::set-output name=json::"$JSON"
