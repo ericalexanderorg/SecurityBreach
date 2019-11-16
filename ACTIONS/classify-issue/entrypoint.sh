@@ -20,7 +20,6 @@ echo "Installing dependencies"
 #pip3 install -r ./ML/SCRIPTS/requirements-classify-sklearn.txt
 pip3 install requests
 
-
 # Prep dataset file by removing last 3 lines that contain: }]}
 echo "Prepping dataset"
 DATA_FILE="./UI/v1/src/dataProvider/security-breach-v1.json"
@@ -30,14 +29,9 @@ echo "}," >> $DATA_FILE
 
 # Classify and append to dataset
 echo "Classifying"
-JSON="ERROR CLASSIFYING!"
 cd ML/SCRIPTS
-echo "$PWD"
-ls -alh
-$JSON=$(python3 ./classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE")
+python3 ./classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE" >> $DATA_FILE
 cd ../../
-echo "$JSON" >> $DATA_FILE
-
 
 echo "Finalizing data file"
 # Add last two lines we removed earlier
@@ -46,8 +40,6 @@ echo "]}" >> "$DATA_FILE"
 cat $DATA_FILE | jq > tmp.out
 mv tmp.out $DATA_FILE
 
-
 # Pass issue number to next step using output variable
 echo "Generating ouput"
 echo ::set-output name=issue_number::"$GITHUB_ISSUE_NUMBER"
-echo ::set-output name=json::"$JSON"
