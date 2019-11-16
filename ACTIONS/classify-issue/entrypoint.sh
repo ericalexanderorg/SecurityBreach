@@ -31,7 +31,9 @@ echo "}," >> $DATA_FILE
 # Classify and append to dataset
 echo "Classifying"
 JSON="ERROR CLASSIFYING!"
-$JSON=$(python ML/SCRIPTS/classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE")
+cd ML/SCRIPTS
+$JSON=$(python3 classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE")
+cd ../../
 echo "$JSON" >> $DATA_FILE
 
 
