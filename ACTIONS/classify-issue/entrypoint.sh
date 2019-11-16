@@ -22,7 +22,7 @@ pip3 install requests
 
 # Prep dataset file by removing last 3 lines that contain: }]}
 echo "Prepping dataset"
-DATA_FILE="./UI/v1/src/dataProvider/security-breach-v1.json"
+DATA_FILE="$GITHUB_WORKSPACE/UI/v1/src/dataProvider/security-breach-v1.json"
 TEMP=$(head -n -3 $DATA_FILE)
 echo "$TEMP" > $DATA_FILE
 echo "}," >> $DATA_FILE
