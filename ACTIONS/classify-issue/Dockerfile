@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM smizy/scikit-learn:0.21.3-alpine
 
 LABEL "com.github.actions.name"="Classify security breach"
 LABEL "com.github.actions.description"="Pull SUMMRY, classify, add comments to issue, and create a PR."
@@ -9,7 +9,7 @@ LABEL "repository"="https://github.com/ericalexanderorg/SecurityBreach/ACTIONS/c
 LABEL "homepage"="https://github.com/ericalexanderorg/SecurityBreach/ACTIONS/classify-issue"
 LABEL "maintainer"="Eric Alexander"
 
-RUN apk add --no-cache bash curl jq python3 cmake build-essential gcc g++
+RUN apk add --no-cache bash curl jq
 
 COPY "entrypoint.sh" "/entrypoint.sh"
 RUN chmod +x /entrypoint.sh

@@ -14,7 +14,7 @@ URL=$(echo "$GITHUB_ISSUE_BODY" | grep -o "https\?://[a-zA-Z0-9./?=_-]*")
 echo "$URL"
 
 # Install dependencies.
-pip3 install -r ./ML/SCRIPTS/requirements-classify-sklearn.txt
+#pip3 install -r ./ML/SCRIPTS/requirements-classify-sklearn.txt
 
 # Prep dataset file by removing last 3 lines that contain: }]}
 DATA_FILE="UI/v1/src/dataProvider/security-breach-v1.json"
@@ -23,7 +23,7 @@ echo "$TEMP" > $DATA_FILE
 echo "   }," >> $DATA_FILE
 
 # Classify and append to dataset
-JSON=$(python3 ML/SCRIPTS/classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE")
+JSON=$(python ML/SCRIPTS/classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE")
 echo "$JSON" >> $DATA_FILE
 
 # Add last two lines we removed earlier
