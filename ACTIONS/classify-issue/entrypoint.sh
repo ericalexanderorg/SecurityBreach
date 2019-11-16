@@ -23,7 +23,7 @@ echo "$TEMP" > $DATA_FILE
 echo "   }," >> $DATA_FILE
 
 # Classify and append to dataset
-JSON=$(python ML/SCRIPTS/classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE")
+JSON=$(python3 ML/SCRIPTS/classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE")
 echo "$JSON" >> $DATA_FILE
 
 # Add last two lines we removed earlier
