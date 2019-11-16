@@ -15,6 +15,7 @@ echo "$URL"
 
 # Install dependencies.
 #pip3 install -r ./ML/SCRIPTS/requirements-classify-sklearn.txt
+pip3 install requests
 
 # Prep dataset file by removing last 3 lines that contain: }]}
 DATA_FILE="UI/v1/src/dataProvider/security-breach-v1.json"

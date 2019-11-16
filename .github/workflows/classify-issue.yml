@@ -19,6 +19,7 @@ jobs:
       - name: Check classify outputs
         run: |
           echo "Issue Number - ${{ steps.classify.outputs.issue_number }}"
+          echo "Issue Number - ${{ steps.classify.outputs.json }}"
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v1
