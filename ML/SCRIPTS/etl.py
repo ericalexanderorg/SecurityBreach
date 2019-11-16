@@ -36,7 +36,7 @@ def get_summry(link, entity, year=datetime.now().year, month=datetime.now().mont
     elif pull_summry:
         # Pull the summry
         debug('Pulling summry: {}'.format(link))
-        api_url = "https://api.smmry.com/&SM_API_KEY={}&SM_URL={}".format(os.environ.get('SM_API_KEY'),link)
+        api_url = "https://api.smmry.com/&SM_API_KEY={}&SM_URL={}".format(os.environ.get('SUMMRY_API_KEY'),link)
         r = requests.get(api_url)
         data = r.json()
         if 'sm_api_message' in data:
