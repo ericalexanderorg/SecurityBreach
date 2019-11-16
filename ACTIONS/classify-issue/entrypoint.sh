@@ -31,7 +31,7 @@ echo "}," >> $DATA_FILE
 echo "Classifying"
 cd ML/SCRIPTS
 # Escape whitespaces in title
-$TITLE=$($GITHUB_ISSUE_TITLE | sed 's/ /\\ /g')
+$TITLE=$(cat $GITHUB_ISSUE_TITLE | sed 's/ /\\ /g')
 COMMAND="python3 classify-sklearn.py $URL $TITLE $DATA_FILE"
 echo "Running: $COMMAND"
 $COMMAND
