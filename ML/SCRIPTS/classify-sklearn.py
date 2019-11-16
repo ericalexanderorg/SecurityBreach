@@ -22,8 +22,8 @@ def main(url='', entity=''):
     # Sanity check
     if not url and not entity:
         # Was called directly as a script, validate arguments
-        message='No url defined. Pass a URL like so: python3 classify-sklearn.py https://example.com "Entity Name" outputfile.txt'
-        if len(sys.argv) < 4:
+        message='No url defined. Pass a URL like so: python3 classify-sklearn.py https://example.com "Entity Name"'
+        if len(sys.argv) < 3:
             sys.exit(message)
         url = sys.argv[1]
         if not url.startswith('http'):
@@ -83,10 +83,11 @@ def main(url='', entity=''):
         print('------------------------------------------------------------------------------------')
         print(json.dumps(output, indent=4, sort_keys=True))
         print('------------------------------------------------------------------------------------')
-        # Write output to file
-        f = open(sys.argv[3], "w")
-        f.write(json.dumps(output, indent=4, sort_keys=True))
-        f.close()  
+        if sys.argv[3]:
+            # Write output to file
+            f = open(sys.argv[3], "a")
+            f.write(json.dumps(output, indent=4, sort_keys=True))
+            f.close()  
     else:
         return output
 
