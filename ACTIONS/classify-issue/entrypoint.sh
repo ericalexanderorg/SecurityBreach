@@ -32,7 +32,9 @@ echo "}," >> $DATA_FILE
 echo "Classifying"
 JSON="ERROR CLASSIFYING!"
 cd ML/SCRIPTS
-$JSON=$(python3 classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE")
+echo "$PWD"
+ls -alh
+$JSON=$(python3 ./classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE")
 cd ../../
 echo "$JSON" >> $DATA_FILE
 
