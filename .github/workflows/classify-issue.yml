@@ -13,9 +13,9 @@ jobs:
       - name: Classify
         id: classify
         uses: ericalexanderorg/SecurityBreach/ACTIONS/classify-issue@master
-          env:
-            GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-            SUMMRY_API_KEY: ${{ secrets.SUMMRY_API_KEY }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          SUMMRY_API_KEY: ${{ secrets.SUMMRY_API_KEY }}
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v1
