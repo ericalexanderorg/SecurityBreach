@@ -3975,6 +3975,22 @@
       "links": [
         "https://www.reuters.com/article/us-facebook-cyber-whatsapp-nsogroup/exclusive-whatsapp-hacked-to-spy-on-top-government-officials-at-u-s-allies-sources-idUSKBN1XA27H"
       ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "Bed Bath & Beyond",
+      "summary": "Bed Bath & Beyond Discloses Customer Login Credentials Breach",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078",
+        "motive": "?"
+      },
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/bed-bath-and-beyond-discloses-customer-login-credentials-breach/"
+      ]
     }
   ]
 }
