@@ -33,6 +33,7 @@ cd ML/SCRIPTS
 python3 ./classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE" >> /tmp/classify.out
 cat /tmp/classify.out
 cat /tmp/classify.out >> $DATA_FILE
+tail -10 $DATA_FILE
 cd ../../
 
 echo "Finalizing data file"
