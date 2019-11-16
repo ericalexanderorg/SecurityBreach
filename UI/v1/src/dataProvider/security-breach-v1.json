@@ -3874,6 +3874,22 @@
         "initial-access": "?",
         "motive": "PII:?"
       },
+      "year": 2014
+    },
+    {
+      "entity": "Orvis",
+      "links": [
+        "https://krebsonsecurity.com/2019/11/retailer-orvis-com-leaked-hundreds-of-internal-passwords-on-pastebin/"
+      ],
+      "month": 11,
+      "summary": "Internal passwords leaked on Pastebin",
+      "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+      },
       "year": 2019
     }
   ]
