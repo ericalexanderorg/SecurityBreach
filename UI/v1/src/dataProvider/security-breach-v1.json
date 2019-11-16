@@ -73,6 +73,10 @@
       "ATT&CK:T1200": {
         "description": "Hardware Additions",
         "link": "https://attack.mitre.org/techniques/T1200/"
+      },
+      "Insider": {
+        "description": "Authorized access misused",
+        "link": "https://en.wikipedia.org/wiki/Insider_threat"
       }
     }
   },
@@ -3907,6 +3911,22 @@
         "motive": "PII:?"
       },
       "year": 2019
+    },
+    {
+      "year": 2019,
+      "month": 8,
+      "entity": "TrendMicro",
+      "summary": "Employee was stealing consumer customer information and selling it to a third-party",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Insider",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/trendmicro-employee-sold-customer-info-to-tech-support-scammers/"
+      ]
     }
   ]
 }
