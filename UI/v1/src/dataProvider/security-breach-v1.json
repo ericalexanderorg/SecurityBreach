@@ -73,6 +73,10 @@
       "ATT&CK:T1200": {
         "description": "Hardware Additions",
         "link": "https://attack.mitre.org/techniques/T1200/"
+      },
+      "Insider": {
+        "description": "Authorized access misused",
+        "link": "https://en.wikipedia.org/wiki/Insider_threat"
       }
     }
   },
@@ -3843,6 +3847,166 @@
         "motive": "PII:?"
       },
       "year": 2019
+    },
+    {
+      "entity": "Pemex",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/mexicos-pemex-oil-suffers-ransomware-attack-49-million-demanded/"
+      ],
+      "month": 11,
+      "summary": "Mexico's state-owned oil company, Pemex, has suffered a DoppelPaymer ransomware attack that demanded",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "InfoTrax Systems",
+      "links": [
+        "https://thehackernews.com/2019/11/hacking-file-storage.html"
+      ],
+      "month": 11,
+      "summary": "Entity alerted to 2 year long breach when storage capacity exhausted.",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+      },
+      "year": 2014
+    },
+    {
+      "entity": "Orvis",
+      "links": [
+        "https://krebsonsecurity.com/2019/11/retailer-orvis-com-leaked-hundreds-of-internal-passwords-on-pastebin/"
+      ],
+      "month": 3,
+      "summary": "Internal passwords leaked on Pastebin",
+      "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+      },
+      "year": 2014
+    },
+    {
+      "entity": "ZoneAlarm",
+      "links": [
+        "https://thehackernews.com/2019/11/zonealarm-forum-data-breach.html"
+      ],
+      "month": 11,
+      "summary": "ZoneAlarm, an internet security software company owned by Israeli cybersecurity firm Check Point Tec",
+      "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A9",
+        "motive": "PII:?"
+      },
+      "year": 2019
+    },
+    {
+      "year": 2019,
+      "month": 8,
+      "entity": "TrendMicro",
+      "summary": "Employee was stealing consumer customer information and selling it to a third-party",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Insider",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/trendmicro-employee-sold-customer-info-to-tech-support-scammers/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 9,
+      "entity": "Brooklyn Hospital Center",
+      "summary": "Ransomware attack",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Ransomware"
+      },
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/brooklyn-hospital-loses-patient-data-in-ransomware-attack/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 11,
+      "entity": "Nikkei",
+      "summary": "BEC scam resulted in $29 million loss",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 29000000,
+        "actor": "Criminal:BEC",
+        "initial-access": "?",
+        "motive": "Money:Bank Transfer"
+      },
+      "links": [
+        "https://threatpost.com/bec-scam-nikkei-29-million/149834/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 4,
+      "entity": "WhatsApp",
+      "summary": "NSO Group built and sold a hacking platform that exploited a flaw in WhatsApp-owned servers to help clients hack into the cellphones of at least 1,400 users",
+      "tags": {
+        "impacted-user-count": 149000,
+        "cost-usd": 0,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+      },
+      "links": [
+        "https://www.reuters.com/article/us-facebook-cyber-whatsapp-nsogroup/exclusive-whatsapp-hacked-to-spy-on-top-government-officials-at-u-s-allies-sources-idUSKBN1XA27H"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "Bed Bath & Beyond",
+      "summary": "Bed Bath & Beyond Discloses Customer Login Credentials Breach",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078",
+        "motive": "?"
+      },
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/bed-bath-and-beyond-discloses-customer-login-credentials-breach/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "Pine County",
+      "summary": "Short summary of what happened",
+      "tags": {
+        "impacted-user-count": 4400,
+        "cost-usd": 0,
+        "actor": "?",
+        "initial-access": "ATT&CK:T1192",
+        "motive": "?"
+      },
+      "links": [
+        "http://www.pinecitymn.com/news/pine-county-hacked-security-breach-feared/article_ed404924-f5ba-11e9-9c02-9731bc6010e9.html"
+      ]
     }
   ]
 }

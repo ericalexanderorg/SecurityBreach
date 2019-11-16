@@ -138,6 +138,7 @@ export const BreachCreate = withStyles(inlineInputStyle)(({ classes, ...props })
                 { id: 'OWASP:A10', name: 'OWASP:A10: Insufficient Logging & Monitoring' },
                 { id: 'BEC:Impersonation', name: 'BEC:Impersonation: Attacker poses as a trusted entity and requests an action to be taken that leads to monetary loss' },
                 { id: 'BGP Hijack', name: 'BGP Hijack: Trafic re-routed through unauthorized BGP advertisements' },
+                { id: 'Insider', name: 'Insider misused authorized access.' },
                 { id: '?', name: 'Unknown' }
             ]} />
             <SelectInput source="tags.motive" choices={[
