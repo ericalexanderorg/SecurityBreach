@@ -32,3 +32,4 @@ echo "}" >> "$DATA_FILE"
 
 # Pass issue number to next step using output variable
 echo ::set-output name=issue_number::"$GITHUB_ISSUE_NUMBER"
+echo ::set-output name=json::"$JSON"
