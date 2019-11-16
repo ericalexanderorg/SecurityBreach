@@ -19,12 +19,13 @@ jobs:
       - name: Check classify outputs
         run: |
           echo "Issue Number - ${{ steps.classify.outputs.issue_number }}"
+          echo "PR Comment - ${{ steps.classify.outputs.pr_comment }}"
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v1
         with:
           token: ${{ secrets.GH_PAT }}
-          commit-message: fixes #${{ steps.classify.outputs.issue_number }}
+          commit-message: ${{ steps.classify.outputs.pr_comment }}
           author-email: security-breach-auto-classify@users.noreply.github.com
           author-name: Auto Classify
           title: auto-classify-issue-${{ steps.classify.outputs.issue_number }}

@@ -51,3 +51,4 @@ mv tmp.out $DATA_FILE
 # Pass issue number to next step using output variable
 echo "Generating ouput"
 echo ::set-output name=issue_number::"$GITHUB_ISSUE_NUMBER"
+echo ::set-output name=pr_comment::"fixes #$GITHUB_ISSUE_NUMBER"
