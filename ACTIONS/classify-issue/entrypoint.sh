@@ -30,8 +30,8 @@ echo "}," >> $DATA_FILE
 # Classify and append to dataset
 echo "Classifying"
 cd ML/SCRIPTS
-TFILE="/tmp/classify.out"
-COMMAND="python3 classify-sklearn.py $URL $GITHUB_ISSUE_TITLE > $TFILE"
+TFILE="classify.out"
+COMMAND="python3 classify-sklearn.py $URL $GITHUB_ISSUE_TITLE | tee $TFILE"
 echo "Running: $COMMAND"
 $COMMAND
 echo "Classification:"
@@ -39,6 +39,7 @@ cat $TFILE
 cat $TFILE >> $DATA_FILE
 echo "Last 10 lines of data file:"
 tail -10 $DATA_FILE
+rm -f $TFILE
 cd ../../
 
 echo "Finalizing data file"
