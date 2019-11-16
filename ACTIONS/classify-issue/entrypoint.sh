@@ -30,11 +30,7 @@ echo "}," >> $DATA_FILE
 # Classify and append to dataset
 echo "Classifying"
 cd ML/SCRIPTS
-# Escape whitespaces in title
-TITLE=$(echo $GITHUB_ISSUE_TITLE | sed 's/ /\\ /g')
-COMMAND="python3 classify-sklearn.py $URL $TITLE $DATA_FILE"
-echo "Running: $COMMAND"
-$COMMAND
+python3 classify-sklearn.py $URL "$GITHUB_ISSUE_TITLE" $DATA_FILE
 echo "Last 10 lines of data file:"
 tail -10 $DATA_FILE
 rm -f $TFILE
