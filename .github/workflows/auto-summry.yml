@@ -1,7 +1,7 @@
 name: Auto Summry
 on:
   issues:
-    types: [opened]
+    types: [disabled]
 jobs:
   addSummryComment:
     runs-on: ubuntu-latest

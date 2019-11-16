@@ -31,11 +31,9 @@ echo "}," >> $DATA_FILE
 echo "Classifying"
 cd ML/SCRIPTS
 TFILE="classify.out"
-COMMAND="python3 classify-sklearn.py $URL $GITHUB_ISSUE_TITLE | tee $TFILE"
+COMMAND="python3 classify-sklearn.py $URL $GITHUB_ISSUE_TITLE $TFILE"
 echo "Running: $COMMAND"
 $COMMAND
-echo "Classification:"
-cat $TFILE
 cat $TFILE >> $DATA_FILE
 echo "Last 10 lines of data file:"
 tail -10 $DATA_FILE
