@@ -3741,7 +3741,7 @@
       "month": 8,
       "summary": "The fingerprints of over 1 million people, as well as facial recognition information, unencrypted, and exposed.",
       "tags": {
-        "actor": "Hacktivism:Press",
+        "actor": "Hacktivist:Press",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "OWASP:A5",
