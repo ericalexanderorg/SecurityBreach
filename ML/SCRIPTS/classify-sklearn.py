@@ -83,11 +83,14 @@ def main(url='', entity=''):
         print('------------------------------------------------------------------------------------')
         print(json.dumps(output, indent=4, sort_keys=True))
         print('------------------------------------------------------------------------------------')
-        if sys.argv[3]:
+        try:
             # Write output to file
             f = open(sys.argv[3], "a")
             f.write(json.dumps(output, indent=4, sort_keys=True))
             f.close()  
+        except:
+            # No append file defined, skipping
+            pass
     else:
         return output
 
