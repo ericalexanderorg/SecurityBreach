@@ -4028,18 +4028,34 @@
     {
       "entity": "Misc crypto currency users and companies",
       "links": [
-          "https://thehackernews.com/2019/11/hacking-with-sim-swapping.html"
+        "https://thehackernews.com/2019/11/hacking-with-sim-swapping.html"
       ],
       "month": 11,
       "summary": "SIM swapping used to steal cryptocurrency.",
       "tags": {
-          "actor": "Criminal",
-          "cost-usd": 550000,
-          "impacted-user-count": 10,
-          "initial-access": "?",
-          "motive": "Money:Cryptocurrency"
+        "actor": "Criminal",
+        "cost-usd": 550000,
+        "impacted-user-count": 10,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
       },
       "year": 2019
-  }
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "A telecommunications network provider",
+      "summary": "APT41 Spy on Texts With MessageTap Malware",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State",
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://www.fireeye.com/blog/threat-research/2019/10/messagetap-who-is-reading-your-text-messages.html"
+      ]
+    }
   ]
 }
