@@ -4153,6 +4153,22 @@
       "links": [
         "https://www.bleepingcomputer.com/news/security/ransomware-attack-causes-school-district-wide-shutdown/"
       ]
+    },
+    {
+      "year": 2019,
+      "month": 7,
+      "entity": "Honda Motors Company",
+      "summary": "Elasticsearch database exposed without any authentication and containing information related to the internal network and computers of Honda Motor Company",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Hacktivist:xxdesmus",
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+      },
+      "links": [
+        "https://www.scmagazine.com/home/security-news/data-breach/independent-researcher-xxdesmus-discovered-a-honda-motor-company-database-leaking-the-computer-data-of-134-million-rows-roughly-40gb-of-employee-information/"
+      ]
     }
   ]
 }
