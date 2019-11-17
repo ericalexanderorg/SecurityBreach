@@ -4024,6 +4024,247 @@
         "motive": "Espionage"
       },
       "year": 2019
+    },
+    {
+      "entity": "Misc crypto currency users and companies",
+      "links": [
+        "https://thehackernews.com/2019/11/hacking-with-sim-swapping.html"
+      ],
+      "month": 11,
+      "summary": "SIM swapping used to steal cryptocurrency.",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 550000,
+        "impacted-user-count": 10,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+      },
+      "year": 2019
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "A telecommunications network provider",
+      "summary": "APT41 Spy on Texts With MessageTap Malware",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State",
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://www.fireeye.com/blog/threat-research/2019/10/messagetap-who-is-reading-your-text-messages.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "Kalispell Regional Healthcare",
+      "summary": "Short summary of what happened",
+      "tags": {
+        "impacted-user-count": 130000,
+        "cost-usd": 0,
+        "initial-access": "ATT&CK:T1192",
+        "actor": "?",
+        "motive": "PII:?"
+      },
+      "links": [
+        "https://nbcmontana.com/news/local/krh-security-breach-exposes-private-patient-information"
+      ]
+    },
+    {
+      "year": 2014,
+      "month": 9,
+      "entity": "Yahoo",
+      "summary": "Yahoo data breach",
+      "tags": {
+        "impacted-user-count": 3000000000,
+        "cost-usd": 117500000,
+        "actor": "Nation State:Russian FSB",
+        "initial-access": "OWASP:A6",
+        "motive": "PII:?"
+      },
+      "links": [
+        "https://www.cshub.com/attacks/articles/incident-of-the-week-multiple-yahoo-data-breaches-across-4-years-result-in-a-1175-million-settlement",
+        "https://en.wikipedia.org/wiki/Yahoo!_data_breaches"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 8,
+      "entity": "Web.com, Network Solutions, and Register.com",
+      "summary": "Network Solutions determined that a third-party gained unauthorized access to a limited number of our computer systems in late August 2019",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "?"
+      },
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/worlds-first-domain-registrar-network-solutions-discloses-breach/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 8,
+      "entity": "Prisma Health",
+      "summary": "Compromise of a Prisma Health team member’s login credentials to a Palmetto Health website",
+      "tags": {
+        "impacted-user-count": 21000,
+        "cost-usd": 0,
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078",
+        "motive": "?"
+      },
+      "links": [
+        "https://www.wltx.com/article/news/local/cybersecurity-prisma-health-breach-website/101-e00dedcf-8abf-4302-a576-473495e53cd3"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "India Nuclear Power Plant - KNPP",
+      "summary": "Malware submitted to VirusTotal attributed to a breach at entity. ",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:Lazarus Group",
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "links": [
+        "Link to reference"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "Las Cruces Public Schools",
+      "summary": "Ransomware discovered on network by IT team. ",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/ransomware-attack-causes-school-district-wide-shutdown/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 7,
+      "entity": "Honda Motors Company",
+      "summary": "Elasticsearch database exposed without any authentication and containing information related to the internal network and computers of Honda Motor Company",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Hacktivist:xxdesmus",
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+      },
+      "links": [
+        "https://www.scmagazine.com/home/security-news/data-breach/independent-researcher-xxdesmus-discovered-a-honda-motor-company-database-leaking-the-computer-data-of-134-million-rows-roughly-40gb-of-employee-information/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 8,
+      "entity": "Who was breached?",
+      "summary": "Cybercriminals managed to divert $2.5 million in a business email compromise (BEC) scam targeting Cabarrus County, North Carolina. ",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 1728082,
+        "actor": "Criminal:BEC",
+        "initial-access": "ATT&CK:T1192",
+        "motive": "Money:Bank Transfer"
+      },
+      "links": [
+        "https://www.securityweek.com/scammers-grab-25-million-north-carolina-county-bec-scam"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 8,
+      "entity": "Poshmark",
+      "summary": "Data from some Poshmark users was acquired by an unauthorized third party",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "?",
+        "initial-access": "ATT&CK:T1078",
+        "motive": "?"
+      },
+      "links": [
+        "https://blog.poshmark.com/2019/08/01/important-security-notice-from-poshmark/"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 10,
+      "entity": "Arby's",
+      "summary": "POS system compromised",
+      "tags": {
+        "impacted-user-count": 355000,
+        "cost-usd": 0,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+      },
+      "links": [
+        "https://krebsonsecurity.com/2017/02/fast-food-chain-arbys-acknowledges-breach/"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 10,
+      "entity": "The Buckle Inc.",
+      "summary": "POS system compromised",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+      },
+      "links": [
+        "https://krebsonsecurity.com/2017/06/credit-card-breach-at-buckle-stores/"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "Saks and Lord & Taylor",
+      "summary": "Entity discovered breach after cards listed for sale on dark web. ",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Criminal:JokerStash",
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+      },
+      "links": [
+        "https://www.reuters.com/article/legal-us-hudson-s-bay-databreach/saks-lord-taylor-hit-by-payment-card-data-breach-idUSKCN1H91W7"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 3,
+      "entity": "Calibre CPA Group",
+      "summary": "Servers and employee accounts compromised. ",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "motive": "?",
+        "actor": "?",
+        "initial-access": "?"
+      },
+      "links": [
+        "https://agportal-s3bucket.s3.amazonaws.com/uploadedfiles/Another/Supporting_Law_Enforcement/CalibreCPAGroup.2019-10-10_1.pdf"
+      ]
     }
   ]
 }
