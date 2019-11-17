@@ -28,6 +28,14 @@ function transformMissingInt(breach, key){
     return breach
 }
 
+function getType(v){
+    if (v.indexOf(":")){
+        var fields = v.split(":")
+        return fields[0]
+    }
+    return v
+}
+
 function transformData(data) {
     // react-admin is finicky about it's data, need to massage it a little
     var transformed = {};
@@ -63,15 +71,19 @@ function transformData(data) {
         breach=transformMissingInt(breach, 'impacted-user-count')
 
         // Add data we want to graph on the dashboard
-        motives.push(breach['tags']['motive']);
-        access.push(breach['tags']['initial-access']);
-        // Break down actor to their actor type, makes for a better graph/insight
-        var a = breach['tags']['actor']
-        if (a.indexOf(":")){
-            var fields = a.split(":")
-            a = fields[0]
+        // Filter out unknowns, it tells a better story.
+        if(breach['tags']['initial-access'] != "?"){
+            access.push(breach['tags']['initial-access']);
         }
-        actor.push(a)
+        // Break down motive & actor to type, makes for a better graph/insight
+        if(breach['tags']['motive'] != "?"){
+            motives.push(getType(breach['tags']['motive']));
+        }
+        // Actor
+        if(breach['tags']['actor'] != "?"){
+            actor.push(getType(breach['tags']['actor']))
+        }
+        
     });
     transformed=dataCounts(motives, 'motives', transformed)
     transformed=dataCounts(access, 'access', transformed)

@@ -8,6 +8,7 @@ import Typography from '@material-ui/core/Typography';
 import CodeIcon from '@material-ui/icons/Code';
 import HelpIcon from '@material-ui/icons/Help';
 import DescriptionIcon from '@material-ui/icons/Description';
+import ExploreIcon from '@material-ui/icons/Explore';
 import { withStyles } from '@material-ui/core/styles';
 import { translate } from 'react-admin';
 
@@ -29,6 +30,10 @@ const CardWelcome = ({ classes, translate }) => (
             </Typography>
         </CardContent>
         <CardActions style={{ justifyContent: 'flex-start' }}>
+            <Button href="#/breaches">
+                <ExploreIcon style={{ paddingRight: '0.5em' }} />
+                Explore This Data
+            </Button>
             <Button href="https://github.com/ericalexanderorg/SecurityBreach">
                 <CodeIcon style={{ paddingRight: '0.5em' }} />
                 Edit This Data
@@ -39,7 +44,7 @@ const CardWelcome = ({ classes, translate }) => (
             </Button>
             <Button href="https://raw.githubusercontent.com/ericalexanderorg/SecurityBreach/master/UI/v1/src/dataProvider/security-breach-v1.json">
                 <DescriptionIcon style={{ paddingRight: '0.5em' }} />
-                Data
+                Raw Data
             </Button>
         </CardActions>
     </Card>
