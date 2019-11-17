@@ -4431,6 +4431,22 @@
         "https://www.ptsecurity.com/upload/corporate/ww-en/analytics/calypso-apt-2019-eng.pdf",
         "https://threatpost.com/calypso-apt-target-governments/149773/"
       ]
+    },
+    {
+      "year": 2016,
+      "month": 9,
+      "entity": "Uber and Lynda.com",
+      "summary": "Compromised credentials used to obtain data that was then used to extort money.",
+      "tags": {
+        "impacted-user-count": 57000000,
+        "cost-usd": 100000,
+        "actor": "Criminal:Brandon Charles Glover and Vasile Mereacre",
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Money:Ransom"
+      },
+      "links": [
+        "https://thehackernews.com/2019/10/hackers-extorted-money.html"
+      ]
     }
   ]
 }
