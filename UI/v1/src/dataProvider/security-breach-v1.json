@@ -4201,6 +4201,22 @@
       "links": [
         "https://blog.poshmark.com/2019/08/01/important-security-notice-from-poshmark/"
       ]
+    },
+    {
+      "year": 2016,
+      "month": 10,
+      "entity": "Arby's",
+      "summary": "POS system compromised",
+      "tags": {
+        "impacted-user-count": 355000,
+        "cost-usd": 0,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+      },
+      "links": [
+        "https://krebsonsecurity.com/2017/02/fast-food-chain-arbys-acknowledges-breach/"
+      ]
     }
   ]
 }
