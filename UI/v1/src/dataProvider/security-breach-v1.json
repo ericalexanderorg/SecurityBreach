@@ -4121,6 +4121,22 @@
       "links": [
         "https://www.wltx.com/article/news/local/cybersecurity-prisma-health-breach-website/101-e00dedcf-8abf-4302-a576-473495e53cd3"
       ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "India Nuclear Power Plant - KNPP",
+      "summary": "Malware submitted to VirusTotal attributed to a breach at entity. ",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:Lazarus Group",
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "links": [
+        "Link to reference"
+      ]
     }
   ]
 }
