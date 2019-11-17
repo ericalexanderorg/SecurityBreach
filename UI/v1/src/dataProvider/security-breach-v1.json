@@ -4056,6 +4056,22 @@
       "links": [
         "https://www.fireeye.com/blog/threat-research/2019/10/messagetap-who-is-reading-your-text-messages.html"
       ]
+    },
+    {
+      "year": 2019,
+      "month": 5,
+      "entity": "Kalispell Regional Healthcare",
+      "summary": "Short summary of what happened",
+      "tags": {
+        "impacted-user-count": 130000,
+        "cost-usd": 0,
+        "initial-access": "ATT&CK:T1192",
+        "actor": "?",
+        "motive": "PII:?"
+      },
+      "links": [
+        "https://nbcmontana.com/news/local/krh-security-breach-exposes-private-patient-information"
+      ]
     }
   ]
 }
