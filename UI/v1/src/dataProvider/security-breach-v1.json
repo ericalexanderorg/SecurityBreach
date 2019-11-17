@@ -4414,6 +4414,23 @@
       "links": [
         "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
       ]
+    },
+    {
+      "year": 2018,
+      "month": 5,
+      "entity": "Multiple government entities worldwide.",
+      "summary": "GRU hackers sent spearphishing emails which impersonated Swiss federal authorities to directly target OPCW employees",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:Calypso",
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Espionage"
+      },
+      "links": [
+        "https://www.ptsecurity.com/upload/corporate/ww-en/analytics/calypso-apt-2019-eng.pdf",
+        "https://threatpost.com/calypso-apt-target-governments/149773/"
+      ]
     }
   ]
 }
