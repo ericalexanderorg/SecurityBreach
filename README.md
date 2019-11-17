@@ -6,7 +6,7 @@ View the data through the UI: https://ericalexander.org/SecurityBreach
 View the JSON data directly: https://raw.githubusercontent.com/ericalexanderorg/SecurityBreach/master/UI/v1/src/dataProvider/security-breach-v1.json
 
 ## Why?
-Defensive security starts with situational awareness, it's the first two stages of the OODA Loop. If you have no situational awarenes about what's happening in the real world then you're likely to be chasing your tail and/or the latest security marketing FUD. 
+Defensive security starts with situational awareness, it's the first two stages of the OODA Loop. If you have no situational awareness about what's happening in the real world, then you're likely to be chasing your tail and/or the latest security marketing FUD. 
 
 ## Desired state/condition
 - [x] Crowd sourced finding and cataloging of breach data
@@ -15,13 +15,12 @@ Defensive security starts with situational awareness, it's the first two stages 
 - [x] Github peer reviews used to add and validate findings. One or more peer reviews will be needed to add data so we can maintain taxonomy and validate the quality of information.
 - [x] A basic react UI that enables easy exploration of the data
 - [x] A build pipeline that builds and deploys the UI after every PR approval
+- [x] Github action on new issues that auto-classifies new breach data into a PR
 
 ## State change in progress
-* We're arguably crowd sourced at this point with myself and Horia Constantin contributing (much appreciated Horia) but we could use help maintaining data. 
-* Get the word out that we need help
-* Identify obstacles that prevent help
+* Intake new issues
 
 ## ETA for next state update?
-November 1, 2019
+January 1, 2020
 
 
