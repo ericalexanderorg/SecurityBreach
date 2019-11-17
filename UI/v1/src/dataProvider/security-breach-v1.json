@@ -4137,6 +4137,22 @@
       "links": [
         "Link to reference"
       ]
+    },
+    {
+      "year": 2019,
+      "month": 10,
+      "entity": "Las Cruces Public Schools",
+      "summary": "Ransomware discovered on network by IT team. ",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/ransomware-attack-causes-school-district-wide-shutdown/"
+      ]
     }
   ]
 }
