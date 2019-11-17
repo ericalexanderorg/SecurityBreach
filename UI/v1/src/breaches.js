@@ -153,6 +153,7 @@ export const BreachCreate = withStyles(inlineInputStyle)(({ classes, ...props })
                 { id: 'Money:Sale on dark web', name: 'Money:Sale on dark web: The data was put on sale on the dark web' },
                 { id: 'Money:Misc', name: 'Money:Misc: Catch all for any type of finanically motivated breach' },
                 { id: 'PII:?', name: 'PII:?: PII was stolen for unknown reasons' },
+                { id: 'Political', name: 'Political: Nation State acting for political purposes.' },
                 { id: '?', name: 'Unknown' }
             ]} />
             <NumberInput source="tags.impacted-user-count" defaultValue={0} />
