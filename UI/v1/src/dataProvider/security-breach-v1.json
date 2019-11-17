@@ -4024,6 +4024,22 @@
         "motive": "Espionage"
       },
       "year": 2019
-    }
+    },
+    {
+      "entity": "Misc crypto currency users and companies",
+      "links": [
+          "https://thehackernews.com/2019/11/hacking-with-sim-swapping.html"
+      ],
+      "month": 11,
+      "summary": "SIM swapping used to steal cryptocurrency.",
+      "tags": {
+          "actor": "Criminal",
+          "cost-usd": 550000,
+          "impacted-user-count": 10,
+          "initial-access": "?",
+          "motive": "Money:Cryptocurrency"
+      },
+      "year": 2019
+  }
   ]
 }
