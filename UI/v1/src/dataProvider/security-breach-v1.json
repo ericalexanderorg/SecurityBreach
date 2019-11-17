@@ -4007,6 +4007,22 @@
       "links": [
         "http://www.pinecitymn.com/news/pine-county-hacked-security-breach-feared/article_ed404924-f5ba-11e9-9c02-9731bc6010e9.html"
       ]
+    },
+    {
+      "entity": "Misc APT33 Targets",
+      "links": [
+        "https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/"
+      ],
+      "month": 11,
+      "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+      "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Espionage"
+      },
+      "year": 2019
     }
   ]
 }
