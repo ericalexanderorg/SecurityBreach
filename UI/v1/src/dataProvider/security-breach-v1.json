@@ -12,7 +12,8 @@
       "Money:Ransom": "Money was stolen through ransom.",
       "Money:Sale on dark web": "The data was put on sale on the dark web.",
       "Money:Misc": "Catch all for any type of financial gain",
-      "PII:?": "PII was stolen for unknown reasons."
+      "PII:?": "PII was stolen for unknown reasons.",
+      "Political": "Nation state action related to political influence."
     },
     "actor": {
       "Nation State": "Speculation the actor was a nation state.",
@@ -4264,6 +4265,154 @@
       },
       "links": [
         "https://agportal-s3bucket.s3.amazonaws.com/uploadedfiles/Another/Supporting_Law_Enforcement/CalibreCPAGroup.2019-10-10_1.pdf"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 9,
+      "entity": "Democratic National Committee",
+      "summary": "Phishing email lead to compromise of email cache and possibly impacted the US 2016 presidential election. ",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:GRU",
+        "initial-access": "ATT&CK:T1192",
+        "motive": "Political"
+      },
+      "links": [
+        "https://www.cnn.com/2016/12/26/us/2016-presidential-campaign-hacking-fast-facts/index.html",
+        "https://www.wired.com/story/sandworm-russia-cyberattack-links/",
+        "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
+      ]
+    },
+    {
+      "year": 2017,
+      "month": 9,
+      "entity": "Democratic National Committee",
+      "summary": "Five entire mailboxes were stolen, with many of the accounts being personal Gmail mailboxes",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:GRU",
+        "initial-access": "ATT&CK:T1192",
+        "motive": "Political"
+      },
+      "links": [
+        "https://www.theguardian.com/world/2017/may/08/macron-hackers-linked-to-russian-affiliated-group-behind-us-attack",
+        "https://www.wired.com/story/sandworm-russia-cyberattack-links/"
+      ]
+    },
+    {
+      "year": 2018,
+      "month": 2,
+      "entity": "2018 Olympics",
+      "summary": "Retaliation against the International Olympic Committee for banning the Russian team from the Winter Games due to doping violations",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:GRU",
+        "initial-access": "?",
+        "motive": "Political"
+      },
+      "links": [
+        "https://www.washingtonpost.com/world/national-security/russian-spies-hacked-the-olympics-and-tried-to-make-it-look-like-north-korea-did-it-us-officials-say/2018/02/24/44b5468e-18f2-11e8-92c9-376b4fe57ff7_story.html",
+        "https://www.wired.com/story/sandworm-russia-cyberattack-links/"
+      ]
+    },
+    {
+      "year": 2017,
+      "month": 10,
+      "entity": "Kyiv metro, Odessa airport, Russia’s central bank and two Russian media outlets",
+      "summary": "BadRabbit ransomware encrypted hard drives and rendered IT inoperable.",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:GRU",
+        "initial-access": "?",
+        "motive": "Political"
+      },
+      "links": [
+        "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
+      ]
+    },
+    {
+      "year": 2016,
+      "month": 8,
+      "entity": "Anti-Doping Administration",
+      "summary": "Confidential medical files relating to a number of international athletes were released",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:GRU",
+        "initial-access": "?",
+        "motive": "Political"
+      },
+      "links": [
+        "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
+      ]
+    },
+    {
+      "year": 2015,
+      "month": 7,
+      "entity": "Small UK-based TV station",
+      "summary": "Multiple email accounts belonging to a small UK-based TV station were accessed and content stolen",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:GRU",
+        "initial-access": "?",
+        "motive": "Political"
+      },
+      "links": [
+        "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
+      ]
+    },
+    {
+      "year": 2017,
+      "month": 6,
+      "entity": "Ukrainian financial, energy and government sectors",
+      "summary": "Destructive cyber attack targeted the Ukrainian financial, energy and government sectors but spread further affecting other European and Russian businesses",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:GRU",
+        "initial-access": "?",
+        "motive": "Political"
+      },
+      "links": [
+        "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
+      ]
+    },
+    {
+      "year": 2017,
+      "month": 6,
+      "entity": "Thousands of home and small business routers and network devices worldwide",
+      "summary": "The infection potentially allowed attackers to control infected devices, render them inoperable and intercept or block network traffic.",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:GRU",
+        "initial-access": "?",
+        "motive": "Political"
+      },
+      "links": [
+        "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
+      ]
+    },
+    {
+      "year": 2018,
+      "month": 5,
+      "entity": "Organisation for the Prohibition of Chemical Weapons",
+      "summary": "GRU hackers sent spearphishing emails which impersonated Swiss federal authorities to directly target OPCW employees",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:GRU",
+        "initial-access": "ATT&CK:T1192",
+        "motive": "Political"
+      },
+      "links": [
+        "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
       ]
     }
   ]
