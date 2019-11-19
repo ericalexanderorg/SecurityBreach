@@ -4502,6 +4502,22 @@
         "initial-access": "?",
         "motive": "Money:Ransom"
       }
+    },
+    {
+      "entity": "Cayman National Bank",
+      "links": [
+        "https://www.vice.com/en_ca/article/ne8p9b/offshore-bank-targeted-phineas-fisher-confirms-hack-cayman-national-bank"
+      ],
+      "month": 11,
+      "summary": "On Sunday, Motherboard reported that the hacker or hackers known as Phineas Fisher targeted a bank, ",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1193",
+        "motive": "Money:Bank Transfer"
+      },
+      "year": 2019
     }
   ]
 }
