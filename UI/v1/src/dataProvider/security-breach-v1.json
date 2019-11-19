@@ -4473,20 +4473,35 @@
       ]
     },
     {
+      "entity": "Macy's",
+      "links": [
+        "https://www.scmagazine.com/home/security-news/macys-com-magecart-attack-yields-payment-personal-info/"
+      ],
+      "month": 10,
+      "summary": "Checkout and My Wallet pages compromised with unauthorized javascript.",
+      "tags": {
+        "actor": "Criminal:MageCart",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+      },
+      "year": 2019
+    },
+    {
       "entity": "Louisiana State Government",
       "links": [
         "https://www.itpro.co.uk/ransomware/34840/another-us-state-government-hit-with-ransomware-following-a-brief-reprieve"
       ],
       "month": 11,
-      "summary": "Louisana's state government has responded to a suspected ransomware attack by shutting down many of ",
+      "summary": "Louisana's state government public statement regarding response to speculated ransomware attack.",
       "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
         "motive": "Money:Ransom"
-      },
-      "year": 2019
+      }
     }
   ]
 }
