@@ -4477,10 +4477,10 @@
       "links": [
         "https://www.scmagazine.com/home/security-news/macys-com-magecart-attack-yields-payment-personal-info/"
       ],
-      "month": 11,
-      "summary": "Hackers accessed macys.com's \"Checkout\" and \"My Wallet\" pages early last month and added malicious s",
+      "month": 10,
+      "summary": "Checkout and My Wallet pages compromised with unauthorized javascript.",
       "tags": {
-        "actor": "Criminal",
+        "actor": "Criminal:MageCart",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
