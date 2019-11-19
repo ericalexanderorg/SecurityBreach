@@ -4487,6 +4487,21 @@
         "motive": "Money:Credit Card"
       },
       "year": 2019
+    },
+    {
+      "entity": "Louisiana State Government",
+      "links": [
+        "https://www.itpro.co.uk/ransomware/34840/another-us-state-government-hit-with-ransomware-following-a-brief-reprieve"
+      ],
+      "month": 11,
+      "summary": "Louisana's state government public statement regarding response to speculated ransomware attack.",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      }
     }
   ]
 }
