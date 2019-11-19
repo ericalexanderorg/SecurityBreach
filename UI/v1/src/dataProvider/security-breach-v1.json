@@ -4471,6 +4471,22 @@
       "links": [
         "https://agportal-s3bucket.s3.amazonaws.com/uploadedfiles/Another/Supporting_Law_Enforcement/EyeBuyDirectInc.2019-10-15.pdf"
       ]
+    },
+    {
+      "entity": "Louisiana State Government",
+      "links": [
+        "https://www.itpro.co.uk/ransomware/34840/another-us-state-government-hit-with-ransomware-following-a-brief-reprieve"
+      ],
+      "month": 11,
+      "summary": "Louisana's state government has responded to a suspected ransomware attack by shutting down many of ",
+      "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
     }
   ]
 }
