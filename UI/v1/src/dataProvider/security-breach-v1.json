@@ -4510,9 +4510,9 @@
         "https://krebsonsecurity.com/2019/11/ransomware-bites-400-veterinary-hospitals/"
       ],
       "month": 11,
-      "summary": "Agoura Hills, Calif.-based NVA bills itself as is the largest private owner of freestanding veterina",
+      "summary": "Veterinary clinics hit with ransomware that spread through _three smaller points of entry_",
       "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
