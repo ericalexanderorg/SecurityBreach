@@ -4519,6 +4519,22 @@
         "motive": "Money:Cryptocurrency"
       },
       "year": 2019
+    },
+    {
+      "entity": "National Veterinary Associates",
+      "links": [
+        "https://krebsonsecurity.com/2019/11/ransomware-bites-400-veterinary-hospitals/"
+      ],
+      "month": 11,
+      "summary": "Veterinary clinics hit with ransomware that spread through _three smaller points of entry_",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
     }
   ]
 }
