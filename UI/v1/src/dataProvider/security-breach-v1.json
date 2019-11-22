@@ -4535,6 +4535,22 @@
         "motive": "Money:Ransom"
       },
       "year": 2019
+    },
+    {
+      "entity": "T-Mobile",
+      "links": [
+        "https://securityaffairs.co/wordpress/94235/data-breach/t-mobile-data-breach-wireless-customers.html"
+      ],
+      "month": 11,
+      "summary": "Bad news for T-Mobile prepaid customer, the US-based telecom giant T-Mobile today disclosed a new da",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+      },
+      "year": 2019
     }
   ]
 }
