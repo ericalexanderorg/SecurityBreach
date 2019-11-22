@@ -4535,6 +4535,22 @@
         "motive": "Money:Ransom"
       },
       "year": 2019
+    },
+    {
+      "entity": "OxyData.Io",
+      "links": [
+        "https://www.dataviper.io/blog/2019/pdl-data-exposure-billion-people/"
+      ],
+      "month": 11,
+      "summary": "A total count of unique people across all data sets reached more than 1.2 billion people, making thi",
+      "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "PII:?"
+      },
+      "year": 2019
     }
   ]
 }
