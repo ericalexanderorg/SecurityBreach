@@ -4535,6 +4535,22 @@
         "motive": "Money:Ransom"
       },
       "year": 2019
+    },
+    {
+      "entity": "A PrestaShop site",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/card-skimmer-group-replaces-checkout-page-to-steal-payment-info/"
+      ],
+      "month": 11,
+      "summary": "A payment service platform's checkout page was recently cloned by the threat actors behind a web ski",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A10",
+        "motive": "Money:Credit Card"
+      },
+      "year": 2019
     }
   ]
 }
