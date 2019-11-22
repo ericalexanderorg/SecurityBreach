@@ -4535,6 +4535,22 @@
         "motive": "Money:Ransom"
       },
       "year": 2019
+    },
+    {
+      "entity": "Gekko Group",
+      "links": [
+        "https://securityaffairs.co/wordpress/94216/data-breach/gekko-group-data-leak.html"
+      ],
+      "month": 11,
+      "summary": "Security experts from vpnMentor discovered that Gekko Group, an AccorHotels subsidiary, exposes hote",
+      "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Hacktivism:Press"
+      },
+      "year": 2019
     }
   ]
 }
