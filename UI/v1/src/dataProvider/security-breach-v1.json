@@ -4535,6 +4535,22 @@
         "motive": "Money:Ransom"
       },
       "year": 2019
+    },
+    {
+      "entity": "Misc Kazakhstan Entities",
+      "links": [
+        "https://www.zdnet.com/article/extensive-hacking-operation-discovered-in-kazakhstan/"
+      ],
+      "month": 11,
+      "summary": "Chinese cyber-security vendor Qihoo 360 published a report on Friday exposing an extensive hacking o",
+      "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "year": 2019
     }
   ]
 }
