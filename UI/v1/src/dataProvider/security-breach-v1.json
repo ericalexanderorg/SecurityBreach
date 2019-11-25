@@ -4535,6 +4535,22 @@
         "motive": "Money:Ransom"
       },
       "year": 2019
+    },
+    {
+      "entity": "Catch Restaurants",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/catch-restaurants-disclose-credit-card-stealing-malware-incident/"
+      ],
+      "month": 11,
+      "summary": "Catch Hospitality Group has disclosed that point-of-sale systems at NYC hotspots Catch NYC, Catch Ro",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+      },
+      "year": 2019
     }
   ]
 }
