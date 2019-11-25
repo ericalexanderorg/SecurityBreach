@@ -4535,6 +4535,22 @@
         "motive": "Money:Ransom"
       },
       "year": 2019
+    },
+    {
+      "entity": "OnePlus",
+      "links": [
+        "https://thehackernews.com/2019/11/oneplus-store-data-breach.html"
+      ],
+      "month": 11,
+      "summary": "Chinese smartphone maker OnePlus has suffered a new data breach exposing personal and order informat",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "PII:?"
+      },
+      "year": 2019
     }
   ]
 }
