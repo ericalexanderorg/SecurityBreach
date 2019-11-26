@@ -4551,6 +4551,22 @@
         "motive": "Money:Credit Card"
       },
       "year": 2019
+    },
+    {
+      "entity": "Focus Brands",
+      "links": [
+        "https://krebsonsecurity.com/2019/11/sale-of-4-million-stolen-cards-tied-to-breaches-at-4-restaurant-chains/"
+      ],
+      "month": 11,
+      "summary": "On Nov. 23, one of the cybercrime underground's largest bazaars for buying and selling stolen paymen",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+      },
+      "year": 2019
     }
   ]
 }
