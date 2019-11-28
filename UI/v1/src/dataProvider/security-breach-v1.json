@@ -4539,15 +4539,16 @@
     {
       "entity": "Misc Kazakhstan Entities",
       "links": [
-        "https://www.zdnet.com/article/extensive-hacking-operation-discovered-in-kazakhstan/"
+        "https://www.zdnet.com/article/extensive-hacking-operation-discovered-in-kazakhstan/",
+        "https://cyware.com/news/pan-country-cyberattack-operation-unidentified-actors-worries-kazakhstan-5436b277"
       ],
       "month": 11,
       "summary": "Chinese cyber-security vendor Qihoo 360 published a report on Friday exposing an extensive hacking o",
       "tags": {
-        "actor": "Nation State",
+        "actor": "Nation State:APTC-C-34",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "ATT&CK:T1193",
         "motive": "Espionage"
       },
       "year": 2019
