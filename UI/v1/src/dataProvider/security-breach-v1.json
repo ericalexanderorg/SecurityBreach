@@ -4542,11 +4542,11 @@
         "https://www.dataviper.io/blog/2019/pdl-data-exposure-billion-people/"
       ],
       "month": 11,
-      "summary": "A total count of unique people across all data sets reached more than 1.2 billion people, making thi",
+      "summary": "Aggregated public informotion exposed through elastic search DB with no auth.",
       "tags": {
         "actor": "Hacktivist",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 1200000000,
         "initial-access": "OWASP:A5",
         "motive": "PII:?"
       },
