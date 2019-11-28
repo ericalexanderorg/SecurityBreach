@@ -4598,5 +4598,22 @@
         "initial-access": "?",
       },
       "year": 2019
+    },
+    {
+      "entity": "Gekko Group",
+      "links": [
+        "https://securityaffairs.co/wordpress/94216/data-breach/gekko-group-data-leak.html"
+      ],
+      "month": 11,
+      "summary": "Exposed database contained PII, credit card data, and login credentials.",
+      "tags": {
+        "actor": "Hacktivist:vpnMentor",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+      },
+      "year": 2019
+    }
   ]
 }
