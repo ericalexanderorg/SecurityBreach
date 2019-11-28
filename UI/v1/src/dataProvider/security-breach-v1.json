@@ -4542,12 +4542,12 @@
         "https://securityaffairs.co/wordpress/94216/data-breach/gekko-group-data-leak.html"
       ],
       "month": 11,
-      "summary": "Security experts from vpnMentor discovered that Gekko Group, an AccorHotels subsidiary, exposes hote",
+      "summary": "Exposed database contained PII, credit card data, and login credentials.",
       "tags": {
-        "actor": "Hacktivist",
+        "actor": "Hacktivist:vpnMentor",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1078",
+        "initial-access": "OWASP:A5",
         "motive": "Hacktivism:Press"
       },
       "year": 2019
