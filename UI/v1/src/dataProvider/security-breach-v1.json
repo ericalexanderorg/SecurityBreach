@@ -4501,7 +4501,56 @@
         "impacted-user-count": 0,
         "initial-access": "?",
         "motive": "Money:Ransom"
-      }
+      },
+      "year": 2019
+    },
+    {
+      "entity": "GetMonero.com",
+      "links": [
+        "https://thehackernews.com/2019/11/hacking-monero-cryptocurrency.html"
+      ],
+      "month": 11,
+      "summary": "What an irony - someone hacked the official website of the Monero cryptocurrency project and quietly",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "National Veterinary Associates",
+      "links": [
+        "https://krebsonsecurity.com/2019/11/ransomware-bites-400-veterinary-hospitals/"
+      ],
+      "month": 11,
+      "summary": "Veterinary clinics hit with ransomware that spread through _three smaller points of entry_",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Catch Restaurants",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/catch-restaurants-disclose-credit-card-stealing-malware-incident/"
+      ],
+      "month": 11,
+      "summary": "Catch Hospitality Group has disclosed that point-of-sale systems at NYC hotspots Catch NYC, Catch Ro",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+      },
+      "year": 2019
     },
     {
       "entity": "Cayman National Bank",
@@ -4518,6 +4567,6 @@
         "motive": "Hacktivism:Schadenfreude"
       },
       "year": 2016
-    }
+     }
   ]
 }
