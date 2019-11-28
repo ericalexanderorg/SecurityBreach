@@ -4542,9 +4542,9 @@
         "https://securityaffairs.co/wordpress/94235/data-breach/t-mobile-data-breach-wireless-customers.html"
       ],
       "month": 11,
-      "summary": "Bad news for T-Mobile prepaid customer, the US-based telecom giant T-Mobile today disclosed a new da",
+      "summary": "Some pre-paid customer data accessed.",
       "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
