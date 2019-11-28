@@ -3563,8 +3563,8 @@
 		{
 			"year": 2019,
 			"month": 7,
-			"entity": "Krystal",
-			"summary": "Entity notifying customers regarding a breach but are not providing details",
+			"entity": "Focus Brands",
+			"summary": "Credit card data from multiple sub-entities Krystal, Moe's, McAlister's Deli, and Schlotzky's found on underground bazaar.",
 			"tags": {
 				"impacted-user-count": 0,
 				"cost-usd": 0,
@@ -3573,7 +3573,8 @@
 				"motive": "?"
 			},
 			"links": [
-				"http://www.krystal.com/security/"
+				"http://www.krystal.com/security/",
+				"https://krebsonsecurity.com/2019/11/sale-of-4-million-stolen-cards-tied-to-breaches-at-4-restaurant-chains/"
 			]
 		},
 		{
