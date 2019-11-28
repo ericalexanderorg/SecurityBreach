@@ -4544,10 +4544,10 @@
       "month": 11,
       "summary": "Chinese smartphone maker OnePlus has suffered a new data breach exposing personal and order informat",
       "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1078",
+        "initial-access": "?",
         "motive": "PII:?"
       },
       "year": 2019
