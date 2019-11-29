@@ -1463,7 +1463,9 @@
 				"https://www.bleepingcomputer.com/news/security/four-us-food-chains-disclose-payment-card-theft-via-pos-malware/",
 				"https://www.moes.com/paymentcardnotification",
 				"https://www.mcalistersdeli.com/paymentcardnotification",
-				"https://www.schlotzskys.com/paymentcardnotification"
+				"https://www.schlotzskys.com/paymentcardnotification",
+				"http://www.krystal.com/security/",
+				"https://krebsonsecurity.com/2019/11/sale-of-4-million-stolen-cards-tied-to-breaches-at-4-restaurant-chains/"
 			]
 		},
 		{
@@ -3561,23 +3563,6 @@
 			]
 		},
 		{
-			"year": 2019,
-			"month": 7,
-			"entity": "Focus Brands",
-			"summary": "Credit card data from multiple sub-entities Krystal, Moe's, McAlister's Deli, and Schlotzky's found on underground bazaar.",
-			"tags": {
-				"impacted-user-count": 0,
-				"cost-usd": 0,
-				"actor": "?",
-				"initial-access": "?",
-				"motive": "?"
-			},
-			"links": [
-				"http://www.krystal.com/security/",
-				"https://krebsonsecurity.com/2019/11/sale-of-4-million-stolen-cards-tied-to-breaches-at-4-restaurant-chains/"
-			]
-		},
-		{
 			"entity": "Lyca Mobile",
 			"links": [
 				"https://securityaffairs.co/wordpress/93474/hacktivism/lulzsecita-lyca-mobile.html"
@@ -4596,7 +4581,8 @@
 				"actor": "?",
 				"cost-usd": 0,
 				"impacted-user-count": 0,
-				"initial-access": "?"
+				"initial-access": "?",
+				"motive": "PII:?"
 			},
 			"year": 2019
 		},
