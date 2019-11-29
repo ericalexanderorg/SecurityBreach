@@ -14,7 +14,7 @@ const styles = {
     marginBottom: '2em',
 };
 
-const CardPieChart = ({ title, subject, value }) => (
+const CardPieChart = ({ type, title, subject, value }) => (
     <Card>
         <CardContent>
             <Typography variant="headline" component="h2">
@@ -26,7 +26,7 @@ const CardPieChart = ({ title, subject, value }) => (
             <Chart
                 width={'100%'}
                 height={'400px'}
-                chartType="PieChart"
+                chartType={type}
                 loader={<div>Loading Chart</div>}
                 data={value}
                 rootProps={{ 'data-testid': '1' }}

@@ -2,7 +2,7 @@ import React, { Component, props } from 'react';
 import { GET_LIST, Responsive } from 'react-admin';
 import dataProvider from '../dataProvider';
 import CardWelcome from './cardWelcome';
-import CardPieChart from './cardPieChart';
+import CardChart from './cardChart';
 import HelpWanted from './cardHelpWanted'
 
 const styles = {
@@ -28,6 +28,15 @@ class DashboardComponent extends Component {
     state = {};
 
     componentDidMount() {
+        dataProvider(GET_LIST, 'years', {
+            sort: { field: 'name', order: 'DESC' },
+            pagination: { page: 1, perPage: 1000 },
+            })
+            .then(response => response.data)
+            .then(yearsCount => {
+                this.setState({ yearsData: transformChartData(['Years', 'Count'], yearsCount) })
+                }
+            )
         dataProvider(GET_LIST, 'motives', {
             sort: { field: 'name', order: 'DESC' },
             pagination: { page: 1, perPage: 1000 },
@@ -61,7 +70,8 @@ class DashboardComponent extends Component {
         const {
             motiveData,
             accessData,
-            actorData
+            actorData,
+            yearsData
         } = this.state; 
 
 
@@ -75,13 +85,16 @@ class DashboardComponent extends Component {
                         <HelpWanted />
                     </div>
                     <div style={styles.flex, { marginBottom: '2em' }}>
-                        <CardPieChart value={accessData} title={'Access'} subject={'How did the actor gain initial access?'} />
+                        <CardChart type={'BarChart'} value={yearsData} title={'Years'} subject={'Breaches cataloged per year.'} />
                     </div>
                     <div style={styles.flex, { marginBottom: '2em' }}>
-                        <CardPieChart value={motiveData} title={'Motive'} subject={'Why did the actor seek access?'} />
+                        <CardChart type={'PieChart'} value={accessData} title={'Access'} subject={'How did the actor gain initial access?'} />
                     </div>
                     <div style={styles.flex, { marginBottom: '2em' }}>
-                        <CardPieChart value={actorData} title={'Actor'} subject={'Speculation and/or concensus on who the actor was?'} />
+                        <CardChart type={'PieChart'} value={motiveData} title={'Motive'} subject={'Why did the actor seek access?'} />
+                    </div>
+                    <div style={styles.flex, { marginBottom: '2em' }}>
+                        <CardChart type={'PieChart'} value={actorData} title={'Actor'} subject={'Speculation and/or concensus on who the actor was?'} />
                     </div> 
                 </div>
             </div>

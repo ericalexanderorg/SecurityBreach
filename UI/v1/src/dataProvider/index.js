@@ -17,12 +17,9 @@ function dataCounts(data, k, transformed) {
 
 function transformMissingInt(breach, key){
     // Handle missing keys gracefully
-    console.log(breach)
     breach[key]=""
     if (breach['tags'].hasOwnProperty(key) && breach['tags'][key]!=0 && breach['tags'][key]!=null) {
             breach[key]=breach['tags'][key]
-            console.log('hit')
-            console.log(breach)
     }
     
     return breach
@@ -36,6 +33,7 @@ function getType(v){
     return v
 }
 
+
 function transformData(data) {
     // react-admin is finicky about it's data, need to massage it a little
     var transformed = {};
@@ -45,6 +43,7 @@ function transformData(data) {
     var motives = [];
     var access = [];
     var actor = [];
+    var years = [];
     data.breaches.forEach(function(breach){
         // Add a Start Date key so it's easier to display/sort in react-admin
         var month = breach['month'];
@@ -56,7 +55,6 @@ function transformData(data) {
         // Convert links to a format react-admin likes
         var links = [];
         breach.links.forEach(function(link){
-            //console.log(link);
             links.push({url:link})
         });
         breach['links']=links;
@@ -83,28 +81,25 @@ function transformData(data) {
         if(breach['tags']['actor'] != "?"){
             actor.push(getType(breach['tags']['actor']))
         }
+        // Years
+        years.push(breach['year'])
         
     });
+    transformed=dataCounts(years, 'years', transformed)
     transformed=dataCounts(motives, 'motives', transformed)
     transformed=dataCounts(access, 'access', transformed)
     transformed=dataCounts(actor, 'actor', transformed)
     // Access data needs an additional transformation
     // ATT&CK:T1193 isn't apparent that it's attributed to "Spearphishing Attachment"
-    console.log(transformed['access'])
     transformed['access'].forEach(function(item, index){
-        //console.log(val[0])
         try {
-            console.log(data['tag-taxonomy']['initial-access'][item[0]]['description'])
             transformed['access'][index][0] = data['tag-taxonomy']['initial-access'][item[0]]['description']
         }
         catch(error) {
-            console.log(item[0])
             console.log(error)
-            //transformed['access'][index][0] = "Unknown"
           }
     });
-
-    console.log(transformed['access'])
+    console.log(transformed)
     return(transformed);
 }
 
