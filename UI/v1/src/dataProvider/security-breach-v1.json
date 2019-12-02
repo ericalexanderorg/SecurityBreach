@@ -4573,7 +4573,8 @@
     {
       "entity": "T-Mobile",
       "links": [
-        "https://securityaffairs.co/wordpress/94235/data-breach/t-mobile-data-breach-wireless-customers.html"
+        "https://securityaffairs.co/wordpress/94235/data-breach/t-mobile-data-breach-wireless-customers.html",
+		"https://www.itpro.co.uk/security/data-breaches/354192/t-mobile-data-breach-affects-more-than-a-million-users"
       ],
       "month": 11,
       "summary": "Some pre-paid customer data accessed.",
@@ -4635,18 +4636,18 @@
       "year": 2019
     },
     {
-      "entity": "T-Mobile",
+      "entity": "TrueDialog",
       "links": [
-        "https://www.itpro.co.uk/security/data-breaches/354192/t-mobile-data-breach-affects-more-than-a-million-users"
+        "https://securityaffairs.co/wordpress/94593/data-breach/truedialog-data-leak.html"
       ],
       "month": 12,
-      "summary": "T-Mobile confirmed over the weekend that data belonging to over one million of its customers has bee",
+      "summary": "Millions of SMS messages have been leaked by a database run by TrueDialog, a business SMS provider f",
       "tags": {
-        "actor": "Criminal",
+        "actor": "Hacktivist:vpnMentor",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "PII:?"
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
       },
       "year": 2019
     }
