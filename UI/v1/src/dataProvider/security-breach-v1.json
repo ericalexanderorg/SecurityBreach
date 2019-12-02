@@ -4642,7 +4642,7 @@
       "month": 12,
       "summary": "Millions of SMS messages have been leaked by a database run by TrueDialog, a business SMS provider f",
       "tags": {
-        "actor": "Hacktivist",
+        "actor": "Hacktivist:vpnMentor",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "OWASP:A5",
