@@ -4574,7 +4574,7 @@
       "entity": "T-Mobile",
       "links": [
         "https://securityaffairs.co/wordpress/94235/data-breach/t-mobile-data-breach-wireless-customers.html",
-		"https://www.itpro.co.uk/security/data-breaches/354192/t-mobile-data-breach-affects-more-than-a-million-users"
+        "https://www.itpro.co.uk/security/data-breaches/354192/t-mobile-data-breach-affects-more-than-a-million-users"
       ],
       "month": 11,
       "summary": "Some pre-paid customer data accessed.",
@@ -4648,6 +4648,22 @@
         "impacted-user-count": 0,
         "initial-access": "OWASP:A5",
         "motive": "Hacktivism:Press"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Mixcloud",
+      "links": [
+        "https://www.cyberdefensemagazine.com/data-of-21-million/"
+      ],
+      "month": 12,
+      "summary": "The online music streaming service Mixcloud was recently breached by a hacker that is attempting to ",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
       },
       "year": 2019
     }
