@@ -4656,14 +4656,14 @@
       "links": [
         "https://www.cyberdefensemagazine.com/data-of-21-million/"
       ],
-      "month": 12,
-      "summary": "The online music streaming service Mixcloud was recently breached by a hacker that is attempting to ",
+      "month": 11,
+      "summary": "Data breached and offered for sale on the dark web.",
       "tags": {
-        "actor": "Criminal",
+        "actor": "Criminal:A_W_S",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 21000000,
         "initial-access": "?",
-        "motive": "PII:?"
+        "motive": "Money:Sale on dark web"
       },
       "year": 2019
     }
