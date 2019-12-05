@@ -4666,6 +4666,22 @@
         "motive": "Money:Sale on dark web"
       },
       "year": 2019
+    },
+    {
+      "entity": "Energy and industrial sectors in the Middle East",
+      "links": [
+        "https://threatpost.com/iran-mideast-oil-zerocleare-wiper-malware/150814/"
+      ],
+      "month": 12,
+      "summary": "According to IBM's X-Force Incident Response and Intelligence Services, ZeroCleare was involved in a",
+      "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "year": 2019
     }
   ]
 }
