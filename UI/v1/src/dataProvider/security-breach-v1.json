@@ -4666,6 +4666,22 @@
         "motive": "Money:Sale on dark web"
       },
       "year": 2019
+    },
+    {
+      "entity": "Misc entities",
+      "links": [
+        "https://www.wired.com/story/alleged-russian-hacker-evil-corp-indicted/"
+      ],
+      "month": 12,
+      "summary": "For the last decade, the hackers behind Evil Corp have led a sustained assault on the bank accounts ",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
     }
   ]
 }
