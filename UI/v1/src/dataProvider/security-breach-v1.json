@@ -4666,6 +4666,22 @@
         "motive": "Money:Sale on dark web"
       },
       "year": 2019
+    },
+    {
+      "entity": "Chinese venture-capital firm",
+      "links": [
+        "https://threatpost.com/ultimate-mitm-attack-steals-1m-from-israeli-startup/150840/"
+      ],
+      "month": 12,
+      "summary": "Check Point became involved in the incident when a $1 million wire-transfer made between the two par",
+      "tags": {
+        "actor": "Criminal:BEC",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "BEC:Impersonation",
+        "motive": "Money:Bank Transfer"
+      },
+      "year": 2019
     }
   ]
 }
