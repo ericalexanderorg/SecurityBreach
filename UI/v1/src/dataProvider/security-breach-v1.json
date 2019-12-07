@@ -4675,11 +4675,11 @@
       "month": 12,
       "summary": "Check Point became involved in the incident when a $1 million wire-transfer made between the two par",
       "tags": {
-        "actor": "Criminal",
-        "cost-usd": 0,
+        "actor": "Criminal:BEC",
+        "cost-usd": 1000000,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Credit Card"
+        "initial-access": "BEC:Impersonation",
+        "motive": "Money:Bank Transfer"
       },
       "year": 2019
     }
