@@ -39,6 +39,10 @@
         "description": "Compromised Valid Accounts",
         "link": "https://attack.mitre.org/techniques/T1192/"
       },
+      "ATT&CK:T1499": {
+        "description": "Endpoint Denial of Service",
+        "link": "https://attack.mitre.org/techniques/T1499/"
+      },
       "ATT&CK:T1451": {
         "description": "SIM Card Swap",
         "link": "https://attack.mitre.org/techniques/T1451/"
@@ -4728,6 +4732,22 @@
         "impacted-user-count": 0,
         "initial-access": "?",
         "motive": "Money:Ransom"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "LIHKG Forum",
+      "links": [
+        "https://securityaffairs.co/wordpress/94734/hacking/great-cannon-attack-hk.html"
+      ],
+      "month": 12,
+      "summary": "China is accused to have used the \"Great Cannon\" DDoS tool to launch attacks against LIHKG, a forum ",
+      "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1499",
+        "motive": "Political"
       },
       "year": 2019
     }
