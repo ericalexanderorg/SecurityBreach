@@ -4668,6 +4668,54 @@
       "year": 2019
     },
     {
+      "entity": "Chinese venture-capital firm",
+      "links": [
+        "https://threatpost.com/ultimate-mitm-attack-steals-1m-from-israeli-startup/150840/"
+      ],
+      "month": 12,
+      "summary": "Check Point became involved in the incident when a $1 million wire-transfer made between the two par",
+      "tags": {
+        "actor": "Criminal:BEC",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "BEC:Impersonation",
+        "motive": "Money:Bank Transfer"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Nebraska Medicine",
+      "links": [
+        "https://threatpost.com/nebraska-medicine-breached-rogue-employee/150823/"
+      ],
+      "month": 12,
+      "summary": "Hospital network Nebraska Medicine has disclosed a data breach after a former employee accessed sens",
+      "tags": {
+        "actor": "Insider",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Energy and industrial sectors in the Middle East",
+      "links": [
+        "https://threatpost.com/iran-mideast-oil-zerocleare-wiper-malware/150814/"
+      ],
+      "month": 6,
+      "summary": "Iran Targets Mideast Oil with ZeroCleare Wiper Malware",
+      "tags": {
+        "actor": "Nation State:APT34",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Political"
+      },
+      "year": 2019
+    },
+        {
       "entity": "CyrusOne",
       "links": [
         "https://www.tripwire.com/state-of-security/featured/major-data-center-provider-hit-ransomware-attack/"
