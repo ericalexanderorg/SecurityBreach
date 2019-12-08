@@ -4719,7 +4719,7 @@
       },
       "year": 2019
     },
-        {
+    {
       "entity": "CyrusOne",
       "links": [
         "https://www.tripwire.com/state-of-security/featured/major-data-center-provider-hit-ransomware-attack/"
@@ -4748,6 +4748,22 @@
         "impacted-user-count": 0,
         "initial-access": "ATT&CK:T1499",
         "motive": "Political"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Complete Technology Solutions",
+      "links": [
+        "https://krebsonsecurity.com/2019/12/ransomware-at-colorado-it-provider-affects-100-dental-offices/"
+      ],
+      "month": 12,
+      "summary": "A Colorado company that specializes in providing IT services to dental offices suffered a ransomware",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
       },
       "year": 2019
     }
