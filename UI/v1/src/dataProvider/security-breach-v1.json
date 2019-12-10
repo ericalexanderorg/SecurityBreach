@@ -4766,6 +4766,22 @@
         "motive": "Money:Ransom"
       },
       "year": 2019
+    },
+    {
+      "entity": "Unnamed company that enables birth and death record access",
+      "links": [
+        "https://www.welivesecurity.com/2019/12/10/data-leak-exposes-750000-birth-certificate-applications/"
+      ],
+      "month": 12,
+      "summary": "Over 752,000 birth certificate applications have been exposed online by an unnamed company that enab",
+      "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "year": 2019
     }
   ]
 }
