@@ -4766,6 +4766,22 @@
         "motive": "Money:Ransom"
       },
       "year": 2019
+    },
+    {
+      "entity": "Multiple entities impacted by snatch ransomware",
+      "links": [
+        "https://threatpost.com/snatch-team-infiltrates-steals-data-ransomware/150974/"
+      ],
+      "month": 12,
+      "summary": "It's one of multiple components of a malware constellation being used in carefully orchestrated atta",
+      "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
     }
   ]
 }
