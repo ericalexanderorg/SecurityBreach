@@ -4132,7 +4132,7 @@
         "motive": "Espionage"
       },
       "links": [
-        "Link to reference"
+        "https://www.csoonline.com/article/3488816/how-a-nuclear-plant-got-hacked.html"
       ]
     },
     {
@@ -4760,22 +4760,6 @@
       "summary": "A Colorado company that specializes in providing IT services to dental offices suffered a ransomware",
       "tags": {
         "actor": "Criminal",
-        "cost-usd": 0,
-        "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Ransom"
-      },
-      "year": 2019
-    },
-    {
-      "entity": "KNPP",
-      "links": [
-        "https://www.csoonline.com/article/3488816/how-a-nuclear-plant-got-hacked.html"
-      ],
-      "month": 12,
-      "summary": "If you think attacking civilian infrastructure is a war crime, you'd be right, but spies from countr",
-      "tags": {
-        "actor": "Nation State",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
