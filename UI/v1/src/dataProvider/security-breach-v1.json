@@ -82,6 +82,10 @@
       "Insider": {
         "description": "Authorized access misused",
         "link": "https://en.wikipedia.org/wiki/Insider_threat"
+      },
+      "CIS: Control 1": {
+        "description": "Lack of hardware inventory.",
+        "link": "https://www.cisecurity.org/controls/inventory-and-control-of-hardware-assets/"
       }
     }
   },
@@ -4132,7 +4136,7 @@
         "motive": "Espionage"
       },
       "links": [
-        "Link to reference"
+        "https://www.csoonline.com/article/3488816/how-a-nuclear-plant-got-hacked.html"
       ]
     },
     {
@@ -4768,6 +4772,69 @@
       "year": 2019
     },
     {
+      "entity": "City of Pensacola",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/maze-ransomware-behind-pensacola-cyberattack-1m-ransom-demand/"
+      ],
+      "month": 12,
+      "summary": "The operators behind the Maze Ransomware have claimed responsibility for the cyberattack affecting t",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "East Greenwich City",
+      "links": [
+        "https://hotforsecurity.bitdefender.com/blog/ransomware-attack-teaches-value-of-prevention-to-east-greenwich-town-government-21904.html"
+      ],
+      "month": 12,
+      "summary": "A ransomware attack on East Greenwich has taught the town's administrator that the costs of a seriou",
+      "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Facebook",
+      "links": [
+        "https://www.engadget.com/2019/12/13/facebook-employee-payroll-data-theft/"
+      ],
+      "month": 11,
+      "summary": "Hard drive stolen from employee contained employee PII.",
+      "tags": {
+        "actor": "Unknown",
+        "cost-usd": 0,
+        "impacted-user-count": 29000,
+        "initial-access": "CIS: Control 1",
+        "motive": "Unknown"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Misc fuel dispenser merchants",
+      "links": [
+        "https://threatpost.com/fin8-targets-card-data-fuel-pumps/151105/"
+      ],
+      "month": 12,
+      "summary": "FIN8 targeting POS systems used at ful pumps and gas stations.",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+      },
+      "year": 2019
+    },
       "entity": "Unnamed company that enables birth and death record access",
       "links": [
         "https://www.welivesecurity.com/2019/12/10/data-leak-exposes-750000-birth-certificate-applications/"
@@ -4780,7 +4847,7 @@
         "impacted-user-count": 752000,
         "initial-access": "?",
         "motive": "Hacktivism:Press"
-      },
+       },
       "year": 2019
     }
   ]
