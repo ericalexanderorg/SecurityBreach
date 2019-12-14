@@ -4811,11 +4811,11 @@
       "month": 11,
       "summary": "Hard drive stolen from employee contained employee PII.",
       "tags": {
-        "actor": "Unknown",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 29000,
         "initial-access": "CIS: Control 1",
-        "motive": "Unknown"
+        "motive": "?"
       },
       "year": 2019
     },
@@ -4851,21 +4851,37 @@
        },
       "year": 2019
     },
-	{
-		"year": 2019,
-		"month": 11,
-		"entity": "Iran Bank",
-		"summary": "15 million bank debit cards in Iran had been published on social media",
-		"tags": {
-			"impacted-user-count": 15000000,
-			"cost-usd": 0,
-			"motive": "?",
-			"actor": "?",
-			"initial-access": "?"
-		},
-		"links": [
-			"https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html"
-		]
-	}
+    {
+      "year": 2019,
+      "month": 12,
+      "entity": "Iran Bank",
+      "summary": "15 million bank debit cards in Iran had been published on social media",
+      "tags": {
+        "impacted-user-count": 15000000,
+        "cost-usd": 0,
+        "motive": "?",
+        "actor": "?",
+        "initial-access": "?"
+      },
+      "links": [
+        "https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html"
+      ]
+    },
+    {
+      "year": 2019,
+      "month": 12,
+      "entity": "City of New Orleans",
+      "summary": "Ransmware attack that forced the shut down of city IT systems.",
+      "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "motive": "Money:Ransom",
+        "actor": "Criminal",
+        "initial-access": "?"
+      },
+      "links": [
+        "https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html"
+      ]
+    }
   ]
 }
