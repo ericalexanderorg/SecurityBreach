@@ -132,6 +132,7 @@ export const BreachCreate = withStyles(inlineInputStyle)(({ classes, ...props })
                 { id: 'ATT&CK:T1326', name: 'ATT&CK:T1326: Domain Registration Hijacking is the act of changing the registration of a domain name without the permission of the original registrant.' },
                 { id: 'ATT&CK:T1499', name: 'ATT&CK:T1499: Endpoint Denial of Service' },
                 { id: 'ATT&CK:T1451', name: 'ATT&CK:T1451: SIM Card Swap' },
+                { id: 'CIS: Control 1', name: 'CIS: Control 1: Lack of hardware inventory' },
                 { id: 'OWASP:A1', name: 'OWASP:A1: Injection' },
                 { id: 'OWASP:A5', name: 'OWASP:A5: Broken Access Control' },
                 { id: 'OWASP:A6', name: 'OWASP:A6: Broken Authentication and Session Management' },
