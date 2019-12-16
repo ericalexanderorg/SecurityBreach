@@ -4835,7 +4835,7 @@
       },
       "year": 2019
     },
-	{
+    {
       "entity": "Unnamed company that enables birth and death record access",
       "links": [
         "https://www.welivesecurity.com/2019/12/10/data-leak-exposes-750000-birth-certificate-applications/"
@@ -4848,7 +4848,7 @@
         "impacted-user-count": 752000,
         "initial-access": "?",
         "motive": "Hacktivism:Press"
-       },
+      },
       "year": 2019
     },
     {
@@ -4882,6 +4882,22 @@
       "links": [
         "https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html"
       ]
+    },
+    {
+      "entity": "City of New Orleans",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/ryuk-ransomware-likely-behind-new-orleans-cyberattack/"
+      ],
+      "month": 12,
+      "summary": "Based on files uploaded to the VirusTotal scanning service, the ransomware attack on the City of New",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
     }
   ]
 }
