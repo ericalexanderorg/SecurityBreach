@@ -4835,7 +4835,7 @@
       },
       "year": 2019
     },
-	{
+    {
       "entity": "Unnamed company that enables birth and death record access",
       "links": [
         "https://www.welivesecurity.com/2019/12/10/data-leak-exposes-750000-birth-certificate-applications/"
@@ -4848,7 +4848,7 @@
         "impacted-user-count": 752000,
         "initial-access": "?",
         "motive": "Hacktivism:Press"
-       },
+      },
       "year": 2019
     },
     {
@@ -4882,6 +4882,22 @@
       "links": [
         "https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html"
       ]
+    },
+    {
+      "entity": "1,000 U.S. Schools",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/ransomware-hit-over-1-000-us-schools-in-2019/"
+      ],
+      "month": 12,
+      "summary": "Image: Andrew Amistad. Since January, 1,039 schools across the U.S. have been potentially hit by a r",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
     }
   ]
 }
