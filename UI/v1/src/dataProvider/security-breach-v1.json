@@ -4898,6 +4898,21 @@
         "motive": "?"
       },
       "year": 2019
+    },
+      "entity": "RavnAir",
+      "links": [
+        "https://securityaffairs.co/wordpress/95530/cyber-crime/ravnair-alaska-airline-cyberattack.html"
+      ],
+      "month": 12,
+      "summary": "RavnAirairline was forced to cancel at least a half-dozen flights in Alaska on Saturday following a reported incident.",
+      "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+      },
+      "year": 2019
     }
   ]
 }
