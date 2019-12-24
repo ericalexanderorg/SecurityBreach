@@ -4835,7 +4835,7 @@
       },
       "year": 2019
     },
-	{
+    {
       "entity": "Unnamed company that enables birth and death record access",
       "links": [
         "https://www.welivesecurity.com/2019/12/10/data-leak-exposes-750000-birth-certificate-applications/"
@@ -4848,7 +4848,7 @@
         "impacted-user-count": 752000,
         "initial-access": "?",
         "motive": "Hacktivism:Press"
-       },
+      },
       "year": 2019
     },
     {
@@ -4882,6 +4882,22 @@
       "links": [
         "https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html"
       ]
+    },
+    {
+      "entity": "Misc aviation, healthcae, finance, insurance, energy, and gambling entities",
+      "links": [
+        "https://securityaffairs.co/wordpress/95536/apt/apt20-op-wocao.html"
+      ],
+      "month": 12,
+      "summary": "China-linked cyber espionage group APT20 has been bypassing two-factor authentication in recent atta",
+      "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+      },
+      "year": 2019
     }
   ]
 }
