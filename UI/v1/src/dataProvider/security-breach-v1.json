@@ -4899,6 +4899,7 @@
       },
       "year": 2019
     },
+    {
       "entity": "RavnAir",
       "links": [
         "https://securityaffairs.co/wordpress/95530/cyber-crime/ravnair-alaska-airline-cyberattack.html"
@@ -4911,6 +4912,22 @@
         "impacted-user-count": 0,
         "initial-access": "?",
         "motive": "?"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Honda",
+      "links": [
+        "https://threatpost.com/honda-leaks-data-26k-north-american-customers/151283/"
+      ],
+      "month": 12,
+      "summary": "An exposed database was discovered leaking the personal information of 26,000 North American Honda o",
+      "tags": {
+        "actor": "Hacktivist:Bob Diachenko",
+        "cost-usd": 0,
+        "impacted-user-count": 26000,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
       },
       "year": 2019
     }
