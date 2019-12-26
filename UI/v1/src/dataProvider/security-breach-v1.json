@@ -4930,6 +4930,22 @@
         "motive": "Hacktivism:Press"
       },
       "year": 2019
+    },
+    {
+      "entity": "Entercom",
+      "links": [
+        "https://securityaffairs.co/wordpress/95604/cyber-crime/entercom-second-cyber-attack.html"
+      ],
+      "month": 12,
+      "summary": "A new cyber attack hit the radio network Entercom, this is the second time the company has suffered ",
+      "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
     }
   ]
 }
