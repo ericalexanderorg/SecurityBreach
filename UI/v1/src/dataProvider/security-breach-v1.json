@@ -4932,6 +4932,38 @@
       "year": 2019
     },
     {
+      "entity": "Maastricht University",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/ransomware-hits-maastricht-university-all-systems-taken-down/"
+      ],
+      "month": 12,
+      "summary": "Maastricht University announced that almost all of its Windows systems have been encrypted by ransom",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
+    },
+    {
+      "entity": "Maritime Transportation Security Act",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/us-coast-guard-says-ryuk-ransomware-took-down-maritime-facility/"
+      ],
+      "month": 12,
+      "summary": "The U.S. Coast Guard published a marine safety alert to inform of a Ryuk Ransomware attack that took",
+      "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
+    },
+    {
       "entity": "Active Network",
       "links": [
         "https://www.scmagazine.com/home/security-news/data-breach/school-software-vendor-active-network-suffers-data-breach/"
@@ -4939,7 +4971,7 @@
       "month": 12,
       "summary": "Acitve Network's Blue Bear Software platform reported that unauthorized activity in its network earl",
       "tags": {
-        "actor": "?",
+        "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
