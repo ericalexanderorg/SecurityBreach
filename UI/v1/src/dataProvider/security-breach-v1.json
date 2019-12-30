@@ -4939,7 +4939,7 @@
       "month": 12,
       "summary": "The U.S. Coast Guard published a marine safety alert to inform of a Ryuk Ransomware attack that took",
       "tags": {
-        "actor": "Nation State",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
