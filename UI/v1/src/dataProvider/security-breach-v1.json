@@ -4930,6 +4930,22 @@
         "motive": "Hacktivism:Press"
       },
       "year": 2019
+    },
+    {
+      "entity": "Active Network",
+      "links": [
+        "https://www.scmagazine.com/home/security-news/data-breach/school-software-vendor-active-network-suffers-data-breach/"
+      ],
+      "month": 12,
+      "summary": "Acitve Network's Blue Bear Software platform reported that unauthorized activity in its network earl",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+      },
+      "year": 2019
     }
   ]
 }
