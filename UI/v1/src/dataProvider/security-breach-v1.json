@@ -4932,6 +4932,22 @@
       "year": 2019
     },
     {
+      "entity": "Maastricht University",
+      "links": [
+        "https://www.bleepingcomputer.com/news/security/ransomware-hits-maastricht-university-all-systems-taken-down/"
+      ],
+      "month": 12,
+      "summary": "Maastricht University announced that almost all of its Windows systems have been encrypted by ransom",
+      "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+      },
+      "year": 2019
+    },
+    {
       "entity": "Maritime Transportation Security Act",
       "links": [
         "https://www.bleepingcomputer.com/news/security/us-coast-guard-says-ryuk-ransomware-took-down-maritime-facility/"
