@@ -1,0 +1,16 @@
+{
+    "entity": "Wyze",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/wyze-exposes-user-data-via-unsecured-elasticsearch-cluster/"
+    ],
+    "month": 12,
+    "summary": "Smart home tech maker Wyze Labs confirmed that the user data of over 2.4 million of its users were e",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2019
+}
