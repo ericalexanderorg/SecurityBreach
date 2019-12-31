@@ -1,0 +1,16 @@
+{
+    "entity": "Hundreds of counterfeit shoe sites",
+    "links": [
+        "https://www.itpro.co.uk/network-internet/web-browser/354317/hundreds-of-counterfeit-shoe-sites-hit-by-magecart-credit-card"
+    ],
+    "month": 12,
+    "summary": "Magento sites hacked and magecart tactics used to exfiltrate data.",
+    "tags": {
+        "actor": "Criminal:Magecart",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A9",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2019
+}
