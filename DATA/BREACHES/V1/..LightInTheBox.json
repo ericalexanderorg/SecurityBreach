@@ -1,0 +1,16 @@
+{
+    "entity": "LightInTheBox",
+    "links": [
+        "https://www.scmagazine.com/home/security-news/data-breach/1-6-billion-lightinthebox-customer-records-left-exposed/"
+    ],
+    "month": 12,
+    "summary": "An unsecured database operated by the online retailer LightInTheBox left 1.3TB of data containing 1.",
+    "tags": {
+        "actor": "Hacktivist:VPNMentor",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2019
+}
