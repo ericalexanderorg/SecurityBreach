@@ -1,0 +1,16 @@
+{
+    "entity": "Hackensack Meridian Health",
+    "links": [
+        "https://threatpost.com/ransomware-attack-new-jersey-largest-hospital-system/151148/"
+    ],
+    "month": 12,
+    "summary": "New Jersey's largest hospital system said that it has paid hackers a ransom after a ransomware attac",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2019
+}
