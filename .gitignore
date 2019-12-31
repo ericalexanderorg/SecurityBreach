@@ -5,3 +5,4 @@ UI/v1/yarn-error.log
 ML/SCRIPTS/__pycache__/*
 yarn.lock
 node_modules
+*.swp
