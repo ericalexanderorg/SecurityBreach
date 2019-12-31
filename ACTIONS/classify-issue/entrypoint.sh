@@ -23,7 +23,7 @@ pip3 install requests
 # Generate output file name
 MONTH=$(date -d "$D" '+%m')
 YEAR=$(date -d "$D" '+%Y')
-ENTITY=$(python3 -c "import urllib.parse; print(urllib.parse.quote_plus('''$ENTITY'''))")
+ENTITY=$(python3 -c "import urllib.parse; print(urllib.parse.quote_plus('''$GITHUB_ISSUE_TITLE'''))")
 DATA_FILE="$GITHUB_WORKSPACE/DATA/BREACHES/V1/$YEAR.$MONTH.$ENTITY.json"
 echo "OUTPUT FILE: $DATA_FILE"
 
