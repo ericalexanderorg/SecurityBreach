@@ -1,0 +1,16 @@
+{
+    "entity": "Rooster Teeth",
+    "links": [
+        "https://threatpost.com/rooster-teeth-attack-magecart/151216/"
+    ],
+    "month": 12,
+    "summary": "The online store for the Rooster Teeth video-streaming service has been hit with a malicious web red",
+    "tags": {
+        "actor": "Criminal:Magecart",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2019
+}
