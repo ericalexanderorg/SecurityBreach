@@ -1,0 +1,16 @@
+{
+    "entity": "Southwire",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/maze-ransomware-demands-6-million-ransom-from-southwire/"
+    ],
+    "month": 12,
+    "summary": "Maze Ransomware operators claim responsibility for another cyber attack, this time against leading w",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 6000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2019
+}
