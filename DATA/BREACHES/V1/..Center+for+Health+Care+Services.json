@@ -1,0 +1,16 @@
+{
+    "entity": "Center for Health Care Services",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/criminals-pull-hard-before-xmas-attack-us-health-industry/"
+    ],
+    "month": 12,
+    "summary": "Attackers are taking no breaks and actually pull harder before holidays, as shown by a San Antonio m",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2019
+}
