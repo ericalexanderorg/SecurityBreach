@@ -6,11 +6,11 @@
     "month": 12,
     "summary": "Attackers are taking no breaks and actually pull harder before holidays, as shown by a San Antonio m",
     "tags": {
-        "actor": "Nation State",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1078",
-        "motive": "PII:?"
+        "initial-access": "?",
+        "motive": "?"
     },
     "year": 2019
 }
