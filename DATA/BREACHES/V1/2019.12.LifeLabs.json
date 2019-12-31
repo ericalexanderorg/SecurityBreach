@@ -6,9 +6,9 @@
     "month": 12,
     "summary": "Canadian clinical laboratory services provider LifeLabs has announced a data breach that exposed the",
     "tags": {
-        "actor": "Hacktivist",
+        "actor": "?",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 15000000,
         "initial-access": "?",
         "motive": "PII:?"
     },
