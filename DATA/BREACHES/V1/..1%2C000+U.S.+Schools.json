@@ -1,0 +1,16 @@
+{
+    "entity": "1,000 U.S. Schools",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/ransomware-hit-over-1-000-us-schools-in-2019/"
+    ],
+    "month": 12,
+    "summary": "Image: Andrew Amistad. Since January, 1,039 schools across the U.S. have been potentially hit by a r",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2019
+}
