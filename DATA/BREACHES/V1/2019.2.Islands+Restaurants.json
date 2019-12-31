@@ -1,0 +1,17 @@
+{
+    "entity": "Islands Restaurants",
+    "links": [
+        "https://oag.ca.gov/system/files/Islands%20Press%20Release%20and%20Sub%20Notice%2C%20Champagne%20press%20release%2C%20sub%20notice.pdf",
+        "https://www.islandsrestaurants.com/paymentcardnotification"
+    ],
+    "month": 2,
+    "summary": "malware was installed on certain point-of-sale devices in our restaurants",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2019
+}
