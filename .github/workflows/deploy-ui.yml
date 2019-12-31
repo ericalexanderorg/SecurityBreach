@@ -12,6 +12,9 @@ jobs:
     - name: Checkout
       uses: actions/checkout@master
 
+    - name: Merge JSON
+      uses: ericalexanderorg/SecurityBreach/ACTIONS/merge-json@master
+
     - name: Set Node.js 10.x
       uses: actions/setup-node@master
       with:
@@ -22,9 +25,6 @@ jobs:
       run: |
         npm install -g yarn
         yarn install
-
-    - name: Merge JSON
-      uses: ericalexanderorg/github-actions/merge-json@master
 
     - name: Build and Deploy
       working-directory: ./UI/v1
