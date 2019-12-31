@@ -1,0 +1,16 @@
+{
+    "entity": "Justus Liebig University (JLU)",
+    "links": [
+        "https://secalerts.co/article/university-issues-passwords-by-hand-to-38000-students-and-staff-after-cyber-attack/02eb06d2"
+    ],
+    "month": 12,
+    "summary": "A German university is going 'old school' and issuing new passwords for the email accounts of all 38",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2019
+}
