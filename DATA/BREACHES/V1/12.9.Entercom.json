@@ -1,0 +1,16 @@
+{
+    "entity": "Entercom",
+    "links": [
+        "https://securityaffairs.co/wordpress/95604/cyber-crime/entercom-second-cyber-attack.html"
+    ],
+    "month": 9,
+    "summary": "Ransomware attack.",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 400000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2019
+}
