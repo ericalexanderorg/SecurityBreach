@@ -1,0 +1,16 @@
+{
+    "entity": "Allied Universal",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/allied-universal-breached-by-maze-ransomware-stolen-data-leaked/"
+    ],
+    "month": 12,
+    "summary": "After a deadline was missed for receiving a ransom payment, the group behind Maze Ransomware has pub",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2019
+}
