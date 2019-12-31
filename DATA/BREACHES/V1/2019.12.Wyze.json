@@ -4,11 +4,11 @@
         "https://www.bleepingcomputer.com/news/security/wyze-exposes-user-data-via-unsecured-elasticsearch-cluster/"
     ],
     "month": 12,
-    "summary": "Smart home tech maker Wyze Labs confirmed that the user data of over 2.4 million of its users were e",
+    "summary": "Unsecured elastic search db exposed to the internet",
     "tags": {
-        "actor": "Hacktivist",
+        "actor": "Hacktivist:Twelve Security",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 2400000,
         "initial-access": "OWASP:A5",
         "motive": "Hacktivism:Press"
     },
