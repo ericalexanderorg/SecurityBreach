@@ -21,8 +21,8 @@ echo "Installing dependencies"
 pip3 install requests
 
 # Generate output file name
-MONTH=$(date -d "$D" '+%m')
-YEAR=$(date -d "$D" '+%Y')
+MONTH=$(date '+%m')
+YEAR=$(date '+%Y')
 ENTITY=$(python3 -c "import urllib.parse; print(urllib.parse.quote_plus('''$GITHUB_ISSUE_TITLE'''))")
 DATA_FILE="$GITHUB_WORKSPACE/DATA/BREACHES/V1/$YEAR.$MONTH.$ENTITY.json"
 echo "OUTPUT FILE: $DATA_FILE"
