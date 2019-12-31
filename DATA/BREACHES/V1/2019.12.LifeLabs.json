@@ -1,0 +1,16 @@
+{
+    "entity": "LifeLabs",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/lifelabs-data-breach-exposes-personal-info-of-15-million-customers/"
+    ],
+    "month": 12,
+    "summary": "Canadian clinical laboratory services provider LifeLabs has announced a data breach that exposed the",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 15000000,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2019
+}
