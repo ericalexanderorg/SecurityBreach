@@ -6,7 +6,7 @@
     "month": 12,
     "summary": "An unsecured database operated by the online retailer LightInTheBox left 1.3TB of data containing 1.",
     "tags": {
-        "actor": "Hacktivist",
+        "actor": "Hacktivist:VPNMentor",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "OWASP:A5",
