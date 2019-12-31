@@ -1,0 +1,1 @@
+{"entity": "ZoneAlarm", "links": ["https://thehackernews.com/2019/11/zonealarm-forum-data-breach.html"], "month": 11, "summary": "ZoneAlarm, an internet security software company owned by Israeli cybersecurity firm Check Point Tec", "tags": {"actor": "Hacktivist", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "OWASP:A9", "motive": "PII:?"}, "year": 2019}

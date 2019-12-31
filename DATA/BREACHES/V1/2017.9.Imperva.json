@@ -1,0 +1,1 @@
+{"year": 2017, "month": 9, "entity": "Imperva", "summary": "AWS keys found on a compromised EC2 instance used to access RDS snapshots.", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "?", "initial-access": "?", "motive": "PII:?"}, "links": ["https://thehackernews.com/2019/08/imperva-waf-breach.html", "https://www.imperva.com/blog/ceoblog/"]}

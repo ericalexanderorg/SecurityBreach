@@ -1,0 +1,1 @@
+{"year": 2019, "month": 9, "entity": "UNICEF", "summary": "UNICEF has leaked thousands of individuals' personal data through its online learning portal Agora.", "tags": {"impacted-user-count": 8000, "actor": "?", "initial-access": "OWASP:A5", "motive": "?"}, "links": ["https://www.itpro.co.uk/security/34388/unicef-leaks-more-than-8000-users-personal-data"]}

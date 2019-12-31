@@ -1,0 +1,1 @@
+{"year": 2019, "month": 9, "entity": "Healthcare Industry", "summary": "PACS servers exposed to the internet with no authentication", "tags": {"impacted-user-count": 45000000, "actor": "Hacktivist", "initial-access": "OWASP:A5", "motive": "Hacktivism:Press"}, "links": ["https://securityaffairs.co/wordpress/91452/hacking/pacs-servers-unprotected-online.html"]}

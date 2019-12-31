@@ -1,0 +1,1 @@
+{"entity": "Reddit", "month": 6, "year": 2018, "summary": "Privileged reddit employee accounts compromised due to password re-use", "tags": {"motive": "?", "actor": "?", "initial-access": "ATT&CK:T1078"}, "links": ["https://www.reddit.com/r/announcements/comments/93qnm5/we_had_a_security_incident_heres_what_you_need_to/"]}

@@ -1,0 +1,1 @@
+{"entity": "Bankers Life", "month": 4, "year": 2018, "summary": "Credential theft resulted in unauthorized data access", "tags": {"motive": "PII:?", "actor": "Criminal", "initial-access": "ATT&CK:T1078"}, "links": ["https://www.ibj.com/articles/71110-data-breach-at-bankers-life-under-investigation-by-state-insurance-department"]}

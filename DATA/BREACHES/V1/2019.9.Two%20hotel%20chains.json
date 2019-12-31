@@ -1,0 +1,1 @@
+{"year": 2019, "month": 9, "entity": "Two hotel chains", "summary": "Unauthorized javascript used to ex-filtrate credit card data", "tags": {"impacted-user-count": 0, "actor": "Criminal:Magecart", "initial-access": "OWASP:A10", "motive": "Money:Credit Card"}, "links": ["https://securityaffairs.co/wordpress/91503/malware/magecart-hotel-chain-websites.html"]}

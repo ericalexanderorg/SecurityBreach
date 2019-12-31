@@ -1,0 +1,1 @@
+{"entity": "California Girl Scouts", "month": 10, "year": 2018, "summary": "Email ATT&CK:T1078d and contained PII", "tags": {"impacted-user-count": 3000, "motive": "PII:?", "actor": "Criminal", "initial-access": "ATT&CK:T1078"}, "links": ["http://techgenix.com/california-girl-scouts-data-breach/"]}

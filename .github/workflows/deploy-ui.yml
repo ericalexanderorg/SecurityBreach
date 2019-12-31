@@ -23,6 +23,9 @@ jobs:
         npm install -g yarn
         yarn install
 
+    - name: Merge JSON
+      uses: ericalexanderorg/github-actions/merge-json@master
+
     - name: Build and Deploy
       working-directory: ./UI/v1
       run: yarn build

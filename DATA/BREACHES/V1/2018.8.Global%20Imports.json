@@ -1,0 +1,1 @@
+{"entity": "Global Imports", "month": 8, "year": 2018, "summary": "Javascript injected in site to steal credit card information", "tags": {"motive": "Money:Credit Card", "actor": "Criminal:Magecart", "initial-access": "OWASP:A10"}, "links": ["https://oag.ca.gov/system/files/A%26A%20Consumer%20Notice%20Proof%20-%20FINAL%201-9-19_0.pdf"]}

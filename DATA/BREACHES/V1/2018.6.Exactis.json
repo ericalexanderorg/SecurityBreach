@@ -1,0 +1,1 @@
+{"entity": "Exactis", "month": 6, "year": 2018, "summary": "Exposed elastic search DB contained PII", "tags": {"motive": "Hacktivism:Press", "actor": "Hacktivist", "initial-access": "OWASP:A5"}, "links": ["https://www.wired.com/story/exactis-database-leak-340-million-records/"]}

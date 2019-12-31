@@ -1,0 +1,1 @@
+{"entity": "The National Bank of Blacksburg", "month": 5, "year": 2016, "summary": "Phishing email led to malware that led to unauthorized transactions", "tags": {"motive": "Money:Bank Transfer", "actor": "Criminal:BEC", "initial-access": "ATT&CK:T1193"}, "links": ["https://krebsonsecurity.com/2018/07/hackers-breached-virginia-bank-twice-in-eight-months-stole-2-4m/"]}

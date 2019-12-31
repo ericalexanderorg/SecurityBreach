@@ -1,0 +1,1 @@
+{"year": 2019, "month": 2, "entity": "1177 Care Guide", "summary": "Web server exposed call recordings with patient data.", "tags": {"impacted-user-count": 2700000, "actor": "Hacktivist", "initial-access": "OWASP:A5", "motive": "Hacktivism:Press"}, "links": ["https://computersweden.idg.se/2.2683/1.714787/inspelade-samtal-1177-vardguiden-oskyddade-internet"]}

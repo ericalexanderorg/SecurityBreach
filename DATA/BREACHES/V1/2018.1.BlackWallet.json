@@ -1,0 +1,1 @@
+{"entity": "BlackWallet", "month": 1, "year": 2018, "summary": "ATT&CK:T1326 for MITM purposes", "tags": {"motive": "Money:Cryptocurrency", "actor": "Criminal", "initial-access": "ATT&CK:T1326"}, "links": ["https://www.bleepingcomputer.com/news/security/hackers-hijack-dns-server-of-blackwallet-to-steal-400-000/"]}
