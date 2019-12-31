@@ -1,0 +1,16 @@
+{
+    "entity": "Roosevelt General Hospital",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/criminals-pull-hard-before-xmas-attack-us-health-industry/"
+    ],
+    "month": 12,
+    "summary": "Breach at healthcare provider with limited details.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2019
+}
