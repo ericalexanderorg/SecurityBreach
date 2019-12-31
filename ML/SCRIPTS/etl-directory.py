@@ -14,7 +14,6 @@ def transform_name(name):
 def main():
     # Pull in breach data
     data = base.get_summrys()
-    print('got here')
     # Loop through our essential tags
     essential_tags = base.get_essential_tags()
     # Create temp directory structure

@@ -74,7 +74,7 @@ def get_breach_summrys(breach):
 
 def get_summrys():
     # Pull in breach data
-    breaches = json.loads(open('../../UI/v1/src/dataProvider/security-breach-v1.json').read())
+    path = "../../DATA/BREACHES/V1/"
 
     # Define data dict using essential tags
     # We're going to be using to create our CSVs
@@ -89,13 +89,19 @@ def get_summrys():
         cleansed_data['test'][tag]=[]
 
     # Iterate through the breach data and create our data dict
-    for breach in breaches['breaches']:
-        # Sanity check. Make sure the tags we need are in the breach data
-        for tag in essential_tags:
-            if tag in breach['tags']:
-                for summry in get_breach_summrys(breach):
-                    this_data = {'Tag': breach['tags'][tag], 'Data': summry}
-                    data[tag].append(this_data)
+    for breach_file in os.listdir(path):
+        # Process breach json files but skip the version json file
+        if ".json" in breach_file and "V1.json" not in breach_file:
+            print(breach_file)
+            with open(path + breach_file) as json_file:
+                breach = json.load(json_file)
+                # Sanity check. Make sure the tags we need are in the breach data
+                for tag in essential_tags:
+                    if tag in breach['tags']:
+                        # Get summry associated with this breach and tag
+                        for summry in get_breach_summrys(breach):
+                            this_data = {'Tag': breach['tags'][tag], 'Data': summry}
+                            data[tag].append(this_data)
 
     # Cleanup
     for tag in data:
