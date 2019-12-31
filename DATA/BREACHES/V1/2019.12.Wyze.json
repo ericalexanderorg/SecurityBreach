@@ -1,0 +1,16 @@
+{
+    "entity": "Wyze",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/wyze-exposes-user-data-via-unsecured-elasticsearch-cluster/"
+    ],
+    "month": 12,
+    "summary": "Unsecured elastic search db exposed to the internet",
+    "tags": {
+        "actor": "Hacktivist:Twelve Security",
+        "cost-usd": 0,
+        "impacted-user-count": 2400000,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2019
+}
