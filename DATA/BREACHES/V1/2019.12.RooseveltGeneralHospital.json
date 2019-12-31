@@ -4,13 +4,13 @@
         "https://www.bleepingcomputer.com/news/security/criminals-pull-hard-before-xmas-attack-us-health-industry/"
     ],
     "month": 12,
-    "summary": "Attackers are taking no breaks and actually pull harder before holidays, as shown by a San Antonio m",
+    "summary": "Digital imaging server used in radiology that contained patients’ detailed information had contracted malware",
     "tags": {
-        "actor": "Nation State",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1078",
-        "motive": "PII:?"
+        "initial-access": "?",
+        "motive": "?"
     },
     "year": 2019
 }
