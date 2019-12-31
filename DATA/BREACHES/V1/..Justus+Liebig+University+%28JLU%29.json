@@ -6,11 +6,11 @@
     "month": 12,
     "summary": "A German university is going 'old school' and issuing new passwords for the email accounts of all 38",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1192",
-        "motive": "Money:Misc"
+        "initial-access": "?",
+        "motive": "?"
     },
     "year": 2019
 }
