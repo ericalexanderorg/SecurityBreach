@@ -1,0 +1,16 @@
+{
+    "entity": "Moss Adams",
+    "links": [
+        "https://oag.ca.gov/system/files/Moss"
+    ],
+    "month": 12,
+    "summary": "API ERROR: THE PAGE COULD NOT BE FOUND",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2019
+}
