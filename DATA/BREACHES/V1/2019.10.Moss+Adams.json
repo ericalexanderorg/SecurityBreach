@@ -1,0 +1,16 @@
+{
+    "entity": "Moss Adams",
+    "links": [
+        "https://oag.ca.gov/system/files/Moss%20Adams%20-%20Sample%20Consumer%20Notification%20Letter%20%28CA%29.pdf"
+    ],
+    "month": 10,
+    "summary": "Employee email account compromised.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2019
+}
