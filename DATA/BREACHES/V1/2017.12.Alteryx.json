@@ -1,0 +1,1 @@
+{"entity": "Alteryx", "month": 12, "year": 2017, "summary": "Data spill from open s3 bucket", "tags": {"motive": "Hacktivism:Press", "actor": "Hacktivist", "initial-access": "OWASP:A5"}, "links": ["http://beta.latimes.com/business/technology/la-fi-tn-alteryx-data-breach-20171222-story.html"]}

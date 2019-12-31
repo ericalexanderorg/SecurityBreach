@@ -1,0 +1,1 @@
+{"entity": "Century Springs", "month": 11, "year": 2018, "summary": "Javascript injected in site to steal credit card information", "tags": {"motive": "Money:Credit Card", "actor": "Criminal:Magecart", "initial-access": "OWASP:A10"}, "links": ["https://ago.vermont.gov/blog/2018/12/14/century-spring-notice-of-data-breach-to-consumers/"]}

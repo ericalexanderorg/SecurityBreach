@@ -1,0 +1,1 @@
+{"entity": "Equifax", "month": 5, "year": 2017, "summary": "Server running un-patched software used to pivot into network", "tags": {"motive": "PII:?", "actor": "Criminal", "initial-access": "OWASP:A9"}, "links": ["https://www.usatoday.com/story/tech/2017/09/26/timeline-events-surrounding-equifax-data-breach/703691001/"]}

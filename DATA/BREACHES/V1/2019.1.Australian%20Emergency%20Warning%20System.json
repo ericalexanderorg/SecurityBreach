@@ -1,0 +1,1 @@
+{"entity": "Australian Emergency Warning System", "month": 1, "year": 2019, "summary": "Account Compromise used to send unauthorized warning messages", "tags": {"motive": "Hacktivism:Schadenfreude", "actor": "Hacktivist", "initial-access": "ATT&CK:T1078"}, "links": ["https://www.abc.net.au/news/2019-01-07/emergency-text-service-hacked-warning-about-personal-data-sent/10688748"]}

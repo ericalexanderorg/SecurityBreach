@@ -1,0 +1,1 @@
+{"year": 2019, "month": 9, "entity": "Twitter", "summary": "Unauthorized access to CEO's account using sim swapping to perform an account recovery.", "tags": {"impacted-user-count": 0, "cost-usd": null, "actor": "?", "initial-access": "ATT&CK:T1078", "motive": "?"}, "links": ["https://thehackernews.com/2019/09/tweet-via-sms-text-message-hacking.html"]}

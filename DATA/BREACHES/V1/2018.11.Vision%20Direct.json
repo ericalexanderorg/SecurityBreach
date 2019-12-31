@@ -1,0 +1,1 @@
+{"entity": "Vision Direct", "month": 11, "year": 2018, "summary": "Javascript injected in site to steal credit card information", "tags": {"motive": "Money:Credit Card", "actor": "Criminal:Magecart", "initial-access": "OWASP:A10"}, "links": ["https://www.theregister.co.uk/2018/11/19/vision_direct_fesses_up_to_hack_that_exposed_customer_names_and_payment_deets/"]}

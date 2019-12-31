@@ -1,0 +1,92 @@
+{
+    "supported": true,
+    "tag-taxonomy": {
+        "motive": {
+            "Espionage": "Nation state or business stealing information for espionage purposes",
+            "Hacktivism:Press": "Associated press benefited the whistleblower.",
+            "Hacktivism:Schadenfreude": "Associated press did not benefit the whistleblower but shamed the exploited entity",
+            "Hacktivism:?": "Motivation unknown. The event neither clearly benefited the exploiter nor shamed the exploited entity.",
+            "Money:Bank Transfer": "Money was stolen through a bank transer.",
+            "Money:Credit Card": "Money was stolen through credit card transactions.",
+            "Money:Cryptocurrency": "Money was stolen through Cryptocurrency transactions.",
+            "Money:Ransom": "Money was stolen through ransom.",
+            "Money:Sale on dark web": "The data was put on sale on the dark web.",
+            "Money:Misc": "Catch all for any type of financial gain",
+            "PII:?": "PII was stolen for unknown reasons.",
+            "Political": "Nation state action related to political influence."
+        },
+        "actor": {
+            "Nation State": "Speculation the actor was a nation state.",
+            "Criminal": "Speculation the actor was a criminal entity.",
+            "Hacktivist": "Speculation or clear attribution that the actor acted to shed light on a vulnerable system.",
+            "Insider": "Authorized entity who used their access for malicious purposes.",
+            "?": "Actor is unknown"
+        },
+        "initial-access": {
+            "ATT&CK:T1326": {
+                "description": "Domain Registration Hijacking is the act of changing the registration of a domain name without the permission of the original registrant.",
+                "link": "https://attack.mitre.org/techniques/T1326/"
+            },
+            "ATT&CK:T1193": {
+                "description": "Spearphishing Attachment",
+                "link": "https://attack.mitre.org/techniques/T1193/"
+            },
+            "ATT&CK:T1192": {
+                "description": "Spearphishing Link",
+                "link": "https://attack.mitre.org/techniques/T1192/"
+            },
+            "ATT&CK:T1078": {
+                "description": "Compromised Valid Accounts",
+                "link": "https://attack.mitre.org/techniques/T1192/"
+            },
+            "ATT&CK:T1499": {
+                "description": "Endpoint Denial of Service",
+                "link": "https://attack.mitre.org/techniques/T1499/"
+            },
+            "ATT&CK:T1451": {
+                "description": "SIM Card Swap",
+                "link": "https://attack.mitre.org/techniques/T1451/"
+            },
+            "OWASP:A10": {
+                "description": "Insufficient Logging & Monitoring",
+                "link": "https://www.owasp.org/index.php/Top_10-2017_A10-Insufficient_Logging%26Monitoring"
+            },
+            "OWASP:A5": {
+                "description": "Broken Access Control.",
+                "link": "https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control"
+            },
+            "OWASP:A6": {
+                "description": "Broken Authentication and Session Management",
+                "link": "https://www.owasp.org/index.php/Top_10-2017_A6-Security_Misconfiguration"
+            },
+            "OWASP:A9": {
+                "description": "Using Components with Known Vulerabilities",
+                "link": "https://www.owasp.org/index.php/Top_10-2017_A9-Using_Components_with_Known_Vulnerabilities"
+            },
+            "BEC:Impersonation": {
+                "description": "Attacker poses as a trusted entity and requests an action to be taken that leads to monetary loss.",
+                "link": "https://www.barracuda.com/glossary/business-email-compromise#targetText=BEC%20Exploits&targetText=Although%20the%20perpetrators%20of%20BEC,with%20some%20form%20of%20malware."
+            },
+            "BGP Hijack": {
+                "description": "Trafic re-routed through unauthorized BGP advertisements.",
+                "link": "https://www.cloudflare.com/learning/security/glossary/bgp-hijacking/"
+            },
+            "OWASP:A1": {
+                "description": "Injection",
+                "link": "https://www.owasp.org/index.php/Top_10-2017_A1-Injection"
+            },
+            "ATT&CK:T1200": {
+                "description": "Hardware Additions",
+                "link": "https://attack.mitre.org/techniques/T1200/"
+            },
+            "Insider": {
+                "description": "Authorized access misused",
+                "link": "https://en.wikipedia.org/wiki/Insider_threat"
+            },
+            "CIS: Control 1": {
+                "description": "Lack of hardware inventory.",
+                "link": "https://www.cisecurity.org/controls/inventory-and-control-of-hardware-assets/"
+            }
+        }
+    }
+}

@@ -1,0 +1,1 @@
+{"entity": "Multiple", "month": 1, "year": 2017, "summary": "Vulnerability in CC processing software used to exploit multiple entities", "tags": {"motive": "Money:Credit Card", "actor": "Criminal", "initial-access": "?"}, "links": ["https://geminiadvisory.io/hacked-click2gov-exposed-payment-data/"]}

@@ -1,0 +1,1 @@
+{"entity": "Fox IT", "month": 9, "year": 2017, "summary": "Domain registry account accessed and used to reroute traffic through DNS", "tags": {"motive": "?", "actor": "?", "initial-access": "ATT&CK:T1326"}, "links": ["https://www.fox-it.com/en/insights/blogs/blog/fox-hit-cyber-attack/"]}

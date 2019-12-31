@@ -1,0 +1,1 @@
+{"entity": "Five Guys", "month": 8, "year": 2018, "summary": "Phishing email lead to unauthorized access to 19k PII records", "tags": {"motive": "PII:?", "actor": "?", "initial-access": "ATT&CK:T1078"}, "links": ["http://ago.vermont.gov/blog/2018/11/02/five-guys-holdings-inc-notice-of-data-breach-to-consumers/"]}

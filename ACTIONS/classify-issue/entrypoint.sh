@@ -20,28 +20,17 @@ echo "Installing dependencies"
 #pip3 install -r ./ML/SCRIPTS/requirements-classify-sklearn.txt
 pip3 install requests
 
-# Prep dataset file by removing last 3 lines that contain: }]}
-echo "Prepping dataset"
-DATA_FILE="$GITHUB_WORKSPACE/UI/v1/src/dataProvider/security-breach-v1.json"
-TEMP=$(head -n -3 $DATA_FILE)
-echo "$TEMP" > $DATA_FILE
-echo "}," >> $DATA_FILE
+# Generate output file name
+MONTH=$(date -d "$D" '+%m')
+YEAR=$(date -d "$D" '+%Y')
+ENTITY=$(python3 -c "import urllib.parse; print(urllib.parse.quote_plus('''$ENTITY'''))")
+DATA_FILE="$GITHUB_WORKSPACE/DATA/BREACHES/V1/$YEAR.$MONTH.$ENTITY.json"
+echo "OUTPUT FILE: $DATA_FILE"
 
-# Classify and append to dataset
+# Classify and write output
 echo "Classifying"
-cd ML/SCRIPTS
-python3 classify-sklearn.py $URL "$GITHUB_ISSUE_TITLE" $DATA_FILE
-echo "Last 10 lines of data file:"
-tail -10 $DATA_FILE
-rm -f $TFILE
-cd ../../
-
-echo "Finalizing data file"
-# Add last two lines we removed earlier
-echo "]}" >> "$DATA_FILE"
-# Clean up the data file with jq, also validates json.
-cat $DATA_FILE | jq > tmp.out
-mv tmp.out $DATA_FILE
+cd ML/SCRIPTS || exit
+python3 classify-sklearn.py "$URL" "$GITHUB_ISSUE_TITLE" "$DATA_FILE"
 
 # Pass issue number to next step using output variable
 echo "Generating ouput"

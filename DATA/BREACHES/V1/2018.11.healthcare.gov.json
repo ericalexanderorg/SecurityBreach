@@ -1,0 +1,1 @@
+{"entity": "healthcare.gov", "month": 11, "year": 2018, "summary": "Possible ATT&CK:T1078 led to unauthorized data access. ", "tags": {"motive": "PII:?", "actor": "?", "initial-access": "?"}, "links": ["https://techcrunch.com/2018/11/09/hackers-stole-income-immigration-and-tax-data-in-healthcare-gov-breach-government-confirms/"]}

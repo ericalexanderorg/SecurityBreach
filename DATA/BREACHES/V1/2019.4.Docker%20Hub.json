@@ -1,0 +1,1 @@
+{"year": 2019, "month": 4, "entity": "Docker Hub", "summary": "Unauthorized access to a single Docker Hub database storing a subset of non-financial user data", "tags": {"impacted-user-count": 190000, "cost-usd": null, "initial-access": "?", "motive": "?", "actor": "?"}, "links": ["https://success.docker.com/article/docker-hub-user-notification"]}
