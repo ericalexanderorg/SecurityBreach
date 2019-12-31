@@ -1,0 +1,16 @@
+{
+    "entity": "Special Olympics of New York",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/special-olympics-new-york-hacked-to-send-phishing-emails/"
+    ],
+    "month": 12,
+    "summary": "Special Olympics of New York, a nonprofit organization focused on competitive athletes with intellec",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2019
+}
