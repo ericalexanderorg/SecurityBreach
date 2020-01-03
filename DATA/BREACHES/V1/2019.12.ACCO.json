@@ -1,16 +1,16 @@
 {
-    "entity": "ACCO",
+    "entity": "ACCO Engineered Systems",
     "links": [
-        "https://oag.ca.gov/system/files/ACCO"
+        "https://oag.ca.gov/system/files/ACCO%20-%20%28Notice%20Only%29.pdf"
     ],
-    "month": 12,
-    "summary": "API ERROR: THE PAGE COULD NOT BE FOUND",
+    "month": 11,
+    "summary": "Employee laptop and phone stolen.",
     "tags": {
-        "actor": "Hacktivist",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A5",
-        "motive": "Hacktivism:Press"
+        "initial-access": "?",
+        "motive": "?"
     },
     "year": 2019
 }
