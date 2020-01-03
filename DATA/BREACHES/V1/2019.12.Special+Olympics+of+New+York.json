@@ -1,0 +1,16 @@
+{
+    "entity": "Special Olympics of New York",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/special-olympics-new-york-hacked-to-send-phishing-emails/"
+    ],
+    "month": 12,
+    "summary": "Email server compromised.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2019
+}
