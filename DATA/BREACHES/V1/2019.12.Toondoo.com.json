@@ -1,16 +1,16 @@
 {
     "entity": "Toondoo.com",
     "links": [
-        "https://oag.ca.gov/system/files/Sample"
+        "http://toondoo.com/index-US.html"
     ],
-    "month": 12,
-    "summary": "API ERROR: THE PAGE COULD NOT BE FOUND",
+    "month": 11,
+    "summary": "Data breach exposed PII. Details are light.",
     "tags": {
-        "actor": "Hacktivist",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A5",
-        "motive": "Money:Credit Card"
+        "initial-access": "?",
+        "motive": "?"
     },
     "year": 2019
 }
