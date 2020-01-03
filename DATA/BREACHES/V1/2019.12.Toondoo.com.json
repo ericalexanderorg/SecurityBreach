@@ -1,0 +1,16 @@
+{
+    "entity": "Toondoo.com",
+    "links": [
+        "http://toondoo.com/index-US.html"
+    ],
+    "month": 11,
+    "summary": "Data breach exposed PII. Details are light.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2019
+}
