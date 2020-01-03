@@ -1,0 +1,17 @@
+{
+    "entity": "Landry's Restaurant Chain",
+    "links": [
+        "https://thehackernews.com/2020/01/landry-pos-malware-attack.html",
+        "https://www.landrysinc.com/CreditNotice/"
+    ],
+    "month": 1,
+    "summary": "Malware found on network and was siphoning stripe data sent from unencrypted POS systems.",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2019
+}
