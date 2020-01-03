@@ -1,0 +1,16 @@
+{
+    "entity": "Sharepost",
+    "links": [
+        "https://oag.ca.gov/system/files/SharesPost%20Multistate%20Proof.pdf"
+    ],
+    "month": 9,
+    "summary": "Employee email account compromised.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2019
+}
