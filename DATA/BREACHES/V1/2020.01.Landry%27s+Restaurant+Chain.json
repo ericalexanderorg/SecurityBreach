@@ -1,0 +1,16 @@
+{
+    "entity": "Landry's Restaurant Chain",
+    "links": [
+        "https://thehackernews.com/2020/01/landry-pos-malware-attack.html"
+    ],
+    "month": 1,
+    "summary": "Landry's, a popular restaurant chain in the United States, has announced a malware attack on its poi",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
