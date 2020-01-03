@@ -1,0 +1,16 @@
+{
+    "entity": "ACCO Engineered Systems",
+    "links": [
+        "https://oag.ca.gov/system/files/ACCO%20-%20%28Notice%20Only%29.pdf"
+    ],
+    "month": 11,
+    "summary": "Employee laptop and phone stolen.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2019
+}
