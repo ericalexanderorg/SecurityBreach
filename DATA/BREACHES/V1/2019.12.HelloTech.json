@@ -1,0 +1,16 @@
+{
+    "entity": "HelloTech",
+    "links": [
+        "https://oag.ca.gov/system/files/General%20Notice%20Z507_v02.PDF"
+    ],
+    "month": 11,
+    "summary": "Inadvertently exposed independant contractor data.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2019
+}
