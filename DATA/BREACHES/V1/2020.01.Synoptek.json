@@ -1,0 +1,16 @@
+{
+    "entity": "Synoptek",
+    "links": [
+        "https://krebsonsecurity.com/2019/12/ransomware-at-it-services-provider-synoptek/"
+    ],
+    "month": 1,
+    "summary": "Synoptek, a California business that provides cloud hosting and IT management services to more than ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
