@@ -1,0 +1,17 @@
+{
+    "entity": "The Heritage Company",
+    "links": [
+        "https://katv.com/news/local/sherwood-telemarketing-company-temporarily-shuts-down-blames-cyber-attack-ransom",
+        "https://www.scmagazine.com/home/security-news/ransomware/ransomware-shuts-down-the-heritage-company/"
+    ],
+    "month": 12,
+    "summary": "Ransomware incident forced company to shut down operations indefinately.",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2019
+}
