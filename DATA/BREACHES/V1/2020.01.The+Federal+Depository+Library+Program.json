@@ -1,0 +1,16 @@
+{
+    "entity": "The Federal Depository Library Program",
+    "links": [
+        "https://threatpost.com/hackers-deface-u-s-gov-website-with-pro-iran-messages/151559/"
+    ],
+    "month": 1,
+    "summary": "A U.S. government website was vandalized late Saturday by hackers who posted images of a bloodied Pr",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
