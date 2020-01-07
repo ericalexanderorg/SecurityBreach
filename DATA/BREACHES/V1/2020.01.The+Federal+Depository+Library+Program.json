@@ -6,11 +6,11 @@
     "month": 1,
     "summary": "A U.S. government website was vandalized late Saturday by hackers who posted images of a bloodied Pr",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Hacktivist",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Money:Ransom"
+        "motive": "Hacktivism"
     },
     "year": 2020
 }
