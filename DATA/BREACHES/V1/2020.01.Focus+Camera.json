@@ -6,7 +6,7 @@
     "month": 1,
     "summary": "The website of popular photography and imaging retailer Focus Camera got hacked late last year by Ma",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Criminal:MageCart",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
