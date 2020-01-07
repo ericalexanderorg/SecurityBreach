@@ -1,0 +1,16 @@
+{
+    "entity": "Political and law enforcement organizations and NGOs in Asia",
+    "links": [
+        "https://securityaffairs.co/wordpress/96091/apt/bronze-president-spies-asia.html"
+    ],
+    "month": 1,
+    "summary": "A cyber-espionage group tracked as Bronze President has been targeting countries in South and East Asia",
+    "tags": {
+        "actor": "Nation State:Bronze President",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
