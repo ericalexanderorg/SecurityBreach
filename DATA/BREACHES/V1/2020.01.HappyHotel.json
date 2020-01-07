@@ -1,0 +1,16 @@
+{
+    "entity": "HappyHotel",
+    "links": [
+        "https://securityaffairs.co/wordpress/96057/hacking/happyhotel-data-breach.html"
+    ],
+    "month": 1,
+    "summary": "HappyHotel, a Japanese search engine used to find and book rooms in \"Love hotels,\" announced to have",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
