@@ -1,0 +1,16 @@
+{
+    "entity": "Travelex",
+    "links": [
+        "https://www.computerweekly.com/news/252476283/Cyber-gangsters-demand-payment-from-Travelex-after-Sodinokibi-attack"
+    ],
+    "month": 1,
+    "summary": "Foreign exchange company Travelex is facing demands for payment to decrypt critical computer files a",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
