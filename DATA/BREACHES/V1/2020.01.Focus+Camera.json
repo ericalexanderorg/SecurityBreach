@@ -1,0 +1,16 @@
+{
+    "entity": "Focus Camera",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/magecart-attackers-steal-card-info-from-focus-camera-shoppers/"
+    ],
+    "month": 1,
+    "summary": "The website of popular photography and imaging retailer Focus Camera got hacked late last year by Ma",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
