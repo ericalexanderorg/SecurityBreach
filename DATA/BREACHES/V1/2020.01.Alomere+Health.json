@@ -1,0 +1,16 @@
+{
+    "entity": "Alomere Health",
+    "links": [
+        "https://news.alomerehealth.com/vigilance-is-the-best-defense-to-cyber-attacks/"
+    ],
+    "month": 1,
+    "summary": "Alomere Health understands the importance of protecting our patients' information. On January 3, 202",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
