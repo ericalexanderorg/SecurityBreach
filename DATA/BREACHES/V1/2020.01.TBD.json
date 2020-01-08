@@ -1,0 +1,16 @@
+{
+    "entity": "TBD",
+    "links": [
+        "https://doublepulsar.com/big-game-ransomware-being-delivered-to-organisations-via-pulse-secure-vpn-bd01b791aad9"
+    ],
+    "month": 1,
+    "summary": "A security vulnerability in a popular enterprise remote access product is being used to deliver rans",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
