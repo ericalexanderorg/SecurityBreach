@@ -1,0 +1,16 @@
+{
+    "entity": "CheckPeople",
+    "links": [
+        "https://securityaffairs.co/wordpress/96238/data-breach/checkpeople-data-leak.html"
+    ],
+    "month": 1,
+    "summary": "A database containing the personal details of 56.25 million US residents that allegedly belongs to C",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
