@@ -1,0 +1,16 @@
+{
+    "entity": "Saudi Arabian petrochemical facility",
+    "links": [
+        "https://threatpost.com/triton-malware-targets-industrial-control-systems-in-middle-east/129182/"
+    ],
+    "month": 1,
+    "summary": "Researchers found malware called Triton on the industrial control systems of a company located in th",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
