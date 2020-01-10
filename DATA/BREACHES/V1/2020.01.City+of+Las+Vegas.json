@@ -1,0 +1,16 @@
+{
+    "entity": "City of Las Vegas",
+    "links": [
+        "https://www.techradar.com/news/las-vegas-escapes-major-cyberattack"
+    ],
+    "month": 1,
+    "summary": "The City of Las Vegas has revealed it was targeted with a serious cyberattack during CES 2020. City ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
