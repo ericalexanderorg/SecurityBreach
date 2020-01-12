@@ -1,0 +1,16 @@
+{
+    "entity": "Unspecified Australia Bushfire Donor Site",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/australia-bushfire-donors-affected-by-credit-card-skimming-attack/"
+    ],
+    "month": 1,
+    "summary": "Attackers have compromised a website collecting donations for the victims of the Australia bushfires",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
