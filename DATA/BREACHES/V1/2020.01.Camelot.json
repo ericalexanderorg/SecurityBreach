@@ -1,0 +1,16 @@
+{
+    "entity": "Camelot",
+    "links": [
+        "https://www.securityweek.com/uk-national-lottery-hacker-sentenced-prison"
+    ],
+    "month": 1,
+    "summary": "A man accused of hacking UK National Lottery accounts via credential stuffing attacks has been sente",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2020
+}
