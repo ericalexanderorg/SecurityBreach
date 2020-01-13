@@ -1,0 +1,16 @@
+{
+    "entity": "The Manor Independent School District",
+    "links": [
+        "https://threatpost.com/scammers-dupe-texas-school-district-out-of-2-3m/151773/"
+    ],
+    "month": 1,
+    "summary": "A Texas school district, based outside of Austin, Tex., has lost $2.3 million after falling victim t",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Bank Transfer"
+    },
+    "year": 2020
+}
