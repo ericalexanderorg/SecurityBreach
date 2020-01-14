@@ -1,0 +1,16 @@
+{
+    "entity": "Burisma",
+    "links": [
+        "https://www.securityweek.com/phishing-campaign-targeting-ukrainian-firm-burisma-linked-russian-cyberspies"
+    ],
+    "month": 1,
+    "summary": "A phishing campaign apparently aimed at Burisma, the Ukrainian gas company that is at the center of ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2020
+}
