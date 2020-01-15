@@ -1,0 +1,16 @@
+{
+    "entity": "Update: Equifax",
+    "links": [
+        "https://threatpost.com/equifax-settles-class-action-lawsuit/151873/"
+    ],
+    "month": 1,
+    "summary": "Equifax will pay $380.5 million to settle lawsuits regarding the 2017 data breach, the Atlanta feder",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
