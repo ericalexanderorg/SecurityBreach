@@ -1,0 +1,16 @@
+{
+    "entity": "Peekaboo Moments",
+    "links": [
+        "https://nakedsecurity.sophos.com/2020/01/15/peekaboo-moments-baby-recording-app-has-a-bad-database-booboo/"
+    ],
+    "month": 1,
+    "summary": "No need to wait until you've gurgled out of your mother's womb to experience the joys of having your",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
