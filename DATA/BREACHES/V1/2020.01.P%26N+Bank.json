@@ -1,0 +1,16 @@
+{
+    "entity": "P&N Bank",
+    "links": [
+        "https://www.securityweek.com/pn-bank-data-breach-exposes-trove-user-data"
+    ],
+    "month": 1,
+    "summary": "P&N Bank has notifed customers of a data breach that resulted in a large amount of sensitive informa",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
