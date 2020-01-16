@@ -1,0 +1,16 @@
+{
+    "entity": "PlanetDrugsDirect",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/online-pharmacy-planetdrugsdirect-discloses-security-breach/"
+    ],
+    "month": 1,
+    "summary": "Canadian online pharmacy PlanetDrugsDirect is emailing customers, notifying them of a data security ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
