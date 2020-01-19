@@ -1,0 +1,16 @@
+{
+    "entity": "Albany International Airport",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/sodinikibi-ransomware-hits-new-york-airport-systems/"
+    ],
+    "month": 1,
+    "summary": "Albany International Airport's staff announced that the New York airport's administrative servers we",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
