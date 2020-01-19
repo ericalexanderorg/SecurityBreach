@@ -6,11 +6,11 @@
     "month": 1,
     "summary": "Canadian online pharmacy PlanetDrugsDirect is emailing customers, notifying them of a data security ",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "PII:?"
+        "motive": "?"
     },
     "year": 2020
 }
