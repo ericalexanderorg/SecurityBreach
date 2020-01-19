@@ -1,0 +1,16 @@
+{
+    "entity": "Dixons",
+    "links": [
+        "https://www.securityweek.com/dixons-fined-uk-regulator-over-data-breach"
+    ],
+    "month": 1,
+    "summary": "The UK Data Protection Regulator has issued a monetary penalty of \u00a3500,000 against Dixon Carphone fo",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
