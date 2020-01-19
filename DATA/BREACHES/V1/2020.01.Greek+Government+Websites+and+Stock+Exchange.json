@@ -1,0 +1,16 @@
+{
+    "entity": "Greek Government Websites and Stock Exchange",
+    "links": [
+        "https://www.securityweek.com/turkish-hackers-target-greek-government-websites-stock-exchange"
+    ],
+    "month": 1,
+    "summary": "Turkish hackers claimed Friday to have hijacked for more than 90 minutes the official websites of th",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
