@@ -1,0 +1,16 @@
+{
+    "entity": "Artech",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-publishes-stolen-data-for-the-first-time/"
+    ],
+    "month": 1,
+    "summary": "For the first time, the operators behind the Sodinokibi Ransomware have released files stolen from o",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
