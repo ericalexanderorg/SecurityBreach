@@ -1,0 +1,16 @@
+{
+    "entity": "Pittsburg Unified School District",
+    "links": [
+        "https://www.ktvu.com/news/pittsburg-unified-school-district-hit-with-ransomware-attack"
+    ],
+    "month": 1,
+    "summary": "PITTSBURG, Calif. - The Pittsburg Unified School District is now the latest victim of a ransomware a",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
