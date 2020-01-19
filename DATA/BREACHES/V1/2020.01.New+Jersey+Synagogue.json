@@ -1,0 +1,16 @@
+{
+    "entity": "New Jersey Synagogue",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/new-jersey-synagogue-suffers-sodinokibi-ransomware-attack/"
+    ],
+    "month": 1,
+    "summary": "Temple Har Shalom in Warren, New Jersey had their network breached by the actors behind the Sodinoki",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
