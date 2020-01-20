@@ -55,8 +55,12 @@
                 "description": "Broken Access Control.",
                 "link": "https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control"
             },
-            "OWASP:A6": {
+            "OWASP:A2": {
                 "description": "Broken Authentication and Session Management",
+                "link": "https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A2-Broken_Authentication.html"
+            },
+            "OWASP:A6": {
+                "description": "Security Misconfiguration",
                 "link": "https://www.owasp.org/index.php/Top_10-2017_A6-Security_Misconfiguration"
             },
             "OWASP:A9": {
