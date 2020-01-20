@@ -8,7 +8,7 @@
     "month": 1,
     "summary": "SSRF in ModSecurity lead to unauthorized access to over 100 million credit applications.",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Hacktivist",
         "cost-usd": 0,
         "impacted-user-count": 100000000,
         "initial-access": "OWASP:A6",
