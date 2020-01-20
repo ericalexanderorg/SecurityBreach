@@ -11,7 +11,7 @@
         "actor": "Nation State",
         "cost-usd": 0,
         "impacted-user-count": 100000000,
-        "initial-access": "SSRF",
+        "initial-access": "OWASP:A6",
         "motive": "PII:?"
     },
     "year": 2020
