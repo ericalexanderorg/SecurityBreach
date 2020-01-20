@@ -1,0 +1,16 @@
+{
+    "entity": "Capital One",
+    "links": [
+        "https://krebsonsecurity.com/tag/capital-one-breach/"
+    ],
+    "month": 1,
+    "summary": "According to a source with direct knowledge of the breach investigation, the problem stemmed in part",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
