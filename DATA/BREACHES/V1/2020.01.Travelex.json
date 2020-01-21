@@ -1,7 +1,8 @@
 {
     "entity": "Travelex",
     "links": [
-        "https://www.computerweekly.com/news/252476283/Cyber-gangsters-demand-payment-from-Travelex-after-Sodinokibi-attack"
+        "https://www.computerweekly.com/news/252476283/Cyber-gangsters-demand-payment-from-Travelex-after-Sodinokibi-attack",
+        "https://doublepulsar.com/big-game-ransomware-being-delivered-to-organisations-via-pulse-secure-vpn-bd01b791aad9"
     ],
     "month": 1,
     "summary": "Foreign exchange company Travelex is facing demands for payment to decrypt critical computer files a",
@@ -9,7 +10,7 @@
         "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "OWASP:A9",
         "motive": "Money:Ransom"
     },
     "year": 2020
