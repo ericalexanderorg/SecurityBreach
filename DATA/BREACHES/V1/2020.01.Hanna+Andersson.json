@@ -1,0 +1,16 @@
+{
+    "entity": "Hanna Andersson",
+    "links": [
+        "https://www.securityweek.com/hanna-andersson-data-breach-hackers-compromise-website-childrens-clothier"
+    ],
+    "month": 1,
+    "summary": "Portland, Oregon-based children's clothing maker Hanna Andersson has quietly disclosed a breach to a",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
