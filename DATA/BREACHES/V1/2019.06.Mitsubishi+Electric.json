@@ -6,11 +6,11 @@
     "month": 1,
     "summary": "Mitsubishi Electric, a leading global company in the manufacture and sales of electrical and electro",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Nation State:Bronze Butler",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "PII:?"
+        "motive": "Espionage"
     },
-    "year": 2020
+    "year": 2019
 }
