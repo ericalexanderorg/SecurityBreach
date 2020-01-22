@@ -1,0 +1,16 @@
+{
+    "entity": "Microsoft",
+    "links": [
+        "https://www.comparitech.com/blog/information-security/microsoft-customer-service-data-leak/"
+    ],
+    "month": 1,
+    "summary": "Over the New Year, Microsoft exposed nearly 250 million Customer Service and Support records on the ",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
