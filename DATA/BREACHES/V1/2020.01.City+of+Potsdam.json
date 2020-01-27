@@ -1,0 +1,16 @@
+{
+    "entity": "City of Potsdam",
+    "links": [
+        "https://securityaffairs.co/wordpress/96835/hacking/city-potsdam-cyberattack.html"
+    ],
+    "month": 1,
+    "summary": "The City of Potsdam suffered a major cyberattack that took down its servers earlier this week, but e",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
