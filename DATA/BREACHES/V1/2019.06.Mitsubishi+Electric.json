@@ -1,7 +1,8 @@
 {
     "entity": "Mitsubishi Electric",
     "links": [
-        "https://www.bleepingcomputer.com/news/security/mitsubishi-electric-warns-of-data-leak-after-security-breach/"
+        "https://www.bleepingcomputer.com/news/security/mitsubishi-electric-warns-of-data-leak-after-security-breach/",
+        "https://www.securityweek.com/trend-micro-officescan-flaw-apparently-exploited-mitsubishi-electric-hack"
     ],
     "month": 1,
     "summary": "Mitsubishi Electric, a leading global company in the manufacture and sales of electrical and electro",
@@ -9,7 +10,7 @@
         "actor": "Nation State:Bronze Butler",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "ATT&CK:T1193",
         "motive": "Espionage"
     },
     "year": 2019
