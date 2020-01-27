@@ -1,0 +1,16 @@
+{
+    "entity": "Possible attribution for some MageCart related breaches",
+    "links": [
+        "https://securityaffairs.co/wordpress/96869/breaking-news/operation-night-fury.html"
+    ],
+    "month": 1,
+    "summary": "More details emerged from the recently disclosed Operation Night Fury: Group-IB helps take down a cy",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
