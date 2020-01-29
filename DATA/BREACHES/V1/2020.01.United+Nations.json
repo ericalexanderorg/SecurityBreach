@@ -1,0 +1,16 @@
+{
+    "entity": "United Nations",
+    "links": [
+        "https://www.securityweek.com/leaked-report-shows-united-nations-suffered-hack"
+    ],
+    "month": 1,
+    "summary": "The United Nations headquarters in New York as well as the U.N.'s sprawling Palais des Nations compo",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
