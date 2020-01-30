@@ -1,0 +1,16 @@
+{
+    "entity": "Sprint",
+    "links": [
+        "https://krebsonsecurity.com/2020/01/sprint-exposed-customer-support-site-to-web/"
+    ],
+    "month": 1,
+    "summary": "Fresh on the heels of a disclosure that Microsoft Corp. leaked internal customer support data to the",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
