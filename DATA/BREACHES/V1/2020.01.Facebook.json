@@ -1,0 +1,16 @@
+{
+    "entity": "Facebook",
+    "links": [
+        "https://www.cnet.com/news/facebook-sues-chinese-ad-company-over-alleged-hacking-campaign/"
+    ],
+    "month": 1,
+    "summary": "Facebook filed a lawsuit Wednesday against two Chinese citizens, accusing them of operating a hackin",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A6",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
