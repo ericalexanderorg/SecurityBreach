@@ -1,0 +1,16 @@
+{
+    "entity": "UN",
+    "links": [
+        "https://threatpost.com/un-hack-microsoft-sharepoint-flaw/152378/"
+    ],
+    "month": 1,
+    "summary": "The breach was swept under the rug by the U.N. until this week, when an internal document outlining ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
