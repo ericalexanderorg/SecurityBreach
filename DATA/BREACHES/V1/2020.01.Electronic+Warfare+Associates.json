@@ -1,0 +1,16 @@
+{
+    "entity": "Electronic Warfare Associates",
+    "links": [
+        "https://securityaffairs.co/wordpress/97026/malware/electronic-warfare-associates-ryuk-ransomware.html"
+    ],
+    "month": 1,
+    "summary": "The popular US government contractor Electronic Warfare Associates has suffered a ransomware attack,",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
