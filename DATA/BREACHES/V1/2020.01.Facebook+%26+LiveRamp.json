@@ -1,0 +1,16 @@
+{
+    "entity": "Facebook & LiveRamp",
+    "links": [
+        "https://www.cnet.com/news/hackers-infiltrated-a-big-facebook-data-partner-to-launch-scams/"
+    ],
+    "month": 1,
+    "summary": "In LiveRamp's case, the hackers didn't need to target multiple accounts, they just needed one to gai",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
