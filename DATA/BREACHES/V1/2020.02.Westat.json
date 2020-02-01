@@ -6,10 +6,10 @@
     "month": 2,
     "summary": "The company in question is U.S.-based Westat, a professional services company that provides research",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Nation State:APT34",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "ATT&CK:T1193",
         "motive": "Espionage"
     },
     "year": 2020
