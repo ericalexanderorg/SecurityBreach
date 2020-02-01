@@ -3,14 +3,14 @@
     "links": [
         "https://securityaffairs.co/wordpress/97111/apt/winnti-apt-hong-kong-universities.html"
     ],
-    "month": 2,
+    "month": 10,
     "summary": "Winnti Group has compromised computer systems at two Hong Kong universities during the Hong Kong pro",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Nation State:APT41",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Espionage"
+        "motive": "Political"
     },
-    "year": 2020
+    "year": 2019
 }
