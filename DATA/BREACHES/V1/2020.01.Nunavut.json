@@ -1,0 +1,16 @@
+{
+    "entity": "Nunavut",
+    "links": [
+        "https://pressprogress.ca/nunavut-cyber-attack-could-leave-thousands-relying-on-emergency-food-vouchers-until-next-year/"
+    ],
+    "month": 1,
+    "summary": "News Ransomware attack causes long line-ups at food banks in remote northern communities in Nunavut.",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
