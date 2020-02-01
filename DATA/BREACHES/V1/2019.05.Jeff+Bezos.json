@@ -3,14 +3,14 @@
     "links": [
         "https://thehackernews.com/2020/01/saudi-prince-allegedly-hacked-worlds.html"
     ],
-    "month": 1,
+    "month": 5,
     "summary": "The smartphone of Amazon founder Jeff Bezos, the world's richest man, was reportedly hacked in May 2",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Nation State",
         "cost-usd": 0,
-        "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Misc"
+        "impacted-user-count": 1,
+        "initial-access": "ATT&CK:T1193",
+        "motive": "Political"
     },
-    "year": 2020
+    "year": 2019
 }
