@@ -1,0 +1,17 @@
+{
+    "entity": "UN",
+    "links": [
+        "https://threatpost.com/un-hack-microsoft-sharepoint-flaw/152378/",
+        "https://www.thenewhumanitarian.org/investigation/2020/01/29/united-nations-cyber-attack"
+    ],
+    "month": 7,
+    "summary": "The breach was swept under the rug by the U.N. until this week, when an internal document outlining ",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A9",
+        "motive": "?"
+    },
+    "year": 2019
+}
