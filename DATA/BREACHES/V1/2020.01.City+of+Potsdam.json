@@ -6,11 +6,11 @@
     "month": 1,
     "summary": "The City of Potsdam suffered a major cyberattack that took down its servers earlier this week, but e",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Ransom"
+        "initial-access": "OWASP:A9",
+        "motive": "?"
     },
     "year": 2020
 }
