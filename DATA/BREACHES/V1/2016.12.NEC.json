@@ -3,14 +3,14 @@
     "links": [
         "https://securityaffairs.co/wordpress/97104/data-breach/nec-security-breach-2016.html"
     ],
-    "month": 2,
+    "month": 12,
     "summary": "Japanese electronics and IT giant NEC confirmed a security breach suffered by its defense business d",
     "tags": {
-        "actor": "Nation State",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "PII:?"
+        "motive": "?"
     },
-    "year": 2020
+    "year": 2016
 }
