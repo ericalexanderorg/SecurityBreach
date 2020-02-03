@@ -1,0 +1,16 @@
+{
+    "entity": "Linear eMerge E3 building access systems",
+    "links": [
+        "https://securityaffairs.co/wordpress/97226/hacking/nsc-linear-emerge-e3-hack.html"
+    ],
+    "month": 2,
+    "summary": "Hackers have already compromised more than 2,300 Linear eMerge E3 building access systems exploiting",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A9",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2020
+}
