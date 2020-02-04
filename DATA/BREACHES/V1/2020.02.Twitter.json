@@ -1,0 +1,16 @@
+{
+    "entity": "Twitter",
+    "links": [
+        "https://thehackernews.com/2020/02/find-twitter-phone-number.html"
+    ],
+    "month": 2,
+    "summary": "Twitter today issued a warning revealing that attackers abused a legitimate functionality on its pla",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
