@@ -1,0 +1,16 @@
+{
+    "entity": "The city of Racine",
+    "links": [
+        "https://securityaffairs.co/wordpress/97310/malware/city-racine-ransomware-attack.html"
+    ],
+    "month": 2,
+    "summary": "The city of Racine joins to the long string of US municipalities that were hit with ransomware attac",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
