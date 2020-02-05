@@ -1,0 +1,16 @@
+{
+    "entity": "Red Kite Community Housing",
+    "links": [
+        "https://threatpost.com/community-housing-nonprofit-bec-scam/152563/"
+    ],
+    "month": 2,
+    "summary": "A non-profit community housing collective has been swindled out of more than $1.2 million in a busin",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Bank Transfer"
+    },
+    "year": 2020
+}
