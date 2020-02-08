@@ -1,0 +1,16 @@
+{
+    "entity": "Wawa",
+    "links": [
+        "https://threatpost.com/wawa-breach-30-million-customers/152328/"
+    ],
+    "month": 12,
+    "summary": "A recent dump of payment card information being sold on a popular online fraud marketplace suggests ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 30000000000,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2019
+}

@@ -1,0 +1,16 @@
+{
+    "entity": "U.S. government agency and non-US foreign nationals",
+    "links": [
+        "https://securityaffairs.co/wordpress/96772/malware/carrotball-dropper-nk-attack.html"
+    ],
+    "month": 1,
+    "summary": "A US Government agency was hit with a phishing attack attempting to deliver a new malware dropper du",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}

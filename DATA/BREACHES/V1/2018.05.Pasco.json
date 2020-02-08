@@ -1,0 +1,16 @@
+{
+    "entity": "Pasco",
+    "links": [
+        "https://www.securityweek.com/japanese-defense-contractors-pasco-kobe-steel-disclose-old-breaches"
+    ],
+    "month": 5,
+    "summary": "Japanese defense contractors Pasco and Kobe Steel this week disclosed cyber intrusions they suffered",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2018
+}

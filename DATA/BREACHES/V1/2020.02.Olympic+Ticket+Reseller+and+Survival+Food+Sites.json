@@ -1,0 +1,16 @@
+{
+    "entity": "Olympic Ticket Reseller and Survival Food Sites",
+    "links": [
+        "https://threatpost.com/olympic-ticket-survival-sites-hit-by-cyberattack/152648/"
+    ],
+    "month": 2,
+    "summary": "A faction of the Magecart threat group, Magecart group 12, has been linked to a recent digital card ",
+    "tags": {
+        "actor": "Criminal:MageCart",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}

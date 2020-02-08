@@ -1,0 +1,16 @@
+{
+    "entity": "Volusia County Public Library",
+    "links": [
+        "https://securityaffairs.co/wordpress/96680/cyber-crime/volusia-county-public-library-hack.html"
+    ],
+    "month": 1,
+    "summary": "System supporting libraries in Volusia County were hit by a cyber attack, the incident took down 600",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
