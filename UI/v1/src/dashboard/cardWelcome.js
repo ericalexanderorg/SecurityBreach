@@ -42,7 +42,7 @@ const CardWelcome = ({ classes, translate }) => (
                 <HelpIcon style={{ paddingRight: '0.5em' }} />
                 More Information
             </Button>
-            <Button href="https://raw.githubusercontent.com/ericalexanderorg/SecurityBreach/master/UI/v1/src/dataProvider/security-breach-v1.json">
+            <Button href="https://github.com/ericalexanderorg/SecurityBreach/tree/master/DATA/BREACHES/V1">
                 <DescriptionIcon style={{ paddingRight: '0.5em' }} />
                 Raw Data
             </Button>
