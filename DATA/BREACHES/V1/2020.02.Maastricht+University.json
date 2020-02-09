@@ -1,0 +1,16 @@
+{
+    "entity": "Maastricht University",
+    "links": [
+        "https://securityaffairs.co/wordpress/97514/cyber-crime/maastricht-university-paid-ransom.html"
+    ],
+    "month": 2,
+    "summary": "In December, Maastricht University was hit with ransomware attack, now the university admitted to ha",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
