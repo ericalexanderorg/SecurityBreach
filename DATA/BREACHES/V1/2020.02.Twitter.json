@@ -1,0 +1,16 @@
+{
+    "entity": "Twitter",
+    "links": [
+        "https://nakedsecurity.sophos.com/2020/02/05/twitter-admits-to-raid-on-users-phone-numbers/"
+    ],
+    "month": 2,
+    "summary": "December's story of the researcher who tricked Twitter's Android app into matching random phone numb",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A3",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
