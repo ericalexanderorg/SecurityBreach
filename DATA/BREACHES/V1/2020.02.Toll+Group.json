@@ -1,0 +1,16 @@
+{
+    "entity": "Toll Group",
+    "links": [
+        "https://securityaffairs.co/wordpress/97297/cyber-crime/toll-group-ransomware-attack.html"
+    ],
+    "month": 2,
+    "summary": "The Australian transportation and logistics giant Toll Group has suffered a ransomware attack that f",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
