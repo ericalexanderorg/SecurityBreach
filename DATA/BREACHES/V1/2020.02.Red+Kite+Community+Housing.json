@@ -7,9 +7,9 @@
     "summary": "A non-profit community housing collective has been swindled out of more than $1.2 million in a busin",
     "tags": {
         "actor": "Criminal",
-        "cost-usd": 0,
+        "cost-usd": 1200000000,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "ATT&CK:T1192",
         "motive": "Money:Bank Transfer"
     },
     "year": 2020
