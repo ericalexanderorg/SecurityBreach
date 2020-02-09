@@ -1,1 +1,17 @@
-{"entity": "Maastricht University", "links": ["https://www.bleepingcomputer.com/news/security/ransomware-hits-maastricht-university-all-systems-taken-down/"], "month": 12, "summary": "Maastricht University announced that almost all of its Windows systems have been encrypted by ransom", "tags": {"actor": "Criminal", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "?", "motive": "Money:Ransom"}, "year": 2019}
+{
+    "entity": "Maastricht University",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/ransomware-hits-maastricht-university-all-systems-taken-down/",
+        "https://securityaffairs.co/wordpress/97514/cyber-crime/maastricht-university-paid-ransom.html"
+    ],
+    "month": 12,
+    "summary": "Maastricht University announced that almost all of its Windows systems have been encrypted by ransom",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 295402,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2019
+}
