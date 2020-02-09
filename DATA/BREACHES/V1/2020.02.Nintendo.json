@@ -6,11 +6,11 @@
     "month": 2,
     "summary": "A 21-year-old California man has pleaded guilty to hacking Nintendo's servers multiple times since 2",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Credit Card"
+        "initial-access": "ATT&CK:T1193",
+        "motive": "Hacktivism:Schadenfreude"
     },
     "year": 2020
 }
