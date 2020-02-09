@@ -6,11 +6,11 @@
     "month": 2,
     "summary": "December's story of the researcher who tricked Twitter's Android app into matching random phone numb",
     "tags": {
-        "actor": "Hacktivist",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1078",
-        "motive": "Hacktivism:Schadenfreude"
+        "initial-access": "OWASP:A3",
+        "motive": "PII:?"
     },
     "year": 2020
 }
