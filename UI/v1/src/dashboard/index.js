@@ -27,7 +27,7 @@ function isInArray(array, search)
     return array.indexOf(search) >= 0;
 }
 
-function extractStackedBarChartData(column, data, minYear, summarize){
+function attributeBarChartData(column, data, minYear, summarize){
     // Google doc on bar charts: https://developers.google.com/chart/interactive/docs/gallery/barchart
     // react-google-charts doc on bar charts: https://react-google-charts.com/bar-chart
     // uniques array holds our unique column values
@@ -44,6 +44,10 @@ function extractStackedBarChartData(column, data, minYear, summarize){
                 return
             }
             var val = breachObj[column]
+            // Convert numbers to strings
+            if(typeof val == 'number'){
+                val = val.toString()
+            }
             if(summarize){
                 var components = breachObj[column].split(':')
                 val = components[0]
@@ -140,7 +144,7 @@ class DashboardComponent extends Component {
             })
             .then(response => response.data)
             .then(accessByYearCount => {
-                this.setState({ accessByYearData: extractStackedBarChartData('initial-access-description', accessByYearCount, 2018, false) })
+                this.setState({ accessByYearData: attributeBarChartData('initial-access-description', accessByYearCount, 2018, false) })
                 }
             )
 
@@ -151,7 +155,7 @@ class DashboardComponent extends Component {
             })
             .then(response => response.data)
             .then(motiveByYearCount => {
-                this.setState({ motiveByYearData: extractStackedBarChartData('motive', motiveByYearCount, 2018, false) })
+                this.setState({ motiveByYearData: attributeBarChartData('motive', motiveByYearCount, 2018, false) })
                 }
             ) 
 
@@ -162,7 +166,18 @@ class DashboardComponent extends Component {
             })
             .then(response => response.data)
             .then(actorByYearCount => {
-                this.setState({ actorByYearData: extractStackedBarChartData('actor', actorByYearCount, 2018, true) })
+                this.setState({ actorByYearData: attributeBarChartData('actor', actorByYearCount, 2018, true) })
+                }
+            ) 
+
+        // Get month by year data
+        dataProvider(GET_LIST, 'breaches', {
+            sort: { field: 'name', order: 'DESC' },
+            pagination: { page: 1, perPage: 1000 },
+            })
+            .then(response => response.data)
+            .then(monthByYearCount => {
+                this.setState({ monthByYearData: attributeBarChartData('month', monthByYearCount, 1900, false) })
                 }
             ) 
     }
@@ -175,7 +190,8 @@ class DashboardComponent extends Component {
             accessByYearData,
             actorData,
             actorByYearData,
-            yearsData
+            yearsData,
+            monthByYearData
         } = this.state; 
 
 
@@ -190,6 +206,9 @@ class DashboardComponent extends Component {
                     </div>
                     <div style={styles.flex, { marginBottom: '2em' }}>
                         <CardChart type={'BarChart'} value={yearsData} title={'Years'} subject={'Breaches cataloged per year.'} />
+                    </div>
+                    <div style={styles.flex, { marginBottom: '2em' }}>
+                        <CardChart type={'Bar'} value={monthByYearData} title={'Month by Year'} subject={'Trends in activity per month.'} />
                     </div>
                     <div style={styles.flex, { marginBottom: '2em' }}>
                         <CardChart type={'PieChart'} value={accessData} title={'Access'} subject={'How did the actor gain initial access?'} />
