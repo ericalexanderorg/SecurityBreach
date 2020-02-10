@@ -1,0 +1,16 @@
+{
+    "entity": "Iranian Internet",
+    "links": [
+        "https://securityaffairs.co/wordpress/97559/breaking-news/iran-internet-access-outage.html"
+    ],
+    "month": 2,
+    "summary": "Iran comes under cyber-attack again, a massive offensive brought down a large portion of the Iranian",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
