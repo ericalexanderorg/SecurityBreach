@@ -1,0 +1,16 @@
+{
+    "entity": "TastSelv Borger",
+    "links": [
+        "https://securityaffairs.co/wordpress/97571/data-breach/1-2m-cpr-numbers-leak.html"
+    ],
+    "month": 2,
+    "summary": "A glitch in the TastSelv Borger tax service has sent over one million Danish CPR numbers to the US c",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
