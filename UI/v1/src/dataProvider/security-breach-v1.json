@@ -55,8 +55,12 @@
                 "description": "Broken Access Control.",
                 "link": "https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control"
             },
-            "OWASP:A6": {
+            "OWASP:A2": {
                 "description": "Broken Authentication and Session Management",
+                "link": "https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A2-Broken_Authentication.html"
+            },
+            "OWASP:A6": {
+                "description": "Security Misconfiguration",
                 "link": "https://www.owasp.org/index.php/Top_10-2017_A6-Security_Misconfiguration"
             },
             "OWASP:A9": {
@@ -90,1149 +94,6 @@
         }
     },
     "breaches": [
-        {
-            "year": 2019,
-            "month": 9,
-            "entity": "Who was breached?",
-            "summary": "Ransomware incident that used Ryuk malware",
-            "tags": {
-                "impacted-user-count": 0,
-                "cost-usd": 400000,
-                "actor": "Criminal:Grim Spider",
-                "initial-access": "?",
-                "motive": "?"
-            },
-            "links": [
-                "https://threatpost.com/ransomware-demand-massachusetts-city-no-thanks/148034/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 9,
-            "entity": "XKCD",
-            "summary": "User data found in leak",
-            "tags": {
-                "impacted-user-count": 562000,
-                "cost-usd": 0,
-                "actor": "?",
-                "initial-access": "OWASP:A9",
-                "motive": "PII:?"
-            },
-            "links": [
-                "http://feedproxy.google.com/~r/TheHackersNews/~3/eV4pJvvSErI/xkcd-forum-hacked.html"
-            ]
-        },
-        {
-            "entity": "City of Pensacola",
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/maze-ransomware-behind-pensacola-cyberattack-1m-ransom-demand/"
-            ],
-            "month": 12,
-            "summary": "The operators behind the Maze Ransomware have claimed responsibility for the cyberattack affecting t",
-            "tags": {
-                "actor": "Criminal",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "Money:Ransom"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Complete Technology Solutions",
-            "links": [
-                "https://krebsonsecurity.com/2019/12/ransomware-at-colorado-it-provider-affects-100-dental-offices/"
-            ],
-            "month": 12,
-            "summary": "A Colorado company that specializes in providing IT services to dental offices suffered a ransomware",
-            "tags": {
-                "actor": "Criminal",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "Money:Ransom"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "CyrusOne",
-            "links": [
-                "https://www.tripwire.com/state-of-security/featured/major-data-center-provider-hit-ransomware-attack/"
-            ],
-            "month": 12,
-            "summary": "Home  News  Major data center provider hit by ransomware attack, claims report. CyrusOne, a major pr",
-            "tags": {
-                "actor": "Criminal",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "Money:Ransom"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "East Greenwich City",
-            "links": [
-                "https://hotforsecurity.bitdefender.com/blog/ransomware-attack-teaches-value-of-prevention-to-east-greenwich-town-government-21904.html"
-            ],
-            "month": 12,
-            "summary": "A ransomware attack on East Greenwich has taught the town's administrator that the costs of a seriou",
-            "tags": {
-                "actor": "Nation State",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "Money:Ransom"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Honda",
-            "links": [
-                "https://threatpost.com/honda-leaks-data-26k-north-american-customers/151283/"
-            ],
-            "month": 12,
-            "summary": "An exposed database was discovered leaking the personal information of 26,000 North American Honda o",
-            "tags": {
-                "actor": "Hacktivist:Bob Diachenko",
-                "cost-usd": 0,
-                "impacted-user-count": 26000,
-                "initial-access": "OWASP:A5",
-                "motive": "Hacktivism:Press"
-            },
-            "year": 2019
-        },
-        {
-            "year": 2019,
-            "month": 12,
-            "entity": "Iran Bank",
-            "summary": "15 million bank debit cards in Iran had been published on social media",
-            "tags": {
-                "impacted-user-count": 15000000,
-                "cost-usd": 0,
-                "motive": "?",
-                "actor": "?",
-                "initial-access": "?"
-            },
-            "links": [
-                "https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html"
-            ]
-        },
-        {
-            "entity": "LIHKG Forum",
-            "links": [
-                "https://securityaffairs.co/wordpress/94734/hacking/great-cannon-attack-hk.html"
-            ],
-            "month": 12,
-            "summary": "China is accused to have used the \"Great Cannon\" DDoS tool to launch attacks against LIHKG, a forum ",
-            "tags": {
-                "actor": "Nation State",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "ATT&CK:T1499",
-                "motive": "Political"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Maastricht University",
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/ransomware-hits-maastricht-university-all-systems-taken-down/"
-            ],
-            "month": 12,
-            "summary": "Maastricht University announced that almost all of its Windows systems have been encrypted by ransom",
-            "tags": {
-                "actor": "Criminal",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "Money:Ransom"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Maritime Transportation Security Act",
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/us-coast-guard-says-ryuk-ransomware-took-down-maritime-facility/"
-            ],
-            "month": 12,
-            "summary": "The U.S. Coast Guard published a marine safety alert to inform of a Ryuk Ransomware attack that took",
-            "tags": {
-                "actor": "?",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "Money:Ransom"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Misc aviation, healthcare, finance, insurance, energy, and gambling entities",
-            "links": [
-                "https://securityaffairs.co/wordpress/95536/apt/apt20-op-wocao.html"
-            ],
-            "month": 12,
-            "summary": "China-linked cyber espionage group APT20 has been bypassing two-factor authentication in recent atta",
-            "tags": {
-                "actor": "Nation State:APT20",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "OWASP:A9",
-                "motive": "?"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Misc fuel dispenser merchants",
-            "links": [
-                "https://threatpost.com/fin8-targets-card-data-fuel-pumps/151105/"
-            ],
-            "month": 12,
-            "summary": "FIN8 targeting POS systems used at ful pumps and gas stations.",
-            "tags": {
-                "actor": "Criminal",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "Money:Credit Card"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Nebraska Medicine",
-            "links": [
-                "https://threatpost.com/nebraska-medicine-breached-rogue-employee/150823/"
-            ],
-            "month": 12,
-            "summary": "Hospital network Nebraska Medicine has disclosed a data breach after a former employee accessed sens",
-            "tags": {
-                "actor": "Insider",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "PII:?"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "RavnAir",
-            "links": [
-                "https://securityaffairs.co/wordpress/95530/cyber-crime/ravnair-alaska-airline-cyberattack.html"
-            ],
-            "month": 12,
-            "summary": "RavnAirairline was forced to cancel at least a half-dozen flights in Alaska on Saturday following a reported incident.",
-            "tags": {
-                "actor": "?",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "?"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "TrueDialog",
-            "links": [
-                "https://securityaffairs.co/wordpress/94593/data-breach/truedialog-data-leak.html"
-            ],
-            "month": 12,
-            "summary": "Millions of SMS messages have been leaked by a database run by TrueDialog, a business SMS provider f",
-            "tags": {
-                "actor": "Hacktivist:vpnMentor",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "OWASP:A5",
-                "motive": "Hacktivism:Press"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Unnamed company that enables birth and death record access",
-            "links": [
-                "https://www.welivesecurity.com/2019/12/10/data-leak-exposes-750000-birth-certificate-applications/"
-            ],
-            "month": 12,
-            "summary": "Over 752,000 birth certificate applications have been exposed online.",
-            "tags": {
-                "actor": "Hacktivist:Fidus Information Security",
-                "cost-usd": 0,
-                "impacted-user-count": 752000,
-                "initial-access": "?",
-                "motive": "Hacktivism:Press"
-            },
-            "year": 2019
-        },
-        {
-            "year": 2019,
-            "month": 2,
-            "entity": "1177 Care Guide",
-            "summary": "Web server exposed call recordings with patient data.",
-            "tags": {
-                "impacted-user-count": 2700000,
-                "actor": "Hacktivist",
-                "initial-access": "OWASP:A5",
-                "motive": "Hacktivism:Press"
-            },
-            "links": [
-                "https://computersweden.idg.se/2.2683/1.714787/inspelade-samtal-1177-vardguiden-oskyddade-internet"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 2,
-            "entity": "Bodybuilding.com",
-            "summary": "Hackers broken in via phishing email. No credit card information was stolen because they are not stored by the entity.",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "initial-access": "?",
-                "motive": "PII:?",
-                "actor": "?"
-            },
-            "links": [
-                "https://www.cyberdefensemagazine.com/bodybuilding-com-forces-password-reset-after-a-security-breach/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 2,
-            "entity": "Coinomi customers",
-            "summary": "BTC wallet software had spellcheck functionality that posted encryption keys to unauthorized sites",
-            "tags": {
-                "impacted-user-count": 0,
-                "actor": "Criminal",
-                "initial-access": "OWASP:A10",
-                "motive": "Money:Cryptocurrency"
-            },
-            "links": [
-                "https://decrypt.co/5414/alleged-coinomi-exploit-concern",
-                "https://medium.com/coinomi/official-statement-on-spell-check-findings-547ca348676b",
-                "https://avoid-coinomi.com/",
-                "https://www.reddit.com/r/COINOMI/comments/av01oz/coinnomi_hacked/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 3,
-            "entity": "Bithumb",
-            "summary": "The private key for the EOS hot wallet account belonging to Bithumb was stolen, possibly with the help of an insider",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": 19000000,
-                "actor": "Criminal",
-                "initial-access": "?",
-                "motive": "Money:Cryptocurrency"
-            },
-            "links": [
-                "https://thehackernews.com/2019/03/bithumb-cryptocurrency-hacked.html"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 3,
-            "entity": "Calibre CPA Group",
-            "summary": "Servers and employee accounts compromised. ",
-            "tags": {
-                "impacted-user-count": 0,
-                "cost-usd": 0,
-                "motive": "?",
-                "actor": "?",
-                "initial-access": "?"
-            },
-            "links": [
-                "https://agportal-s3bucket.s3.amazonaws.com/uploadedfiles/Another/Supporting_Law_Enforcement/CalibreCPAGroup.2019-10-10_1.pdf"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 3,
-            "entity": "matrix.org",
-            "summary": "An attacker gained access to the servers hosting Matrix.org. The intruder had access to the production databases, potentially giving them access to unencrypted message data, password hashes and access tokens.",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "actor": "Hacktivist",
-                "initial-access": "OWASP:A9",
-                "motive": "Hacktivism:?"
-            },
-            "links": [
-                "https://matrix.org/blog/2019/04/11/we-have-discovered-and-addressed-a-security-breach-updated-2019-04-12"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 3,
-            "entity": "Sun Prairie city, Wisconsin",
-            "summary": "an unauthorized party had illegitimate access to the email accounts of certain employees",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "motive": "PII:?",
-                "initial-access": "OWASP:A6",
-                "actor": "?"
-            },
-            "links": [
-                "https://www.scmagazine.com/home/security-news/sun-prairie-wisc-warns-of-data-breach-after-intruder-accesses-employee-email-accounts/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 3,
-            "entity": "Toyota",
-            "summary": "Public notice that a system was breached",
-            "tags": {
-                "impacted-user-count": 31000000,
-                "cost-usd": 0,
-                "actor": "?",
-                "initial-access": "?",
-                "motive": "?"
-            },
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/toyota-security-breach-exposes-personal-info-of-31-million-clients/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 4,
-            "entity": "Cars using GPS tracking: 7,000 iTrack and 20,000 ProTrack",
-            "summary": "Hacker found that accounts used a default password and then brute-forced \u201cmillions of usernames\u201d to find valid user accounts",
-            "tags": {
-                "impacted-user-count": 27000,
-                "actor": "Hacktivist",
-                "initial-access": "OWASP:A6",
-                "motive": "Hacktivism:Schadenfreude",
-                "cost-usd": null
-            },
-            "links": [
-                "https://www.vice.com/en_us/article/zmpx4x/hacker-monitor-cars-kill-engine-gps-tracking-apps"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 4,
-            "entity": "City of Columbia government website",
-            "summary": "Website had a security flaw in its search tool. It allowed anyone view passwords for the website's database and email protocol servers",
-            "tags": {
-                "impacted-user-count": 0,
-                "cost-usd": null,
-                "actor": "?",
-                "initial-access": "OWASP:A6",
-                "motive": "?"
-            },
-            "links": [
-                "https://www.cnet.com/news/south-carolina-capital-website-has-a-security-flaw-that-exposed-passwords/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 4,
-            "entity": "Cleveland Hopkins International Airport",
-            "summary": "Attack affected email, payroll, record-keeping systems and information screens",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "motive": "Money:Ransom",
-                "actor": "Criminal"
-            },
-            "links": [
-                "https://www.scmagazine.com/home/security-news/ransomware-disables-cleveland-airports-email-systems-information-screens/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 4,
-            "entity": "Docker Hub",
-            "summary": "Unauthorized access to a single Docker Hub database storing a subset of non-financial user data",
-            "tags": {
-                "impacted-user-count": 190000,
-                "cost-usd": null,
-                "initial-access": "?",
-                "motive": "?",
-                "actor": "?"
-            },
-            "links": [
-                "https://success.docker.com/article/docker-hub-user-notification"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 4,
-            "entity": "Facebook",
-            "summary": "2 AWS S3 buckets, owned by Facebook app developers, containing Facebook user data were openly exposed (configured to allow public download of files) for an unknown period of time.",
-            "tags": {
-                "impacted-user-count": 540000000,
-                "cost-usd": null,
-                "initial-access": "OWASP:A5",
-                "motive": "?",
-                "actor": "?"
-            },
-            "links": [
-                "https://www.upguard.com/breaches/facebook-user-data-leak"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 4,
-            "entity": "Focus Brands",
-            "summary": "Unauthorized code was able to extract CC data and exfiltrate",
-            "tags": {
-                "impacted-user-count": 0,
-                "initial-access": "OWASP:A10",
-                "actor": "?",
-                "motive": "Money:Credit Card"
-            },
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/four-us-food-chains-disclose-payment-card-theft-via-pos-malware/",
-                "https://www.moes.com/paymentcardnotification",
-                "https://www.mcalistersdeli.com/paymentcardnotification",
-                "https://www.schlotzskys.com/paymentcardnotification",
-                "http://www.krystal.com/security/",
-                "https://krebsonsecurity.com/2019/11/sale-of-4-million-stolen-cards-tied-to-breaches-at-4-restaurant-chains/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 4,
-            "entity": "Online shop for the Atlanta Hawks",
-            "summary": "The online shop was infected with MageCart",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "motive": "Money:Credit Card",
-                "actor": "Criminal:MageCart",
-                "initial-access": "?"
-            },
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/atlanta-hawks-online-shop-hit-with-credit-card-stealing-attack/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 4,
-            "entity": "Vehicle Maker Aebi Schmidt",
-            "summary": "That malware-based cyberattack caused the disruption of operations, such as email management",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "motive": "Money:Ransom",
-                "initial-access": "?",
-                "actor": "Criminal"
-            },
-            "links": [
-                "https://securityaffairs.co/wordpress/84501/malware/aebi-schmidt-ransomware.html",
-                "https://techcrunch.com/2019/04/23/aebi-schmidt-ransomware/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 4,
-            "entity": "WhatsApp",
-            "summary": "NSO Group built and sold a hacking platform that exploited a flaw in WhatsApp-owned servers to help clients hack into the cellphones of at least 1,400 users",
-            "tags": {
-                "impacted-user-count": 149000,
-                "cost-usd": 0,
-                "actor": "Criminal",
-                "initial-access": "?",
-                "motive": "Money:Misc"
-            },
-            "links": [
-                "https://www.reuters.com/article/us-facebook-cyber-whatsapp-nsogroup/exclusive-whatsapp-hacked-to-spy-on-top-government-officials-at-u-s-allies-sources-idUSKBN1XA27H"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 4,
-            "entity": "Wyzant",
-            "summary": "An unknown attacker was able to gain access to one of the databases",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "motive": "PII:?",
-                "initial-access": "?",
-                "actor": "?"
-            },
-            "links": [
-                "https://thehackernews.com/2019/05/wyzant-data-breach.html"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 5,
-            "entity": "103 Checkers and Rally's Restaurants",
-            "summary": "Malware was installed on POSs",
-            "tags": {
-                "impacted-user-count": null,
-                "actor": "?",
-                "initial-access": "?",
-                "motive": "Money:Credit Card",
-                "cost-usd": null
-            },
-            "links": [
-                "https://thehackernews.com/2019/05/credit-card-checkers-restaurants.html"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 5,
-            "entity": "Avast",
-            "summary": "The intruder took advantage of a temporary VPN profile that should no longer have been active",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "initial-access": "OWASP:A6",
-                "actor": "?",
-                "motive": "?"
-            },
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/hackers-breach-avast-antivirus-network-through-insecure-vpn-profile/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 5,
-            "entity": "Baltimore city government",
-            "summary": "Ransomware named RobbinHood infected the majority of city servers",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "motive": "Money:Ransom",
-                "actor": "Criminal",
-                "initial-access": "?"
-            },
-            "links": [
-                "https://www.baltimoresun.com/politics/bs-md-ci-it-outage-20190507-story.html"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 5,
-            "entity": "Best of the Web",
-            "summary": "The script used by Best of the Web to display their trust seal on their customers' websites was compromised and 2 two key logging scripts were added to it",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "motive": "?",
-                "initial-access": "?",
-                "actor": "?"
-            },
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/keyloggers-injected-in-web-trust-seal-supply-chain-attack/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 5,
-            "entity": "Canva",
-            "summary": "Hacker GnosticPlayers stole PII data",
-            "tags": {
-                "impacted-user-count": 139000000,
-                "cost-usd": null,
-                "motive": "Money:Sale on dark web",
-                "actor": "Hacktivist",
-                "initial-access": "?"
-            },
-            "links": [
-                "https://www.zdnet.com/article/australian-tech-unicorn-canva-suffers-security-breach/"
-            ]
-        },
-        {
-            "entity": "Doordash",
-            "month": 5,
-            "year": 2019,
-            "summary": "Customers, delivery workers and merchants had their information stolen by hackers",
-            "tags": {
-                "motive": "Hacktivism:?",
-                "actor": "Hacktivist",
-                "initial-access": "?",
-                "impacted-user-count": 4900000
-            },
-            "links": [
-                "https://techcrunch.com/2019/09/26/doordash-data-breach/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 5,
-            "entity": "First Aid Beauty ",
-            "summary": "Credit card skimmer code on website",
-            "tags": {
-                "impacted-user-count": 0,
-                "cost-usd": 0,
-                "actor": "Criminal:MageCart",
-                "initial-access": "?",
-                "motive": "Money:Credit Card"
-            },
-            "links": [
-                "https://threatpost.com/magecart-attack-skin-care-site/149580/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 5,
-            "entity": "First American Financial Corp",
-            "summary": "No authentication was needed to access web site that contained sensitive documents",
-            "tags": {
-                "impacted-user-count": 885000000,
-                "initial-access": "OWASP:A6",
-                "actor": "?",
-                "motive": "?",
-                "cost-usd": null
-            },
-            "links": [
-                "https://krebsonsecurity.com/2019/05/ny-investigates-exposure-of-885-million-mortgage-documents/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 5,
-            "entity": "Flipboard",
-            "summary": "Hackers managed to gain unauthorized access to for nearly 10 months. User database was possibly compromised",
-            "tags": {
-                "impacted-user-count": null,
-                "actor": "?",
-                "initial-access": "?",
-                "motive": "PII:?",
-                "cost-usd": null
-            },
-            "links": [
-                "https://thehackernews.com/2019/05/flipboard-data-breach-hacking.html"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 5,
-            "entity": "Kalispell Regional Healthcare",
-            "summary": "Short summary of what happened",
-            "tags": {
-                "impacted-user-count": 130000,
-                "cost-usd": 0,
-                "initial-access": "ATT&CK:T1192",
-                "actor": "?",
-                "motive": "PII:?"
-            },
-            "links": [
-                "https://nbcmontana.com/news/local/krh-security-breach-exposes-private-patient-information"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 5,
-            "entity": "PCM Inc",
-            "summary": "Attackers stole administrative credentials that PCM uses to manage client accounts within Office 365",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "actor": "?",
-                "initial-access": "?",
-                "motive": "?"
-            },
-            "links": [
-                "https://krebsonsecurity.com/2019/06/breach-at-cloud-solution-provider-pcm-inc/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 5,
-            "entity": "Perceptics",
-            "summary": "Hacker Boris Bullet-Dodger obtained hundreds of gigabytes of internal files",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "motive": "Hacktivism:Schadenfreude",
-                "actor": "Hacktivist",
-                "initial-access": "?"
-            },
-            "links": [
-                "https://www.theregister.co.uk/2019/05/23/perceptics_hacked_license_plate_recognition/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 5,
-            "entity": "Stackoverflow.com",
-            "summary": "a build deployed to the development tier for stackoverflow.com contained a bug, which allowed an attacker to log in to our development tier as well as escalate their access on the production",
-            "tags": {
-                "impacted-user-count": 184,
-                "cost-usd": null,
-                "motive": "?",
-                "actor": "?",
-                "initial-access": "OWASP:A6"
-            },
-            "links": [
-                "https://stackoverflow.blog/2019/05/17/update-to-security-incident-may-17-2019/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 5,
-            "entity": "Teamviewer",
-            "summary": "Remote access gained through unknown means and then Winnti malware used to pivot",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "actor": "Nation State:APT10",
-                "motive": "Espionage",
-                "initial-access": "?"
-            },
-            "links": [
-                "https://www.zdnet.com/article/chinese-cyberspies-breached-teamviewer-in-2016/",
-                "https://www.spiegel.de/plus/teamviewer-wie-hacker-das-deutsche-vorzeige-start-up-ausspionierten-a-00000000-0002-0001-0000-000163955857"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 6,
-            "entity": "ASCO Industries",
-            "summary": "ASCO\u2019s machines were infected with an unidentified piece of ransomware",
-            "tags": {
-                "impacted-user-count": 1000,
-                "motive": "Money:Ransom",
-                "initial-access": "?",
-                "actor": "Criminal",
-                "cost-usd": null
-            },
-            "links": [
-                "https://www.securityweek.com/aircraft-parts-maker-asco-severely-hit-ransomware"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 6,
-            "entity": "Emuparadise",
-            "summary": "Hack of the Emuparadise vBulletin forums",
-            "tags": {
-                "impacted-user-count": 1100000,
-                "motive": "Money:Sale on dark web",
-                "initial-access": "?",
-                "actor": "Criminal",
-                "cost-usd": null
-            },
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/gaming-site-emuparadise-suffered-data-breach-of-11m-accounts/"
-            ]
-        },
-        {
-            "entity": "Energy and industrial sectors in the Middle East",
-            "links": [
-                "https://threatpost.com/iran-mideast-oil-zerocleare-wiper-malware/150814/"
-            ],
-            "month": 6,
-            "summary": "Iran Targets Mideast Oil with ZeroCleare Wiper Malware",
-            "tags": {
-                "actor": "Nation State:APT34",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "ATT&CK:T1078",
-                "motive": "Political"
-            },
-            "year": 2019
-        },
-        {
-            "year": 2019,
-            "month": 6,
-            "entity": "Eurofins",
-            "summary": "The unknown ransomware attack disrupted some of its IT systems and the company took offline many other systems and servers to minimize the damage",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "motive": "Money:Ransom",
-                "initial-access": "?",
-                "actor": "Criminal"
-            },
-            "links": [
-                "https://www.helpnetsecurity.com/2019/06/24/eurofins-ransomware-attack/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 6,
-            "entity": "FMC Consulting",
-            "summary": "Publicly accessible ElasticSearch cluster leaked millions of resumes and company records, as well as customers and employees PII data",
-            "tags": {
-                "impacted-user-count": 20500000,
-                "initial-access": "OWASP:A6",
-                "motive": "PII:?",
-                "actor": "?",
-                "cost-usd": null
-            },
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/headhunting-firm-leaks-millions-of-resumes-client-private-data/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 6,
-            "entity": "Incisivemedia",
-            "summary": "An unprotected database server exposed user records",
-            "tags": {
-                "impacted-user-count": 330000,
-                "cost-usd": null,
-                "actor": "?",
-                "initial-access": "OWASP:A5",
-                "motive": "PII:?"
-            },
-            "links": [
-                "https://www.reddit.com/r/netsec/comments/bty412/investmentweekcouk_left_330k_user_records_exposed/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 6,
-            "entity": "La Porte County, Indiana",
-            "summary": "An Emotet infection that delivered Trickbot trojan, which then deployed Ryuk ransomware",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": 130000,
-                "motive": "Money:Ransom",
-                "initial-access": "?",
-                "actor": "Criminal"
-            },
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/la-porte-county-pays-130-000-ransom-to-ryuk-ransomware/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 6,
-            "entity": "Outlook for Android app",
-            "summary": "Short summary of what happened",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "motive": "?",
-                "actor": "?",
-                "initial-access": "OWASP:A9"
-            },
-            "links": [
-                "https://thehackernews.com/2019/06/outlook-app-android.html",
-                "https://thehackernews.com/2019/06/microsoft-outlook-vulnerability.html"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 6,
-            "entity": "Quest Diagnostics Incorporated ",
-            "summary": "The entity was directly impacted by a data breach reported by one of its billing providers (American Medical Collection Agency). The breach was in the web payments page",
-            "tags": {
-                "impacted-user-count": 11900000,
-                "actor": "?",
-                "initial-access": "?",
-                "motive": "PII:?",
-                "cost-usd": null
-            },
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/billing-details-for-119m-quest-diagnostics-clients-exposed/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 6,
-            "entity": "Three U.S. universities",
-            "summary": "Unauthorized access to some of their employees' email accounts.",
-            "tags": {
-                "impacted-user-count": null,
-                "motive": "PII:?",
-                "actor": "?",
-                "initial-access": "?",
-                "cost-usd": null
-            },
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/three-us-universities-disclose-data-breaches-over-two-day-span/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 6,
-            "entity": "X Social Media (ad agency)",
-            "summary": "Important database was left exposed on the internet without a password, allowing anyone to access and download its content",
-            "tags": {
-                "impacted-user-count": 150000,
-                "initial-access": "OWASP:A6",
-                "motive": "?",
-                "actor": "?",
-                "cost-usd": null
-            },
-            "links": [
-                "https://www.zdnet.com/article/ad-agency-leaks-data-on-us-military-veterans-combat-injuries/"
-            ]
-        },
-        {
-            "entity": "AMCA",
-            "links": [
-                "https://www.scmagazine.com/home/security-news/data-breach/2-2-million-clinical-pathology-laboratories-patients-exposed-in-amca-breach/",
-                "https://healthitsecurity.com/news/amca-files-chapter-11-after-data-breach-impacting-quest-labcorp"
-            ],
-            "month": 7,
-            "summary": "The list of companies impacted by the American Medical Collection Agency data breach has grown, with",
-            "tags": {
-                "actor": "Criminal",
-                "cost-usd": 10000000,
-                "impacted-user-count": 20000000,
-                "initial-access": "?",
-                "motive": "PII:?"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Bitpoint",
-            "links": [
-                "https://www.infosecurity-magazine.com/news/japanese-exchange-bitpoint/"
-            ],
-            "month": 7,
-            "summary": "Japan-based cryptocurrency exchange Bitpoint has become the latest to lose tens of millions of dollars",
-            "tags": {
-                "actor": "Criminal",
-                "cost-usd": 10000000,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "Money:Cryptocurrency"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Bulgarian Tax Agency",
-            "links": [
-                "https://thehackernews.com/2019/07/bulgaria-nra-data-breach.html"
-            ],
-            "month": 7,
-            "summary": "PII stolen from Bulgarian Tax Agency",
-            "tags": {
-                "actor": "Criminal",
-                "cost-usd": 0,
-                "impacted-user-count": 5000000,
-                "initial-access": "?",
-                "motive": "PII:?"
-            },
-            "year": 2019
-        },
-        {
-            "year": 2019,
-            "month": 7,
-            "entity": "City Power Johannesburg",
-            "summary": "Databases compromised, encrypted, and ransom requested to decrypt. ",
-            "tags": {
-                "impacted-user-count": 0,
-                "cost-usd": 0,
-                "actor": "Criminal",
-                "initial-access": "?",
-                "motive": "Money:Ransom"
-            },
-            "links": [
-                "https://www.securitymagazine.com/articles/90618-city-power-hit-by-ransomware-attack"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 7,
-            "entity": "Honda Motors Company",
-            "summary": "Elasticsearch database exposed without any authentication and containing information related to the internal network and computers of Honda Motor Company",
-            "tags": {
-                "impacted-user-count": 0,
-                "cost-usd": 0,
-                "actor": "Hacktivist:xxdesmus",
-                "initial-access": "OWASP:A5",
-                "motive": "Hacktivism:Press"
-            },
-            "links": [
-                "https://www.scmagazine.com/home/security-news/data-breach/independent-researcher-xxdesmus-discovered-a-honda-motor-company-database-leaking-the-computer-data-of-134-million-rows-roughly-40gb-of-employee-information/"
-            ]
-        },
-        {
-            "entity": "iNSYNQ",
-            "links": [
-                "https://krebsonsecurity.com/2019/07/quickbooks-cloud-hosting-firm-insynq-hit-in-ransomware-attack/"
-            ],
-            "month": 7,
-            "summary": "Cloud hosting provider iNSYNQ says it is trying to recover from a ransomware attack.",
-            "tags": {
-                "actor": "Criminal",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "Money:Ransom"
-            },
-            "year": 2019
-        },
-        {
-            "year": 2019,
-            "month": 7,
-            "entity": "Jiangsu Provincial Public Security Department",
-            "summary": "A publicly accessible and unsecured ElasticSearch server exposed two databases containing PII",
-            "tags": {
-                "impacted-user-count": 90000000,
-                "cost-usd": null,
-                "motive": "?",
-                "actor": "Hacktivist:GDFI",
-                "initial-access": "OWASP:A5"
-            },
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/over-90-million-records-leaked-by-chinese-public-security-department/"
-            ]
-        },
-        {
-            "entity": "Lancaster University",
-            "links": [
-                "https://www.itpro.co.uk/security/34070/lancaster-university-hit-by-double-data-breach"
-            ],
-            "month": 7,
-            "summary": "Personal information belonging to students has been stolen.",
-            "tags": {
-                "actor": "Criminal",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "ATT&CK:T1192",
-                "motive": "Money:Misc"
-            },
-            "year": 2019
-        },
-        {
-            "year": 2019,
-            "month": 7,
-            "entity": "Maryland Department of Labor",
-            "summary": "Hackers accessed databases containing PII data",
-            "tags": {
-                "impacted-user-count": 78000,
-                "cost-usd": null,
-                "initial-access": "?",
-                "actor": "?",
-                "motive": "PII:?"
-            },
-            "links": [
-                "https://securityaffairs.co/wordpress/88157/data-breach/maryland-department-of-labor-data-breach.html"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 7,
-            "entity": "New York City's Monroe College",
-            "summary": "A ransomware attack installed throughout the college's network has shutdown the college's computer systems",
-            "tags": {
-                "impacted-user-count": null,
-                "cost-usd": null,
-                "motive": "Money:Ransom",
-                "initial-access": "?",
-                "actor": "Criminal"
-            },
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/monroe-college-hit-with-ransomware-2-million-demanded/"
-            ]
-        },
-        {
-            "year": 2019,
-            "month": 8,
-            "entity": "80 e-commerce sites",
-            "summary": "Credit card data ex-filtrated through unauthorized java script. ",
-            "tags": {
-                "impacted-user-count": 0,
-                "cost-usd": 0,
-                "actor": "Criminal:Magecart",
-                "initial-access": "OWASP:A10",
-                "motive": "Money:Credit Card"
-            },
-            "links": [
-                "https://thehackernews.com/2019/08/magecart-hacking-credit-card.html"
-            ]
-        },
         {
             "entity": "AT&T",
             "links": [
@@ -1618,6 +479,22 @@
             ]
         },
         {
+            "entity": "Sharepost",
+            "links": [
+                "https://oag.ca.gov/system/files/SharesPost%20Multistate%20Proof.pdf"
+            ],
+            "month": 9,
+            "summary": "Employee email account compromised.",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "year": 2019
+        },
+        {
             "entity": "Ten hospitals (3 U.S. and 7 Australia)",
             "month": 9,
             "year": 2019,
@@ -1739,6 +616,2435 @@
             "links": [
                 "https://threatpost.com/mattress-company-leaks-data-records-of-387k-customers/148530/",
                 "https://www.scmagazine.com/home/security-news/data-breach/sleeping-on-the-job-verlo-mattress-factory-exposes-database/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 9,
+            "entity": "Who was breached?",
+            "summary": "Ransomware incident that used Ryuk malware",
+            "tags": {
+                "impacted-user-count": 0,
+                "cost-usd": 400000,
+                "actor": "Criminal:Grim Spider",
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "links": [
+                "https://threatpost.com/ransomware-demand-massachusetts-city-no-thanks/148034/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 9,
+            "entity": "XKCD",
+            "summary": "User data found in leak",
+            "tags": {
+                "impacted-user-count": 562000,
+                "cost-usd": 0,
+                "actor": "?",
+                "initial-access": "OWASP:A9",
+                "motive": "PII:?"
+            },
+            "links": [
+                "http://feedproxy.google.com/~r/TheHackersNews/~3/eV4pJvvSErI/xkcd-forum-hacked.html"
+            ]
+        },
+        {
+            "entity": "Albany International Airport",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/sodinikibi-ransomware-hits-new-york-airport-systems/"
+            ],
+            "month": 1,
+            "summary": "Albany International Airport's staff announced that the New York airport's administrative servers we",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Alomere Health",
+            "links": [
+                "https://news.alomerehealth.com/vigilance-is-the-best-defense-to-cyber-attacks/"
+            ],
+            "month": 1,
+            "summary": "Alomere Health understands the importance of protecting our patients' information. On January 3, 202",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Artech",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-publishes-stolen-data-for-the-first-time/"
+            ],
+            "month": 1,
+            "summary": "For the first time, the operators behind the Sodinokibi Ransomware have released files stolen from o",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Burisma",
+            "links": [
+                "https://www.securityweek.com/phishing-campaign-targeting-ukrainian-firm-burisma-linked-russian-cyberspies"
+            ],
+            "month": 1,
+            "summary": "A phishing campaign apparently aimed at Burisma, the Ukrainian gas company that is at the center of ",
+            "tags": {
+                "actor": "Nation State",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "ATT&CK:T1193",
+                "motive": "Political"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "CheckPeople",
+            "links": [
+                "https://securityaffairs.co/wordpress/96238/data-breach/checkpeople-data-leak.html"
+            ],
+            "month": 1,
+            "summary": "A database containing the personal details of 56.25 million US residents that allegedly belongs to C",
+            "tags": {
+                "actor": "Hacktivist",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A5",
+                "motive": "Hacktivism:Press"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "City of Las Vegas",
+            "links": [
+                "https://www.techradar.com/news/las-vegas-escapes-major-cyberattack"
+            ],
+            "month": 1,
+            "summary": "The City of Las Vegas has revealed it was targeted with a serious cyberattack during CES 2020. City ",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "City of Potsdam",
+            "links": [
+                "https://securityaffairs.co/wordpress/96835/hacking/city-potsdam-cyberattack.html"
+            ],
+            "month": 1,
+            "summary": "The City of Potsdam suffered a major cyberattack that took down its servers earlier this week, but e",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A9",
+                "motive": "?"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Dixons",
+            "links": [
+                "https://www.securityweek.com/dixons-fined-uk-regulator-over-data-breach"
+            ],
+            "month": 1,
+            "summary": "The UK Data Protection Regulator has issued a monetary penalty of \u00a3500,000 against Dixon Carphone fo",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Credit Card"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Electronic Warfare Associates",
+            "links": [
+                "https://securityaffairs.co/wordpress/97026/malware/electronic-warfare-associates-ryuk-ransomware.html"
+            ],
+            "month": 1,
+            "summary": "The popular US government contractor Electronic Warfare Associates has suffered a ransomware attack,",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Focus Camera",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/magecart-attackers-steal-card-info-from-focus-camera-shoppers/"
+            ],
+            "month": 1,
+            "summary": "The website of popular photography and imaging retailer Focus Camera got hacked late last year by Ma",
+            "tags": {
+                "actor": "Criminal:MageCart",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Credit Card"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Greek Government Websites and Stock Exchange",
+            "links": [
+                "https://www.securityweek.com/turkish-hackers-target-greek-government-websites-stock-exchange"
+            ],
+            "month": 1,
+            "summary": "Turkish hackers claimed Friday to have hijacked for more than 90 minutes the official websites of th",
+            "tags": {
+                "actor": "Nation State",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Political"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Hanna Andersson",
+            "links": [
+                "https://www.securityweek.com/hanna-andersson-data-breach-hackers-compromise-website-childrens-clothier"
+            ],
+            "month": 1,
+            "summary": "Portland, Oregon-based children's clothing maker Hanna Andersson has quietly disclosed a breach to a",
+            "tags": {
+                "actor": "Criminal:MageCart",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Credit Card"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "HappyHotel",
+            "links": [
+                "https://securityaffairs.co/wordpress/96057/hacking/happyhotel-data-breach.html"
+            ],
+            "month": 1,
+            "summary": "HappyHotel, a Japanese search engine used to find and book rooms in \"Love hotels,\" announced to have",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "PII:?"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Landry's Restaurant Chain",
+            "links": [
+                "https://thehackernews.com/2020/01/landry-pos-malware-attack.html",
+                "https://www.landrysinc.com/CreditNotice/"
+            ],
+            "month": 1,
+            "summary": "Malware found on network and was siphoning stripe data sent from unencrypted POS systems.",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Credit Card"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Microsoft",
+            "links": [
+                "https://www.comparitech.com/blog/information-security/microsoft-customer-service-data-leak/"
+            ],
+            "month": 1,
+            "summary": "Over the New Year, Microsoft exposed nearly 250 million Customer Service and Support records on the ",
+            "tags": {
+                "actor": "Hacktivist",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A5",
+                "motive": "Hacktivism:Press"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "New Jersey Synagogue",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/new-jersey-synagogue-suffers-sodinokibi-ransomware-attack/"
+            ],
+            "month": 1,
+            "summary": "Temple Har Shalom in Warren, New Jersey had their network breached by the actors behind the Sodinoki",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Nunavut",
+            "links": [
+                "https://pressprogress.ca/nunavut-cyber-attack-could-leave-thousands-relying-on-emergency-food-vouchers-until-next-year/"
+            ],
+            "month": 1,
+            "summary": "News Ransomware attack causes long line-ups at food banks in remote northern communities in Nunavut.",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "P&N Bank",
+            "links": [
+                "https://www.securityweek.com/pn-bank-data-breach-exposes-trove-user-data"
+            ],
+            "month": 1,
+            "summary": "P&N Bank has notifed customers of a data breach that resulted in a large amount of sensitive informa",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "PII:?"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Peekaboo Moments",
+            "links": [
+                "https://nakedsecurity.sophos.com/2020/01/15/peekaboo-moments-baby-recording-app-has-a-bad-database-booboo/"
+            ],
+            "month": 1,
+            "summary": "No need to wait until you've gurgled out of your mother's womb to experience the joys of having your",
+            "tags": {
+                "actor": "Hacktivist",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A5",
+                "motive": "Hacktivism:Press"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Pittsburg Unified School District",
+            "links": [
+                "https://www.ktvu.com/news/pittsburg-unified-school-district-hit-with-ransomware-attack"
+            ],
+            "month": 1,
+            "summary": "PITTSBURG, Calif. - The Pittsburg Unified School District is now the latest victim of a ransomware a",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "PlanetDrugsDirect",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/online-pharmacy-planetdrugsdirect-discloses-security-breach/"
+            ],
+            "month": 1,
+            "summary": "Canadian online pharmacy PlanetDrugsDirect is emailing customers, notifying them of a data security ",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Political and law enforcement organizations and NGOs in Asia",
+            "links": [
+                "https://securityaffairs.co/wordpress/96091/apt/bronze-president-spies-asia.html"
+            ],
+            "month": 1,
+            "summary": "A cyber-espionage group tracked as Bronze President has been targeting countries in South and East Asia",
+            "tags": {
+                "actor": "Nation State:Bronze President",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Espionage"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Saudi Arabian petrochemical facility",
+            "links": [
+                "https://threatpost.com/triton-malware-targets-industrial-control-systems-in-middle-east/129182/"
+            ],
+            "month": 1,
+            "summary": "Researchers found malware called Triton on the industrial control systems of a company located in th",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Sprint",
+            "links": [
+                "https://krebsonsecurity.com/2020/01/sprint-exposed-customer-support-site-to-web/"
+            ],
+            "month": 1,
+            "summary": "Fresh on the heels of a disclosure that Microsoft Corp. leaked internal customer support data to the",
+            "tags": {
+                "actor": "Hacktivist",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A5",
+                "motive": "Hacktivism:Press"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Synoptek",
+            "links": [
+                "https://krebsonsecurity.com/2019/12/ransomware-at-it-services-provider-synoptek/"
+            ],
+            "month": 1,
+            "summary": "Synoptek, a California business that provides cloud hosting and IT management services to more than ",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "ATT&CK:T1078",
+                "motive": "Money:Ransom"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "The Federal Depository Library Program",
+            "links": [
+                "https://threatpost.com/hackers-deface-u-s-gov-website-with-pro-iran-messages/151559/"
+            ],
+            "month": 1,
+            "summary": "A U.S. government website was vandalized late Saturday by hackers who posted images of a bloodied Pr",
+            "tags": {
+                "actor": "Hacktivist",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Hacktivism"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "The Manor Independent School District",
+            "links": [
+                "https://threatpost.com/scammers-dupe-texas-school-district-out-of-2-3m/151773/"
+            ],
+            "month": 1,
+            "summary": "A Texas school district, based outside of Austin, Tex., has lost $2.3 million after falling victim t",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Bank Transfer"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Travelex",
+            "links": [
+                "https://www.computerweekly.com/news/252476283/Cyber-gangsters-demand-payment-from-Travelex-after-Sodinokibi-attack",
+                "https://doublepulsar.com/big-game-ransomware-being-delivered-to-organisations-via-pulse-secure-vpn-bd01b791aad9"
+            ],
+            "month": 1,
+            "summary": "Foreign exchange company Travelex is facing demands for payment to decrypt critical computer files a",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A9",
+                "motive": "Money:Ransom"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "U.S. government agency and non-US foreign nationals",
+            "links": [
+                "https://securityaffairs.co/wordpress/96772/malware/carrotball-dropper-nk-attack.html"
+            ],
+            "month": 1,
+            "summary": "A US Government agency was hit with a phishing attack attempting to deliver a new malware dropper du",
+            "tags": {
+                "actor": "Nation State",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Espionage"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Unspecified Australia Bushfire Donor Site",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/australia-bushfire-donors-affected-by-credit-card-skimming-attack/"
+            ],
+            "month": 1,
+            "summary": "Attackers have compromised a website collecting donations for the victims of the Australia bushfires",
+            "tags": {
+                "actor": "Criminal:MageCart",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Credit Card"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Volusia County Public Library",
+            "links": [
+                "https://securityaffairs.co/wordpress/96680/cyber-crime/volusia-county-public-library-hack.html"
+            ],
+            "month": 1,
+            "summary": "System supporting libraries in Volusia County were hit by a cyber attack, the incident took down 600",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Bank of Valletta",
+            "links": [
+                "https://securityaffairs.co/wordpress/97275/breaking-news/malta-bank-cyber-heist.html"
+            ],
+            "month": 2,
+            "summary": "Last week NCA arrested six individuals in the United Kingdom because they are suspected to be involv",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 14700000000,
+                "initial-access": "?",
+                "motive": "Money:Bank Transfer"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Nintendo",
+            "links": [
+                "https://arstechnica.com/gaming/2020/02/fbi-catches-hacker-that-stole-nintendos-secrets-for-years/"
+            ],
+            "month": 2,
+            "summary": "A 21-year-old California man has pleaded guilty to hacking Nintendo's servers multiple times since 2",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "ATT&CK:T1193",
+                "motive": "Hacktivism:Schadenfreude"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Olympic Ticket Reseller and Survival Food Sites",
+            "links": [
+                "https://threatpost.com/olympic-ticket-survival-sites-hit-by-cyberattack/152648/"
+            ],
+            "month": 2,
+            "summary": "A faction of the Magecart threat group, Magecart group 12, has been linked to a recent digital card ",
+            "tags": {
+                "actor": "Criminal:MageCart",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Credit Card"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Red Kite Community Housing",
+            "links": [
+                "https://threatpost.com/community-housing-nonprofit-bec-scam/152563/"
+            ],
+            "month": 2,
+            "summary": "A non-profit community housing collective has been swindled out of more than $1.2 million in a busin",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 1200000000,
+                "impacted-user-count": 0,
+                "initial-access": "ATT&CK:T1192",
+                "motive": "Money:Bank Transfer"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "The city of Racine",
+            "links": [
+                "https://securityaffairs.co/wordpress/97310/malware/city-racine-ransomware-attack.html"
+            ],
+            "month": 2,
+            "summary": "The city of Racine joins to the long string of US municipalities that were hit with ransomware attac",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Toll Group",
+            "links": [
+                "https://securityaffairs.co/wordpress/97297/cyber-crime/toll-group-ransomware-attack.html"
+            ],
+            "month": 2,
+            "summary": "The Australian transportation and logistics giant Toll Group has suffered a ransomware attack that f",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Twitter",
+            "links": [
+                "https://nakedsecurity.sophos.com/2020/02/05/twitter-admits-to-raid-on-users-phone-numbers/"
+            ],
+            "month": 2,
+            "summary": "December's story of the researcher who tricked Twitter's Android app into matching random phone numb",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A3",
+                "motive": "PII:?"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Westat",
+            "links": [
+                "https://threatpost.com/iran-hackers-us-gov-malware/152452/"
+            ],
+            "month": 2,
+            "summary": "The company in question is U.S.-based Westat, a professional services company that provides research",
+            "tags": {
+                "actor": "Nation State:APT34",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "ATT&CK:T1193",
+                "motive": "Espionage"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "Louisiana State Government",
+            "links": [
+                "https://www.itpro.co.uk/ransomware/34840/another-us-state-government-hit-with-ransomware-following-a-brief-reprieve"
+            ],
+            "month": 11,
+            "summary": "Louisana's state government public statement regarding response to speculated ransomware attack.",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Lyca Mobile",
+            "links": [
+                "https://securityaffairs.co/wordpress/93474/hacktivism/lulzsecita-lyca-mobile.html"
+            ],
+            "month": 11,
+            "summary": "Italian branch of Anonymous and LulzSecITA hacked websites of Lyca Mobile",
+            "tags": {
+                "actor": "Hacktivist:Anonymous",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Hacktivism:Schadenfreude"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Misc APT33 Targets",
+            "links": [
+                "https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/",
+                "https://www.scmagazine.com/home/security-news/cybercrime/apt33-sics-small-elusive-botnets-on-u-s-and-global-targets/"
+            ],
+            "month": 11,
+            "summary": "APT33 targeting private American company that offers services related to national security, victims connecting from a university and a college in the U.S., a victim most likely related to the U.S. military, and several victims in the Middle East and Asia",
+            "tags": {
+                "actor": "Nation State",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Espionage"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Misc crypto currency users and companies",
+            "links": [
+                "https://thehackernews.com/2019/11/hacking-with-sim-swapping.html"
+            ],
+            "month": 11,
+            "summary": "SIM swapping used to steal cryptocurrency.",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 550000,
+                "impacted-user-count": 10,
+                "initial-access": "?",
+                "motive": "Money:Cryptocurrency"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Mixcloud",
+            "links": [
+                "https://www.cyberdefensemagazine.com/data-of-21-million/"
+            ],
+            "month": 11,
+            "summary": "Data breached and offered for sale on the dark web.",
+            "tags": {
+                "actor": "Criminal:A_W_S",
+                "cost-usd": 0,
+                "impacted-user-count": 21000000,
+                "initial-access": "?",
+                "motive": "Money:Sale on dark web"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "National Veterinary Associates",
+            "links": [
+                "https://krebsonsecurity.com/2019/11/ransomware-bites-400-veterinary-hospitals/"
+            ],
+            "month": 11,
+            "summary": "Veterinary clinics hit with ransomware that spread through _three smaller points of entry_",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2019
+        },
+        {
+            "year": 2019,
+            "month": 11,
+            "entity": "Nikkei",
+            "summary": "BEC scam resulted in $29 million loss",
+            "tags": {
+                "impacted-user-count": 0,
+                "cost-usd": 29000000,
+                "actor": "Criminal:BEC",
+                "initial-access": "?",
+                "motive": "Money:Bank Transfer"
+            },
+            "links": [
+                "https://threatpost.com/bec-scam-nikkei-29-million/149834/"
+            ]
+        },
+        {
+            "entity": "OxyData.Io",
+            "links": [
+                "https://www.dataviper.io/blog/2019/pdl-data-exposure-billion-people/"
+            ],
+            "month": 11,
+            "summary": "Aggregated public informotion exposed through elastic search DB with no auth.",
+            "tags": {
+                "actor": "Hacktivist",
+                "cost-usd": 0,
+                "impacted-user-count": 1200000000,
+                "initial-access": "OWASP:A5",
+                "motive": "PII:?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Palo Alto Networks",
+            "links": [
+                "https://securityboulevard.com/2019/11/palo-alto-networks-employee-data-breach-highlights-risks-posed-by-third-party-vendors/"
+            ],
+            "month": 11,
+            "summary": "3rd party vendor exposed PII of seven Palo Alto Networks employees online.",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "PII:?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Pemex",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/mexicos-pemex-oil-suffers-ransomware-attack-49-million-demanded/"
+            ],
+            "month": 11,
+            "summary": "Mexico's state-owned oil company, Pemex, has suffered a DoppelPaymer ransomware attack that demanded",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "T-Mobile",
+            "links": [
+                "https://securityaffairs.co/wordpress/94235/data-breach/t-mobile-data-breach-wireless-customers.html",
+                "https://www.itpro.co.uk/security/data-breaches/354192/t-mobile-data-breach-affects-more-than-a-million-users"
+            ],
+            "month": 11,
+            "summary": "Some pre-paid customer data accessed.",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "PII:?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Virtual Care Provider Inc.",
+            "links": [
+                "https://krebsonsecurity.com/2019/11/110-nursing-homes-cut-off-from-health-records-in-ransomware-attack/"
+            ],
+            "month": 11,
+            "summary": "A ransomware outbreak has besieged a Wisconsin based IT company that provides cloud data hosting, se",
+            "tags": {
+                "actor": "Nation State",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "ZoneAlarm",
+            "links": [
+                "https://thehackernews.com/2019/11/zonealarm-forum-data-breach.html"
+            ],
+            "month": 11,
+            "summary": "ZoneAlarm, an internet security software company owned by Israeli cybersecurity firm Check Point Tec",
+            "tags": {
+                "actor": "Hacktivist",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A9",
+                "motive": "PII:?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "ACCO Engineered Systems",
+            "links": [
+                "https://oag.ca.gov/system/files/ACCO%20-%20%28Notice%20Only%29.pdf"
+            ],
+            "month": 11,
+            "summary": "Employee laptop and phone stolen.",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Active Network",
+            "links": [
+                "https://www.scmagazine.com/home/security-news/data-breach/school-software-vendor-active-network-suffers-data-breach/"
+            ],
+            "month": 12,
+            "summary": "Acitve Network's Blue Bear Software platform reported that unauthorized activity in its network earl",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "PII:?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Allied Universal",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/allied-universal-breached-by-maze-ransomware-stolen-data-leaked/"
+            ],
+            "month": 12,
+            "summary": "After a deadline was missed for receiving a ransom payment, the group behind Maze Ransomware has pub",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Center for Health Care Services",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/criminals-pull-hard-before-xmas-attack-us-health-industry/"
+            ],
+            "month": 12,
+            "summary": "Attackers are taking no breaks and actually pull harder before holidays, as shown by a San Antonio m",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Chinese venture-capital firm",
+            "links": [
+                "https://threatpost.com/ultimate-mitm-attack-steals-1m-from-israeli-startup/150840/"
+            ],
+            "month": 12,
+            "summary": "Check Point became involved in the incident when a $1 million wire-transfer made between the two par",
+            "tags": {
+                "actor": "Criminal:BEC",
+                "cost-usd": 1000000,
+                "impacted-user-count": 0,
+                "initial-access": "BEC:Impersonation",
+                "motive": "Money:Bank Transfer"
+            },
+            "year": 2019
+        },
+        {
+            "year": 2019,
+            "month": 12,
+            "entity": "City of New Orleans",
+            "summary": "Ransmware attack that forced the shut down of city IT systems.",
+            "tags": {
+                "impacted-user-count": 0,
+                "cost-usd": 0,
+                "motive": "Money:Ransom",
+                "actor": "Criminal",
+                "initial-access": "?"
+            },
+            "links": [
+                "https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html"
+            ]
+        },
+        {
+            "entity": "City of Pensacola",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/maze-ransomware-behind-pensacola-cyberattack-1m-ransom-demand/"
+            ],
+            "month": 12,
+            "summary": "The operators behind the Maze Ransomware have claimed responsibility for the cyberattack affecting t",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Complete Technology Solutions",
+            "links": [
+                "https://krebsonsecurity.com/2019/12/ransomware-at-colorado-it-provider-affects-100-dental-offices/"
+            ],
+            "month": 12,
+            "summary": "A Colorado company that specializes in providing IT services to dental offices suffered a ransomware",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "CyrusOne",
+            "links": [
+                "https://www.tripwire.com/state-of-security/featured/major-data-center-provider-hit-ransomware-attack/"
+            ],
+            "month": 12,
+            "summary": "Home  News  Major data center provider hit by ransomware attack, claims report. CyrusOne, a major pr",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "East Greenwich City",
+            "links": [
+                "https://hotforsecurity.bitdefender.com/blog/ransomware-attack-teaches-value-of-prevention-to-east-greenwich-town-government-21904.html"
+            ],
+            "month": 12,
+            "summary": "A ransomware attack on East Greenwich has taught the town's administrator that the costs of a seriou",
+            "tags": {
+                "actor": "Nation State",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "HelloTech",
+            "links": [
+                "https://oag.ca.gov/system/files/General%20Notice%20Z507_v02.PDF"
+            ],
+            "month": 11,
+            "summary": "Inadvertently exposed independant contractor data.",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Honda",
+            "links": [
+                "https://threatpost.com/honda-leaks-data-26k-north-american-customers/151283/"
+            ],
+            "month": 12,
+            "summary": "An exposed database was discovered leaking the personal information of 26,000 North American Honda o",
+            "tags": {
+                "actor": "Hacktivist:Bob Diachenko",
+                "cost-usd": 0,
+                "impacted-user-count": 26000,
+                "initial-access": "OWASP:A5",
+                "motive": "Hacktivism:Press"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Hundreds of counterfeit shoe sites",
+            "links": [
+                "https://www.itpro.co.uk/network-internet/web-browser/354317/hundreds-of-counterfeit-shoe-sites-hit-by-magecart-credit-card"
+            ],
+            "month": 12,
+            "summary": "Magento sites hacked and magecart tactics used to exfiltrate data.",
+            "tags": {
+                "actor": "Criminal:Magecart",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A9",
+                "motive": "Money:Credit Card"
+            },
+            "year": 2019
+        },
+        {
+            "year": 2019,
+            "month": 12,
+            "entity": "Iran Bank",
+            "summary": "15 million bank debit cards in Iran had been published on social media",
+            "tags": {
+                "impacted-user-count": 15000000,
+                "cost-usd": 0,
+                "motive": "?",
+                "actor": "?",
+                "initial-access": "?"
+            },
+            "links": [
+                "https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html"
+            ]
+        },
+        {
+            "entity": "LifeLabs",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/lifelabs-data-breach-exposes-personal-info-of-15-million-customers/"
+            ],
+            "month": 12,
+            "summary": "Canadian clinical laboratory services provider LifeLabs has announced a data breach that exposed the",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 15000000,
+                "initial-access": "?",
+                "motive": "PII:?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "LIHKG Forum",
+            "links": [
+                "https://securityaffairs.co/wordpress/94734/hacking/great-cannon-attack-hk.html"
+            ],
+            "month": 12,
+            "summary": "China is accused to have used the \"Great Cannon\" DDoS tool to launch attacks against LIHKG, a forum ",
+            "tags": {
+                "actor": "Nation State",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "ATT&CK:T1499",
+                "motive": "Political"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Maastricht University",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/ransomware-hits-maastricht-university-all-systems-taken-down/",
+                "https://securityaffairs.co/wordpress/97514/cyber-crime/maastricht-university-paid-ransom.html"
+            ],
+            "month": 12,
+            "summary": "Maastricht University announced that almost all of its Windows systems have been encrypted by ransom",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 295402,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Maritime Transportation Security Act",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/us-coast-guard-says-ryuk-ransomware-took-down-maritime-facility/"
+            ],
+            "month": 12,
+            "summary": "The U.S. Coast Guard published a marine safety alert to inform of a Ryuk Ransomware attack that took",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Misc aviation, healthcare, finance, insurance, energy, and gambling entities",
+            "links": [
+                "https://securityaffairs.co/wordpress/95536/apt/apt20-op-wocao.html"
+            ],
+            "month": 12,
+            "summary": "China-linked cyber espionage group APT20 has been bypassing two-factor authentication in recent atta",
+            "tags": {
+                "actor": "Nation State:APT20",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A9",
+                "motive": "?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Misc fuel dispenser merchants",
+            "links": [
+                "https://threatpost.com/fin8-targets-card-data-fuel-pumps/151105/"
+            ],
+            "month": 12,
+            "summary": "FIN8 targeting POS systems used at ful pumps and gas stations.",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Credit Card"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Misc sites",
+            "links": [
+                "https://www.buzzfeednews.com/article/craigsilverman/hackers-website-links-backlinks-seo-spam"
+            ],
+            "month": 12,
+            "summary": "A BuzzFeed News investigation reveals how injected links are sold by global networks of online marke",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Sale on dark web"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Nebraska Medicine",
+            "links": [
+                "https://threatpost.com/nebraska-medicine-breached-rogue-employee/150823/"
+            ],
+            "month": 12,
+            "summary": "Hospital network Nebraska Medicine has disclosed a data breach after a former employee accessed sens",
+            "tags": {
+                "actor": "Insider",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "PII:?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "RavnAir",
+            "links": [
+                "https://securityaffairs.co/wordpress/95530/cyber-crime/ravnair-alaska-airline-cyberattack.html"
+            ],
+            "month": 12,
+            "summary": "RavnAirairline was forced to cancel at least a half-dozen flights in Alaska on Saturday following a reported incident.",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Rooster Teeth",
+            "links": [
+                "https://threatpost.com/rooster-teeth-attack-magecart/151216/"
+            ],
+            "month": 12,
+            "summary": "The online store for the Rooster Teeth video-streaming service has been hit with a malicious web red",
+            "tags": {
+                "actor": "Criminal:Magecart",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Credit Card"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Southwire",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/maze-ransomware-demands-6-million-ransom-from-southwire/"
+            ],
+            "month": 12,
+            "summary": "Maze Ransomware operators claim responsibility for another cyber attack, this time against leading w",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 6000000,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Special Olympics of New York",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/special-olympics-new-york-hacked-to-send-phishing-emails/"
+            ],
+            "month": 12,
+            "summary": "Email server compromised.",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "surebet247.com",
+            "links": [
+                "https://www.troyhunt.com/the-difficulty-of-disclosure-surebet247-and-the-streisand-effect/"
+            ],
+            "month": 1,
+            "summary": "This is a post about how hard disclosure remains and how Surebet247's behaviour now has them experie",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "The Heritage Company",
+            "links": [
+                "https://katv.com/news/local/sherwood-telemarketing-company-temporarily-shuts-down-blames-cyber-attack-ransom",
+                "https://www.scmagazine.com/home/security-news/ransomware/ransomware-shuts-down-the-heritage-company/"
+            ],
+            "month": 12,
+            "summary": "Ransomware incident forced company to shut down operations indefinately.",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Toondoo.com",
+            "links": [
+                "http://toondoo.com/index-US.html"
+            ],
+            "month": 11,
+            "summary": "Data breach exposed PII. Details are light.",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "TrueDialog",
+            "links": [
+                "https://securityaffairs.co/wordpress/94593/data-breach/truedialog-data-leak.html"
+            ],
+            "month": 12,
+            "summary": "Millions of SMS messages have been leaked by a database run by TrueDialog, a business SMS provider f",
+            "tags": {
+                "actor": "Hacktivist:vpnMentor",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A5",
+                "motive": "Hacktivism:Press"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Unnamed company that enables birth and death record access",
+            "links": [
+                "https://www.welivesecurity.com/2019/12/10/data-leak-exposes-750000-birth-certificate-applications/"
+            ],
+            "month": 12,
+            "summary": "Over 752,000 birth certificate applications have been exposed online.",
+            "tags": {
+                "actor": "Hacktivist:Fidus Information Security",
+                "cost-usd": 0,
+                "impacted-user-count": 752000,
+                "initial-access": "?",
+                "motive": "Hacktivism:Press"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Wawa",
+            "links": [
+                "https://threatpost.com/wawa-breach-30-million-customers/152328/"
+            ],
+            "month": 12,
+            "summary": "A recent dump of payment card information being sold on a popular online fraud marketplace suggests ",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 30000000000,
+                "initial-access": "?",
+                "motive": "Money:Credit Card"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Wyze",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/wyze-exposes-user-data-via-unsecured-elasticsearch-cluster/"
+            ],
+            "month": 12,
+            "summary": "Unsecured elastic search db exposed to the internet",
+            "tags": {
+                "actor": "Hacktivist:Twelve Security",
+                "cost-usd": 0,
+                "impacted-user-count": 2400000,
+                "initial-access": "OWASP:A5",
+                "motive": "Hacktivism:Press"
+            },
+            "year": 2019
+        },
+        {
+            "year": 2019,
+            "month": 2,
+            "entity": "1177 Care Guide",
+            "summary": "Web server exposed call recordings with patient data.",
+            "tags": {
+                "impacted-user-count": 2700000,
+                "actor": "Hacktivist",
+                "initial-access": "OWASP:A5",
+                "motive": "Hacktivism:Press"
+            },
+            "links": [
+                "https://computersweden.idg.se/2.2683/1.714787/inspelade-samtal-1177-vardguiden-oskyddade-internet"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 2,
+            "entity": "Bodybuilding.com",
+            "summary": "Hackers broken in via phishing email. No credit card information was stolen because they are not stored by the entity.",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "initial-access": "?",
+                "motive": "PII:?",
+                "actor": "?"
+            },
+            "links": [
+                "https://www.cyberdefensemagazine.com/bodybuilding-com-forces-password-reset-after-a-security-breach/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 2,
+            "entity": "Coinomi customers",
+            "summary": "BTC wallet software had spellcheck functionality that posted encryption keys to unauthorized sites",
+            "tags": {
+                "impacted-user-count": 0,
+                "actor": "Criminal",
+                "initial-access": "OWASP:A10",
+                "motive": "Money:Cryptocurrency"
+            },
+            "links": [
+                "https://decrypt.co/5414/alleged-coinomi-exploit-concern",
+                "https://medium.com/coinomi/official-statement-on-spell-check-findings-547ca348676b",
+                "https://avoid-coinomi.com/",
+                "https://www.reddit.com/r/COINOMI/comments/av01oz/coinnomi_hacked/"
+            ]
+        },
+        {
+            "entity": "Islands Restaurants",
+            "links": [
+                "https://oag.ca.gov/system/files/Islands%20Press%20Release%20and%20Sub%20Notice%2C%20Champagne%20press%20release%2C%20sub%20notice.pdf",
+                "https://www.islandsrestaurants.com/paymentcardnotification"
+            ],
+            "month": 2,
+            "summary": "malware was installed on certain point-of-sale devices in our restaurants",
+            "tags": {
+                "actor": "Nation State",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A5",
+                "motive": "Money:Credit Card"
+            },
+            "year": 2019
+        },
+        {
+            "year": 2019,
+            "month": 3,
+            "entity": "Bithumb",
+            "summary": "The private key for the EOS hot wallet account belonging to Bithumb was stolen, possibly with the help of an insider",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": 19000000,
+                "actor": "Criminal",
+                "initial-access": "?",
+                "motive": "Money:Cryptocurrency"
+            },
+            "links": [
+                "https://thehackernews.com/2019/03/bithumb-cryptocurrency-hacked.html"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 3,
+            "entity": "Calibre CPA Group",
+            "summary": "Servers and employee accounts compromised. ",
+            "tags": {
+                "impacted-user-count": 0,
+                "cost-usd": 0,
+                "motive": "?",
+                "actor": "?",
+                "initial-access": "?"
+            },
+            "links": [
+                "https://agportal-s3bucket.s3.amazonaws.com/uploadedfiles/Another/Supporting_Law_Enforcement/CalibreCPAGroup.2019-10-10_1.pdf"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 3,
+            "entity": "matrix.org",
+            "summary": "An attacker gained access to the servers hosting Matrix.org. The intruder had access to the production databases, potentially giving them access to unencrypted message data, password hashes and access tokens.",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "actor": "Hacktivist",
+                "initial-access": "OWASP:A9",
+                "motive": "Hacktivism:?"
+            },
+            "links": [
+                "https://matrix.org/blog/2019/04/11/we-have-discovered-and-addressed-a-security-breach-updated-2019-04-12"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 3,
+            "entity": "Sun Prairie city, Wisconsin",
+            "summary": "an unauthorized party had illegitimate access to the email accounts of certain employees",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "motive": "PII:?",
+                "initial-access": "OWASP:A2",
+                "actor": "?"
+            },
+            "links": [
+                "https://www.scmagazine.com/home/security-news/sun-prairie-wisc-warns-of-data-breach-after-intruder-accesses-employee-email-accounts/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 3,
+            "entity": "Toyota",
+            "summary": "Public notice that a system was breached",
+            "tags": {
+                "impacted-user-count": 31000000,
+                "cost-usd": 0,
+                "actor": "?",
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/toyota-security-breach-exposes-personal-info-of-31-million-clients/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 4,
+            "entity": "Cars using GPS tracking: 7,000 iTrack and 20,000 ProTrack",
+            "summary": "Hacker found that accounts used a default password and then brute-forced \u201cmillions of usernames\u201d to find valid user accounts",
+            "tags": {
+                "impacted-user-count": 27000,
+                "actor": "Hacktivist",
+                "initial-access": "OWASP:A2",
+                "motive": "Hacktivism:Schadenfreude",
+                "cost-usd": null
+            },
+            "links": [
+                "https://www.vice.com/en_us/article/zmpx4x/hacker-monitor-cars-kill-engine-gps-tracking-apps"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 4,
+            "entity": "City of Columbia government website",
+            "summary": "Website had a security flaw in its search tool. It allowed anyone view passwords for the website's database and email protocol servers",
+            "tags": {
+                "impacted-user-count": 0,
+                "cost-usd": null,
+                "actor": "?",
+                "initial-access": "OWASP:A2",
+                "motive": "?"
+            },
+            "links": [
+                "https://www.cnet.com/news/south-carolina-capital-website-has-a-security-flaw-that-exposed-passwords/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 4,
+            "entity": "Cleveland Hopkins International Airport",
+            "summary": "Attack affected email, payroll, record-keeping systems and information screens",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "motive": "Money:Ransom",
+                "actor": "Criminal"
+            },
+            "links": [
+                "https://www.scmagazine.com/home/security-news/ransomware-disables-cleveland-airports-email-systems-information-screens/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 4,
+            "entity": "Docker Hub",
+            "summary": "Unauthorized access to a single Docker Hub database storing a subset of non-financial user data",
+            "tags": {
+                "impacted-user-count": 190000,
+                "cost-usd": null,
+                "initial-access": "?",
+                "motive": "?",
+                "actor": "?"
+            },
+            "links": [
+                "https://success.docker.com/article/docker-hub-user-notification"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 4,
+            "entity": "Facebook",
+            "summary": "2 AWS S3 buckets, owned by Facebook app developers, containing Facebook user data were openly exposed (configured to allow public download of files) for an unknown period of time.",
+            "tags": {
+                "impacted-user-count": 540000000,
+                "cost-usd": null,
+                "initial-access": "OWASP:A5",
+                "motive": "?",
+                "actor": "?"
+            },
+            "links": [
+                "https://www.upguard.com/breaches/facebook-user-data-leak"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 4,
+            "entity": "Focus Brands",
+            "summary": "Unauthorized code was able to extract CC data and exfiltrate",
+            "tags": {
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A10",
+                "actor": "?",
+                "motive": "Money:Credit Card"
+            },
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/four-us-food-chains-disclose-payment-card-theft-via-pos-malware/",
+                "https://www.moes.com/paymentcardnotification",
+                "https://www.mcalistersdeli.com/paymentcardnotification",
+                "https://www.schlotzskys.com/paymentcardnotification",
+                "http://www.krystal.com/security/",
+                "https://krebsonsecurity.com/2019/11/sale-of-4-million-stolen-cards-tied-to-breaches-at-4-restaurant-chains/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 4,
+            "entity": "Online shop for the Atlanta Hawks",
+            "summary": "The online shop was infected with MageCart",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "motive": "Money:Credit Card",
+                "actor": "Criminal:MageCart",
+                "initial-access": "?"
+            },
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/atlanta-hawks-online-shop-hit-with-credit-card-stealing-attack/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 4,
+            "entity": "Vehicle Maker Aebi Schmidt",
+            "summary": "That malware-based cyberattack caused the disruption of operations, such as email management",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "motive": "Money:Ransom",
+                "initial-access": "?",
+                "actor": "Criminal"
+            },
+            "links": [
+                "https://securityaffairs.co/wordpress/84501/malware/aebi-schmidt-ransomware.html",
+                "https://techcrunch.com/2019/04/23/aebi-schmidt-ransomware/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 4,
+            "entity": "WhatsApp",
+            "summary": "NSO Group built and sold a hacking platform that exploited a flaw in WhatsApp-owned servers to help clients hack into the cellphones of at least 1,400 users",
+            "tags": {
+                "impacted-user-count": 149000,
+                "cost-usd": 0,
+                "actor": "Criminal",
+                "initial-access": "?",
+                "motive": "Money:Misc"
+            },
+            "links": [
+                "https://www.reuters.com/article/us-facebook-cyber-whatsapp-nsogroup/exclusive-whatsapp-hacked-to-spy-on-top-government-officials-at-u-s-allies-sources-idUSKBN1XA27H"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 4,
+            "entity": "Wyzant",
+            "summary": "An unknown attacker was able to gain access to one of the databases",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "motive": "PII:?",
+                "initial-access": "?",
+                "actor": "?"
+            },
+            "links": [
+                "https://thehackernews.com/2019/05/wyzant-data-breach.html"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 5,
+            "entity": "103 Checkers and Rally's Restaurants",
+            "summary": "Malware was installed on POSs",
+            "tags": {
+                "impacted-user-count": null,
+                "actor": "?",
+                "initial-access": "?",
+                "motive": "Money:Credit Card",
+                "cost-usd": null
+            },
+            "links": [
+                "https://thehackernews.com/2019/05/credit-card-checkers-restaurants.html"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 5,
+            "entity": "Avast",
+            "summary": "The intruder took advantage of a temporary VPN profile that should no longer have been active",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "initial-access": "OWASP:A2",
+                "actor": "?",
+                "motive": "?"
+            },
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/hackers-breach-avast-antivirus-network-through-insecure-vpn-profile/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 5,
+            "entity": "Baltimore city government",
+            "summary": "Ransomware named RobbinHood infected the majority of city servers",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "motive": "Money:Ransom",
+                "actor": "Criminal",
+                "initial-access": "?"
+            },
+            "links": [
+                "https://www.baltimoresun.com/politics/bs-md-ci-it-outage-20190507-story.html"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 5,
+            "entity": "Best of the Web",
+            "summary": "The script used by Best of the Web to display their trust seal on their customers' websites was compromised and 2 two key logging scripts were added to it",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "motive": "?",
+                "initial-access": "?",
+                "actor": "?"
+            },
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/keyloggers-injected-in-web-trust-seal-supply-chain-attack/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 5,
+            "entity": "Canva",
+            "summary": "Hacker GnosticPlayers stole PII data",
+            "tags": {
+                "impacted-user-count": 139000000,
+                "cost-usd": null,
+                "motive": "Money:Sale on dark web",
+                "actor": "Hacktivist",
+                "initial-access": "?"
+            },
+            "links": [
+                "https://www.zdnet.com/article/australian-tech-unicorn-canva-suffers-security-breach/"
+            ]
+        },
+        {
+            "entity": "Doordash",
+            "month": 5,
+            "year": 2019,
+            "summary": "Customers, delivery workers and merchants had their information stolen by hackers",
+            "tags": {
+                "motive": "Hacktivism:?",
+                "actor": "Hacktivist",
+                "initial-access": "?",
+                "impacted-user-count": 4900000
+            },
+            "links": [
+                "https://techcrunch.com/2019/09/26/doordash-data-breach/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 5,
+            "entity": "First Aid Beauty ",
+            "summary": "Credit card skimmer code on website",
+            "tags": {
+                "impacted-user-count": 0,
+                "cost-usd": 0,
+                "actor": "Criminal:MageCart",
+                "initial-access": "?",
+                "motive": "Money:Credit Card"
+            },
+            "links": [
+                "https://threatpost.com/magecart-attack-skin-care-site/149580/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 5,
+            "entity": "First American Financial Corp",
+            "summary": "No authentication was needed to access web site that contained sensitive documents",
+            "tags": {
+                "impacted-user-count": 885000000,
+                "initial-access": "OWASP:A2",
+                "actor": "?",
+                "motive": "?",
+                "cost-usd": null
+            },
+            "links": [
+                "https://krebsonsecurity.com/2019/05/ny-investigates-exposure-of-885-million-mortgage-documents/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 5,
+            "entity": "Flipboard",
+            "summary": "Hackers managed to gain unauthorized access to for nearly 10 months. User database was possibly compromised",
+            "tags": {
+                "impacted-user-count": null,
+                "actor": "?",
+                "initial-access": "?",
+                "motive": "PII:?",
+                "cost-usd": null
+            },
+            "links": [
+                "https://thehackernews.com/2019/05/flipboard-data-breach-hacking.html"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 5,
+            "entity": "Kalispell Regional Healthcare",
+            "summary": "Short summary of what happened",
+            "tags": {
+                "impacted-user-count": 130000,
+                "cost-usd": 0,
+                "initial-access": "ATT&CK:T1192",
+                "actor": "?",
+                "motive": "PII:?"
+            },
+            "links": [
+                "https://nbcmontana.com/news/local/krh-security-breach-exposes-private-patient-information"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 5,
+            "entity": "PCM Inc",
+            "summary": "Attackers stole administrative credentials that PCM uses to manage client accounts within Office 365",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "actor": "?",
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "links": [
+                "https://krebsonsecurity.com/2019/06/breach-at-cloud-solution-provider-pcm-inc/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 5,
+            "entity": "Perceptics",
+            "summary": "Hacker Boris Bullet-Dodger obtained hundreds of gigabytes of internal files",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "motive": "Hacktivism:Schadenfreude",
+                "actor": "Hacktivist",
+                "initial-access": "?"
+            },
+            "links": [
+                "https://www.theregister.co.uk/2019/05/23/perceptics_hacked_license_plate_recognition/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 5,
+            "entity": "Stackoverflow.com",
+            "summary": "a build deployed to the development tier for stackoverflow.com contained a bug, which allowed an attacker to log in to our development tier as well as escalate their access on the production",
+            "tags": {
+                "impacted-user-count": 184,
+                "cost-usd": null,
+                "motive": "?",
+                "actor": "?",
+                "initial-access": "OWASP:A2"
+            },
+            "links": [
+                "https://stackoverflow.blog/2019/05/17/update-to-security-incident-may-17-2019/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 5,
+            "entity": "Teamviewer",
+            "summary": "Remote access gained through unknown means and then Winnti malware used to pivot",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "actor": "Nation State:APT10",
+                "motive": "Espionage",
+                "initial-access": "?"
+            },
+            "links": [
+                "https://www.zdnet.com/article/chinese-cyberspies-breached-teamviewer-in-2016/",
+                "https://www.spiegel.de/plus/teamviewer-wie-hacker-das-deutsche-vorzeige-start-up-ausspionierten-a-00000000-0002-0001-0000-000163955857"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 6,
+            "entity": "ASCO Industries",
+            "summary": "ASCO\u2019s machines were infected with an unidentified piece of ransomware",
+            "tags": {
+                "impacted-user-count": 1000,
+                "motive": "Money:Ransom",
+                "initial-access": "?",
+                "actor": "Criminal",
+                "cost-usd": null
+            },
+            "links": [
+                "https://www.securityweek.com/aircraft-parts-maker-asco-severely-hit-ransomware"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 6,
+            "entity": "Emuparadise",
+            "summary": "Hack of the Emuparadise vBulletin forums",
+            "tags": {
+                "impacted-user-count": 1100000,
+                "motive": "Money:Sale on dark web",
+                "initial-access": "?",
+                "actor": "Criminal",
+                "cost-usd": null
+            },
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/gaming-site-emuparadise-suffered-data-breach-of-11m-accounts/"
+            ]
+        },
+        {
+            "entity": "Energy and industrial sectors in the Middle East",
+            "links": [
+                "https://threatpost.com/iran-mideast-oil-zerocleare-wiper-malware/150814/"
+            ],
+            "month": 6,
+            "summary": "Iran Targets Mideast Oil with ZeroCleare Wiper Malware",
+            "tags": {
+                "actor": "Nation State:APT34",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "ATT&CK:T1078",
+                "motive": "Political"
+            },
+            "year": 2019
+        },
+        {
+            "year": 2019,
+            "month": 6,
+            "entity": "Eurofins",
+            "summary": "The unknown ransomware attack disrupted some of its IT systems and the company took offline many other systems and servers to minimize the damage",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "motive": "Money:Ransom",
+                "initial-access": "?",
+                "actor": "Criminal"
+            },
+            "links": [
+                "https://www.helpnetsecurity.com/2019/06/24/eurofins-ransomware-attack/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 6,
+            "entity": "FMC Consulting",
+            "summary": "Publicly accessible ElasticSearch cluster leaked millions of resumes and company records, as well as customers and employees PII data",
+            "tags": {
+                "impacted-user-count": 20500000,
+                "initial-access": "OWASP:A2",
+                "motive": "PII:?",
+                "actor": "?",
+                "cost-usd": null
+            },
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/headhunting-firm-leaks-millions-of-resumes-client-private-data/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 6,
+            "entity": "Incisivemedia",
+            "summary": "An unprotected database server exposed user records",
+            "tags": {
+                "impacted-user-count": 330000,
+                "cost-usd": null,
+                "actor": "?",
+                "initial-access": "OWASP:A5",
+                "motive": "PII:?"
+            },
+            "links": [
+                "https://www.reddit.com/r/netsec/comments/bty412/investmentweekcouk_left_330k_user_records_exposed/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 6,
+            "entity": "La Porte County, Indiana",
+            "summary": "An Emotet infection that delivered Trickbot trojan, which then deployed Ryuk ransomware",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": 130000,
+                "motive": "Money:Ransom",
+                "initial-access": "?",
+                "actor": "Criminal"
+            },
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/la-porte-county-pays-130-000-ransom-to-ryuk-ransomware/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 6,
+            "entity": "Outlook for Android app",
+            "summary": "Short summary of what happened",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "motive": "?",
+                "actor": "?",
+                "initial-access": "OWASP:A9"
+            },
+            "links": [
+                "https://thehackernews.com/2019/06/outlook-app-android.html",
+                "https://thehackernews.com/2019/06/microsoft-outlook-vulnerability.html"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 6,
+            "entity": "Quest Diagnostics Incorporated ",
+            "summary": "The entity was directly impacted by a data breach reported by one of its billing providers (American Medical Collection Agency). The breach was in the web payments page",
+            "tags": {
+                "impacted-user-count": 11900000,
+                "actor": "?",
+                "initial-access": "?",
+                "motive": "PII:?",
+                "cost-usd": null
+            },
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/billing-details-for-119m-quest-diagnostics-clients-exposed/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 6,
+            "entity": "Three U.S. universities",
+            "summary": "Unauthorized access to some of their employees' email accounts.",
+            "tags": {
+                "impacted-user-count": null,
+                "motive": "PII:?",
+                "actor": "?",
+                "initial-access": "?",
+                "cost-usd": null
+            },
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/three-us-universities-disclose-data-breaches-over-two-day-span/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 6,
+            "entity": "X Social Media (ad agency)",
+            "summary": "Important database was left exposed on the internet without a password, allowing anyone to access and download its content",
+            "tags": {
+                "impacted-user-count": 150000,
+                "initial-access": "OWASP:A2",
+                "motive": "?",
+                "actor": "?",
+                "cost-usd": null
+            },
+            "links": [
+                "https://www.zdnet.com/article/ad-agency-leaks-data-on-us-military-veterans-combat-injuries/"
+            ]
+        },
+        {
+            "entity": "AMCA",
+            "links": [
+                "https://www.scmagazine.com/home/security-news/data-breach/2-2-million-clinical-pathology-laboratories-patients-exposed-in-amca-breach/",
+                "https://healthitsecurity.com/news/amca-files-chapter-11-after-data-breach-impacting-quest-labcorp"
+            ],
+            "month": 7,
+            "summary": "The list of companies impacted by the American Medical Collection Agency data breach has grown, with",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 10000000,
+                "impacted-user-count": 20000000,
+                "initial-access": "?",
+                "motive": "PII:?"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Bitpoint",
+            "links": [
+                "https://www.infosecurity-magazine.com/news/japanese-exchange-bitpoint/"
+            ],
+            "month": 7,
+            "summary": "Japan-based cryptocurrency exchange Bitpoint has become the latest to lose tens of millions of dollars",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 10000000,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Cryptocurrency"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Bulgarian Tax Agency",
+            "links": [
+                "https://thehackernews.com/2019/07/bulgaria-nra-data-breach.html"
+            ],
+            "month": 7,
+            "summary": "PII stolen from Bulgarian Tax Agency",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 5000000,
+                "initial-access": "?",
+                "motive": "PII:?"
+            },
+            "year": 2019
+        },
+        {
+            "year": 2019,
+            "month": 7,
+            "entity": "City Power Johannesburg",
+            "summary": "Databases compromised, encrypted, and ransom requested to decrypt. ",
+            "tags": {
+                "impacted-user-count": 0,
+                "cost-usd": 0,
+                "actor": "Criminal",
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "links": [
+                "https://www.securitymagazine.com/articles/90618-city-power-hit-by-ransomware-attack"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 7,
+            "entity": "Honda Motors Company",
+            "summary": "Elasticsearch database exposed without any authentication and containing information related to the internal network and computers of Honda Motor Company",
+            "tags": {
+                "impacted-user-count": 0,
+                "cost-usd": 0,
+                "actor": "Hacktivist:xxdesmus",
+                "initial-access": "OWASP:A5",
+                "motive": "Hacktivism:Press"
+            },
+            "links": [
+                "https://www.scmagazine.com/home/security-news/data-breach/independent-researcher-xxdesmus-discovered-a-honda-motor-company-database-leaking-the-computer-data-of-134-million-rows-roughly-40gb-of-employee-information/"
+            ]
+        },
+        {
+            "entity": "iNSYNQ",
+            "links": [
+                "https://krebsonsecurity.com/2019/07/quickbooks-cloud-hosting-firm-insynq-hit-in-ransomware-attack/"
+            ],
+            "month": 7,
+            "summary": "Cloud hosting provider iNSYNQ says it is trying to recover from a ransomware attack.",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Ransom"
+            },
+            "year": 2019
+        },
+        {
+            "year": 2019,
+            "month": 7,
+            "entity": "Jiangsu Provincial Public Security Department",
+            "summary": "A publicly accessible and unsecured ElasticSearch server exposed two databases containing PII",
+            "tags": {
+                "impacted-user-count": 90000000,
+                "cost-usd": null,
+                "motive": "?",
+                "actor": "Hacktivist:GDFI",
+                "initial-access": "OWASP:A5"
+            },
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/over-90-million-records-leaked-by-chinese-public-security-department/"
+            ]
+        },
+        {
+            "entity": "Lancaster University",
+            "links": [
+                "https://www.itpro.co.uk/security/34070/lancaster-university-hit-by-double-data-breach"
+            ],
+            "month": 7,
+            "summary": "Personal information belonging to students has been stolen.",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "ATT&CK:T1192",
+                "motive": "Money:Misc"
+            },
+            "year": 2019
+        },
+        {
+            "year": 2019,
+            "month": 7,
+            "entity": "Maryland Department of Labor",
+            "summary": "Hackers accessed databases containing PII data",
+            "tags": {
+                "impacted-user-count": 78000,
+                "cost-usd": null,
+                "initial-access": "?",
+                "actor": "?",
+                "motive": "PII:?"
+            },
+            "links": [
+                "https://securityaffairs.co/wordpress/88157/data-breach/maryland-department-of-labor-data-breach.html"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 7,
+            "entity": "New York City's Monroe College",
+            "summary": "A ransomware attack installed throughout the college's network has shutdown the college's computer systems",
+            "tags": {
+                "impacted-user-count": null,
+                "cost-usd": null,
+                "motive": "Money:Ransom",
+                "initial-access": "?",
+                "actor": "Criminal"
+            },
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/monroe-college-hit-with-ransomware-2-million-demanded/"
+            ]
+        },
+        {
+            "year": 2019,
+            "month": 8,
+            "entity": "80 e-commerce sites",
+            "summary": "Credit card data ex-filtrated through unauthorized java script. ",
+            "tags": {
+                "impacted-user-count": 0,
+                "cost-usd": 0,
+                "actor": "Criminal:Magecart",
+                "initial-access": "OWASP:A10",
+                "motive": "Money:Credit Card"
+            },
+            "links": [
+                "https://thehackernews.com/2019/08/magecart-hacking-credit-card.html"
+            ]
+        },
+        {
+            "entity": "healthcare.gov",
+            "month": 11,
+            "year": 2018,
+            "summary": "Possible ATT&CK:T1078 led to unauthorized data access. ",
+            "tags": {
+                "motive": "PII:?",
+                "actor": "?",
+                "initial-access": "?"
+            },
+            "links": [
+                "https://techcrunch.com/2018/11/09/hackers-stole-income-immigration-and-tax-data-in-healthcare-gov-breach-government-confirms/"
+            ]
+        },
+        {
+            "entity": "HSBC",
+            "month": 11,
+            "year": 2018,
+            "summary": "Credential stuffing attack",
+            "tags": {
+                "motive": "?",
+                "actor": "?",
+                "initial-access": "ATT&CK:T1078"
+            },
+            "links": [
+                "https://www.americanbanker.com/news/hsbc-suffers-data-breach-on-small-number-of-online-accounts"
+            ]
+        },
+        {
+            "entity": "Infowars",
+            "month": 11,
+            "year": 2018,
+            "summary": "Javascript injected in site to steal credit card information",
+            "tags": {
+                "motive": "Money:Credit Card",
+                "actor": "Criminal:Magecart",
+                "initial-access": "OWASP:A10"
+            },
+            "links": [
+                "https://www.zdnet.com/article/card-skimming-malware-removed-from-infowars-online-store/"
+            ]
+        },
+        {
+            "entity": "Kars4Kids",
+            "month": 11,
+            "year": 2018,
+            "summary": "Open MongoDB",
+            "tags": {
+                "motive": "Hacktivism:Press",
+                "actor": "Hacktivist",
+                "initial-access": "OWASP:A5"
+            },
+            "links": [
+                "https://techcrunch.com/2018/11/13/kars4kids-data-breach/"
+            ]
+        },
+        {
+            "entity": "Marriott/Starwood",
+            "month": 11,
+            "year": 2018,
+            "summary": "?",
+            "tags": {
+                "motive": "Espionage",
+                "actor": "Nation State",
+                "initial-access": "?"
+            },
+            "links": [
+                "https://techcrunch.com/2018/11/30/starwood-hotels-says-500-million-guest-records-stolen-in-massive-data-breach/",
+                "https://www.nytimes.com/2018/11/30/business/marriott-data-breach.html"
+            ]
+        },
+        {
+            "entity": "MJ Insurance",
+            "month": 11,
+            "year": 2018,
+            "summary": "Phishing email led to an ATT&CK:T1078",
+            "tags": {
+                "motive": "?",
+                "actor": "?",
+                "initial-access": "ATT&CK:T1078"
+            },
+            "links": [
+                "https://oag.ca.gov/system/files/CHDOCS01-%232634704-v1-AG-CA-Notification-Letter_0.PDF"
+            ]
+        },
+        {
+            "entity": "National Baseball Hall of Fame",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/national-baseball-hall-of-fame-hit-by-payment-card-stealing-attack/"
+            ],
+            "month": 11,
+            "summary": "The web site for the National Baseball Hall of Fame in Cooperstown, NY was hacked to include a malic",
+            "tags": {
+                "actor": "Criminal:MageCart",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Money:Credit Card"
+            },
+            "year": 2018
+        },
+        {
+            "entity": "Sky Brasil",
+            "month": 11,
+            "year": 2018,
+            "summary": "Exposed elastic search instance",
+            "tags": {
+                "motive": "Hacktivism:Schadenfreude",
+                "actor": "Hacktivist",
+                "initial-access": "OWASP:A5"
+            },
+            "links": [
+                "https://www.scmagazine.com/home/security-news/sky-brasil-one-of-the-biggest-subscription-television-services-in-brazil-is-the-latest-elasticsearch-server-user-to-leave-its-customers-exposed-after-not-securing-the-server-with-a-password/"
+            ]
+        },
+        {
+            "entity": "usps",
+            "month": 11,
+            "year": 2018,
+            "summary": "API broken access control",
+            "tags": {
+                "motive": "Hacktivism:?",
+                "actor": "Hacktivist",
+                "initial-access": "OWASP:A5"
+            },
+            "links": [
+                "https://krebsonsecurity.com/2018/11/usps-site-exposed-data-on-60-million-users/"
+            ]
+        },
+        {
+            "entity": "Vision Direct",
+            "month": 11,
+            "year": 2018,
+            "summary": "Javascript injected in site to steal credit card information",
+            "tags": {
+                "motive": "Money:Credit Card",
+                "actor": "Criminal:Magecart",
+                "initial-access": "OWASP:A10"
+            },
+            "links": [
+                "https://www.theregister.co.uk/2018/11/19/vision_direct_fesses_up_to_hack_that_exposed_customer_names_and_payment_deets/"
             ]
         },
         {
@@ -1971,7 +3277,7 @@
                 "cost-usd": null,
                 "actor": "?",
                 "motive": "?",
-                "initial-access": "OWASP:A6"
+                "initial-access": "OWASP:A2"
             },
             "links": [
                 "https://twitter.com/hexdefined/status/1185864801261477891",
@@ -2404,7 +3710,7 @@
                 "impacted-user-count": 50000000,
                 "motive": "PII:?",
                 "actor": "?",
-                "initial-access": "OWASP:A6"
+                "initial-access": "OWASP:A2"
             },
             "links": [
                 "https://auth0.com/blog/facebook-access-token-data-breach-early-look/",
@@ -2440,6 +3746,74 @@
             "links": [
                 "https://ago.vermont.gov/blog/2018/12/28/wolverine-solutions-group-snotice-of-data-breach-to-consumers/"
             ]
+        },
+        {
+            "entity": "Jeff Bezos",
+            "links": [
+                "https://thehackernews.com/2020/01/saudi-prince-allegedly-hacked-worlds.html"
+            ],
+            "month": 5,
+            "summary": "The smartphone of Amazon founder Jeff Bezos, the world's richest man, was reportedly hacked in May 2",
+            "tags": {
+                "actor": "Nation State",
+                "cost-usd": 0,
+                "impacted-user-count": 1,
+                "initial-access": "ATT&CK:T1193",
+                "motive": "Political"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Mitsubishi Electric",
+            "links": [
+                "https://www.bleepingcomputer.com/news/security/mitsubishi-electric-warns-of-data-leak-after-security-breach/",
+                "https://www.securityweek.com/trend-micro-officescan-flaw-apparently-exploited-mitsubishi-electric-hack"
+            ],
+            "month": 1,
+            "summary": "Mitsubishi Electric, a leading global company in the manufacture and sales of electrical and electro",
+            "tags": {
+                "actor": "Nation State:Bronze Butler",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "ATT&CK:T1193",
+                "motive": "Espionage"
+            },
+            "year": 2019
+        },
+        {
+            "entity": "Capital One",
+            "links": [
+                "https://krebsonsecurity.com/tag/capital-one-breach/",
+                "https://blog.appsecco.com/an-ssrf-privileged-aws-keys-and-the-capital-one-breach-4c3c2cded3af",
+                "https://www.capitalone.com/facts2019/"
+            ],
+            "month": 1,
+            "summary": "SSRF in ModSecurity lead to unauthorized access to over 100 million credit applications.",
+            "tags": {
+                "actor": "Hacktivist",
+                "cost-usd": 0,
+                "impacted-user-count": 100000000,
+                "initial-access": "OWASP:A6",
+                "motive": "PII:?"
+            },
+            "year": 2020
+        },
+        {
+            "entity": "UN",
+            "links": [
+                "https://threatpost.com/un-hack-microsoft-sharepoint-flaw/152378/",
+                "https://www.thenewhumanitarian.org/investigation/2020/01/29/united-nations-cyber-attack"
+            ],
+            "month": 7,
+            "summary": "The breach was swept under the rug by the U.N. until this week, when an internal document outlining ",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A9",
+                "motive": "?"
+            },
+            "year": 2019
         },
         {
             "entity": "Amadeus",
@@ -2832,6 +4206,22 @@
             "year": 2019
         },
         {
+            "entity": "Moss Adams",
+            "links": [
+                "https://oag.ca.gov/system/files/Moss%20Adams%20-%20Sample%20Consumer%20Notification%20Letter%20%28CA%29.pdf"
+            ],
+            "month": 10,
+            "summary": "Employee email account compromised.",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "year": 2019
+        },
+        {
             "year": 2019,
             "month": 10,
             "entity": "over 2,000 Docker hosts",
@@ -2840,7 +4230,7 @@
                 "impacted-user-count": 2.034,
                 "cost-usd": null,
                 "motive": "Money:Cryptocurrency",
-                "initial-access": "OWASP:A6",
+                "initial-access": "OWASP:A2",
                 "actor": "Criminal"
             },
             "links": [
@@ -2926,6 +4316,22 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/credit-info-exposed-in-transunion-data-security-incident/"
             ]
+        },
+        {
+            "entity": "Two Hong Kong universities",
+            "links": [
+                "https://securityaffairs.co/wordpress/97111/apt/winnti-apt-hong-kong-universities.html"
+            ],
+            "month": 10,
+            "summary": "Winnti Group has compromised computer systems at two Hong Kong universities during the Hong Kong pro",
+            "tags": {
+                "actor": "Nation State:APT41",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Political"
+            },
+            "year": 2019
         },
         {
             "year": 2019,
@@ -3070,12 +4476,12 @@
             "year": 2019
         },
         {
-            "entity": "Louisiana State Government",
+            "entity": "1,000 U.S. Schools",
             "links": [
-                "https://www.itpro.co.uk/ransomware/34840/another-us-state-government-hit-with-ransomware-following-a-brief-reprieve"
+                "https://www.bleepingcomputer.com/news/security/ransomware-hit-over-1-000-us-schools-in-2019/"
             ],
-            "month": 11,
-            "summary": "Louisana's state government public statement regarding response to speculated ransomware attack.",
+            "month": 12,
+            "summary": "Image: Andrew Amistad. Since January, 1,039 schools across the U.S. have been potentially hit by a r",
             "tags": {
                 "actor": "Criminal",
                 "cost-usd": 0,
@@ -3086,77 +4492,12 @@
             "year": 2019
         },
         {
-            "entity": "Lyca Mobile",
+            "entity": "Hackensack Meridian Health",
             "links": [
-                "https://securityaffairs.co/wordpress/93474/hacktivism/lulzsecita-lyca-mobile.html"
+                "https://threatpost.com/ransomware-attack-new-jersey-largest-hospital-system/151148/"
             ],
-            "month": 11,
-            "summary": "Italian branch of Anonymous and LulzSecITA hacked websites of Lyca Mobile",
-            "tags": {
-                "actor": "Hacktivist:Anonymous",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "Hacktivism:Schadenfreude"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Misc APT33 Targets",
-            "links": [
-                "https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/",
-                "https://www.scmagazine.com/home/security-news/cybercrime/apt33-sics-small-elusive-botnets-on-u-s-and-global-targets/"
-            ],
-            "month": 11,
-            "summary": "APT33 targeting private American company that offers services related to national security, victims connecting from a university and a college in the U.S., a victim most likely related to the U.S. military, and several victims in the Middle East and Asia",
-            "tags": {
-                "actor": "Nation State",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "Espionage"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Misc crypto currency users and companies",
-            "links": [
-                "https://thehackernews.com/2019/11/hacking-with-sim-swapping.html"
-            ],
-            "month": 11,
-            "summary": "SIM swapping used to steal cryptocurrency.",
-            "tags": {
-                "actor": "Criminal",
-                "cost-usd": 550000,
-                "impacted-user-count": 10,
-                "initial-access": "?",
-                "motive": "Money:Cryptocurrency"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Mixcloud",
-            "links": [
-                "https://www.cyberdefensemagazine.com/data-of-21-million/"
-            ],
-            "month": 11,
-            "summary": "Data breached and offered for sale on the dark web.",
-            "tags": {
-                "actor": "Criminal:A_W_S",
-                "cost-usd": 0,
-                "impacted-user-count": 21000000,
-                "initial-access": "?",
-                "motive": "Money:Sale on dark web"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "National Veterinary Associates",
-            "links": [
-                "https://krebsonsecurity.com/2019/11/ransomware-bites-400-veterinary-hospitals/"
-            ],
-            "month": 11,
-            "summary": "Veterinary clinics hit with ransomware that spread through _three smaller points of entry_",
+            "month": 12,
+            "summary": "New Jersey's largest hospital system said that it has paid hackers a ransom after a ransomware attac",
             "tags": {
                 "actor": "Criminal",
                 "cost-usd": 0,
@@ -3167,165 +4508,68 @@
             "year": 2019
         },
         {
-            "year": 2019,
-            "month": 11,
-            "entity": "Nikkei",
-            "summary": "BEC scam resulted in $29 million loss",
-            "tags": {
-                "impacted-user-count": 0,
-                "cost-usd": 29000000,
-                "actor": "Criminal:BEC",
-                "initial-access": "?",
-                "motive": "Money:Bank Transfer"
-            },
+            "entity": "Justus Liebig University (JLU)",
             "links": [
-                "https://threatpost.com/bec-scam-nikkei-29-million/149834/"
-            ]
+                "https://secalerts.co/article/university-issues-passwords-by-hand-to-38000-students-and-staff-after-cyber-attack/02eb06d2"
+            ],
+            "month": 12,
+            "summary": "A German university is going 'old school' and issuing new passwords for the email accounts of all 38",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "year": 2019
         },
         {
-            "entity": "OxyData.Io",
+            "entity": "LightInTheBox",
             "links": [
-                "https://www.dataviper.io/blog/2019/pdl-data-exposure-billion-people/"
+                "https://www.scmagazine.com/home/security-news/data-breach/1-6-billion-lightinthebox-customer-records-left-exposed/"
             ],
-            "month": 11,
-            "summary": "Aggregated public informotion exposed through elastic search DB with no auth.",
+            "month": 12,
+            "summary": "An unsecured database operated by the online retailer LightInTheBox left 1.3TB of data containing 1.",
             "tags": {
-                "actor": "Hacktivist",
+                "actor": "Hacktivist:VPNMentor",
                 "cost-usd": 0,
-                "impacted-user-count": 1200000000,
+                "impacted-user-count": 0,
                 "initial-access": "OWASP:A5",
-                "motive": "PII:?"
+                "motive": "Hacktivism:Press"
             },
             "year": 2019
         },
         {
-            "entity": "Palo Alto Networks",
+            "entity": "Roosevelt General Hospital",
             "links": [
-                "https://securityboulevard.com/2019/11/palo-alto-networks-employee-data-breach-highlights-risks-posed-by-third-party-vendors/"
+                "https://www.bleepingcomputer.com/news/security/criminals-pull-hard-before-xmas-attack-us-health-industry/"
             ],
-            "month": 11,
-            "summary": "3rd party vendor exposed PII of seven Palo Alto Networks employees online.",
+            "month": 12,
+            "summary": "Breach at healthcare provider with limited details.",
             "tags": {
                 "actor": "?",
                 "cost-usd": 0,
                 "impacted-user-count": 0,
                 "initial-access": "?",
-                "motive": "PII:?"
+                "motive": "?"
             },
             "year": 2019
         },
         {
-            "entity": "Pemex",
+            "entity": "Entercom",
             "links": [
-                "https://www.bleepingcomputer.com/news/security/mexicos-pemex-oil-suffers-ransomware-attack-49-million-demanded/"
+                "https://securityaffairs.co/wordpress/95604/cyber-crime/entercom-second-cyber-attack.html"
             ],
-            "month": 11,
-            "summary": "Mexico's state-owned oil company, Pemex, has suffered a DoppelPaymer ransomware attack that demanded",
+            "month": 9,
+            "summary": "Ransomware attack.",
             "tags": {
                 "actor": "Criminal",
-                "cost-usd": 0,
+                "cost-usd": 400000,
                 "impacted-user-count": 0,
                 "initial-access": "?",
                 "motive": "Money:Ransom"
             },
             "year": 2019
-        },
-        {
-            "entity": "T-Mobile",
-            "links": [
-                "https://securityaffairs.co/wordpress/94235/data-breach/t-mobile-data-breach-wireless-customers.html",
-                "https://www.itpro.co.uk/security/data-breaches/354192/t-mobile-data-breach-affects-more-than-a-million-users"
-            ],
-            "month": 11,
-            "summary": "Some pre-paid customer data accessed.",
-            "tags": {
-                "actor": "?",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "PII:?"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Virtual Care Provider Inc.",
-            "links": [
-                "https://krebsonsecurity.com/2019/11/110-nursing-homes-cut-off-from-health-records-in-ransomware-attack/"
-            ],
-            "month": 11,
-            "summary": "A ransomware outbreak has besieged a Wisconsin based IT company that provides cloud data hosting, se",
-            "tags": {
-                "actor": "Nation State",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "Money:Ransom"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "ZoneAlarm",
-            "links": [
-                "https://thehackernews.com/2019/11/zonealarm-forum-data-breach.html"
-            ],
-            "month": 11,
-            "summary": "ZoneAlarm, an internet security software company owned by Israeli cybersecurity firm Check Point Tec",
-            "tags": {
-                "actor": "Hacktivist",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "OWASP:A9",
-                "motive": "PII:?"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Active Network",
-            "links": [
-                "https://www.scmagazine.com/home/security-news/data-breach/school-software-vendor-active-network-suffers-data-breach/"
-            ],
-            "month": 12,
-            "summary": "Acitve Network's Blue Bear Software platform reported that unauthorized activity in its network earl",
-            "tags": {
-                "actor": "Criminal",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "PII:?"
-            },
-            "year": 2019
-        },
-        {
-            "entity": "Chinese venture-capital firm",
-            "links": [
-                "https://threatpost.com/ultimate-mitm-attack-steals-1m-from-israeli-startup/150840/"
-            ],
-            "month": 12,
-            "summary": "Check Point became involved in the incident when a $1 million wire-transfer made between the two par",
-            "tags": {
-                "actor": "Criminal:BEC",
-                "cost-usd": 1000000,
-                "impacted-user-count": 0,
-                "initial-access": "BEC:Impersonation",
-                "motive": "Money:Bank Transfer"
-            },
-            "year": 2019
-        },
-        {
-            "year": 2019,
-            "month": 12,
-            "entity": "City of New Orleans",
-            "summary": "Ransmware attack that forced the shut down of city IT systems.",
-            "tags": {
-                "impacted-user-count": 0,
-                "cost-usd": 0,
-                "motive": "Money:Ransom",
-                "actor": "Criminal",
-                "initial-access": "?"
-            },
-            "links": [
-                "https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html"
-            ]
         },
         {
             "year": 2011,
@@ -3677,7 +4921,7 @@
                 "impacted-user-count": 3000000000,
                 "cost-usd": 117500000,
                 "actor": "Nation State:Russian FSB",
-                "initial-access": "OWASP:A6",
+                "initial-access": "OWASP:A2",
                 "motive": "PII:?"
             },
             "links": [
@@ -3800,6 +5044,38 @@
             ]
         },
         {
+            "entity": "Facebook",
+            "links": [
+                "https://www.cnet.com/news/facebook-sues-chinese-ad-company-over-alleged-hacking-campaign/"
+            ],
+            "month": 1,
+            "summary": "Malware used to steal Facebook credentials and run unauthorized ad campaigns.",
+            "tags": {
+                "actor": "Criminal",
+                "cost-usd": 4000000000,
+                "impacted-user-count": 0,
+                "initial-access": "OWASP:A6",
+                "motive": "Money:Misc"
+            },
+            "year": 2016
+        },
+        {
+            "entity": "Kobe Steel",
+            "links": [
+                "https://www.securityweek.com/japanese-defense-contractors-pasco-kobe-steel-disclose-old-breaches"
+            ],
+            "month": 8,
+            "summary": "Japanese defense contractors Pasco and Kobe Steel this week disclosed cyber intrusions they suffered",
+            "tags": {
+                "actor": "Nation State",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Espionage"
+            },
+            "year": 2016
+        },
+        {
             "entity": "Cayman National Bank",
             "links": [
                 "https://www.vice.com/en_ca/article/ne8p9b/offshore-bank-targeted-phineas-fisher-confirms-hack-cayman-national-bank"
@@ -3876,6 +5152,22 @@
                 "https://threatpost.com/zendesk-exposes-10000-accounts/148881/",
                 "https://www.zendesk.com/blog/security-update-2019/"
             ]
+        },
+        {
+            "entity": "NEC",
+            "links": [
+                "https://securityaffairs.co/wordpress/97104/data-breach/nec-security-breach-2016.html"
+            ],
+            "month": 12,
+            "summary": "Japanese electronics and IT giant NEC confirmed a security breach suffered by its defense business d",
+            "tags": {
+                "actor": "?",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "?"
+            },
+            "year": 2016
         },
         {
             "entity": "The National Bank of Blacksburg",
@@ -4293,10 +5585,14 @@
             "tags": {
                 "motive": "PII:?",
                 "actor": "Criminal",
-                "initial-access": "OWASP:A9"
+                "initial-access": "OWASP:A9",
+                "cost-usd": 2000000000000,
+                "impacted-user-count": 146599999999
             },
             "links": [
-                "https://www.usatoday.com/story/tech/2017/09/26/timeline-events-surrounding-equifax-data-breach/703691001/"
+                "https://www.usatoday.com/story/tech/2017/09/26/timeline-events-surrounding-equifax-data-breach/703691001/",
+                "https://www.thesslstore.com/blog/equifax-data-breach-total-data-lost-the-final-count/",
+                "https://threatpost.com/equifax-settles-class-action-lawsuit/151873/"
             ]
         },
         {
@@ -4440,6 +5736,22 @@
                 "https://techcrunch.com/2018/09/19/newegg-credit-card-data-breach/",
                 "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"
             ]
+        },
+        {
+            "entity": "Pasco",
+            "links": [
+                "https://www.securityweek.com/japanese-defense-contractors-pasco-kobe-steel-disclose-old-breaches"
+            ],
+            "month": 5,
+            "summary": "Japanese defense contractors Pasco and Kobe Steel this week disclosed cyber intrusions they suffered",
+            "tags": {
+                "actor": "Nation State",
+                "cost-usd": 0,
+                "impacted-user-count": 0,
+                "initial-access": "?",
+                "motive": "Espionage"
+            },
+            "year": 2018
         },
         {
             "year": 2018,
@@ -4653,7 +5965,7 @@
                 "cost-usd": null,
                 "actor": "?",
                 "motive": "?",
-                "initial-access": "OWASP:A6"
+                "initial-access": "OWASP:A2"
             },
             "links": [
                 "https://www.theregister.co.uk/2019/03/08/citrix_hacked_data_stolen/",
@@ -4772,149 +6084,6 @@
             },
             "links": [
                 "https://www.wvlt.tv/content/news/Data-breach-leaves-thousands-of-ETSU-employees-vulnerable--500860311.html"
-            ]
-        },
-        {
-            "entity": "healthcare.gov",
-            "month": 11,
-            "year": 2018,
-            "summary": "Possible ATT&CK:T1078 led to unauthorized data access. ",
-            "tags": {
-                "motive": "PII:?",
-                "actor": "?",
-                "initial-access": "?"
-            },
-            "links": [
-                "https://techcrunch.com/2018/11/09/hackers-stole-income-immigration-and-tax-data-in-healthcare-gov-breach-government-confirms/"
-            ]
-        },
-        {
-            "entity": "HSBC",
-            "month": 11,
-            "year": 2018,
-            "summary": "Credential stuffing attack",
-            "tags": {
-                "motive": "?",
-                "actor": "?",
-                "initial-access": "ATT&CK:T1078"
-            },
-            "links": [
-                "https://www.americanbanker.com/news/hsbc-suffers-data-breach-on-small-number-of-online-accounts"
-            ]
-        },
-        {
-            "entity": "Infowars",
-            "month": 11,
-            "year": 2018,
-            "summary": "Javascript injected in site to steal credit card information",
-            "tags": {
-                "motive": "Money:Credit Card",
-                "actor": "Criminal:Magecart",
-                "initial-access": "OWASP:A10"
-            },
-            "links": [
-                "https://www.zdnet.com/article/card-skimming-malware-removed-from-infowars-online-store/"
-            ]
-        },
-        {
-            "entity": "Kars4Kids",
-            "month": 11,
-            "year": 2018,
-            "summary": "Open MongoDB",
-            "tags": {
-                "motive": "Hacktivism:Press",
-                "actor": "Hacktivist",
-                "initial-access": "OWASP:A5"
-            },
-            "links": [
-                "https://techcrunch.com/2018/11/13/kars4kids-data-breach/"
-            ]
-        },
-        {
-            "entity": "Marriott/Starwood",
-            "month": 11,
-            "year": 2018,
-            "summary": "?",
-            "tags": {
-                "motive": "Espionage",
-                "actor": "Nation State",
-                "initial-access": "?"
-            },
-            "links": [
-                "https://techcrunch.com/2018/11/30/starwood-hotels-says-500-million-guest-records-stolen-in-massive-data-breach/",
-                "https://www.nytimes.com/2018/11/30/business/marriott-data-breach.html"
-            ]
-        },
-        {
-            "entity": "MJ Insurance",
-            "month": 11,
-            "year": 2018,
-            "summary": "Phishing email led to an ATT&CK:T1078",
-            "tags": {
-                "motive": "?",
-                "actor": "?",
-                "initial-access": "ATT&CK:T1078"
-            },
-            "links": [
-                "https://oag.ca.gov/system/files/CHDOCS01-%232634704-v1-AG-CA-Notification-Letter_0.PDF"
-            ]
-        },
-        {
-            "entity": "National Baseball Hall of Fame",
-            "links": [
-                "https://www.bleepingcomputer.com/news/security/national-baseball-hall-of-fame-hit-by-payment-card-stealing-attack/"
-            ],
-            "month": 11,
-            "summary": "The web site for the National Baseball Hall of Fame in Cooperstown, NY was hacked to include a malic",
-            "tags": {
-                "actor": "Criminal:MageCart",
-                "cost-usd": 0,
-                "impacted-user-count": 0,
-                "initial-access": "?",
-                "motive": "Money:Credit Card"
-            },
-            "year": 2018
-        },
-        {
-            "entity": "Sky Brasil",
-            "month": 11,
-            "year": 2018,
-            "summary": "Exposed elastic search instance",
-            "tags": {
-                "motive": "Hacktivism:Schadenfreude",
-                "actor": "Hacktivist",
-                "initial-access": "OWASP:A5"
-            },
-            "links": [
-                "https://www.scmagazine.com/home/security-news/sky-brasil-one-of-the-biggest-subscription-television-services-in-brazil-is-the-latest-elasticsearch-server-user-to-leave-its-customers-exposed-after-not-securing-the-server-with-a-password/"
-            ]
-        },
-        {
-            "entity": "usps",
-            "month": 11,
-            "year": 2018,
-            "summary": "API broken access control",
-            "tags": {
-                "motive": "Hacktivism:?",
-                "actor": "Hacktivist",
-                "initial-access": "OWASP:A5"
-            },
-            "links": [
-                "https://krebsonsecurity.com/2018/11/usps-site-exposed-data-on-60-million-users/"
-            ]
-        },
-        {
-            "entity": "Vision Direct",
-            "month": 11,
-            "year": 2018,
-            "summary": "Javascript injected in site to steal credit card information",
-            "tags": {
-                "motive": "Money:Credit Card",
-                "actor": "Criminal:Magecart",
-                "initial-access": "OWASP:A10"
-            },
-            "links": [
-                "https://www.theregister.co.uk/2018/11/19/vision_direct_fesses_up_to_hack_that_exposed_customer_names_and_payment_deets/"
             ]
         }
     ]

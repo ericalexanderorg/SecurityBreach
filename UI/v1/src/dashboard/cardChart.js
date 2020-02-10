@@ -14,7 +14,7 @@ const styles = {
     marginBottom: '2em',
 };
 
-const CardPieChart = ({ type, title, subject, value }) => (
+const CardChart = ({ type, title, subject, value }) => (
     <Card>
         <CardContent>
             <Typography variant="headline" component="h2">
@@ -40,4 +40,4 @@ const enhance = compose(
     translate
 );
 
-export default enhance(CardPieChart);
+export default enhance(CardChart);

@@ -33,6 +33,22 @@ function getType(v){
     return v
 }
 
+function getAccessDescription(data, val){
+    if(val == ""){
+        return "?"
+    }
+    if(val == "?"){
+        return val
+    }
+    if(data['initial-access'].hasOwnProperty(val)){
+        return data['initial-access'][val]['description']
+    }
+    else {
+        console.log('Unable to find definition for: ' + val)
+        return val
+    }
+}
+
 
 function transformData(data) {
     // react-admin is finicky about it's data, need to massage it a little
@@ -64,6 +80,7 @@ function transformData(data) {
         breach['actor']=breach['tags']['actor']
         breach['motive']=breach['tags']['motive']
         breach['initial-access']=breach['tags']['initial-access']
+        breach['initial-access-description']=getAccessDescription(data['tag-taxonomy'], breach['initial-access'])
         // Gracefully handle some missing int tags
         breach=transformMissingInt(breach, 'cost-usd')
         breach=transformMissingInt(breach, 'impacted-user-count')
@@ -83,7 +100,6 @@ function transformData(data) {
         }
         // Years
         years.push(breach['year'])
-        
     });
     transformed=dataCounts(years, 'years', transformed)
     transformed=dataCounts(motives, 'motives', transformed)
@@ -92,12 +108,7 @@ function transformData(data) {
     // Access data needs an additional transformation
     // ATT&CK:T1193 isn't apparent that it's attributed to "Spearphishing Attachment"
     transformed['access'].forEach(function(item, index){
-        try {
-            transformed['access'][index][0] = data['tag-taxonomy']['initial-access'][item[0]]['description']
-        }
-        catch(error) {
-            console.log(error)
-          }
+        transformed['access'][index][0] = getAccessDescription(data['tag-taxonomy'], item[0])
     });
     console.log(transformed)
     return(transformed);
