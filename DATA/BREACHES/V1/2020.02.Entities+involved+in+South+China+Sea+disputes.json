@@ -1,0 +1,16 @@
+{
+    "entity": "Entities involved in South China Sea disputes",
+    "links": [
+        "https://securityaffairs.co/wordpress/97582/apt/malaysias-mycert-apt40-attacks.html"
+    ],
+    "month": 2,
+    "summary": "Malaysia's MyCERT issued a security alert to warn of a hacking campaign targeting government officia",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
