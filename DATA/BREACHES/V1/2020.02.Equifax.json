@@ -1,0 +1,16 @@
+{
+    "entity": "Equifax",
+    "links": [
+        "https://www.wired.com/story/equifax-hack-china/"
+    ],
+    "month": 2,
+    "summary": "In September 2017, credit reporting giant Equifax came clean: It had been hacked, and the sensitive ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A9",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
