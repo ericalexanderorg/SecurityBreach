@@ -1,0 +1,16 @@
+{
+    "entity": "Rockdale County GA",
+    "links": [
+        "https://www.wsbtv.com/news/local/rockdale-county/metro-county-shuts-down-9-servers-after-ransomware-attack-water-department/TJ54F4D5FVGMFIJGGO3MMVYIVY/"
+    ],
+    "month": 2,
+    "summary": "ROCKDALE COUNTY, Ga. - A local county hit by a ransomware attack says it's slowly getting back up to",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
