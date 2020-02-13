@@ -27,6 +27,39 @@ function isInArray(array, search)
     return array.indexOf(search) >= 0;
 }
 
+function totalBarChartData(key, data, inMillions=false){
+    var tempObj = {}
+    // Loop through all breach data
+    Object.keys(data).forEach(function (id) {
+        // Create a variable for or array id. Makes the code cleaner. 
+        var breachObj = data[id]
+        // Check if we already have this year in our tempObj
+        if (!tempObj.hasOwnProperty(breachObj['year'])) {
+            // Not there, add it.
+            tempObj[breachObj['year']] = 0
+        }
+        if(data[id][key] != ""){
+            tempObj[breachObj['year']] = tempObj[breachObj['year']] + parseInt(data[id][key])
+        }
+    });
+    
+    // Create the object we'll return
+    var returnObj = []
+    // Loop through each year in tempObj
+    Object.keys(tempObj).forEach(function (year) {
+        if(tempObj[year] != 0){
+            if(inMillions){
+                var yearArray = [year, tempObj[year]/1000000000]
+            }
+            else {
+                var yearArray = [year, tempObj[year]]
+            }
+            returnObj.push(yearArray)
+        }
+    });
+    return returnObj
+}
+
 function attributeBarChartData(column, data, minYear, summarize){
     // Google doc on bar charts: https://developers.google.com/chart/interactive/docs/gallery/barchart
     // react-google-charts doc on bar charts: https://react-google-charts.com/bar-chart
@@ -180,6 +213,28 @@ class DashboardComponent extends Component {
                 this.setState({ monthByYearData: attributeBarChartData('month', monthByYearCount, 1900, false) })
                 }
             ) 
+
+        // Get cost by year data
+        dataProvider(GET_LIST, 'breaches', {
+            sort: { field: 'name', order: 'DESC' },
+            pagination: { page: 1, perPage: 1000 },
+            })
+            .then(response => response.data)
+            .then(costByYearData => {
+                this.setState({ costByYearChartData: transformChartData(['Years', 'Cost in USD (Millions)'], totalBarChartData('cost-usd', costByYearData, true)) })
+                }
+            ) 
+
+            // Get impacted uers per year
+            dataProvider(GET_LIST, 'breaches', {
+                sort: { field: 'name', order: 'DESC' },
+                pagination: { page: 1, perPage: 1000 },
+                })
+                .then(response => response.data)
+                .then(usersByYearData => {
+                    this.setState({ usersByYearChartData: transformChartData(['Years', 'User Count (Millions)'], totalBarChartData('impacted-user-count', usersByYearData, true)) })
+                    }
+                ) 
     }
 
     render() {
@@ -191,7 +246,9 @@ class DashboardComponent extends Component {
             actorData,
             actorByYearData,
             yearsData,
-            monthByYearData
+            monthByYearData, 
+            costByYearChartData,
+            usersByYearChartData
         } = this.state; 
 
 
@@ -209,6 +266,12 @@ class DashboardComponent extends Component {
                     </div>
                     <div style={styles.flex, { marginBottom: '2em' }}>
                         <CardChart type={'Bar'} value={monthByYearData} title={'Month by Year'} subject={'Trends in activity per month.'} />
+                    </div>
+                    <div style={styles.flex, { marginBottom: '2em' }}>
+                        <CardChart type={'AreaChart'} value={costByYearChartData} title={'Cost by Year (in Millions)'} subject={'Total cost of breaches per year in USD.'} />
+                    </div>
+                    <div style={styles.flex, { marginBottom: '2em' }}>
+                        <CardChart type={'AreaChart'} value={usersByYearChartData} title={'Impacted Users by Year (in Millions)'} subject={'Total number of impacted users per year.'} />
                     </div>
                     <div style={styles.flex, { marginBottom: '2em' }}>
                         <CardChart type={'PieChart'} value={accessData} title={'Access'} subject={'How did the actor gain initial access?'} />
