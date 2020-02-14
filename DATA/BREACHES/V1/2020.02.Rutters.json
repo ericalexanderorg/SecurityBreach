@@ -1,0 +1,16 @@
+{
+    "entity": "Rutters",
+    "links": [
+        "https://www.securityweek.com/over-70-rutters-stores-hit-payment-card-breach"
+    ],
+    "month": 2,
+    "summary": "Convenience store and gas station chain Rutter's informed customers this week that their payment car",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
