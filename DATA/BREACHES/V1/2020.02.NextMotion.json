@@ -1,0 +1,16 @@
+{
+    "entity": "NextMotion",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/plastic-surgery-patient-photos-info-exposed-by-leaky-database/"
+    ],
+    "month": 2,
+    "summary": "Hundreds of thousands of documents with plastic surgery patients' personal information and highly se",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
