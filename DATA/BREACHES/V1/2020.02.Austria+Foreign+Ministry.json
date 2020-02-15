@@ -1,0 +1,16 @@
+{
+    "entity": "Austria Foreign Ministry",
+    "links": [
+        "https://securityaffairs.co/wordpress/97879/intelligence/austrias-foreign-ministry-attack.html"
+    ],
+    "month": 2,
+    "summary": "Austria's foreign ministry announced that the cyber attack against its systems, allegedly carried by",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
