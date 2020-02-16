@@ -1,0 +1,16 @@
+{
+    "entity": "Puerto Rico",
+    "links": [
+        "https://apnews.com/e03bea7e491b9c95350887880376562f"
+    ],
+    "month": 2,
+    "summary": "SAN JUAN, Puerto Rico - Puerto Rico's government has lost more than $2.6 million after falling for a",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 2600000000,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1192",
+        "motive": "Money:Bank Transfer"
+    },
+    "year": 2020
+}
