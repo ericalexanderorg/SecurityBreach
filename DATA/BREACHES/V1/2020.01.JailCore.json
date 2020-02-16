@@ -1,0 +1,16 @@
+{
+    "entity": "JailCore",
+    "links": [
+        "https://nakedsecurity.sophos.com/2020/02/12/data-about-inmates-and-jail-staff-spilled-by-leaky-prison-app/"
+    ],
+    "month": 1,
+    "summary": "The leaky bucket belongs to JailCore, a cloud-based app meant to manage correctional facilities, inc",
+    "tags": {
+        "actor": "Hacktivist:VpnMentor",
+        "cost-usd": 0,
+        "impacted-user-count": 36077,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
