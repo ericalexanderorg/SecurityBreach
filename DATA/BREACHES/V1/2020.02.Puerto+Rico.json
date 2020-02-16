@@ -7,7 +7,7 @@
     "summary": "SAN JUAN, Puerto Rico - Puerto Rico's government has lost more than $2.6 million after falling for a",
     "tags": {
         "actor": "Criminal",
-        "cost-usd": 2600000000,
+        "cost-usd": 2600000,
         "impacted-user-count": 0,
         "initial-access": "ATT&CK:T1192",
         "motive": "Money:Bank Transfer"
