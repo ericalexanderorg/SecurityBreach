@@ -1,1 +1,16 @@
-{"year": 2019, "month": 10, "entity": "Adobe", "summary": "Unsecured elastic search DB exposed to the internet", "tags": {"impacted-user-count": 750000000, "cost-usd": 0, "actor": "Hacktivist:Bob Diachenko", "initial-access": "OWASP:A5", "motive": "Hacktivism:Schadenfreude"}, "links": ["https://thehackernews.com/2019/10/adobe-database-leaked.html"]}
+{
+    "year": 2019,
+    "month": 10,
+    "entity": "Adobe",
+    "summary": "Unsecured elastic search DB exposed to the internet",
+    "tags": {
+        "impacted-user-count": 7500000,
+        "cost-usd": 0,
+        "actor": "Hacktivist:Bob Diachenko",
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "links": [
+        "https://thehackernews.com/2019/10/adobe-database-leaked.html"
+    ]
+}

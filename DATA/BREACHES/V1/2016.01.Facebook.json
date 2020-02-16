@@ -7,7 +7,7 @@
     "summary": "Malware used to steal Facebook credentials and run unauthorized ad campaigns.",
     "tags": {
         "actor": "Criminal",
-        "cost-usd": 4000000000,
+        "cost-usd": 4000000,
         "impacted-user-count": 0,
         "initial-access": "OWASP:A6",
         "motive": "Money:Misc"

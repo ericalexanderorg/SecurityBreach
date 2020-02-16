@@ -1,1 +1,16 @@
-{"entity": "Adobe - Magento Marketplace", "links": ["https://thehackernews.com/2019/11/magento-marketplace-data-breach.html"], "month": 11, "summary": "Undisclosed vulnerabiliy exploited to gain access to both customer and developer data.", "tags": {"actor": "?", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "?", "motive": "PII:?"}, "year": 2019}
+{
+    "entity": "Adobe - Magento Marketplace",
+    "links": [
+        "https://thehackernews.com/2019/11/magento-marketplace-data-breach.html"
+    ],
+    "month": 11,
+    "summary": "Undisclosed vulnerabiliy exploited to gain access to both customer and developer data.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2019
+}

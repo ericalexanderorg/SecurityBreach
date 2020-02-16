@@ -1,1 +1,16 @@
-{"entity": "OxyData.Io", "links": ["https://www.dataviper.io/blog/2019/pdl-data-exposure-billion-people/"], "month": 11, "summary": "Aggregated public informotion exposed through elastic search DB with no auth.", "tags": {"actor": "Hacktivist", "cost-usd": 0, "impacted-user-count": 1200000000, "initial-access": "OWASP:A5", "motive": "PII:?"}, "year": 2019}
+{
+    "entity": "OxyData.Io",
+    "links": [
+        "https://www.dataviper.io/blog/2019/pdl-data-exposure-billion-people/"
+    ],
+    "month": 11,
+    "summary": "Aggregated public informotion exposed through elastic search DB with no auth.",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 1200000000,
+        "initial-access": "OWASP:A5",
+        "motive": "PII:?"
+    },
+    "year": 2019
+}
