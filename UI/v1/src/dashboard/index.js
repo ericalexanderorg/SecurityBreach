@@ -49,7 +49,7 @@ function totalBarChartData(key, data, inMillions=false){
     Object.keys(tempObj).forEach(function (year) {
         if(tempObj[year] != 0){
             if(inMillions){
-                var yearArray = [year, tempObj[year]/1000000000]
+                var yearArray = [year, tempObj[year]/1000000]
             }
             else {
                 var yearArray = [year, tempObj[year]]
