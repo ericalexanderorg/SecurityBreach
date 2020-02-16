@@ -1,0 +1,16 @@
+{
+    "entity": "Estee Lauder",
+    "links": [
+        "https://www.securityweek.com/beauty-and-breach-est%C3%A9e-lauder-exposes-440-million-records-unprotected-database"
+    ],
+    "month": 2,
+    "summary": "Database exposed to internet with no athentication.",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 440336852,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2020
+}
