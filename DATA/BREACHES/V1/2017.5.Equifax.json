@@ -7,8 +7,8 @@
         "motive": "PII:?",
         "actor": "Criminal",
         "initial-access": "OWASP:A9",
-        "cost-usd": 2000000000000,
-        "impacted-user-count": 146599999999
+        "cost-usd": 2000000000,
+        "impacted-user-count": 146599999
     },
     "links": [
         "https://www.usatoday.com/story/tech/2017/09/26/timeline-events-surrounding-equifax-data-breach/703691001/",
