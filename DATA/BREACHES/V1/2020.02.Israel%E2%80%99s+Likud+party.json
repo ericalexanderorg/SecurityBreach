@@ -1,0 +1,16 @@
+{
+    "entity": "Israel\u2019s Likud party",
+    "links": [
+        "https://www.securityweek.com/israels-likud-party-exposed-details-over-6-million-voters"
+    ],
+    "month": 2,
+    "summary": "An election application used by Israel's Likud party has exposed the personal information of over 6 ",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
