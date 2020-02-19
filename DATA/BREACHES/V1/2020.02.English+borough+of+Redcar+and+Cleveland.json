@@ -1,0 +1,16 @@
+{
+    "entity": "English borough of Redcar and Cleveland",
+    "links": [
+        "https://nakedsecurity.sophos.com/2020/02/18/council-returns-to-using-pen-and-paper-after-cyberattack/"
+    ],
+    "month": 2,
+    "summary": "Ten days after a suspected ransomware attack, residents of the English borough of Redcar and Clevela",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
