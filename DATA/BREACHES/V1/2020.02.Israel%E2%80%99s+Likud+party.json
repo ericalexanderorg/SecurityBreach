@@ -9,7 +9,7 @@
         "actor": "Hacktivist",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "ATT&CK:T1078",
         "motive": "Hacktivism:Press"
     },
     "year": 2020
