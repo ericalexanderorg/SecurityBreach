@@ -1,0 +1,16 @@
+{
+    "entity": "https://krebsonsecurity.com/2020/02/hackers-were-inside-citrix-for-five-months/",
+    "links": [
+        "https://krebsonsecurity.com/2020/02/hackers-were-inside-citrix-for-five-months/"
+    ],
+    "month": 2,
+    "summary": "Networking software giant Citrix Systems says malicious hackers were inside its networks for five mo",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
