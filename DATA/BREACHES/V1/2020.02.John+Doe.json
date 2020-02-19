@@ -1,0 +1,16 @@
+{
+    "entity": "John Doe",
+    "links": [
+        "https://www.wilbursecurity.com/2020/02/the-dever-ransomware-experience/"
+    ],
+    "month": 2,
+    "summary": "The attacker appears to have been active for 14 minutes, dropping tools, such as Mimikatz and Lazagn",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
