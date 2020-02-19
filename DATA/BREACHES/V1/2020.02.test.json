@@ -1,0 +1,16 @@
+{
+    "entity": "test",
+    "links": [
+        "https://www.securityweek.com/operations-us-natural-gas-facilities-disrupted-ransomware-attack"
+    ],
+    "month": 2,
+    "summary": "A ransomware infection at a natural gas compression facility in the United States resulted in a two-",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
