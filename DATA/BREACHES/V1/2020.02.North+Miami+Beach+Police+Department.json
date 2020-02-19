@@ -1,0 +1,16 @@
+{
+    "entity": "North Miami Beach Police Department",
+    "links": [
+        "https://www.securityweek.com/ransomware-hits-north-miami-beach-police-department"
+    ],
+    "month": 2,
+    "summary": "The City of North Miami Beach last week announced that ransomware was found on computers within its ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
