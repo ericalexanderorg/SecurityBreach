@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Checkout repo
         id: checkout
-        uses: actions/checkout@v1
+        uses: actions/checkout@v2
       - name: Classify
         id: classify
         uses: ericalexanderorg/SecurityBreach/ACTIONS/classify-issue@master
@@ -22,7 +22,7 @@ jobs:
           echo "PR Comment - ${{ steps.classify.outputs.pr_comment }}"
       - name: Create Pull Request
         id: cpr
-        uses: peter-evans/create-pull-request@v1
+        uses: peter-evans/create-pull-request@v2
         with:
           token: ${{ secrets.GH_PAT }}
           commit-message: ${{ steps.classify.outputs.pr_comment }}
