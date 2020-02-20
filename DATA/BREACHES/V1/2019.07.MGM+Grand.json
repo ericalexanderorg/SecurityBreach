@@ -1,0 +1,16 @@
+{
+    "entity": "MGM Grand",
+    "links": [
+        "https://threatpost.com/mgm-grand-breach-leaked-details-of-10-6-million-guests-last-summer/153054/"
+    ],
+    "month": 7,
+    "summary": "A hacking forum this week published details of more than 10.6 million guests who stayed at MGM Resor",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "PII:?"
+    },
+    "year": 2019
+}
