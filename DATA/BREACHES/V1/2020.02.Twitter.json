@@ -14,3 +14,19 @@
     },
     "year": 2020
 }
+{
+    "entity": "Twitter",
+    "links": [
+        "https://www.buzzfeednews.com/article/alexkantrowitz/how-saudi-arabia-infiltrated-twitter"
+    ],
+    "month": 2,
+    "summary": "Abouammo, a gregarious and charismatic operator, joined Twitter just days before the platform's init",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
