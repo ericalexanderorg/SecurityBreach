@@ -1,0 +1,16 @@
+{
+    "entity": "Nine websites",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/credit-card-skimmer-found-on-nine-sites-researchers-ignored/"
+    ],
+    "month": 2,
+    "summary": "Security researchers discovered a new batch of nine websites infected with malicious JavaScript that",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
