@@ -1,0 +1,16 @@
+{
+    "entity": "Over a dozen Swiss entities",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/swiss-govt-says-ransomware-victims-ignored-warnings-had-poor-security/"
+    ],
+    "month": 2,
+    "summary": "Switzerland's Reporting and Analysis Centre for Information Assurance today warned of ongoing ransom",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
