@@ -1,0 +1,16 @@
+{
+    "year": 2015,
+    "month": 1,
+    "entity": "Twitter",
+    "summary": "Insider quid pro quo for data access",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Insider",
+        "initial-access": "Insider",
+        "motive": "Money:Misc"
+    },
+    "links": [
+        "https://www.buzzfeednews.com/article/alexkantrowitz/how-saudi-arabia-infiltrated-twitter"
+    ]
+}
