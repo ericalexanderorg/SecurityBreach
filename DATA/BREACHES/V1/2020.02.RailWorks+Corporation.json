@@ -1,0 +1,16 @@
+{
+    "entity": "RailWorks Corporation",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/us-railroad-contractor-reports-data-breach-after-ransomware-attack/"
+    ],
+    "month": 2,
+    "summary": "RailWorks Corporation, one of North America's leading railroad track and transit system providers, d",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
