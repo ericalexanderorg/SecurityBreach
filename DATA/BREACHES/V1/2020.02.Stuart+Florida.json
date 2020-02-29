@@ -1,0 +1,16 @@
+{
+    "entity": "Stuart Florida",
+    "links": [
+        "https://www.wptv.com/news/local-news/stuart/police-evidence-lost-in-stuart-hack-attack-six-suspected-drug-dealers-walk-free"
+    ],
+    "month": 2,
+    "summary": "At least six suspected drug dealers walked away free after Stuart prosecutors were forced to drop ca",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
