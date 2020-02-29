@@ -1,0 +1,16 @@
+{
+    "entity": "NRC Health",
+    "links": [
+        "https://securityaffairs.co/wordpress/98614/cyber-crime/nrc-health-ransomware.html"
+    ],
+    "month": 2,
+    "summary": "A Lincoln health care company has been targeted by crooks, no patient data has been compromised duri",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
