@@ -1,0 +1,16 @@
+{
+    "entity": "Clearview AI",
+    "links": [
+        "https://nakedsecurity.sophos.com/2020/02/28/clearview-ai-loses-entire-database-of-faceprint-buying-clients-to-hackers/"
+    ],
+    "month": 2,
+    "summary": "Clearview AI, the controversial facial recognition startup that's gobbled up more than three billion",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
