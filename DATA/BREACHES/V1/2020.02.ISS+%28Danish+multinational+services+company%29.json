@@ -1,0 +1,16 @@
+{
+    "entity": "ISS (Danish multinational services company)",
+    "links": [
+        "https://securityaffairs.co/wordpress/98321/malware/iss-reveals-malware-attack.html"
+    ],
+    "month": 2,
+    "summary": "ISS, the multinational Denmark-based facility services company, was hit with a malware that shuts do",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
