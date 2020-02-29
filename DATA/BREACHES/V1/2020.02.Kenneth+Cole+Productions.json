@@ -1,0 +1,16 @@
+{
+    "entity": "Kenneth Cole Productions",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/sodinokibi-ransomware-posts-alleged-data-of-kenneth-cole-fashion-giant/"
+    ],
+    "month": 2,
+    "summary": "The operators behind Sodinokibi Ransomware published download links to files containing what they cl",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
