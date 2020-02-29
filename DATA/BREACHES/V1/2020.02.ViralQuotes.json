@@ -6,11 +6,11 @@
     "month": 2,
     "summary": "Ask HN: My web app was hacked today - Bad experiences and how to prevent them? 83 points. I know, I ",
     "tags": {
-        "actor": "Nation State",
-        "cost-usd": 0,
+        "actor": "Criminal",
+        "cost-usd": 700,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Cryptocurrency"
+        "initial-access": "OWASP:A3",
+        "motive": "Money:Ransom"
     },
     "year": 2020
 }
