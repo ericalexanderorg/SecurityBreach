@@ -1,0 +1,16 @@
+{
+    "entity": "BGR (aka Boy Genius Report)",
+    "links": [
+        "https://securityaffairs.co/wordpress/98564/data-breach/bgr-tech-site-leak.html"
+    ],
+    "month": 2,
+    "summary": "Hackers share SQL databases from unsecured AWS buckets, including the archive belonging to the BGR t",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2020
+}
