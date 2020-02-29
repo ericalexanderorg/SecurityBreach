@@ -1,0 +1,16 @@
+{
+    "entity": "ViralQuotes",
+    "links": [
+        "https://news.ycombinator.com/item?id=22429966"
+    ],
+    "month": 2,
+    "summary": "Ask HN: My web app was hacked today - Bad experiences and how to prevent them? 83 points. I know, I ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2020
+}
