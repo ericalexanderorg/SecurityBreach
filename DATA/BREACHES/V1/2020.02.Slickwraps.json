@@ -1,0 +1,16 @@
+{
+    "entity": "Slickwraps",
+    "links": [
+        "https://securityaffairs.co/wordpress/98364/data-breach/slickwraps-data-leak.html"
+    ],
+    "month": 2,
+    "summary": "Slickwraps has disclosed a data breach that impacted over 850,000 user accounts, data were accidenta",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2020
+}
