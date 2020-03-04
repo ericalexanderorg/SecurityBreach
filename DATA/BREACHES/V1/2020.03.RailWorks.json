@@ -1,0 +1,16 @@
+{
+    "entity": "RailWorks",
+    "links": [
+        "https://www.securityweek.com/railroad-construction-firm-railworks-falls-victim-ransomware"
+    ],
+    "month": 3,
+    "summary": "Rail contractor RailWorks Corporation is notifying employees and third-parties that it recently fell",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
