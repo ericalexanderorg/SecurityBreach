@@ -1,0 +1,16 @@
+{
+    "entity": "Epiq",
+    "links": [
+        "https://www.securityweek.com/legal-services-firm-epiq-hit-ransomware"
+    ],
+    "month": 3,
+    "summary": "Legal services company Epiq has taken its systems offline globally after being hit by a piece of ran",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
