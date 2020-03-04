@@ -1,0 +1,16 @@
+{
+    "entity": "Visser Precision",
+    "links": [
+        "https://securityaffairs.co/wordpress/98945/malware/visser-precision-ransomware.html"
+    ],
+    "month": 3,
+    "summary": "Data-stealing ransomware infected systems at Visser Precision, a parts maker for many enterprises, i",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
