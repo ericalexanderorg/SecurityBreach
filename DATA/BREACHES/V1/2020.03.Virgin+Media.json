@@ -1,0 +1,16 @@
+{
+    "entity": "Virgin Media",
+    "links": [
+        "https://www.bbc.com/news/business-51760510"
+    ],
+    "month": 3,
+    "summary": "A Virgin Media database containing the personal details of 900,000 people was left unsecured and acc",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2020
+}
