@@ -1,0 +1,16 @@
+{
+    "entity": "J.Crew",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/jcrew-disables-user-accounts-after-credential-stuffing-attack/"
+    ],
+    "month": 3,
+    "summary": "US clothing retailer J.Crew announced that it was the victim of a credential stuffing attack around ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
