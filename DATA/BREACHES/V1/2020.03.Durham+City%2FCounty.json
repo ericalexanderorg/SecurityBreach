@@ -1,0 +1,16 @@
+{
+    "entity": "Durham City/County",
+    "links": [
+        "https://www.securityweek.com/durham-city-county-recovering-after-ransomware-attack"
+    ],
+    "month": 3,
+    "summary": "The City of Durham and the Durham County government in North Carolina are in the process of recovery",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
