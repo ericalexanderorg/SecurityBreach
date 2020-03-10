@@ -1,0 +1,16 @@
+{
+    "entity": "Revista Factum",
+    "links": [
+        "https://securityaffairs.co/wordpress/99245/hacking/revista-factum-under-attack.html"
+    ],
+    "month": 3,
+    "summary": "Revista Factum was under prolonged cyber attacks for denouncing corruption, the government of El Sal",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
