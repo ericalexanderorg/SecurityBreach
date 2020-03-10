@@ -1,0 +1,16 @@
+{
+    "entity": "T-Mobile",
+    "links": [
+        "https://securityaffairs.co/wordpress/99009/data-breach/t-mobile-data-breach-2.html"
+    ],
+    "month": 3,
+    "summary": "New problems for the wireless carrier T-Mobile that disclosed a data breach that exposed some of the",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
