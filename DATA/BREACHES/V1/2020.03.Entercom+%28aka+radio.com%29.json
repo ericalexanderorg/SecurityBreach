@@ -1,0 +1,16 @@
+{
+    "entity": "Entercom (aka radio.com)",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/entercom-radio-giant-says-data-breach-exposed-user-credentials/"
+    ],
+    "month": 3,
+    "summary": "US radio giant Entercom reported a data breach that took place in August 2019 after an unauthorized ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
