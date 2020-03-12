@@ -1,0 +1,16 @@
+{
+    "entity": "A Tier-1 bank.",
+    "links": [
+        "https://securityaffairs.co/wordpress/99465/hacking/hacking-a-network-invisibility-cloak.html"
+    ],
+    "month": 3,
+    "summary": "Security experts describe a real attack case that sees the attackers using a small, unidentified har",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
