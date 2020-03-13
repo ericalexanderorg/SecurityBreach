@@ -1,0 +1,16 @@
+{
+    "entity": "John Doe",
+    "links": [
+        "https://nakedsecurity.sophos.com/2020/03/12/data-of-millions-of-ebay-and-amazon-shoppers-exposed/"
+    ],
+    "month": 3,
+    "summary": "Researchers have discovered another big database containing millions of European customer records le",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
