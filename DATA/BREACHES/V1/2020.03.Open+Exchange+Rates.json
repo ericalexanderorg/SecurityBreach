@@ -1,0 +1,16 @@
+{
+    "entity": "Open Exchange Rates",
+    "links": [
+        "https://securityaffairs.co/wordpress/99715/data-breach/open-exchange-rates-breach.html"
+    ],
+    "month": 3,
+    "summary": "Last week, Open Exchange Rates disclosed a data breach that exposed the personal information and has",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
