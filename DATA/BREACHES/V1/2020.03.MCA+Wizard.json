@@ -1,0 +1,16 @@
+{
+    "entity": "MCA Wizard",
+    "links": [
+        "https://www.vpnmentor.com/blog/report-mca-wizard-leak/"
+    ],
+    "month": 3,
+    "summary": "VpnMentor's research team, led by Noam Rotem, recently uncovered a breached database leaking a massi",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
