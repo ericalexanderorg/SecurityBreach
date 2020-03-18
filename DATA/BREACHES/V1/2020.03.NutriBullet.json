@@ -1,0 +1,16 @@
+{
+    "entity": "NutriBullet",
+    "links": [
+        "https://threatpost.com/magecart-cyberattack-targets-nutribullet-website/153855/"
+    ],
+    "month": 3,
+    "summary": "A faction under the Magecart umbrella, Magecart Group 8, targeted the website of the blender manufac",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
