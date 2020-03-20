@@ -1,0 +1,16 @@
+{
+    "entity": "Doxzoo",
+    "links": [
+        "https://www.vpnmentor.com/blog/report-doxzoo-leak/"
+    ],
+    "month": 3,
+    "summary": "There are potentially over 100,000 users affected by this data leak, with implications not only for ",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
