@@ -1,0 +1,16 @@
+{
+    "entity": "German companies",
+    "links": [
+        "https://www.securityweek.com/russia-linked-cybercriminals-use-legitimate-tools-attacks-german-firms"
+    ],
+    "month": 3,
+    "summary": "Earlier this year, Prevailion's security researchers identified a TA505 campaign targeting German co",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
