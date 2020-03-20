@@ -1,0 +1,16 @@
+{
+    "entity": "Rogers",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/rogers-data-breach-exposed-customer-info-in-unsecured-database/"
+    ],
+    "month": 3,
+    "summary": "Canadian ISP Rogers Communications has begun to notify customers of a data breach that exposed their",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
