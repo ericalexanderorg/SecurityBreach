@@ -1,0 +1,16 @@
+{
+    "entity": "Finastra",
+    "links": [
+        "https://krebsonsecurity.com/2020/03/security-breach-disrupts-fintech-firm-finastra/"
+    ],
+    "month": 3,
+    "summary": "Finastra, a company that provides a range of technology solutions to banks worldwide, said it was sh",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
