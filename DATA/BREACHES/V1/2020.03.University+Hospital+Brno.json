@@ -1,0 +1,16 @@
+{
+    "entity": "University Hospital Brno",
+    "links": [
+        "https://www.dailymail.co.uk/sciencetech/article-8110331/Cyber-attack-halts-coronavirus-tests-Czech-hospital-infected-patient-treated.html"
+    ],
+    "month": 3,
+    "summary": "A coronavirus is a type of virus which can cause illness in animals and people. The first human case",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
