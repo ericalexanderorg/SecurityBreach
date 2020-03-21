@@ -1,0 +1,16 @@
+{
+    "entity": "European Network of Transmission System Operators for Electricity",
+    "links": [
+        "https://www.securityweek.com/european-electrical-energy-organization-discloses-breach"
+    ],
+    "month": 3,
+    "summary": "The European Network of Transmission System Operators for Electricity revealed this week that malici",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2020
+}
