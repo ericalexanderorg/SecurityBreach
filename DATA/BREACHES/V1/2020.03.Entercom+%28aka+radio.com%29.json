@@ -6,10 +6,10 @@
     "month": 3,
     "summary": "US radio giant Entercom reported a data breach that took place in August 2019 after an unauthorized ",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "OWASP:A5",
         "motive": "PII:?"
     },
     "year": 2020
