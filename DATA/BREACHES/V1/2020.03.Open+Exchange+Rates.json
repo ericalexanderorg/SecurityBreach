@@ -9,7 +9,7 @@
         "actor": "Hacktivist",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "OWASP:A5",
         "motive": "PII:?"
     },
     "year": 2020
