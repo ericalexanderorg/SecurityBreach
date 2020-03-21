@@ -6,11 +6,11 @@
     "month": 3,
     "summary": "Wll DLL proceeds to download and decrypt the next stage of the infection chain, from one of the thre",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Nation State:Vicious Panda",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Espionage"
+        "motive": "?"
     },
     "year": 2020
 }
