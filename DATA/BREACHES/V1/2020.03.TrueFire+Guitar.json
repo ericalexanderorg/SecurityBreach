@@ -1,0 +1,16 @@
+{
+    "entity": "TrueFire Guitar",
+    "links": [
+        "https://securityaffairs.co/wordpress/99875/hacking/truefire-magecart-attack.html"
+    ],
+    "month": 3,
+    "summary": "The online guitar tutoring website TrueFire was compromised by hackers in a classic Magecart style a",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
