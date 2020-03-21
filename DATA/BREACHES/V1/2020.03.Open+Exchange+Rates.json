@@ -6,10 +6,10 @@
     "month": 3,
     "summary": "Currency data provider Open Exchange Rates has started informing customers that their information wa",
     "tags": {
-        "actor": "Nation State",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A5",
+        "initial-access": "ATT&CK:T1078",
         "motive": "PII:?"
     },
     "year": 2020
