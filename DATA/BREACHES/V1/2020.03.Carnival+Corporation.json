@@ -1,0 +1,16 @@
+{
+    "entity": "Carnival Corporation",
+    "links": [
+        "https://securityaffairs.co/wordpress/99110/data-breach/carnival-corporation-data-breach.html"
+    ],
+    "month": 3,
+    "summary": "The world's largest travel leisure company Carnival Corporation discloses a data breach that took pl",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
