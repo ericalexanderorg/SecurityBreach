@@ -1,0 +1,16 @@
+{
+    "entity": "City of Marseille",
+    "links": [
+        "https://securityaffairs.co/wordpress/99658/malware/marseille-city-massive-attack.html"
+    ],
+    "month": 3,
+    "summary": "While the Coronavirus is spreading worldwide, a massive cyber attack hit the town hall of Marseille ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
