@@ -1,0 +1,17 @@
+{
+    "entity": "Finastra",
+    "links": [
+        "https://krebsonsecurity.com/2020/03/security-breach-disrupts-fintech-firm-finastra/",
+        "https://www.securityweek.com/hackers-target-uk-fintech-company-finastra"
+    ],
+    "month": 3,
+    "summary": "Finastra, a company that provides a range of technology solutions to banks worldwide, said it was sh",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A9",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
