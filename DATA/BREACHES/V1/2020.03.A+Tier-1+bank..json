@@ -6,10 +6,10 @@
     "month": 3,
     "summary": "Security experts describe a real attack case that sees the attackers using a small, unidentified har",
     "tags": {
-        "actor": "Nation State",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "ATT&CK:T1200",
         "motive": "Money:Ransom"
     },
     "year": 2020
