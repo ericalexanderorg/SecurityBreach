@@ -14,3 +14,19 @@
     },
     "year": 2020
 }
+{
+    "entity": "John Doe",
+    "links": [
+        "https://cybernews.com/security/report-unidentified-database-exposes-200-million-americans/"
+    ],
+    "month": 3,
+    "summary": "The CyberNews research team uncovered an unsecured database owned by an unidentified party, comprisi",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
