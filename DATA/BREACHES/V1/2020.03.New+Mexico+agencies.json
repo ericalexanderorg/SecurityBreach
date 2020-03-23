@@ -1,0 +1,16 @@
+{
+    "entity": "New Mexico agencies",
+    "links": [
+        "https://www.securityweek.com/new-mexico-agencies-edge-amid-rising-ransomware-attacks"
+    ],
+    "month": 3,
+    "summary": "New Mexico school districts, universities, and government agencies have collectively spent millions ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
