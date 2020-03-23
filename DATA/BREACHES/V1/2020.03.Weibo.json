@@ -1,0 +1,16 @@
+{
+    "entity": "Weibo",
+    "links": [
+        "https://securityaffairs.co/wordpress/100243/data-breach/weibo-data-dark-web.html"
+    ],
+    "month": 3,
+    "summary": "Hackers are offering for sale on the dark web data belonging to 538 million Weibo users, including 1",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
