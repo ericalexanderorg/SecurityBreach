@@ -1,0 +1,16 @@
+{
+    "entity": " University of Utah Health",
+    "links": [
+        "https://www.securityweek.com/university-utah-health-discloses-data-breach"
+    ],
+    "month": 3,
+    "summary": "University of Utah Health revealed last week that it discovered unauthorized access to some employee",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
