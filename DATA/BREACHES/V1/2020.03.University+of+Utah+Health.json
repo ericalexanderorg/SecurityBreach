@@ -1,0 +1,16 @@
+{
+    "entity": "University of Utah Health",
+    "links": [
+        "https://securityaffairs.co/wordpress/100298/data-breach/university-of-utah-health-hack.html"
+    ],
+    "month": 3,
+    "summary": "The University of Utah Health disclosed a security breach, it has discovered malware on its systems ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
