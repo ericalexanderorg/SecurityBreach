@@ -14,3 +14,19 @@
     },
     "year": 2020
 }
+{
+    "entity": "John Doe",
+    "links": [
+        "https://www.fireeye.com/blog/threat-research/2020/03/apt41-initiates-global-intrusion-campaign-using-multiple-exploits.html"
+    ],
+    "month": 3,
+    "summary": "Starting on January 20, 2020, APT41 used the IP address 66.42.98[.]220 to attempt exploits of Citrix",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
