@@ -1,0 +1,16 @@
+{
+    "entity": "Tupperware",
+    "links": [
+        "https://securityaffairs.co/wordpress/100449/hacking/tupperware-site-hacked.html"
+    ],
+    "month": 3,
+    "summary": "The Tupperware website, the popular manufactured of plastic food container products was infected wit",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
