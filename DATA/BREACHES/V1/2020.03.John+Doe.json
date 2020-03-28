@@ -13,7 +13,7 @@
         "motive": "Hacktivism:Press"
     },
     "year": 2020
-}
+},
 {
     "entity": "John Doe",
     "links": [
@@ -27,6 +27,22 @@
         "impacted-user-count": 0,
         "initial-access": "OWASP:A1",
         "motive": "?"
+    },
+    "year": 2020
+},
+{
+    "entity": "John Doe",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/fbi-hackers-sending-malicious-usb-drives-and-teddy-bears-via-usps/"
+    ],
+    "month": 3,
+    "summary": "Hackers from the FIN7 cybercriminal group have been targeting various businesses with malicious USB\u200c",
+    "tags": {
+        "actor": "Criminal:FIN7",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1200",
+        "motive": "Money:Misc"
     },
     "year": 2020
 }
