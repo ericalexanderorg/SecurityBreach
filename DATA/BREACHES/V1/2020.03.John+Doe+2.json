@@ -1,0 +1,16 @@
+{
+    "entity": "John Doe",
+    "links": [
+        "https://thehackernews.com/2020/03/draytek-network-hacking.html"
+    ],
+    "month": 3,
+    "summary": "0day injection vulnerabilty used to establish beach hold",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A1",
+        "motive": "?"
+    },
+    "year": 2020
+}
