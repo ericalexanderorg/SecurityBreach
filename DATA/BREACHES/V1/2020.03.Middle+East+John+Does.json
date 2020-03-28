@@ -4,13 +4,13 @@
         "https://securelist.com/wildpressure-targets-industrial-in-the-middle-east/96360/"
     ],
     "month": 3,
-    "summary": "Configuration data Base64-encoded JSON data in PE resources. Encryption The communication encryption",
+    "summary": "WildPressure targets industrial-related entities in the Middle East",
     "tags": {
         "actor": "Nation State",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Money:Credit Card"
+        "motive": "?"
     },
     "year": 2020
 }
