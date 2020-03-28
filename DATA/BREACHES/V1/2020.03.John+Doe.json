@@ -22,10 +22,10 @@
     "month": 3,
     "summary": "Starting on January 20, 2020, APT41 used the IP address 66.42.98[.]220 to attempt exploits of Citrix",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Nation State:APT41",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "OWASP:A9",
         "motive": "Espionage"
     },
     "year": 2020
