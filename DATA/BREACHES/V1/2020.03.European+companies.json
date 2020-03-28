@@ -6,11 +6,11 @@
     "month": 3,
     "summary": "Financially-motivated hackers believed to be operating out of Russia recently targeted companies in ",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal:TA505 and Silence",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Espionage"
+        "initial-access": "OWASP:A9",
+        "motive": "?"
     },
     "year": 2020
 }
