@@ -6,11 +6,11 @@
     "month": 3,
     "summary": "AMD admitted that a hacker has stolen files related to some of its graphics products, but it downpla",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal:Palesa",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Hacktivism:Schadenfreude"
+        "motive": "?"
     },
     "year": 2020
 }
