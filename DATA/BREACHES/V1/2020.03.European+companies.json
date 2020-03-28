@@ -1,0 +1,16 @@
+{
+    "entity": "European companies",
+    "links": [
+        "https://www.securityweek.com/russian-hackers-exploited-windows-flaws-attacks-european-firms"
+    ],
+    "month": 3,
+    "summary": "Financially-motivated hackers believed to be operating out of Russia recently targeted companies in ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
