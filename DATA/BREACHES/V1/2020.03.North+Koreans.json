@@ -1,0 +1,16 @@
+{
+    "entity": "North Koreans",
+    "links": [
+        "https://www.wired.com/story/north-korea-hacking-zero-days-google/"
+    ],
+    "month": 3,
+    "summary": "Cybersecurity researchers at Google's Threat Analysis Group today revealed that an unnamed group of ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
