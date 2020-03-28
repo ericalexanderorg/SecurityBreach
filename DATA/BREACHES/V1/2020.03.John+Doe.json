@@ -14,3 +14,19 @@
     },
     "year": 2020
 }
+{
+    "entity": "John Doe",
+    "links": [
+        "https://thehackernews.com/2020/03/draytek-network-hacking.html"
+    ],
+    "month": 3,
+    "summary": "Cybersecurity researchers with Qihoo 360's NetLab today unveiled details of two recently spotted zer",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
