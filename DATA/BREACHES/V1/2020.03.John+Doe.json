@@ -14,3 +14,19 @@
     },
     "year": 2020
 }
+{
+    "entity": "John Doe",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/fbi-hackers-sending-malicious-usb-drives-and-teddy-bears-via-usps/"
+    ],
+    "month": 3,
+    "summary": "Hackers from the FIN7 cybercriminal group have been targeting various businesses with malicious USB\u200c",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
