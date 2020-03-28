@@ -1,0 +1,16 @@
+{
+    "entity": "Middle East John Does",
+    "links": [
+        "https://securelist.com/wildpressure-targets-industrial-in-the-middle-east/96360/"
+    ],
+    "month": 3,
+    "summary": "WildPressure targets industrial-related entities in the Middle East",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2020
+}
