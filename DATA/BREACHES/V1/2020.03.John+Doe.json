@@ -22,11 +22,11 @@
     "month": 3,
     "summary": "Hackers from the FIN7 cybercriminal group have been targeting various businesses with malicious USB\u200c",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal:FIN7",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Credit Card"
+        "initial-access": "ATT&CK:T1200",
+        "motive": "Money:Misc"
     },
     "year": 2020
 }
