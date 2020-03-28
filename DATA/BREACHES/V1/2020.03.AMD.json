@@ -1,0 +1,16 @@
+{
+    "entity": "AMD",
+    "links": [
+        "https://securityaffairs.co/wordpress/100609/data-breach/amd-gpus-files-stolen.html"
+    ],
+    "month": 3,
+    "summary": "AMD admitted that a hacker has stolen files related to some of its graphics products, but it downpla",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2020
+}
