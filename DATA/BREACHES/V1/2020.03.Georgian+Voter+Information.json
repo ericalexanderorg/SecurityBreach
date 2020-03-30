@@ -1,0 +1,16 @@
+{
+    "entity": "Georgian Voter Information",
+    "links": [
+        "https://securityaffairs.co/wordpress/100743/data-breach/voter-information-georgians-leaked-online.html"
+    ],
+    "month": 3,
+    "summary": "According to the data breach notification service Under the Breach, on Saturday a file containing vo",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
