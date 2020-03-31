@@ -1,0 +1,16 @@
+{
+    "entity": "Marriott",
+    "links": [
+        "https://nakedsecurity.sophos.com/2020/03/31/marriott-international-confirms-data-breach-of-up-to-5-2-million-guests/"
+    ],
+    "month": 3,
+    "summary": "Marriott International has today announced that it has suffered a data breach affecting up to 5.2 mi",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
