@@ -1,0 +1,16 @@
+{
+    "entity": "Asian religious and ethnic group",
+    "links": [
+        "https://securelist.com/holy-water-ongoing-targeted-water-holing-attack-in-asia/96311/"
+    ],
+    "month": 3,
+    "summary": "The threat actor's unsophisticated but creative toolset has been evolving a lot since the inception ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
