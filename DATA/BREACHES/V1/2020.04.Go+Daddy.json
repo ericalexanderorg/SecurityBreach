@@ -1,0 +1,16 @@
+{
+    "entity": "Go Daddy",
+    "links": [
+        "https://krebsonsecurity.com/2020/03/phish-of-godaddy-employee-jeopardized-escrow-com-among-others/"
+    ],
+    "month": 4,
+    "summary": "A spear-phishing attack this week hooked a customer service employee at GoDaddy.com, the world's lar",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
