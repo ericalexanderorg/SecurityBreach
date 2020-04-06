@@ -1,0 +1,16 @@
+{
+    "entity": "John Doe aka Fabrikam",
+    "links": [
+        "https://securityaffairs.co/wordpress/101031/hacking/emotet-attack-microsoft-customer.html"
+    ],
+    "month": 4,
+    "summary": "Microsoft declared that an Emotet attack took down an organization's network by overheating all the ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
