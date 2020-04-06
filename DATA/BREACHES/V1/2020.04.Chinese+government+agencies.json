@@ -1,0 +1,16 @@
+{
+    "entity": "Chinese government agencies",
+    "links": [
+        "https://securityaffairs.co/wordpress/101151/apt/darkhotel-hit-china.html"
+    ],
+    "month": 4,
+    "summary": "DarkHotel nation-state actor is exploiting a VPN zero-day to breach Chinese government agencies in B",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
