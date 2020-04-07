@@ -1,0 +1,16 @@
+{
+    "entity": "Hammersmith Medicines Research LTD (HMR)",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/drug-testing-firm-sends-data-breach-alerts-after-ransomware-attack/"
+    ],
+    "month": 4,
+    "summary": "Hammersmith Medicines Research LTD, a research company on standby to perform live trials of Coronavi",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
