@@ -1,0 +1,16 @@
+{
+    "entity": "John Doe 202004091",
+    "links": [
+        "https://www.blackberry.com/content/dam/blackberry-com/asset/enterprise/pdf/direct/report-bb-decade-of-the-rats.pdf"
+    ],
+    "month": 4,
+    "summary": "APT Groups Coordinating: Persistent threats rarely operate in a single domain, and the five groups a",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
