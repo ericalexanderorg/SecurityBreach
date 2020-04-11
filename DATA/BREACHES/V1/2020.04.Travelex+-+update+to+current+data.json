@@ -1,0 +1,16 @@
+{
+    "entity": "Travelex - update to current data",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/travelex-reportedly-paid-23-million-ransom-to-restore-operations/"
+    ],
+    "month": 4,
+    "summary": "Travelex reportedly paid a $2.3 million ransom payment to get their systems back online after being ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
