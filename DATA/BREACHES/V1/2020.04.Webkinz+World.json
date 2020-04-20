@@ -1,0 +1,16 @@
+{
+    "entity": "Webkinz World",
+    "links": [
+        "https://securityaffairs.co/wordpress/101886/data-breach/webkinz-data-breach.html"
+    ],
+    "month": 4,
+    "summary": "ZDNet reported that a hacker has leaked 23 million credentials from the Webkinz World online childre",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2020
+}
