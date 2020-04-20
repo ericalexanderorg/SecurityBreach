@@ -1,0 +1,16 @@
+{
+    "entity": "Cognizant",
+    "links": [
+        "https://www.securityweek.com/maze-ransomware-caused-disruptions-cognizant"
+    ],
+    "month": 4,
+    "summary": "Professional services company Cognizant has fallen victim to a cyber-attack which appears to have be",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
