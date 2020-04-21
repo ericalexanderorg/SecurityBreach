@@ -1,0 +1,16 @@
+{
+    "entity": "Aptoide",
+    "links": [
+        "https://9to5google.com/2020/04/20/aptoide-data-breach-android-app-store/"
+    ],
+    "month": 4,
+    "summary": "Aptoide has been one popular app store for Android users, but recently it's suffered a huge data bre",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
