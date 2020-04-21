@@ -1,0 +1,16 @@
+{
+    "entity": "organizations in the oil and gas industry sector",
+    "links": [
+        "https://securityaffairs.co/wordpress/101967/cyber-crime/spearphishing-energy-oil-gas-industry.html"
+    ],
+    "month": 4,
+    "summary": "Hackers launched spear-phishing attacks against organizations in the oil and gas industry sector spr",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
