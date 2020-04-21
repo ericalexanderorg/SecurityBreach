@@ -1,0 +1,16 @@
+{
+    "entity": "Detroit hospital network",
+    "links": [
+        "https://www.cyberscoop.com/beaumont-health-data-breach/"
+    ],
+    "month": 4,
+    "summary": "Beaumont Health, a network of eight hospitals through the Detroit area, said in a letter Friday that",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
