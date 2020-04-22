@@ -1,0 +1,16 @@
+{
+    "entity": "Kinomap",
+    "links": [
+        "https://www.itpro.co.uk/security/data-breaches/355396/kinomap-data-breach-exposes-42-million-records"
+    ],
+    "month": 4,
+    "summary": "Approximately 40GB worth of information belonging to users of Kinomap, a service that creates immers",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
