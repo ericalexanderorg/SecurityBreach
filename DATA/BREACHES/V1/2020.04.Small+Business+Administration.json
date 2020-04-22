@@ -1,0 +1,16 @@
+{
+    "entity": "Small Business Administration",
+    "links": [
+        "https://www.securityweek.com/sba-reports-data-breach-disaster-loan-application-website"
+    ],
+    "month": 4,
+    "summary": "Thousands of small business owners reeling from the aggressive measures taken to halt the spread of ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
