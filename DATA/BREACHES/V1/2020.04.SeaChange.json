@@ -1,0 +1,16 @@
+{
+    "entity": "SeaChange",
+    "links": [
+        "https://securityaffairs.co/wordpress/102177/cyber-crime/seachange-sodinokibi-ransomware.html"
+    ],
+    "month": 4,
+    "summary": "The popular SeaChange video platform is the latest victim of the Sodinokibi Ransomware gang, which i",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
