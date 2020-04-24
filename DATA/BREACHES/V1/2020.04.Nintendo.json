@@ -1,0 +1,16 @@
+{
+    "entity": "Nintendo",
+    "links": [
+        "https://threatpost.com/nintendo-confirms-breach-of-160000-accounts/155110/"
+    ],
+    "month": 4,
+    "summary": "Nintendo said over 160,000 accounts have been hacked, due to attackers abusing a legacy login system",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1193",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2020
+}
