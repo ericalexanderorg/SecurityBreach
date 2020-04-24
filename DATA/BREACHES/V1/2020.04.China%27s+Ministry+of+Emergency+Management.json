@@ -1,0 +1,16 @@
+{
+    "entity": "China's Ministry of Emergency Management",
+    "links": [
+        "https://www.fireeye.com/blog/threat-research/2020/04/apt32-targeting-chinese-government-in-covid-19-related-espionage.html"
+    ],
+    "month": 4,
+    "summary": "From at least January to April 2020, suspected Vietnamese actors APT32 carried out intrusion campaig",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
