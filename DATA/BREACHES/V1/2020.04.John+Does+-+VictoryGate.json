@@ -1,0 +1,16 @@
+{
+    "entity": "John Does - VictoryGate",
+    "links": [
+        "https://www.securityweek.com/victorygate-botnet-infected-35000-devices-usb-drives"
+    ],
+    "month": 4,
+    "summary": "ESET managed to sinkhole several command and control servers of a botnet that propagates via infecte",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
