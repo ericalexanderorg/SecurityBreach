@@ -1,0 +1,16 @@
+{
+    "entity": "Oil Companies",
+    "links": [
+        "https://www.wired.com/story/hackers-target-oil-companies-as-prices-plunge/"
+    ],
+    "month": 4,
+    "summary": "Top oil producers prepared for a weeklong meeting earlier this month to plan a response to slumping ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1193",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
