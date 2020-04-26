@@ -1,0 +1,16 @@
+{
+    "entity": "Dutch Government Website",
+    "links": [
+        "https://www.securityweek.com/dutch-police-arrest-man-over-ddos-attack-government-website"
+    ],
+    "month": 4,
+    "summary": "Dutch police on Friday arrested a 19-year-old man from Breda suspected of launching a distributed de",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1499",
+        "motive": "?"
+    },
+    "year": 2020
+}
