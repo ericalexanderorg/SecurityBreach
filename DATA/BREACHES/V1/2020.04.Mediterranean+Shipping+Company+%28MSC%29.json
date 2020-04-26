@@ -1,0 +1,16 @@
+{
+    "entity": "Mediterranean Shipping Company (MSC)",
+    "links": [
+        "https://www.securityweek.com/shipping-giant-msc-confirms-outage-caused-malware-attack"
+    ],
+    "month": 4,
+    "summary": "Swiss-based global shipping giant Mediterranean Shipping Company has confirmed that a recent outage ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
