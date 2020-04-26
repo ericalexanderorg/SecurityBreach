@@ -9,7 +9,7 @@
         "actor": "Nation State",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "ATT&CK:T1192",
         "motive": "Espionage"
     },
     "year": 2020
