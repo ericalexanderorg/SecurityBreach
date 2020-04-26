@@ -8,8 +8,8 @@
     "tags": {
         "actor": "Criminal",
         "cost-usd": 0,
-        "impacted-user-count": 0,
-        "initial-access": "?",
+        "impacted-user-count": 22982319,
+        "initial-access": "OWASP:A1",
         "motive": "Hacktivism:?"
     },
     "year": 2020
