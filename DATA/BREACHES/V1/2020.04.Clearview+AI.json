@@ -1,0 +1,16 @@
+{
+    "entity": "Clearview AI",
+    "links": [
+        "https://techcrunch.com/2020/04/16/clearview-source-code-lapse/"
+    ],
+    "month": 4,
+    "summary": "Mossab Hussein, chief security officer at Dubai-based cybersecurity firm SpiderSilk, found the repos",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
