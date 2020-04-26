@@ -1,0 +1,16 @@
+{
+    "entity": "EDP",
+    "links": [
+        "https://www.rechargenews.com/transition/power-giant-edp-faces-11m-ransomware-demand-after-cyberattack/2-1-792086"
+    ],
+    "month": 4,
+    "summary": "European utility giant EDP has been hit by a cyberattack and is facing a \u20ac10m ransomware demand, acc",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
