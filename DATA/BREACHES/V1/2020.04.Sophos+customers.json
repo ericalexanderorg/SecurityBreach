@@ -1,0 +1,16 @@
+{
+    "entity": "Sophos customers",
+    "links": [
+        "https://community.sophos.com/kb/en-us/135412"
+    ],
+    "month": 4,
+    "summary": "Sophos received a report on April 22, 2020, at 20:29 UTC regarding an XG Firewall with a suspicious ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
