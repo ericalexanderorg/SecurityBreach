@@ -9,8 +9,8 @@
         "actor": "Nation State",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Ransom"
+        "initial-access": "ATT&CK:T1193",
+        "motive": "Espionage"
     },
     "year": 2020
 }
