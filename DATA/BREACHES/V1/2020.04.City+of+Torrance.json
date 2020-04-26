@@ -1,0 +1,16 @@
+{
+    "entity": "City of Torrance",
+    "links": [
+        "https://www.reddit.com/r/InfoSecNews/comments/g60elb/doppelpaymer_ransomware_hits_city_of_torrance_and/"
+    ],
+    "month": 4,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
