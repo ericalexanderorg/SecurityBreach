@@ -1,0 +1,16 @@
+{
+    "entity": "DESMI",
+    "links": [
+        "https://securityaffairs.co/wordpress/101495/hacking/desmi-discloses-cyber-attack.html"
+    ],
+    "month": 4,
+    "summary": "DESMI, a global company specialised in the development and manufacture of pump solutions, discloses ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
