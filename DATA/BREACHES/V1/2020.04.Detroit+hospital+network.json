@@ -8,8 +8,8 @@
     "tags": {
         "actor": "Criminal",
         "cost-usd": 0,
-        "impacted-user-count": 0,
-        "initial-access": "?",
+        "impacted-user-count": 112000,
+        "initial-access": "ATT&CK:T1192",
         "motive": "PII:?"
     },
     "year": 2020
