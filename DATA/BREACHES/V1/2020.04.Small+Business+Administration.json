@@ -6,11 +6,11 @@
     "month": 4,
     "summary": "Thousands of small business owners reeling from the aggressive measures taken to halt the spread of ",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Hacktivism:Press"
+        "initial-access": "OWASP:A5",
+        "motive": "?"
     },
     "year": 2020
 }
