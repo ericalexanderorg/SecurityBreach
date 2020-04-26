@@ -18,7 +18,7 @@ function dataCounts(data, k, transformed) {
 function transformMissingInt(breach, key){
     // Handle missing keys gracefully
     breach[key]=""
-    if (breach['tags'].hasOwnProperty(key) && breach['tags'][key]!=0 && breach['tags'][key]!=null) {
+    if (breach['tags'].hasOwnProperty(key) && breach['tags'][key] !== 0 && breach['tags'][key] !== null) {
             breach[key]=breach['tags'][key]
     }
     
@@ -34,10 +34,10 @@ function getType(v){
 }
 
 function getAccessDescription(data, val){
-    if(val == ""){
+    if(val === ""){
         return "?"
     }
-    if(val == "?"){
+    if(val === "?"){
         return val
     }
     if(data['initial-access'].hasOwnProperty(val)){
@@ -87,15 +87,15 @@ function transformData(data) {
 
         // Add data we want to graph on the dashboard
         // Filter out unknowns, it tells a better story.
-        if(breach['tags']['initial-access'] != "?"){
+        if(breach['tags']['initial-access'] !== "?"){
             access.push(breach['tags']['initial-access']);
         }
         // Break down motive & actor to type, makes for a better graph/insight
-        if(breach['tags']['motive'] != "?"){
+        if(breach['tags']['motive'] !== "?"){
             motives.push(getType(breach['tags']['motive']));
         }
         // Actor
-        if(breach['tags']['actor'] != "?"){
+        if(breach['tags']['actor'] !== "?"){
             actor.push(getType(breach['tags']['actor']))
         }
         // Years

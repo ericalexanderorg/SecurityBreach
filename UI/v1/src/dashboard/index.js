@@ -1,5 +1,5 @@
-import React, { Component, props } from 'react';
-import { GET_LIST, Responsive } from 'react-admin';
+import React, { Component } from 'react';
+import { GET_LIST } from 'react-admin';
 import dataProvider from '../dataProvider';
 import CardWelcome from './cardWelcome';
 import CardChart from './cardChart';
@@ -38,7 +38,7 @@ function totalBarChartData(key, data, inMillions=false){
             // Not there, add it.
             tempObj[breachObj['year']] = 0
         }
-        if(data[id][key] != ""){
+        if(data[id][key] !== ""){
             tempObj[breachObj['year']] = tempObj[breachObj['year']] + parseInt(data[id][key])
         }
     });
@@ -47,12 +47,13 @@ function totalBarChartData(key, data, inMillions=false){
     var returnObj = []
     // Loop through each year in tempObj
     Object.keys(tempObj).forEach(function (year) {
-        if(tempObj[year] != 0){
+        var yearArray = []
+        if(tempObj[year] !== 0){
             if(inMillions){
-                var yearArray = [year, tempObj[year]/1000000]
+                yearArray = [year, tempObj[year]/1000000]
             }
             else {
-                var yearArray = [year, tempObj[year]]
+                yearArray = [year, tempObj[year]]
             }
             returnObj.push(yearArray)
         }
@@ -248,7 +249,7 @@ class DashboardComponent extends Component {
             yearsData,
             monthByYearData, 
             costByYearChartData,
-            usersByYearChartData
+            usersByYearChartData,
         } = this.state; 
 
 
@@ -261,34 +262,34 @@ class DashboardComponent extends Component {
                     <div style={{ marginBottom: '2em' }}>
                         <HelpWanted />
                     </div>
-                    <div style={styles.flex, { marginBottom: '2em' }}>
+                    <div style={{marginBottom: '2em' }}>
                         <CardChart type={'BarChart'} value={yearsData} title={'Years'} subject={'Breaches cataloged per year.'} />
                     </div>
-                    <div style={styles.flex, { marginBottom: '2em' }}>
+                    <div style={{marginBottom: '2em' }}>
                         <CardChart type={'Bar'} value={monthByYearData} title={'Month by Year'} subject={'Trends in activity per month.'} />
                     </div>
-                    <div style={styles.flex, { marginBottom: '2em' }}>
+                    <div style={{marginBottom: '2em' }}>
                         <CardChart type={'AreaChart'} value={costByYearChartData} title={'Cost by Year (in Millions)'} subject={'Total cost of breaches per year in USD.'} />
                     </div>
-                    <div style={styles.flex, { marginBottom: '2em' }}>
+                    <div style={{marginBottom: '2em' }}>
                         <CardChart type={'AreaChart'} value={usersByYearChartData} title={'Impacted Users by Year (in Millions)'} subject={'Total number of impacted users per year.'} />
                     </div>
-                    <div style={styles.flex, { marginBottom: '2em' }}>
+                    <div style={{marginBottom: '2em' }}>
                         <CardChart type={'PieChart'} value={accessData} title={'Access'} subject={'How did the actor gain initial access?'} />
                     </div>
-                    <div style={styles.flex, { marginBottom: '2em' }}>
+                    <div style={{marginBottom: '2em' }}>
                         <CardChart type={'Bar'} value={accessByYearData} title={'Access by Year (Last 3 Years)'} subject={'Access trends per year.'} />
                     </div>
-                    <div style={styles.flex, { marginBottom: '2em' }}>
+                    <div style={{marginBottom: '2em' }}>
                         <CardChart type={'PieChart'} value={motiveData} title={'Motive'} subject={'Why did the actor seek access?'} />
                     </div> 
-                    <div style={styles.flex, { marginBottom: '2em' }}>
+                    <div style={{marginBottom: '2em' }}>
                         <CardChart type={'Bar'} value={motiveByYearData} title={'Motive by Year (Last 3 Years)'} subject={'Motive trends per year.'} />
                     </div>
-                    <div style={styles.flex, { marginBottom: '2em' }}>
+                    <div style={{marginBottom: '2em' }}>
                         <CardChart type={'PieChart'} value={actorData} title={'Actor'} subject={'Speculation and/or concensus on who the actor was?'} />
                     </div> 
-                    <div style={styles.flex, { marginBottom: '2em' }}>
+                    <div style={{marginBottom: '2em' }}>
                         <CardChart type={'Bar'} value={actorByYearData} title={'Actor by Year (Last 3 Years)'} subject={'Actor trends per year.'} />
                     </div>
                 </div>

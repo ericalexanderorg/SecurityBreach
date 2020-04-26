@@ -2,8 +2,6 @@ import React from 'react';
 import compose from 'recompose/compose';
 import { translate } from 'react-admin';
 import { Button, Card, CardActions, CardContent, withStyles, Typography } from '@material-ui/core';
-import QueueIcon from '@material-ui/icons/Queue';
-import HelpIcon from '@material-ui/icons/Help';
 import AddCircle from '@material-ui/icons/AddCircle';
 import RateReview from '@material-ui/icons/RateReview';
 
