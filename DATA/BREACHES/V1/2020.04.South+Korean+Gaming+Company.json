@@ -1,0 +1,16 @@
+{
+    "entity": "South Korean Gaming Company",
+    "links": [
+        "https://www.securityweek.com/chinese-hackers-target-south-korean-gaming-company"
+    ],
+    "month": 4,
+    "summary": "South Korean video gaming company Gravity is the latest victim of the China-linked threat actor trac",
+    "tags": {
+        "actor": "Nation State:APT41",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
