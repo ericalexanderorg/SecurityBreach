@@ -1,0 +1,16 @@
+{
+    "entity": "Huiying Medical Technology",
+    "links": [
+        "https://securityaffairs.co/wordpress/102270/data-breach/huiying-medical-technology-data-breach.html"
+    ],
+    "month": 4,
+    "summary": "Experts from Cyble identified a threat actor attempting to sell Huiying Medical Technology's source ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
