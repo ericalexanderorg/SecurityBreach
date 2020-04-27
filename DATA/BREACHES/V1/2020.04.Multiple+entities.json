@@ -1,0 +1,16 @@
+{
+    "entity": "Multiple entities",
+    "links": [
+        "https://www.us-cert.gov/sites/default/files/2020-04/DPRK_Cyber_Threat_Advisory_04152020_S508C.pdf"
+    ],
+    "month": 4,
+    "summary": "In November 2014, DPRK state-sponsored cyber actors allegedly launched a cyber attack on Sony Pictur",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
