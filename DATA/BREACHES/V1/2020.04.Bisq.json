@@ -1,0 +1,16 @@
+{
+    "entity": "Bisq",
+    "links": [
+        "https://securityaffairs.co/wordpress/101377/cyber-crime/bitcoin-exchange-bisq-hack.html"
+    ],
+    "month": 4,
+    "summary": "Cryptocurrency exchange Bisq stopped trading activities due to a cyberattack, crooks have stolen $25",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
