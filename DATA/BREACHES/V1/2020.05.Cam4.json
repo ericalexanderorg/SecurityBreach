@@ -1,0 +1,16 @@
+{
+    "entity": "Cam4",
+    "links": [
+        "https://securityaffairs.co/wordpress/102776/data-breach/cam4-data-leak.html"
+    ],
+    "month": 5,
+    "summary": "The popular adult live streaming website CAM4 exposed over 7TB of personally identifiable informatio",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
