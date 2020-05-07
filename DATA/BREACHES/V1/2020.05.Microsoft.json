@@ -1,0 +1,16 @@
+{
+    "entity": "Microsoft",
+    "links": [
+        "https://www.hackread.com/hackers-breach-microsoft-github-account-steal-500gb-data/"
+    ],
+    "month": 5,
+    "summary": "Now, in the latest, we have discovered that a hacker going by the online handle of Shiny Hunters is ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
