@@ -1,0 +1,16 @@
+{
+    "entity": "APAC Governments",
+    "links": [
+        "https://www.securityweek.com/chinese-naikon-apt-rediscovered-after-new-five-year-stealth-campaign"
+    ],
+    "month": 5,
+    "summary": "Naikon, a Chinese APT group that disappeared after its activities were disclosed in 2015, has been r",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
