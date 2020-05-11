@@ -1,0 +1,16 @@
+{
+    "entity": "Orchard Villa LTC",
+    "links": [
+        "https://www.infosecnews.org/potential-data-breach-reported-at-hard-hit-ontario-long-term-care-home/"
+    ],
+    "month": 5,
+    "summary": "Ontario's Minister of Long-term Care Dr. Merrilee Fullerton reported a potential data breach at a Pi",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
