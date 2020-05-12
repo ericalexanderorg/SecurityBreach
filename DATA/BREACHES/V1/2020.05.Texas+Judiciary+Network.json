@@ -1,0 +1,16 @@
+{
+    "entity": "Texas Judiciary Network",
+    "links": [
+        "https://www.securityweek.com/ransomware-forces-shutdown-texas-judiciary-network"
+    ],
+    "month": 5,
+    "summary": "Texas revealed on Monday that a ransomware attack has forced the shutdown of its judicial branch net",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
