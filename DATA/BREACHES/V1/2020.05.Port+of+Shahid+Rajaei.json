@@ -1,0 +1,16 @@
+{
+    "entity": "Port of Shahid Rajaei",
+    "links": [
+        "https://securityaffairs.co/wordpress/103088/cyber-warfare-2/iran-strait-hormuz-port-cyberattack.html"
+    ],
+    "month": 5,
+    "summary": "Iran 's officials revealed that hackers compromised and damaged a small number of computers at the p",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
