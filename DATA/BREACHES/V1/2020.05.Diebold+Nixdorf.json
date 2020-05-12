@@ -1,0 +1,16 @@
+{
+    "entity": "Diebold Nixdorf",
+    "links": [
+        "https://www.securityweek.com/atm-maker-diebold-nixdorf-hit-ransomware"
+    ],
+    "month": 5,
+    "summary": "ATM maker Diebold Nixdorf confirmed on Monday that it was recently hit by a piece of ransomware, but",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
