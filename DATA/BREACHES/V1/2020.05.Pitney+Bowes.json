@@ -1,0 +1,16 @@
+{
+    "entity": "Pitney Bowes",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/maze-ransomware-fails-to-encrypt-pitney-bowes-steals-files/"
+    ],
+    "month": 5,
+    "summary": "Global business services company Pitney Bowes recently stopped an attack from Maze ransomware operat",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
