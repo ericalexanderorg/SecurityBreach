@@ -1,0 +1,16 @@
+{
+    "entity": "Chatbooks",
+    "links": [
+        "https://threatpost.com/chatbooks-confirms-breach-after-shiny-hunters-sell-data/155646/"
+    ],
+    "month": 5,
+    "summary": "Photo-print service Chatbooks has confirmed a data breach, a week after cybercriminals listed a data",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
