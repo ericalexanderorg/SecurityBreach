@@ -1,0 +1,16 @@
+{
+    "entity": "Grubman Shire Meiselas & Sacks",
+    "links": [
+        "https://threatpost.com/revil-ransomware-attack-celeb-law-firm/155676/"
+    ],
+    "month": 5,
+    "summary": "Cybercriminals used the REvil ransomware to attack a law firm used by the likes of Lady Gaga, Drake ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
