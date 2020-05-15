@@ -1,0 +1,16 @@
+{
+    "entity": "High-profile organizations in Central Asia",
+    "links": [
+        "https://www.securityweek.com/mysterious-chinese-apt-linked-multiple-central-asian-campaigns"
+    ],
+    "month": 5,
+    "summary": "Coding similarities suggest a possible link with multiple campaigns over several years. By January 2",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
