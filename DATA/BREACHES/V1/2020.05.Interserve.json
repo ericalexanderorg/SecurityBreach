@@ -1,0 +1,16 @@
+{
+    "entity": "Interserve",
+    "links": [
+        "https://securityaffairs.co/wordpress/103285/data-breach/interserve-data-breach.html"
+    ],
+    "month": 5,
+    "summary": "Britain's Ministry of Defence contractor Interserve has been hacked, intruders have stolen up to 100",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
