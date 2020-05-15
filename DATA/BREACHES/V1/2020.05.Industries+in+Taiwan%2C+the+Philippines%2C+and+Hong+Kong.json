@@ -1,0 +1,16 @@
+{
+    "entity": "Industries in Taiwan, the Philippines, and Hong Kong",
+    "links": [
+        "https://www.securityweek.com/chinese-hackers-target-air-gapped-military-networks"
+    ],
+    "month": 5,
+    "summary": "A threat actor believed to be operating out of China has been targeting physically isolated military",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
