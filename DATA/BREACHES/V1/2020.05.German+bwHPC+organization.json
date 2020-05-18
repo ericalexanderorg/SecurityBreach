@@ -1,0 +1,16 @@
+{
+    "entity": "German bwHPC organization",
+    "links": [
+        "https://securityaffairs.co/wordpress/103358/cyber-crime/supercomputers-hacked-across-eu.html"
+    ],
+    "month": 5,
+    "summary": "Organizations managing supercomputers across Europe reported their systems have been compromised to ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2020
+}
