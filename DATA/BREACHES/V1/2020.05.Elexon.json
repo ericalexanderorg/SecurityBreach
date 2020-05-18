@@ -1,0 +1,16 @@
+{
+    "entity": "Elexon",
+    "links": [
+        "https://securityaffairs.co/wordpress/103334/hacking/elexon-cyber-attack.html"
+    ],
+    "month": 5,
+    "summary": "Elexon, a middleman in the UK power grid network, was the victim of a cyber attack, the incident imp",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
