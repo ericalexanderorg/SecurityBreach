@@ -1,0 +1,16 @@
+{
+    "entity": "Arkansas Unemployment Program",
+    "links": [
+        "https://www.securityweek.com/likely-breach-shuts-down-arkansas-unemployment-program"
+    ],
+    "month": 5,
+    "summary": "A state program that was created to process unemployment applications in Arkansas for self-employed ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
