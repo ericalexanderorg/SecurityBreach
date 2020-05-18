@@ -1,0 +1,16 @@
+{
+    "entity": "BlueScope",
+    "links": [
+        "https://www.securityweek.com/australian-steel-maker-bluescope-hit-cyberattack"
+    ],
+    "month": 5,
+    "summary": "Australian steel producer BlueScope was recently hit by a cyberattack that caused disruptions to som",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
