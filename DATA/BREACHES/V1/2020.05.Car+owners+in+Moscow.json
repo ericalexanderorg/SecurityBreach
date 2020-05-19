@@ -1,0 +1,16 @@
+{
+    "entity": "Car owners in Moscow",
+    "links": [
+        "https://securityaffairs.co/wordpress/103429/deep-web/russian-car-owners-dark-web.html"
+    ],
+    "month": 5,
+    "summary": "A hacker is offering for sale on a dark web forum a database containing 129 million records of car o",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
