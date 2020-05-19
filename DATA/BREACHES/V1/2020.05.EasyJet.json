@@ -1,0 +1,16 @@
+{
+    "entity": "EasyJet",
+    "links": [
+        "https://www.bbc.co.uk/news/technology-52722626"
+    ],
+    "month": 5,
+    "summary": "EasyJet has admitted that a \"Highly sophisticated cyber-attack\" has affected nine million customers.",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
