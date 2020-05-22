@@ -1,0 +1,16 @@
+{
+    "entity": "Tens of thousands Israeli websites",
+    "links": [
+        "https://securityaffairs.co/wordpress/103570/hacktivism/israeli-websites-defaced.html"
+    ],
+    "month": 5,
+    "summary": "Thousands of Israeli websites have been defaced earlier today, hackers published an anti-Israeli mes",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Bank Transfer"
+    },
+    "year": 2020
+}
