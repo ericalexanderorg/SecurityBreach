@@ -1,0 +1,16 @@
+{
+    "entity": "Middle East Govs",
+    "links": [
+        "https://threatpost.com/chafer-apt-hits-middle-east-govs-with-latest-cyber-espionage-attacks/156002/"
+    ],
+    "month": 5,
+    "summary": "The attacks have hit several air transportation and government victims in hopes of data exfiltration",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
