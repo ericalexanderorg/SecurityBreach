@@ -1,0 +1,16 @@
+{
+    "entity": "Home Chef",
+    "links": [
+        "https://www.infosecnews.org/home-chef-data-breach/"
+    ],
+    "month": 5,
+    "summary": "In a security alert posted on Home Chef's website on Wednesday, May 20th, the Chicago-based, Kroger ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
