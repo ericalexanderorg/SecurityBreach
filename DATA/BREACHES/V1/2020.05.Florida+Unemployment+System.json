@@ -1,0 +1,16 @@
+{
+    "entity": "Florida Unemployment System",
+    "links": [
+        "https://www.securityweek.com/data-breach-hits-florida-unemployment-system"
+    ],
+    "month": 5,
+    "summary": "Some Florida residents who have made unemployment claims may have had personal data stolen, official",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
