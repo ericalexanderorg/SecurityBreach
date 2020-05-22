@@ -1,0 +1,16 @@
+{
+    "entity": "Italian automotive production chain companies",
+    "links": [
+        "https://securityaffairs.co/wordpress/103639/hacking/cyber-espionage-italian-manufacturing.html"
+    ],
+    "month": 5,
+    "summary": "API ERROR: TEXT IS TOO SHORT 2",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2020
+}
