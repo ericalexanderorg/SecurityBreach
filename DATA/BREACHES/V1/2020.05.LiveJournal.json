@@ -1,0 +1,16 @@
+{
+    "entity": "LiveJournal",
+    "links": [
+        "https://threatpost.com/hackers-sell-data-livejournal-dark-web/156063/"
+    ],
+    "month": 5,
+    "summary": "A database containing credentials from more than 26 million LiveJournal accounts has been leaked onl",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
