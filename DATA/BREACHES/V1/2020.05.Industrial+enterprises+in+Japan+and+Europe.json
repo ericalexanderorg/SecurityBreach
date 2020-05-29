@@ -1,0 +1,16 @@
+{
+    "entity": "Industrial enterprises in Japan and Europe",
+    "links": [
+        "https://securityaffairs.co/wordpress/103971/hacking/industrial-enterprises-attacks-steganography.html"
+    ],
+    "month": 5,
+    "summary": "Threat actors targeted industrial suppliers in Japan and several European countries in sophisticated",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
