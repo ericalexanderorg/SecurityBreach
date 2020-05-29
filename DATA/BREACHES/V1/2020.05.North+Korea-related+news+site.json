@@ -1,0 +1,16 @@
+{
+    "entity": "North Korea-related news site",
+    "links": [
+        "https://securelist.com/the-zero-day-exploits-of-operation-wizardopium/97086/"
+    ],
+    "month": 5,
+    "summary": "While we've already published blog posts briefly describing this operation, in this blog post we'd l",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
