@@ -1,0 +1,16 @@
+{
+    "entity": "Industrial suppliers in Japan and several European countries",
+    "links": [
+        "https://www.securityweek.com/industrial-suppliers-japan-europe-targeted-sophisticated-attacks"
+    ],
+    "month": 5,
+    "summary": "Threat actors have targeted industrial suppliers in Japan and several European countries in sophisti",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
