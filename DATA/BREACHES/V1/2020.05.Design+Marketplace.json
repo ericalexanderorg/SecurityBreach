@@ -1,0 +1,16 @@
+{
+    "entity": "Design Marketplace",
+    "links": [
+        "https://www.securityweek.com/design-marketplace-minted-confirms-recent-data-breach"
+    ],
+    "month": 5,
+    "summary": "Minted, an online marketplace of crowdsourced art and graphic designs, this week confirmed that it w",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
