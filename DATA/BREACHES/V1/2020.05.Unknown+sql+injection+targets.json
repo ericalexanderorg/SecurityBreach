@@ -1,0 +1,16 @@
+{
+    "entity": "Unknown sql injection targets",
+    "links": [
+        "https://www.securityweek.com/new-yorker-indicted-stealing-card-data-sql-injection-attacks"
+    ],
+    "month": 5,
+    "summary": "The United States Department of Justice this week announced that a New York City man was charged for",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
