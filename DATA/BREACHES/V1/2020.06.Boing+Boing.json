@@ -1,0 +1,16 @@
+{
+    "entity": "Boing Boing",
+    "links": [
+        "https://boingboing.net/2020/01/13/boing-boing-was-hacked.html"
+    ],
+    "month": 6,
+    "summary": "API ERROR: TEXT IS TOO SHORT 2",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2020
+}
