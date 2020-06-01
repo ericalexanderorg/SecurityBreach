@@ -1,0 +1,16 @@
+{
+    "entity": "Amtrak",
+    "links": [
+        "https://www.securityweek.com/amtrak-discloses-security-incident-involving-guest-reward-accounts"
+    ],
+    "month": 6,
+    "summary": "U.S. passenger railroad service Amtrak last week started informing some customers that their persona",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
