@@ -1,0 +1,16 @@
+{
+    "entity": "Isreal water system",
+    "links": [
+        "https://www.timesofisrael.com/6-facilities-said-hit-in-irans-cyberattack-on-israels-water-system-in-april/"
+    ],
+    "month": 6,
+    "summary": "Six facilities were hit in an Iranian cyberattack last month on the country's water infrastructure t",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
