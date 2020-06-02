@@ -1,0 +1,16 @@
+{
+    "entity": "Elexon",
+    "links": [
+        "https://www.securityweek.com/hackers-leak-data-stolen-uk-electricity-market-administrator-elexon"
+    ],
+    "month": 6,
+    "summary": "The cybercriminals behind the recent attack on Elexon, which manages the electricity market in the U",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
