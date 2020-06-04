@@ -1,0 +1,16 @@
+{
+    "entity": "High-profile targets in Vietnam, Laos, and Thailand",
+    "links": [
+        "https://www.darkreading.com/attacks-breaches/kaspersky-ids-sophisticated-new-malware-targeted-at-air-gapped-systems/d/d-id/1337998"
+    ],
+    "month": 6,
+    "summary": "Among the new tools is one called USBCulprit, which appears designed for use in air-gapped environme",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
