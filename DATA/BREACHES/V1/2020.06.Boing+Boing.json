@@ -9,8 +9,8 @@
         "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A5",
-        "motive": "Hacktivism:Schadenfreude"
+        "initial-access": "ATT&CK:T1078",
+        "motive": "?"
     },
     "year": 2020
 }
