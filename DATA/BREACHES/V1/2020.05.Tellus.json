@@ -1,0 +1,16 @@
+{
+    "entity": "Tellus",
+    "links": [
+        "https://securityaffairs.co/wordpress/103846/breaking-news/real-estate-app-data-leak.html"
+    ],
+    "month": 5,
+    "summary": "Real estate app leaking thousands of user records and sensitive private messages. The CyberNews rese",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
