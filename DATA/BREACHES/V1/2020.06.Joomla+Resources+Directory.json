@@ -6,7 +6,7 @@
     "month": 6,
     "summary": "An unprotected Amazon Web Services S3 bucket exposed the details of 2,700 users who signed up for th",
     "tags": {
-        "actor": "Hacktivist",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "OWASP:A5",
