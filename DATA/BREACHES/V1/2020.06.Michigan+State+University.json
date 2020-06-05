@@ -1,0 +1,16 @@
+{
+    "entity": "Michigan State University",
+    "links": [
+        "https://securityaffairs.co/wordpress/104042/cyber-crime/michigan-state-university-ransomware.html"
+    ],
+    "month": 6,
+    "summary": "Michigan State University is the last victim of the NetWalker ransomware, attackers threaten to leak",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
