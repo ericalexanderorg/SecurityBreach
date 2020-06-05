@@ -1,0 +1,16 @@
+{
+    "entity": "NTT Com",
+    "links": [
+        "https://www.securityweek.com/japanese-ict-solutions-provider-ntt-com-discloses-data-breach"
+    ],
+    "month": 5,
+    "summary": "NTT Communications, a subsidiary of Japanese tech giant NTT Corp, on Thursday disclosed a data breac",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
