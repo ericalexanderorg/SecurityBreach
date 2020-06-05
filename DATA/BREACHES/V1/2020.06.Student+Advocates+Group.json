@@ -1,0 +1,16 @@
+{
+    "entity": "Student Advocates Group",
+    "links": [
+        "https://securityaffairs.co/wordpress/104344/data-breach/studen-loan-company-data-leak.html"
+    ],
+    "month": 6,
+    "summary": "Researchers at Cybernews.com recently discovered an unsecured Amazon Simple Storage Service containi",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A10",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
