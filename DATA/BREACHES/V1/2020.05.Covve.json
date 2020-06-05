@@ -1,0 +1,16 @@
+{
+    "entity": "Covve",
+    "links": [
+        "https://www.troyhunt.com/the-unattributable-db8151dd-data-breach/"
+    ],
+    "month": 5,
+    "summary": "It's about a data breach with almost 90GB of personal information in it across tens of millions of r",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
