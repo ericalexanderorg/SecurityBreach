@@ -1,0 +1,16 @@
+{
+    "entity": "San Francisco Employees\u2019 Retirement System",
+    "links": [
+        "https://www.securityweek.com/san-francisco-employees-retirement-system-discloses-data-breach"
+    ],
+    "month": 6,
+    "summary": "The San Francisco Employees' Retirement System this week disclosed a data breach that impacted over ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
