@@ -1,0 +1,16 @@
+{
+    "entity": "Nipissing First Nation",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/ransomware-locks-down-the-nipissing-first-nation/"
+    ],
+    "month": 6,
+    "summary": "The Nipissing First Nation administration stopped a ransomware attack in its tracks but not soon eno",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
