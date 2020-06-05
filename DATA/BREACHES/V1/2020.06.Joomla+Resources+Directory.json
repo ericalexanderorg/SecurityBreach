@@ -1,0 +1,16 @@
+{
+    "entity": "Joomla Resources Directory",
+    "links": [
+        "https://www.securityweek.com/data-joomla-resources-directory-exposed-unprotected-aws-bucket"
+    ],
+    "month": 6,
+    "summary": "An unprotected Amazon Web Services S3 bucket exposed the details of 2,700 users who signed up for th",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
