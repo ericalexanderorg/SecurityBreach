@@ -1,0 +1,16 @@
+{
+    "entity": "EduCBA",
+    "links": [
+        "https://securityaffairs.co/wordpress/103688/data-breach/educba-data-breach.html"
+    ],
+    "month": 5,
+    "summary": "The online education portal EduCBA discloses a data breach and is resetting customers' passwords in ",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
