@@ -1,0 +1,16 @@
+{
+    "entity": "Bank of Costa Rica",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/hackers-leak-credit-card-info-from-costa-ricas-state-bank/"
+    ],
+    "month": 5,
+    "summary": "Maze ransomware operators have published credit card data stolen from the Bank of Costa Rica. In a p",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
