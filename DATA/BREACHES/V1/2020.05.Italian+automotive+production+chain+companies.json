@@ -4,13 +4,13 @@
         "https://securityaffairs.co/wordpress/103639/hacking/cyber-espionage-italian-manufacturing.html"
     ],
     "month": 5,
-    "summary": "API ERROR: TEXT IS TOO SHORT 2",
+    "summary": "ZLab researchers spotted a new malicious espionage activity targeting Italian companies operating worldwide in the manufacturing sector",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Nation State",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A5",
-        "motive": "Hacktivism:?"
+        "initial-access": "ATT&CK:T1193",
+        "motive": "Espionage"
     },
     "year": 2020
 }
