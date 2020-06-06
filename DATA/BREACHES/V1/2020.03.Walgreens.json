@@ -1,0 +1,16 @@
+{
+    "entity": "Walgreens",
+    "links": [
+        "https://threatpost.com/walgreens-mobile-app-prescription-data/153361/"
+    ],
+    "month": 3,
+    "summary": "Popular pharmacy chain Walgreens is warning that a bug in its official mobile app may have exposed s",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
