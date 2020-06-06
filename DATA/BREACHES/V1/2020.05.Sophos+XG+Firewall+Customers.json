@@ -1,0 +1,16 @@
+{
+    "entity": "Sophos XG Firewall Customers",
+    "links": [
+        "https://www.securityweek.com/hackers-attempted-deploy-ransomware-attacks-targeting-sophos-firewalls"
+    ],
+    "month": 5,
+    "summary": "Malicious actors targeting a zero-day vulnerability in Sophos XG Firewall appliances last month atte",
+    "tags": {
+        "actor": "Criminal:NOTROBIN",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A1",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
