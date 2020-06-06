@@ -1,0 +1,18 @@
+{
+    "entity": "Middle East Govs",
+    "links": [
+        "https://threatpost.com/chafer-apt-hits-middle-east-govs-with-latest-cyber-espionage-attacks/156002/",
+        "https://securityaffairs.co/wordpress/103556/apt/chafer-apt-kuwait-saudi-arabia.html",
+        "https://www.bitdefender.com/files/News/CaseStudies/study/332/Bitdefender-Whitepaper-Chafer-creat4491-en-EN-interactive.pdf"
+    ],
+    "month": 5,
+    "summary": "The attacks have hit several air transportation and government victims in hopes of data exfiltration",
+    "tags": {
+        "actor": "Nation State:Chafer",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
