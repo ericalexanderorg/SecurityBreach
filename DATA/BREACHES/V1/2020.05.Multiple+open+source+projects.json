@@ -1,0 +1,16 @@
+{
+    "entity": "Multiple open source projects",
+    "links": [
+        "https://securityaffairs.co/wordpress/103996/malware/github-malware-netbeans-projects.html"
+    ],
+    "month": 5,
+    "summary": "GitHub has issued a security alert warning of a malware campaign that is spreading on its platform v",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A10",
+        "motive": "?"
+    },
+    "year": 2020
+}
