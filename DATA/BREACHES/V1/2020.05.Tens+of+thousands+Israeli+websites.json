@@ -6,11 +6,11 @@
     "month": 5,
     "summary": "Thousands of Israeli websites have been defaced earlier today, hackers published an anti-Israeli mes",
     "tags": {
-        "actor": "Nation State",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Bank Transfer"
+        "initial-access": "OWASP:A9",
+        "motive": "Political"
     },
     "year": 2020
 }
