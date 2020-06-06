@@ -6,11 +6,11 @@
     "month": 6,
     "summary": "A hacker identifying themselves as \"John Wick\" and \"Korean Hackers\" claim to have breached the syste",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "PII:?"
+        "motive": "Money:Ransom"
     },
     "year": 2020
 }
