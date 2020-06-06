@@ -1,0 +1,16 @@
+{
+    "entity": "Mathway",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/mathway-investigates-data-breach-after-25m-records-sold-on-dark-web/"
+    ],
+    "month": 5,
+    "summary": "A data breach broker is selling a database that allegedly contains 25 million Mathway user records o",
+    "tags": {
+        "actor": "Criminal:Shiny Hunters",
+        "cost-usd": 0,
+        "impacted-user-count": 25000000,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
