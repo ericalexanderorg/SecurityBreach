@@ -6,11 +6,11 @@
     "month": 5,
     "summary": "A database containing credentials from more than 26 million LiveJournal accounts has been leaked onl",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 26000000,
         "initial-access": "?",
-        "motive": "Hacktivism:Press"
+        "motive": "?"
     },
     "year": 2020
 }
