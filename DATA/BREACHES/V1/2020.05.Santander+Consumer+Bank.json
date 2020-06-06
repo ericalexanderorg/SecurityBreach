@@ -1,0 +1,16 @@
+{
+    "entity": "Santander Consumer Bank",
+    "links": [
+        "https://securityaffairs.co/wordpress/103604/breaking-news/santander-leaking-sensitive-data.html"
+    ],
+    "month": 5,
+    "summary": "Santander Consumer Bank, the Belgian branch of the bank, had a misconfiguration in its blog domain t",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
