@@ -1,0 +1,16 @@
+{
+    "entity": "Endeavor Business Media",
+    "links": [
+        "https://thehackernews.com/2020/06/magecart-skimmer-amazon.html"
+    ],
+    "month": 6,
+    "summary": "Hacking groups are continuing to leverage misconfigured AWS S3 data storage buckets to insert malici",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A6",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
