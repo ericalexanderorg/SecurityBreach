@@ -1,0 +1,16 @@
+{
+    "entity": "Thousands of individuals and organizations worldwide",
+    "links": [
+        "https://threatpost.com/dark-basin-hack-hire-group/156407/"
+    ],
+    "month": 6,
+    "summary": "A hack-for-hire group, called Dark Basin, has been outed after targeting thousands of individuals an",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Sale on dark web"
+    },
+    "year": 2020
+}
