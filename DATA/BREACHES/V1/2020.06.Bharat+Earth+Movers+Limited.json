@@ -1,0 +1,16 @@
+{
+    "entity": "Bharat Earth Movers Limited",
+    "links": [
+        "https://securityaffairs.co/wordpress/104495/data-breach/beml-data-leak.html"
+    ],
+    "month": 6,
+    "summary": "A threat actor is offering for sale in a darkweb black-market internal documents of the Indian defen",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
