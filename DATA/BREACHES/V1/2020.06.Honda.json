@@ -6,11 +6,11 @@
     "month": 6,
     "summary": "Honda has said it is dealing with a cyber-attack that is impacting its operations around the world. ",
     "tags": {
-        "actor": "Hacktivist",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Hacktivism:Press"
+        "motive": "?"
     },
     "year": 2020
 }
