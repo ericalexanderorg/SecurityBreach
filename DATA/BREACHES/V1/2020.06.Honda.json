@@ -1,0 +1,16 @@
+{
+    "entity": "Honda",
+    "links": [
+        "https://www.bbc.com/news/technology-52982427"
+    ],
+    "month": 6,
+    "summary": "Honda has said it is dealing with a cyber-attack that is impacting its operations around the world. ",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
