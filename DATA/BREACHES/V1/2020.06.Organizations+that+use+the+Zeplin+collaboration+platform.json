@@ -1,0 +1,16 @@
+{
+    "entity": "Organizations that use the Zeplin collaboration platform",
+    "links": [
+        "https://securityaffairs.co/wordpress/104469/apt/higaisa-hacking-group.html"
+    ],
+    "month": 6,
+    "summary": "A Korean threat actor, tracked as Higaisa, has been using malicious LNK files in recent attacks aime",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
