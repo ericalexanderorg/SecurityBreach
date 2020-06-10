@@ -1,0 +1,16 @@
+{
+    "entity": "Nintendo update user count",
+    "links": [
+        "https://www.kotaku.co.uk/2020/06/09/nintendo-admits-data-breach-was-nearly-twice-as-bad-as-first-thought"
+    ],
+    "month": 6,
+    "summary": "Nearly twice as many accounts were affected by the recent Nintendo security breach as previously tho",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
