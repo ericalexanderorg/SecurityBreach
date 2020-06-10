@@ -1,0 +1,16 @@
+{
+    "entity": "Life Healthcare",
+    "links": [
+        "https://www.thechronicleherald.ca/business/reuters/south-africas-life-healthcare-hit-by-cyber-attack-459765/"
+    ],
+    "month": 6,
+    "summary": "South Africa's Life Healthcare said on Tuesday its southern African operation was hit by a cyber att",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
