@@ -1,0 +1,16 @@
+{
+    "entity": "Enel Group",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/power-company-enel-group-suffers-snake-ransomware-attack/"
+    ],
+    "month": 6,
+    "summary": "European energy company giant Enel Group suffered a ransomware attack a few days ago that impacted i",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
