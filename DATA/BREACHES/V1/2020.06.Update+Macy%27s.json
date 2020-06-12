@@ -1,0 +1,16 @@
+{
+    "entity": "Update Macy's",
+    "links": [
+        "https://www.infosecurity-magazine.com/news/macys-pays-192k-to-settle-data/"
+    ],
+    "month": 6,
+    "summary": "US department store giant Macy's has agreed to pay almost $200,000 to settle a lawsuit brought over ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
