@@ -1,0 +1,16 @@
+{
+    "entity": "Threadstone Advisors LLP",
+    "links": [
+        "https://securityaffairs.co/wordpress/104718/cyber-crime/threadstone-advisors-maze-ransomware.html"
+    ],
+    "month": 6,
+    "summary": "Maze ransomware operators hit Threadstone Advisors LLP, a US corporate advisory firm specialising in",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
