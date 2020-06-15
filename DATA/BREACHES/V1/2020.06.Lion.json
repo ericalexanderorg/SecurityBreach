@@ -1,0 +1,16 @@
+{
+    "entity": "Lion",
+    "links": [
+        "https://securityaffairs.co/wordpress/104749/cyber-crime/ransomware-attack-hit-lion.html"
+    ],
+    "month": 6,
+    "summary": "Systems at Australian beverages company Lion were infected with a ransomware that disrupted to manuf",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
