@@ -1,0 +1,16 @@
+{
+    "entity": "Intersport",
+    "links": [
+        "https://www.helpnetsecurity.com/2020/06/15/magecart-claires-intersport/"
+    ],
+    "month": 6,
+    "summary": "Magecart attackers have compromised web shops belonging to large retail chains Claire's and Interspo",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
