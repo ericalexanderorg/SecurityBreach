@@ -1,0 +1,16 @@
+{
+    "entity": "Postbank",
+    "links": [
+        "https://securityboulevard.com/2020/06/south-africas-postbank-is-replacing-12-million-bank-cards-after-major-security-breach/"
+    ],
+    "month": 6,
+    "summary": "South Africa's Postbank has suffered a major data breach, forcing the financial institution to repla",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
