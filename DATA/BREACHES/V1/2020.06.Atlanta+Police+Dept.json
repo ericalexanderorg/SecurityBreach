@@ -1,0 +1,16 @@
+{
+    "entity": "Atlanta Police Dept",
+    "links": [
+        "https://nakedsecurity.sophos.com/2020/06/16/anonymous-takes-down-atlanta-police-dept-site-after-police-shooting/"
+    ],
+    "month": 6,
+    "summary": "Following Friday's fatal police shooting of Rayshard Brooks - a 27-year-old Black man who fell aslee",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
