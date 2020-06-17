@@ -1,0 +1,16 @@
+{
+    "entity": "SBTech (aka DraftKings)",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/draftkings-discloses-sbtech-ransomware-attack-in-sec-filing/"
+    ],
+    "month": 6,
+    "summary": "In a Form S-1 filed with the SEC today, DraftKings disclosed that SBTech, who they merged with in Ap",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
