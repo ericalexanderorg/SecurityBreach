@@ -1,0 +1,16 @@
+{
+    "entity": "Ariix Italia",
+    "links": [
+        "https://securityaffairs.co/wordpress/104854/breaking-news/ariix-30k-italian-sales-agents-data-leak.html"
+    ],
+    "month": 6,
+    "summary": "A database allegedly belonging to Ariix Italia was exposed online on an unsecured Amazon S3 bucket, ",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2020
+}
