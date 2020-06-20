@@ -1,0 +1,16 @@
+{
+    "entity": "Redcar and Cleveland Council ",
+    "links": [
+        "https://www.gazettelive.co.uk/news/teesside-news/criminal-investigation-cyber-attack-council-18446364"
+    ],
+    "month": 6,
+    "summary": "A National Crime Agency Investigation into a ransomware attack at Redcar and Cleveland Council remai",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
