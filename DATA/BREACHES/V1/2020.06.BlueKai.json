@@ -1,0 +1,16 @@
+{
+    "entity": "BlueKai",
+    "links": [
+        "https://techcrunch.com/2020/06/19/oracle-bluekai-web-tracking"
+    ],
+    "month": 6,
+    "summary": "TechCrunch reviewed the data shared by Sen and found names, home addresses, email addresses and othe",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
