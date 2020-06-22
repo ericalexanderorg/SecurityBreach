@@ -1,0 +1,16 @@
+{
+    "entity": "Hundreds of Law Enforcement Organizations",
+    "links": [
+        "https://www.securityweek.com/blueleaks-data-hundreds-law-enforcement-organizations-leaked-online"
+    ],
+    "month": 6,
+    "summary": "Hundreds of thousands of files belonging to more than 200 law enforcement organizations across the U",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
