@@ -1,0 +1,16 @@
+{
+    "entity": "Undisclosed cryptocurrency exchanges",
+    "links": [
+        "https://securityaffairs.co/wordpress/105168/cyber-crime/cryptocore-stole-200m-crypto-exchanges.html"
+    ],
+    "month": 6,
+    "summary": "The CryptoCore hacker group that is believed to be operating out of Eastern Europe has stolen around",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2020
+}
