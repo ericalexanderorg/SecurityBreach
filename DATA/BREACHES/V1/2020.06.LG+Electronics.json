@@ -1,0 +1,16 @@
+{
+    "entity": "LG Electronics",
+    "links": [
+        "https://www.reddit.com/r/InfoSecNews/comments/hfliaq/maze_ransomware_operators_claim_to_have_breached/"
+    ],
+    "month": 6,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2020
+}
