@@ -1,0 +1,16 @@
+{
+    "entity": "UCSF",
+    "links": [
+        "https://securityaffairs.co/wordpress/105361/cyber-crime/ucsf-paid-ransom.html"
+    ],
+    "month": 6,
+    "summary": "The University of California San Francisco revealed that it paid roughly $1.14 million to cybercrimi",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
