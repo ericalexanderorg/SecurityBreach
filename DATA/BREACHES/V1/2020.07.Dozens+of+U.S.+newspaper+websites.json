@@ -1,0 +1,16 @@
+{
+    "entity": "Dozens of U.S. newspaper websites",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/dozens-of-us-news-sites-hacked-in-wastedlocker-ransomware-attacks/"
+    ],
+    "month": 7,
+    "summary": "The Evil Corp gang hacked into dozens of US newspaper websites owned by the same company to infect t",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
