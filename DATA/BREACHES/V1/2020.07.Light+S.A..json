@@ -1,0 +1,16 @@
+{
+    "entity": "Light S.A.",
+    "links": [
+        "https://securityaffairs.co/wordpress/105477/cyber-crime/sodinokibi-ransomware-light-s-a.html"
+    ],
+    "month": 7,
+    "summary": "Sodinokibi ransomware operators are demanding a $14 million ransom from Brazilian-based electrical e",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
