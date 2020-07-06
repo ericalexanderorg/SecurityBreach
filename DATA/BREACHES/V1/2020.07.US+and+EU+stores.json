@@ -1,0 +1,16 @@
+{
+    "entity": "US and EU stores",
+    "links": [
+        "https://securityaffairs.co/wordpress/105582/apt/north-korea-lazarus-apt-e-skimming.html"
+    ],
+    "month": 7,
+    "summary": "North Korea-linked Lazarus APT has been stealing payment card data from customers of large retailers",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
