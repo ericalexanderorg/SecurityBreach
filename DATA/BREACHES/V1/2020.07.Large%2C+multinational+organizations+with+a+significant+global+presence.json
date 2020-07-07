@@ -1,0 +1,16 @@
+{
+    "entity": "Large, multinational organizations with a significant global presence",
+    "links": [
+        "https://threatpost.com/russian-bec-gang-cosmic-lynx-uncovered/157166/"
+    ],
+    "month": 7,
+    "summary": "The BEC gang is called Cosmic Lynx, and has been associated with more than 200 BEC campaigns targeti",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Bank Transfer"
+    },
+    "year": 2020
+}
