@@ -1,0 +1,16 @@
+{
+    "entity": "Chinese companies",
+    "links": [
+        "https://securityaffairs.co/wordpress/105609/data-breach/chinese-companies-data-leak.html"
+    ],
+    "month": 7,
+    "summary": "Researchers at Cybernews uncovered two unsecured databases, with millions of records, belonging to C",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
