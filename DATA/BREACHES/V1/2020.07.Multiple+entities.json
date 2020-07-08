@@ -1,0 +1,16 @@
+{
+    "entity": "Multiple entities",
+    "links": [
+        "https://www.securityweek.com/feds-unseal-2018-indictment-charging-kazakh-man-hacks"
+    ],
+    "month": 7,
+    "summary": "Two weeks after a cyber-security firm released the identity of an alleged hacker from Kazakhstan, fe",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
