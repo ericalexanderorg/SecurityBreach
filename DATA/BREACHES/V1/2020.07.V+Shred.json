@@ -1,0 +1,16 @@
+{
+    "entity": "V Shred",
+    "links": [
+        "https://www.tomsguide.com/news/v-shred-data-leak"
+    ],
+    "month": 7,
+    "summary": "The personally identifiable information of more than 99,000 customers of Las Vegas-based diet-supple",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
