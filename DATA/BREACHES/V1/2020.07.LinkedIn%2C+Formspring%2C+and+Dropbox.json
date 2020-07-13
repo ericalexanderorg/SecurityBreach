@@ -1,0 +1,16 @@
+{
+    "entity": "LinkedIn, Formspring, and Dropbox",
+    "links": [
+        "https://www.securityweek.com/russian-found-guilty-hacking-linkedin-formspring-dropbox"
+    ],
+    "month": 7,
+    "summary": "A Russian national accused of hacking into online platforms LinkedIn, Formspring, and Dropbox was fo",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
