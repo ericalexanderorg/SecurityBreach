@@ -1,0 +1,16 @@
+{
+    "entity": "Night Lion Security",
+    "links": [
+        "https://securityaffairs.co/wordpress/105820/data-breach/night-lion-allegedly-hacked.html"
+    ],
+    "month": 7,
+    "summary": "Hacker claims to have stolen more than 8,200 databases from the US cyber security firm Night Lion Se",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Sale on dark web"
+    },
+    "year": 2020
+}
