@@ -1,0 +1,16 @@
+{
+    "entity": "Chingari",
+    "links": [
+        "https://thehackernews.com/2020/07/hack-chingari-app-account.html"
+    ],
+    "month": 7,
+    "summary": "Following vulnerability disclosure in the Mitron app, another viral TikTok clone in India has now be",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A9",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
