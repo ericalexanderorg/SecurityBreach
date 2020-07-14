@@ -1,0 +1,16 @@
+{
+    "entity": "MGM Hotel",
+    "links": [
+        "https://threatpost.com/leaked-details-of-142-million-mgm-hotel-guests-found-for-sale-online/157406/"
+    ],
+    "month": 7,
+    "summary": "Researchers have found 142 million personal details from former guests at the MGM Resorts hotels for",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
