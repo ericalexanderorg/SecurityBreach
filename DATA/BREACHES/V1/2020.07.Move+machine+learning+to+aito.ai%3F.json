@@ -1,0 +1,16 @@
+{
+    "entity": "Move machine learning to aito.ai?",
+    "links": [
+        "https://aito.ai/blog/could-predictive-database-queries-replace-machine-learning-models/"
+    ],
+    "month": 7,
+    "summary": "Predictive queries resemble normal database queries with the exception that they provide predictions",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
