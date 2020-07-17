@@ -1,0 +1,16 @@
+{
+    "entity": "APT35",
+    "links": [
+        "https://securityaffairs.co/wordpress/106032/apt/apt35-data-leak.html?utm_source=rss"
+    ],
+    "month": 7,
+    "summary": "Iran-linked APT35 group accidentally exposed one of its servers, leaving online roughly 40 GB of vid",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2020
+}
