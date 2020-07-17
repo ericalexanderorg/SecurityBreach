@@ -1,0 +1,16 @@
+{
+    "entity": "Orange",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/orange-confirms-ransomware-attack-exposing-business-customers-data/"
+    ],
+    "month": 7,
+    "summary": "Orange has confirmed to BleepingComputer that they suffered a ransomware attack exposing the data of",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
