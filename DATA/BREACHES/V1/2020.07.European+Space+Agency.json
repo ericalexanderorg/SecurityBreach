@@ -1,0 +1,16 @@
+{
+    "entity": "European Space Agency",
+    "links": [
+        "https://www.reddit.com/r/InfoSecNews/comments/hu7uo7/ghost_squad_hackers_defaced_a_second_european/"
+    ],
+    "month": 7,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A10",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2020
+}
