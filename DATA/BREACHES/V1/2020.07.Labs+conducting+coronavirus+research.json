@@ -1,0 +1,16 @@
+{
+    "entity": "Labs conducting coronavirus research",
+    "links": [
+        "https://www.securityweek.com/uk-confident-moscow-helped-hackers-target-virus-vaccine"
+    ],
+    "month": 7,
+    "summary": "British Foreign Secretary Dominic Raab said on Sunday he was \"Absolutely confident\" in allegations b",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2020
+}
