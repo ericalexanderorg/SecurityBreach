@@ -1,0 +1,16 @@
+{
+    "entity": "Diebold ATM Terminals",
+    "links": [
+        "https://threatpost.com/diebold-atm-terminals-jackpotted-using-machines-own-software/157575/"
+    ],
+    "month": 7,
+    "summary": "Cybercriminals are using software from leading ATM manufacturer Diebold in a series of hacks against",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
