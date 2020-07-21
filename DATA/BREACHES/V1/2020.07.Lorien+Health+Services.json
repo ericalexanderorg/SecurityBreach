@@ -1,0 +1,16 @@
+{
+    "entity": "Lorien Health Services",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/lorien-health-services-discloses-ransomware-attack-affecting-nearly-50-000/"
+    ],
+    "month": 7,
+    "summary": "Lorien Health Services in Maryland announced that it was the victim of a ransomware incident in earl",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
