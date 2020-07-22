@@ -1,0 +1,16 @@
+{
+    "entity": "Twilio",
+    "links": [
+        "https://www.theregister.com/2020/07/21/twilio_sdk_code_injection/"
+    ],
+    "month": 7,
+    "summary": "Exclusive Twilio today confirmed one or more miscreants sneaked into its unsecured cloud storage sys",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
