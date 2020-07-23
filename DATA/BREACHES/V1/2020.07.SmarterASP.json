@@ -1,0 +1,16 @@
+{
+    "entity": "SmarterASP",
+    "links": [
+        "https://www.itpro.co.uk/security/34793/leading-aspnet-host-crippled-by-ransomware-attack"
+    ],
+    "month": 7,
+    "summary": "A widely-used ASP.NET service provider, used by more than 440,000 customers, was taken offline on Sa",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
