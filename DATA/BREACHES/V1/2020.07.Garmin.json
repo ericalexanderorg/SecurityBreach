@@ -1,0 +1,16 @@
+{
+    "entity": "Garmin",
+    "links": [
+        "https://thehackernews.com/2020/07/garmin-ransomware-attack.html"
+    ],
+    "month": 7,
+    "summary": "Garmin, the maker of fitness trackers, smartwatches and GPS-based wearable devices, is currently dea",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
