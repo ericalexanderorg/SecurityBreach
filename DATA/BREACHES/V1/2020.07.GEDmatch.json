@@ -1,0 +1,16 @@
+{
+    "entity": "GEDmatch",
+    "links": [
+        "https://www.securityweek.com/website-security-breach-exposes-1-million-dna-profiles"
+    ],
+    "month": 7,
+    "summary": "A genealogy website used to catch one of California's most wanted serial killers remained shut down ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
