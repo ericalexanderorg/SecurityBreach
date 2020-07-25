@@ -6,7 +6,7 @@
     "month": 7,
     "summary": "Orange has confirmed to BleepingComputer that they suffered a ransomware attack exposing the data of",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Criminal:Nefilim",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
