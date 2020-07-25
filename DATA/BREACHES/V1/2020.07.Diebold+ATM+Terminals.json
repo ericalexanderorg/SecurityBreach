@@ -6,11 +6,11 @@
     "month": 7,
     "summary": "Cybercriminals are using software from leading ATM manufacturer Diebold in a series of hacks against",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Money:Credit Card"
+        "motive": "Money:Misc"
     },
     "year": 2020
 }
