@@ -1,0 +1,16 @@
+{
+    "entity": "Software MacKiev",
+    "links": [
+        "https://threatpost.com/leak-exposes-private-data-of-genealogy-service-users/157612/"
+    ],
+    "month": 7,
+    "summary": "A server containing information of users of a genealogy service has exposed the data of 60,000 users",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A6",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
