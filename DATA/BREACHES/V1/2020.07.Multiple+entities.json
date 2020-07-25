@@ -9,8 +9,8 @@
         "actor": "Hacktivist",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A5",
-        "motive": "Political"
+        "initial-access": "OWASP:A6",
+        "motive": "Hacktivism:Press"
     },
     "year": 2020
 }
