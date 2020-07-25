@@ -1,0 +1,16 @@
+{
+    "entity": "Dreamfii HK Limited",
+    "links": [
+        "https://securityaffairs.co/wordpress/106181/data-breach/7-vpn-data-leak.html"
+    ],
+    "month": 7,
+    "summary": "VpnMentor experts reported that seven Virtual Private Network recently left 1.2 terabytes of private",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A6",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
