@@ -1,0 +1,16 @@
+{
+    "entity": "Multiple entities (2)",
+    "links": [
+        "https://www.securityweek.com/us-indicts-two-chinese-nationals-hacking-hundreds-organizations"
+    ],
+    "month": 7,
+    "summary": "The United States Department of Justice on Tuesday announced charges against two individuals for the",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
