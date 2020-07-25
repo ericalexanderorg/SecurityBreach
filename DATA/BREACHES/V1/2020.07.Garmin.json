@@ -1,15 +1,16 @@
 {
     "entity": "Garmin",
     "links": [
-        "https://thehackernews.com/2020/07/garmin-ransomware-attack.html"
+        "https://thehackernews.com/2020/07/garmin-ransomware-attack.html",
+        "https://www.bleepingcomputer.com/news/security/garmin-outage-caused-by-confirmed-wastedlocker-ransomware-attack/"
     ],
     "month": 7,
     "summary": "Garmin, the maker of fitness trackers, smartwatches and GPS-based wearable devices, is currently dea",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Criminal:WastedLocker",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "ATT&CK:T1189",
         "motive": "Money:Ransom"
     },
     "year": 2020
