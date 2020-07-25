@@ -1,0 +1,16 @@
+{
+    "entity": "Twitter",
+    "links": [
+        "https://www.securityweek.com/hackers-accessed-downloaded-twitter-user-data-recent-attack"
+    ],
+    "month": 7,
+    "summary": "Social media platform Twitter has confirmed that attackers downloaded user data from some of the acc",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1451",
+        "motive": "Money:Misc"
+    },
+    "year": 2020
+}
