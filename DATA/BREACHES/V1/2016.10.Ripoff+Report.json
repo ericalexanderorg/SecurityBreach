@@ -3,14 +3,14 @@
     "links": [
         "https://thehackernews.com/2020/07/cypriot-hacker-extradited.html"
     ],
-    "month": 7,
+    "month": 10,
     "summary": "The United States Department of Justice has extradited two criminals from the Republic of Cyprus-one",
     "tags": {
         "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Money:Bank Transfer"
+        "motive": "Money:Ransom"
     },
-    "year": 2020
+    "year": 2016
 }
