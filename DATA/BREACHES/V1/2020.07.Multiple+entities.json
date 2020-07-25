@@ -1,0 +1,16 @@
+{
+    "entity": "Multiple entities",
+    "links": [
+        "https://securityaffairs.co/wordpress/106240/hacking/meow-attack.html"
+    ],
+    "month": 7,
+    "summary": "Dozens of unsecured databases exposed online web wiped by threat actors as part of a campaign tracke",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A6",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
