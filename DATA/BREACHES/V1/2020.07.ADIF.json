@@ -1,0 +1,16 @@
+{
+    "entity": "ADIF",
+    "links": [
+        "https://securityaffairs.co/wordpress/106304/cyber-crime/adif-revil-ransomware-attack.html?utm_source=rss"
+    ],
+    "month": 7,
+    "summary": "ADIF, a Spanish state-owned railway infrastructure manager under the responsibility of the Ministry ",
+    "tags": {
+        "actor": "Criminal:REVil",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
