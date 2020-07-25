@@ -1,0 +1,16 @@
+{
+    "entity": "US Government and Energy Targets",
+    "links": [
+        "https://www.wired.com/story/russia-fancy-bear-us-hacking-campaign-government-energy/"
+    ],
+    "month": 7,
+    "summary": "From December 2018 until at least May of this year, the GRU hacker group known as APT28 or Fancy Bea",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2020
+}
