@@ -1,0 +1,16 @@
+{
+    "entity": "dave.com",
+    "links": [
+        "https://www.zdnet.com/article/tech-unicorn-dave-admits-to-security-breach-impacting-7-5-million-users/"
+    ],
+    "month": 7,
+    "summary": "Digital banking app and tech unicorn Dave.com confirmed today a security breach after a hacker publi",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
