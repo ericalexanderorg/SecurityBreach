@@ -1,0 +1,16 @@
+{
+    "entity": "Avon",
+    "links": [
+        "https://www.safetydetectives.com/blog/avon-leak-report/"
+    ],
+    "month": 7,
+    "summary": "Cosmetic brands has been informed that a significant data breach was discovered on its web server, w",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
