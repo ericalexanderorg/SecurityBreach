@@ -1,0 +1,16 @@
+{
+    "entity": "Dussmann group",
+    "links": [
+        "https://securityaffairs.co/wordpress/106487/data-breach/dussmann-group-nefilim-ransomware.html"
+    ],
+    "month": 7,
+    "summary": "Cyble researchers reported that Nefilim ransomware operators allegedly targeted the Dussmann group, ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
