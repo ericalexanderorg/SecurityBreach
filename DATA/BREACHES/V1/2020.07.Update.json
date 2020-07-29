@@ -1,0 +1,16 @@
+{
+    "entity": "Update",
+    "links": [
+        "https://www.securityweek.com/north-korean-hackers-operate-vhd-ransomware-kaspersky-says"
+    ],
+    "month": 7,
+    "summary": "The VHD ransomware family that emerged earlier this year is the work of North Korea-linked threat ac",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
