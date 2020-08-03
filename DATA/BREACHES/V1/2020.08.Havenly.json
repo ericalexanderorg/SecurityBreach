@@ -1,0 +1,16 @@
+{
+    "entity": "Havenly",
+    "links": [
+        "https://securityaffairs.co/wordpress/106680/data-breach/havenly-discloses-data-breach.html"
+    ],
+    "month": 8,
+    "summary": "Havenly, a Denver-Based company, that realized an interior designer marketplace has disclosed a data",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
