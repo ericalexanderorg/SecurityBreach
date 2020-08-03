@@ -1,0 +1,16 @@
+{
+    "entity": "Zellow",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/zello-resets-all-user-passwords-after-data-breach/"
+    ],
+    "month": 8,
+    "summary": "The push-to-talk app, Zello, has disclosed a data breach that revealed user's email addresses and ha",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
