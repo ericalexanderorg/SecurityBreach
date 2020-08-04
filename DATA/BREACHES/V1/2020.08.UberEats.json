@@ -1,0 +1,16 @@
+{
+    "entity": "UberEats",
+    "links": [
+        "https://securityaffairs.co/wordpress/106770/deep-web/ubereats-data-leaked-dark-web.html"
+    ],
+    "month": 8,
+    "summary": "Security researchers from threat intelligence firm Cyble have discovered user records of American on",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2020
+}
