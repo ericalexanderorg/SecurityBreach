@@ -6,7 +6,7 @@
     "month": 7,
     "summary": "Cyble researchers reported that Nefilim ransomware operators allegedly targeted the Dussmann group, ",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal:Nefilim",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
