@@ -1,0 +1,16 @@
+{
+    "entity": "The Blacklist Alliance",
+    "links": [
+        "https://krebsonsecurity.com/2020/08/robocall-legal-advocate-leaks-customer-data/"
+    ],
+    "month": 8,
+    "summary": "Enter The Blacklist Alliance, which promises to help marketers avoid TCPA legal snares set by \"Profe",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
