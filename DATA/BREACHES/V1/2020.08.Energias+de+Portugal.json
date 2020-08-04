@@ -6,8 +6,8 @@
     "month": 8,
     "summary": "Portugal's energy giant Energias de Portugal fell victim to a ransomware attack this week, with hack",
     "tags": {
-        "actor": "Nation State",
-        "cost-usd": 0,
+        "actor": "Criminal:Ragnar Locker",
+        "cost-usd": 420000,
         "impacted-user-count": 0,
         "initial-access": "?",
         "motive": "Money:Ransom"
