@@ -1,0 +1,16 @@
+{
+    "entity": "Promo.com",
+    "links": [
+        "https://www.securityweek.com/video-creation-service-promocom-discloses-data-breach"
+    ],
+    "month": 7,
+    "summary": "Video creation service Promo.com this week confirmed that user data was exposed as a result of a dat",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
