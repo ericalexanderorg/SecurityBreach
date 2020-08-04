@@ -1,0 +1,17 @@
+{
+    "entity": "CWT Travel Agency",
+    "links": [
+        "https://threatpost.com/cwt-travel-agency-ransom-cyberattack-report/157911/",
+        "https://threadreaderapp.com/thread/1289199296328298497.html"
+    ],
+    "month": 7,
+    "summary": "Travel agency hit by ransomware",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 4500000,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1193",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
