@@ -1,0 +1,16 @@
+{
+    "entity": "Vatican",
+    "links": [
+        "https://www.securityweek.com/vatican-allegedly-hacked-china-ahead-key-talks"
+    ],
+    "month": 7,
+    "summary": "The Vatican and the Catholic Diocese of Hong Kong have been the targets of alleged Chinese state-bac",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
