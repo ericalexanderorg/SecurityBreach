@@ -1,0 +1,16 @@
+{
+    "entity": "2gether",
+    "links": [
+        "https://securityaffairs.co/wordpress/106726/hacking/2gether-hacked.html"
+    ],
+    "month": 8,
+    "summary": "2gether has disclosed a security breach, hackers have stolen roughly \u20ac1.2 million worth of cryptocur",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 1390000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2020
+}
