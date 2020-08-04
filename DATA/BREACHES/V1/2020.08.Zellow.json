@@ -1,0 +1,17 @@
+{
+    "entity": "Zellow",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/zello-resets-all-user-passwords-after-data-breach/",
+        "https://support.zello.com/hc/en-us/articles/360046709192-Zello-Security-Notice-July-31-2020"
+    ],
+    "month": 8,
+    "summary": "Unauthorized party may have accessed the email addresses used by our users on their Zello accounts and a hashed version of their passwords",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2020
+}
