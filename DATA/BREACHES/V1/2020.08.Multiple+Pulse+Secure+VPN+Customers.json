@@ -1,0 +1,16 @@
+{
+    "entity": "Multiple Pulse Secure VPN Customers",
+    "links": [
+        "https://securityaffairs.co/wordpress/106807/hacking/pulse-secure-vpn-passwords-leak.html"
+    ],
+    "month": 8,
+    "summary": "ZDNet reported in exclusive that a list of passwords for 900+ enterprise VPN servers has been shared",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A9",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
