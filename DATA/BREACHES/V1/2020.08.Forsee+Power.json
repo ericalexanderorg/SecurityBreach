@@ -1,0 +1,16 @@
+{
+    "entity": "Forsee Power",
+    "links": [
+        "https://securityaffairs.co/wordpress/106833/malware/forsee-power-netwalker-ransomware.html"
+    ],
+    "month": 8,
+    "summary": "Netwalker ransomware operators breached the networks of Forsee Power, a well-known player in the ele",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
