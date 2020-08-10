@@ -1,0 +1,16 @@
+{
+    "entity": "ProctorU",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/proctoru-confirms-data-breach-after-database-leaked-online/"
+    ],
+    "month": 8,
+    "summary": "Online exam proctoring solution ProctorU has confirmed a data breach after a threat actor released a",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
