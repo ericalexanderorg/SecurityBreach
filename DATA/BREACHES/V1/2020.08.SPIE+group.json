@@ -1,0 +1,16 @@
+{
+    "entity": "SPIE group",
+    "links": [
+        "https://securityaffairs.co/wordpress/106969/malware/nefilim-ransomware-spie-group.html"
+    ],
+    "month": 8,
+    "summary": "Nefilim ransomware operators allegedly targeted the SPIE group, an independent European leader in mu",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
