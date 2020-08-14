@@ -1,0 +1,16 @@
+{
+    "entity": "Dozens of organizations in Israel",
+    "links": [
+        "https://securityaffairs.co/wordpress/107155/apt/north-korea-lazarus-israel.html"
+    ],
+    "month": 8,
+    "summary": "Since January 2020, the North Korea-linked Lazarus APT has successfully compromised dozens of organi",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
