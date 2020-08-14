@@ -1,0 +1,16 @@
+{
+    "entity": "Unnamed major tech company based in New York",
+    "links": [
+        "https://www.securityweek.com/texas-man-sentenced-57-months-prison-hacking-major-tech-firm"
+    ],
+    "month": 8,
+    "summary": "Tyler C. King, a 31-year-old from Dallas, Texas, was sentenced this week to 57 months in prison for ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
