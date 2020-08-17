@@ -1,0 +1,16 @@
+{
+    "entity": "Thousands of Canadian Government Accounts",
+    "links": [
+        "https://www.securityweek.com/thousands-canadian-government-accounts-hacked"
+    ],
+    "month": 8,
+    "summary": "Thousands of user accounts for online government services in Canada were recently hacked during cybe",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Bank Transfer"
+    },
+    "year": 2020
+}
