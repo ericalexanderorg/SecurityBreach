@@ -1,0 +1,16 @@
+{
+    "entity": "Carnival Corporation",
+    "links": [
+        "https://securityaffairs.co/wordpress/107263/cyber-crime/carnival-corporation-ransomware-attack.html"
+    ],
+    "month": 8,
+    "summary": "The world's largest cruise line operator Carnival Corporation has disclosed that one of their brands",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
