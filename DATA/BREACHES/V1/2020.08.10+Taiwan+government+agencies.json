@@ -1,0 +1,16 @@
+{
+    "entity": "10 Taiwan government agencies",
+    "links": [
+        "https://securityaffairs.co/wordpress/107335/cyber-warfare-2/taiwan-government-agencies-email-hacked.html"
+    ],
+    "month": 8,
+    "summary": "Chinese hackers have hacked thousands of Taiwan Government email accounts belonging at least 10 Taiw",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
