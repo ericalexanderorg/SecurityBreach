@@ -1,0 +1,16 @@
+{
+    "entity": "Hoa Sen Group",
+    "links": [
+        "https://securityaffairs.co/wordpress/107379/cyber-crime/hoa-sen-group-maze-ransomware.html"
+    ],
+    "month": 8,
+    "summary": "Experts at threat intelligence firm Cyble came across a post published by Maze ransomware operators ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
