@@ -1,0 +1,16 @@
+{
+    "entity": "University of Utah",
+    "links": [
+        "https://threatpost.com/university-of-utah-pays-457k-after-ransomware-attack/158564/"
+    ],
+    "month": 8,
+    "summary": "The University of Utah coughed up a $457,000 ransom payment after a ransomware attack hit the univer",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
