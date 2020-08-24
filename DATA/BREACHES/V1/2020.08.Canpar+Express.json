@@ -1,0 +1,16 @@
+{
+    "entity": "Canpar Express",
+    "links": [
+        "https://securityaffairs.co/wordpress/107476/cyber-crime/canpar-express-ransomware.html"
+    ],
+    "month": 8,
+    "summary": "A ransomware attack hit TFI International's four Canadian courier divisions last week, Canpar Expres",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
