@@ -1,0 +1,16 @@
+{
+    "entity": "Brookfield Residential",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/darkside-ransomware-hits-north-american-real-estate-developer/"
+    ],
+    "month": 8,
+    "summary": "North American land developer and home builder Brookfield Residential is one of the first victims of",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
