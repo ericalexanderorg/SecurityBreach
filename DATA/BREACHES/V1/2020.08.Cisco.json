@@ -1,0 +1,16 @@
+{
+    "entity": "Cisco",
+    "links": [
+        "https://www.theregister.com/2020/08/26/former_cisco_engineer_aws_webex_teams/"
+    ],
+    "month": 8,
+    "summary": "A former Cisco employee pleaded guilty in a San Jose federal court on Wednesday to unlawfully access",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Sale on dark web"
+    },
+    "year": 2020
+}
