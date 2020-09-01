@@ -1,0 +1,16 @@
+{
+    "entity": "Norway parliament",
+    "links": [
+        "https://www.securityweek.com/hackers-attack-norways-parliament"
+    ],
+    "month": 9,
+    "summary": "Norway's parliament said Tuesday it had been the target of a \"Vast\" cyber attack that enabled hacker",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2020
+}
