@@ -1,0 +1,16 @@
+{
+    "entity": "Wordpress sites",
+    "links": [
+        "https://securityaffairs.co/wordpress/107826/hacking/file-manager-wordpress-plugin-flaw.html"
+    ],
+    "month": 9,
+    "summary": "Hackers actively exploiting a critical remote code execution vulnerability in the File Manager plugi",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A9",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
