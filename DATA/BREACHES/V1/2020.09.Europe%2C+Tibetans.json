@@ -1,0 +1,16 @@
+{
+    "entity": "Europe, Tibetans",
+    "links": [
+        "https://www.securityweek.com/chinese-hackers-target-europe-tibetans-sepulcher-malware"
+    ],
+    "month": 9,
+    "summary": "A Chinese threat actor was observed targeting both European diplomatic entities and the Tibetan comm",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
