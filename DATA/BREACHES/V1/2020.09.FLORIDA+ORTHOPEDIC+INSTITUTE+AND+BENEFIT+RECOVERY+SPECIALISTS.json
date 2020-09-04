@@ -1,0 +1,16 @@
+{
+    "entity": "FLORIDA ORTHOPEDIC INSTITUTE AND BENEFIT RECOVERY SPECIALISTS",
+    "links": [
+        "https://www.hipaaguide.net/914000-patients-impacted-by-hacking-of-florida-orthopedic-institute-and-benefit-recovery-specialists/"
+    ],
+    "month": 9,
+    "summary": "The protected health information of 914,000 patients has potentially been compromised in two hacking",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
