@@ -1,0 +1,16 @@
+{
+    "entity": "BancoEstado",
+    "links": [
+        "https://securityaffairs.co/wordpress/108014/cyber-crime/bancoestado-ransomware.html"
+    ],
+    "month": 9,
+    "summary": "Chilean bank BancoEstado, one of the country's biggest banks, was forced to shut down all branches f",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
