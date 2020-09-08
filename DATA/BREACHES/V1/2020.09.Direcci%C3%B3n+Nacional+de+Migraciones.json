@@ -1,0 +1,16 @@
+{
+    "entity": "Direcci\u00f3n Nacional de Migraciones",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/netwalker-ransomware-hits-argentinian-government-demands-4-million/"
+    ],
+    "month": 9,
+    "summary": "Argentina's official immigration agency, Direcci\u00f3n Nacional de Migraciones, suffered a Netwalker ran",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
