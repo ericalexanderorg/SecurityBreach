@@ -1,0 +1,16 @@
+{
+    "entity": "CNN-News18",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/cnn-news18-allegedly-hacked-to-deny-paytm-hack-claims/"
+    ],
+    "month": 9,
+    "summary": "A hacking group claims to have breached India's CNN-News18 news site to use it to refute claims that",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2020
+}
