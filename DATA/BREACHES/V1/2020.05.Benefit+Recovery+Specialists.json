@@ -1,0 +1,17 @@
+{
+    "entity": "Benefit Recovery Specialists",
+    "links": [
+        "https://healthitsecurity.com/news/274k-patients-impacted-by-benefit-recovery-specialists-credential-hack",
+        "http://www.benefitrecovery.com/uploads/BRSIWebsiteNoticeEN.pdf"
+    ],
+    "month": 5,
+    "summary": "More than 274,000 patients from several healthcare providers and payers that use Ben",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 274000,
+        "initial-access": "ATT&CK:T1192",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
