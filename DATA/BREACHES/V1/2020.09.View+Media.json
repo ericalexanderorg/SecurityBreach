@@ -1,0 +1,16 @@
+{
+    "entity": "View Media",
+    "links": [
+        "https://securityaffairs.co/wordpress/107879/data-breach/online-marketing-company-exposes-38-million-us-citizen-records.html"
+    ],
+    "month": 9,
+    "summary": "CyberNews researchers discovered an unsecured data bucket that belongs to View Media containing clos",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
