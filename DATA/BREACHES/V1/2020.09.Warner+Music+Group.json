@@ -6,7 +6,7 @@
     "month": 9,
     "summary": "Warner Music Group disclosed a data breach affecting US-based e-commerce stores, the compromise appe",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Criminal:MageCart",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
