@@ -1,0 +1,16 @@
+{
+    "entity": "Companies across the UK and EU",
+    "links": [
+        "https://thehackernews.com/2020/09/evilnum-hackers.html"
+    ],
+    "month": 9,
+    "summary": "An adversary known for targeting the fintech sector at least since 2018 has switched up its tactics ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Misc"
+    },
+    "year": 2020
+}
