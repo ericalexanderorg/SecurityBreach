@@ -1,0 +1,16 @@
+{
+    "entity": "Newcastle University",
+    "links": [
+        "https://securityaffairs.co/wordpress/108032/malware/newcastle-university-doppelpaymer-ransomware.html"
+    ],
+    "month": 9,
+    "summary": "UK research university Newcastle University suffered a DoppelPaymer ransomware attack and took its s",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
