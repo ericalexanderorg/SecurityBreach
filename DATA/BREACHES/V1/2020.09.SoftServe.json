@@ -1,0 +1,16 @@
+{
+    "entity": "SoftServe",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/softserve-hit-by-ransomware-windows-customization-tool-exploited/"
+    ],
+    "month": 9,
+    "summary": "Ukrainian software developer and IT services provider SoftServe suffered a ransomware attack on Sept",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
