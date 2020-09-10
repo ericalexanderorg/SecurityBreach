@@ -1,0 +1,16 @@
+{
+    "entity": "Equinix",
+    "links": [
+        "https://securityaffairs.co/wordpress/108115/cyber-crime/equinix-netwalker-ransomware.html"
+    ],
+    "month": 9,
+    "summary": "Equinix, one of the world's largest providers of colocation data centers and Internet connection ann",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
