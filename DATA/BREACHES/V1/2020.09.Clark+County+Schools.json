@@ -1,0 +1,16 @@
+{
+    "entity": "Clark County Schools",
+    "links": [
+        "https://www.securityweek.com/clark-county-schools-reports-computer-ransomware-attack"
+    ],
+    "month": 9,
+    "summary": "The Clark County School District says its computer system was infected by a ransomware attack during",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
