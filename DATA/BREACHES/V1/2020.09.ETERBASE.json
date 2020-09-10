@@ -1,0 +1,16 @@
+{
+    "entity": "ETERBASE",
+    "links": [
+        "https://securityaffairs.co/wordpress/108085/digital-id/eterbase-hacked.html"
+    ],
+    "month": 9,
+    "summary": "Slovak cryptocurrency exchange ETERBASE disclosed a security breach, hackers stole cryptocurrency fu",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
