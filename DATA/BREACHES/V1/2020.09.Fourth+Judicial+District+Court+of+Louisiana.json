@@ -1,0 +1,16 @@
+{
+    "entity": "Fourth Judicial District Court of Louisiana",
+    "links": [
+        "https://www.infosecurity-magazine.com/news/us-court-documents-published-in/"
+    ],
+    "month": 9,
+    "summary": "Cyber-criminals who launched a ransomware attack on a US court have published what they claim are st",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
