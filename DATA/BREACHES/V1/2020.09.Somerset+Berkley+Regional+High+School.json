@@ -1,0 +1,16 @@
+{
+    "entity": "Somerset Berkley Regional High School",
+    "links": [
+        "https://www.southcoasttoday.com/news/20200907/somerset-berkley-regional-high-school-victim-of-ransomware-attack"
+    ],
+    "month": 9,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
