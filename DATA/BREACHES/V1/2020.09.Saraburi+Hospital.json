@@ -1,0 +1,16 @@
+{
+    "entity": "Saraburi Hospital",
+    "links": [
+        "https://www.bangkokpost.com/thailand/general/1982423/ransomware-attack-on-saraburi-hospital"
+    ],
+    "month": 9,
+    "summary": "The director of Saraburi Hospital on Wednesday confirmed the hospital computer system had been attac",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransomware"
+    },
+    "year": 2020
+}
