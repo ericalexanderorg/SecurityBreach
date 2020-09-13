@@ -1,0 +1,16 @@
+{
+    "entity": "Hartford Schools",
+    "links": [
+        "https://www.nytimes.com/2020/09/08/nyregion/hartford-schools-ransomware.html"
+    ],
+    "month": 9,
+    "summary": "The scheduled first day of the school year, the district found itself paralyzed by a virus entirely ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
