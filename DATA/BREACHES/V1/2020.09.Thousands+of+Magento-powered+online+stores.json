@@ -1,0 +1,16 @@
+{
+    "entity": "Thousands of Magento-powered online stores",
+    "links": [
+        "https://www.securityweek.com/hundreds-magento-stores-hacked-daily-major-skimming-campaign"
+    ],
+    "month": 9,
+    "summary": "Thousands of Magento-powered online stores have been hacked over the past few days as part of a skim",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
