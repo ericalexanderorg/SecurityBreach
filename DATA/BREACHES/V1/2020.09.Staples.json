@@ -1,0 +1,16 @@
+{
+    "entity": "Staples",
+    "links": [
+        "https://securityaffairs.co/wordpress/108271/data-breach/staples-data-breach.html"
+    ],
+    "month": 9,
+    "summary": "Giant office retail company Staples disclosed a data breach, threat actors accessed some of its cust",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
