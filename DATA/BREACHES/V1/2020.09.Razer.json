@@ -1,0 +1,16 @@
+{
+    "entity": "Razer",
+    "links": [
+        "https://www.securityweek.com/razer-customer-data-exposed-server-misconfiguration"
+    ],
+    "month": 9,
+    "summary": "A server misconfiguration has resulted in data pertaining to thousands of Razer customers being expo",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
