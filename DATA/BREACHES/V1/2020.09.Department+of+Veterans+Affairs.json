@@ -1,0 +1,16 @@
+{
+    "entity": "Department of Veterans Affairs",
+    "links": [
+        "https://federalnewsnetwork.com/veterans-affairs/2020/09/va-data-breach-exposes-personal-information-for-46000-veterans/"
+    ],
+    "month": 9,
+    "summary": "A cybersecurity breach at the Department of Veterans Affairs has potentially exposed personnel infor",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
