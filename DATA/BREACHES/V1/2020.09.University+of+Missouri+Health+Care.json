@@ -1,0 +1,16 @@
+{
+    "entity": "University of Missouri Health Care",
+    "links": [
+        "https://www.govtech.com/security/Missouri-Health-System-Maps-Damage-from-Phishing-Attack.html"
+    ],
+    "month": 9,
+    "summary": "An investigation into the May cyberattack against University of Missouri Health Care indicates that ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
