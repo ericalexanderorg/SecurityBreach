@@ -1,0 +1,16 @@
+{
+    "entity": "University of Tasmania",
+    "links": [
+        "https://www.9news.com.au/national/university-of-tasmania-personal-identity-data-breach-not-malicious-management-claim/9b4f4b76-bbe4-4f0f-be5f-c51d30bfd9b7"
+    ],
+    "month": 9,
+    "summary": "The data contained \"Personally identifiable information\" of students at the university. In a stateme",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Misc"
+    },
+    "year": 2020
+}
