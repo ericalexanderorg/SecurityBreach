@@ -1,0 +1,16 @@
+{
+    "entity": "Kentucky Unemployment System",
+    "links": [
+        "https://www.courier-journal.com/story/news/2020/09/21/kentucky-unemployment-breach-misinterpretation-led-reporting-delay/5765270002/"
+    ],
+    "month": 9,
+    "summary": "An inspector general report has found there were \"Unacceptable\" delays in reporting an April securit",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
