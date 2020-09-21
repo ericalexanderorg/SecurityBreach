@@ -1,0 +1,16 @@
+{
+    "entity": "Spanish COVID19 Laboratories",
+    "links": [
+        "https://securityaffairs.co/wordpress/108459/hacking/chinese-hackers-covid19-vaccine-spain.html"
+    ],
+    "month": 9,
+    "summary": "Chinese hackers have stolen information from Spanish laboratories working on a vaccine for COVID19, ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
