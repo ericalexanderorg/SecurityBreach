@@ -1,0 +1,16 @@
+{
+    "entity": "University Hospital New Jersey",
+    "links": [
+        "https://securityaffairs.co/wordpress/108402/malware/uhnj-suncrypt-ransomware.html"
+    ],
+    "month": 9,
+    "summary": "University Hospital New Jersey has suffered a ransomware attack, SunCrypt ransomware operators also ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
