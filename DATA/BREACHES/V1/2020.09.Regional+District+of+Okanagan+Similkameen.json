@@ -1,0 +1,16 @@
+{
+    "entity": "Regional District of Okanagan Similkameen",
+    "links": [
+        "https://www.keremeosreview.com/news/no-personal-information-released-following-ransomware-attack-says-rdos/"
+    ],
+    "month": 9,
+    "summary": "The Regional District of Okanagan Similkameen is recovering following an attempted ransomware attack",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
