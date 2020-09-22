@@ -1,0 +1,16 @@
+{
+    "entity": "ArbiterSports",
+    "links": [
+        "https://www.zdnet.com/article/details-of-540000-sports-referees-taken-in-failed-ransomware-attack/"
+    ],
+    "month": 9,
+    "summary": "A company that provides software for sports leagues to manage referees and game officials has disclo",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
