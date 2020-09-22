@@ -1,0 +1,16 @@
+{
+    "entity": "Luxottica",
+    "links": [
+        "https://securityaffairs.co/wordpress/108611/cyber-crime/luxottica-cyber-attack.html"
+    ],
+    "month": 9,
+    "summary": "The Italian eyewear and eyecare giant Luxottica has reportedly suffered a cyber attack that disrupte",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
