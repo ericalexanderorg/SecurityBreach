@@ -1,0 +1,16 @@
+{
+    "entity": "St. Clair County government",
+    "links": [
+        "https://www.al.com/crime/2020/09/st-clair-county-government-offices-hit-by-cyber-attack.html"
+    ],
+    "month": 9,
+    "summary": "St. Clair County government officials said they believe no data was allowed to leave the county's co",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
