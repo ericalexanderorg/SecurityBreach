@@ -1,0 +1,16 @@
+{
+    "entity": "Russian clinical diagnostics laboratory",
+    "links": [
+        "https://securityaffairs.co/wordpress/108644/malware/oldgremlin-ransomware-attacks.html"
+    ],
+    "month": 9,
+    "summary": "Researchers from threat hunting and intelligence firm Group-IB have detected a successful attack by ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
