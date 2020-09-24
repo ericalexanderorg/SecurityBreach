@@ -1,0 +1,16 @@
+{
+    "entity": "GEFCO ",
+    "links": [
+        "https://www.channelnews.com.au/cyberattack-on-global-logistics-giant-gefco-could-cost-company-millions/"
+    ],
+    "month": 9,
+    "summary": "Global logistics company GEFCO says a mystery cyberattack last week was designed to 'disrupt' its bu",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
