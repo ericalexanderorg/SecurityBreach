@@ -1,0 +1,16 @@
+{
+    "entity": "Simon Fraser University",
+    "links": [
+        "https://www.securitymagazine.com/articles/93448-simon-fraser-university-suffered-ransomware-attack-last-spring"
+    ],
+    "month": 9,
+    "summary": "A ransomware attack last spring at Simon Fraser University reportedly compromised the personal infor",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
