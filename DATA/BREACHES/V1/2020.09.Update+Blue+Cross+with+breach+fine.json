@@ -1,0 +1,16 @@
+{
+    "entity": "Update Blue Cross with breach fine",
+    "links": [
+        "https://www.fiercehealthcare.com/tech/premera-blue-cross-to-pay-6-9m-to-hhs-for-2014-data-breach"
+    ],
+    "month": 9,
+    "summary": "Premera Blue Cross will pay $6.9 million in a settlement with the Trump administration over a data b",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
