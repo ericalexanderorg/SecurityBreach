@@ -1,0 +1,16 @@
+{
+    "entity": "Airbnb",
+    "links": [
+        "https://www.eturbonews.com/769244/airbnb-worldwide-data-breach-allowing-users-to-access-other-users-inboxes/"
+    ],
+    "month": 9,
+    "summary": "Airbnb worldwide data breach allowing users to access other users inboxes. Airbnb hosts are reportin",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
