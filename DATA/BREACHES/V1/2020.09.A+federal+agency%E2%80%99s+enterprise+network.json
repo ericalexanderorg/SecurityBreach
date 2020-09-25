@@ -1,0 +1,16 @@
+{
+    "entity": "A federal agency\u2019s enterprise network",
+    "links": [
+        "https://us-cert.cisa.gov/ncas/analysis-reports/ar20-268a"
+    ],
+    "month": 9,
+    "summary": "The cyber threat actor connected multiple times by Transmission Control Protocol from IP address 185",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
