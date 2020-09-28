@@ -1,0 +1,16 @@
+{
+    "entity": "Hungarian banks and telecoms",
+    "links": [
+        "https://securityaffairs.co/wordpress/108788/hacking/ddos-attack-hungarian-orgs.html"
+    ],
+    "month": 9,
+    "summary": "Hungarian financial institutions and telecommunications infrastructure were hit by a powerful DDoS a",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
