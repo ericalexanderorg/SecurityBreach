@@ -1,0 +1,16 @@
+{
+    "entity": "Clark County in Nevada",
+    "links": [
+        "https://www.wsj.com/articles/hacker-releases-information-on-las-vegas-area-students-after-officials-dont-pay-ransom-11601297930"
+    ],
+    "month": 9,
+    "summary": "A hacker published documents containing Social Security numbers, student grades and other private in",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
