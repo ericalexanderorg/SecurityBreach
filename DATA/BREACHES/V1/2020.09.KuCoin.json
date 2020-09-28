@@ -1,0 +1,16 @@
+{
+    "entity": "KuCoin",
+    "links": [
+        "https://www.securityweek.com/150-million-stolen-singaporean-crypto-exchange-kucoin"
+    ],
+    "month": 9,
+    "summary": "Singapore-based cryptocurrency exchange KuCoin over the weekend announced that hackers managed to st",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2020
+}
