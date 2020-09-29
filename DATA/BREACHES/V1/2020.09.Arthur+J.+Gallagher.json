@@ -1,0 +1,16 @@
+{
+    "entity": "Arthur J. Gallagher",
+    "links": [
+        "https://securityaffairs.co/wordpress/108925/malware/ajg-ransomware-attack.html"
+    ],
+    "month": 9,
+    "summary": "US-based Arthur J. Gallagher insurance giant disclosed a ransomware attack, the security breach took",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
