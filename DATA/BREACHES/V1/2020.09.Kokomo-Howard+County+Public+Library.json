@@ -1,0 +1,16 @@
+{
+    "entity": "Kokomo-Howard County Public Library",
+    "links": [
+        "http://kokomoperspective.com/kp/news/librarys-closure-due-to-security-breach/article_ecf8fa3e-028d-11eb-9469-e3b95de7fc0c.html"
+    ],
+    "month": 9,
+    "summary": "The Kokomo-Howard County Public Library's closure, which began last Friday, is due to a security bre",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
