@@ -1,0 +1,16 @@
+{
+    "entity": "Edureka",
+    "links": [
+        "https://www.livemint.com/companies/start-ups/edureka-s-database-breached-2-million-user-records-potentially-at-risk-11601450797202.html"
+    ],
+    "month": 9,
+    "summary": "3 min read. Updated: 30 Sep 2020, 01:05 PM IST Salman SH. Bengaluru: Online education startup Edurek",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
