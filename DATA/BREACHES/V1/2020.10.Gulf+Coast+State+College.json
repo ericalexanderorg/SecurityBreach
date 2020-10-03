@@ -1,0 +1,16 @@
+{
+    "entity": "Gulf Coast State College",
+    "links": [
+        "https://www.wjhg.com/2020/10/03/students-and-employees-notified-of-gulf-coast-state-college-data-breach/"
+    ],
+    "month": 10,
+    "summary": "Organizers said they didn't want to take any chances with veterans and COVID-19. Employees of Easter",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
