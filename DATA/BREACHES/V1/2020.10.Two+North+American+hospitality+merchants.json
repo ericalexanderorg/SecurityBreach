@@ -1,0 +1,16 @@
+{
+    "entity": "Two North American hospitality merchants",
+    "links": [
+        "https://securityaffairs.co/wordpress/109072/cyber-crime/visa-hospitality-merchants-hack.html"
+    ],
+    "month": 10,
+    "summary": "Visa revealed that two unnamed North American hospitality merchants have been infected with some str",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
