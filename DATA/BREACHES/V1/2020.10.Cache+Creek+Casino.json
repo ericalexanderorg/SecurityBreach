@@ -1,0 +1,16 @@
+{
+    "entity": "Cache Creek Casino",
+    "links": [
+        "https://www.gamblingnews.com/news/californias-cache-creek-casino-investigates-suspected-cyber-attack/"
+    ],
+    "month": 10,
+    "summary": "Yocha Dehe Wintun Nation-owned Cache Creek Casino confirmed on Wednesday that it is investigating a ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
