@@ -1,0 +1,16 @@
+{
+    "entity": "eResearchTechnology",
+    "links": [
+        "https://www.dailymail.co.uk/news/article-8802339/COVID-vaccine-trials-risk-Philadelphia-health-tech-firm-hit-massive-ransomware-attack.html"
+    ],
+    "month": 10,
+    "summary": "A Philadelphia tech company which provides the software currently used in COVID-19 vaccine trials ha",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
