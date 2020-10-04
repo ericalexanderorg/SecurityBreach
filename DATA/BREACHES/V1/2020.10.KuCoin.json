@@ -1,0 +1,16 @@
+{
+    "entity": "KuCoin",
+    "links": [
+        "https://www.cryptoglobe.com/latest/2020/10/kucoin-has-identified-who-was-behind-the-september-26-security-breach/"
+    ],
+    "month": 10,
+    "summary": "On Saturday, Johnny Lyu, Co-Founder and CEO of Singapore-based crypto exchange KuCoin Global, provid",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2020
+}
