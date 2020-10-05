@@ -1,0 +1,16 @@
+{
+    "entity": "College of Nurses of Ontario",
+    "links": [
+        "https://www.insurancebusinessmag.com/ca/news/cyber/nursing-body-recovers-from-ransomware-attack-but-does-not-reveal-if-info-was-stolen-235231.aspx"
+    ],
+    "month": 10,
+    "summary": "The College of Nurses of Ontario has announced that it has made \"Significant progress\" in the restor",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
