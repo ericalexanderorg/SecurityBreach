@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 2020100801",
+    "links": [
+        "https://thedfirreport.com/2020/10/08/ryuks-return/"
+    ],
+    "month": 10,
+    "summary": "After picking the most reliable method to move through the environment, the threat actor then procee",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
