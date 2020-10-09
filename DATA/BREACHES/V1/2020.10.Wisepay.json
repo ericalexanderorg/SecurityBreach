@@ -1,0 +1,16 @@
+{
+    "entity": "Wisepay",
+    "links": [
+        "https://www.computerweekly.com/news/252490346/Magecart-strikes-website-of-school-payments-service-Wisepay"
+    ],
+    "month": 10,
+    "summary": "Among other things, has recovered its service after discovering a Magecart skimmer on its website wa",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
