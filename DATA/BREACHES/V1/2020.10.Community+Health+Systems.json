@@ -1,0 +1,16 @@
+{
+    "entity": "Community Health Systems",
+    "links": [
+        "https://healthitsecurity.com/news/chs-settles-with-28-states-for-5m-over-2014-data-breach-of-6.1m"
+    ],
+    "month": 10,
+    "summary": "A $5 million settlement with 28 states to resolve an investigation into its massive data breach that",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
