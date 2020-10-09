@@ -1,0 +1,16 @@
+{
+    "entity": "Morgan Stanley",
+    "links": [
+        "https://duo.com/decipher/morgan-stanley-to-pay-usd60-million-fine-for-2016-data-breach"
+    ],
+    "month": 10,
+    "summary": "Morgan Stanley has agreed to pay a $60 million fine for its repeated failures to adequately protect ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
