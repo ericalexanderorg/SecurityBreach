@@ -3,14 +3,14 @@
     "links": [
         "https://www.wtvq.com/2020/10/09/breach-of-city-contractor-e-mail-put-some-city-workers-info-at-risk/"
     ],
-    "month": 10,
+    "month": 7,
     "summary": "LEXINGTON, Ky. - Some current and former Lexington city employees' personal information was put at r",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Money:Ransom"
+        "motive": "?"
     },
     "year": 2020
 }
