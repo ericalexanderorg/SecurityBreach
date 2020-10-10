@@ -1,0 +1,16 @@
+{
+    "entity": "Boom!",
+    "links": [
+        "https://www.securityweek.com/hackers-inject-skimmer-boom-mobiles-website"
+    ],
+    "month": 10,
+    "summary": "Hackers associated with the \"Fullz House\" group have compromised the website of Boom! Mobile and pla",
+    "tags": {
+        "actor": "Criminal:Fullz House",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
