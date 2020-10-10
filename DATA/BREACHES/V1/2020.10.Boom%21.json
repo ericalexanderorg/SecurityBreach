@@ -6,7 +6,7 @@
     "month": 10,
     "summary": "Hackers associated with the \"Fullz House\" group have compromised the website of Boom! Mobile and pla",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Criminal:Fullz House",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
