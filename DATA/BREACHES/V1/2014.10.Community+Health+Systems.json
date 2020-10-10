@@ -7,10 +7,10 @@
     "summary": "A $5 million settlement with 28 states to resolve an investigation into its massive data breach that",
     "tags": {
         "actor": "Nation State",
-        "cost-usd": 0,
-        "impacted-user-count": 0,
+        "cost-usd": 5000000,
+        "impacted-user-count": 6100000,
         "initial-access": "?",
         "motive": "PII:?"
     },
-    "year": 2020
+    "year": 2014
 }
