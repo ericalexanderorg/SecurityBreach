@@ -1,0 +1,16 @@
+{
+    "entity": "Chowbus",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/chowbus-delivery-service-breached-hacker-emails-data-to-users/"
+    ],
+    "month": 10,
+    "summary": "A threat actor has hacked into the Chowbus food delivery service and emailed links to the stolen dat",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2020
+}
