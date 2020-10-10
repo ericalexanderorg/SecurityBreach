@@ -1,0 +1,16 @@
+{
+    "entity": "Morgan Stanley",
+    "links": [
+        "https://duo.com/decipher/morgan-stanley-to-pay-usd60-million-fine-for-2016-data-breach"
+    ],
+    "month": 10,
+    "summary": "Inadequate distruction of data while decomissioning a data center.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 60000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2016
+}
