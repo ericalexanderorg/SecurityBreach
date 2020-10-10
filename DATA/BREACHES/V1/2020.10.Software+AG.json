@@ -1,0 +1,16 @@
+{
+    "entity": "Software AG",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/software-ag-it-giant-hit-with-23-million-ransom-by-clop-ransomware/"
+    ],
+    "month": 10,
+    "summary": "The Clop ransomware gang hit the network of German enterprise software giant Software AG last Saturd",
+    "tags": {
+        "actor": "Criminal:Clop",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
