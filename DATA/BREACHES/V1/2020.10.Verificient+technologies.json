@@ -1,0 +1,16 @@
+{
+    "entity": "Verificient technologies",
+    "links": [
+        "https://www.cbc.ca/news/canada/london/western-students-alerted-about-security-breach-at-exam-monitor-proctortrack-1.5764354"
+    ],
+    "month": 10,
+    "summary": "A security breach of Proctortrack, the software Western University uses to monitor student exams rem",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
