@@ -1,0 +1,16 @@
+{
+    "entity": "Update British Airways",
+    "links": [
+        "https://www.securityweek.com/uk-fines-british-airways-failures-2018-data-hack"
+    ],
+    "month": 10,
+    "summary": "Britain's information commissioner has fined British Airways 20 million pounds for failing to protec",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
