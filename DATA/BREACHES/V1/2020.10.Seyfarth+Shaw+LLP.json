@@ -1,0 +1,16 @@
+{
+    "entity": "Seyfarth Shaw LLP",
+    "links": [
+        "https://www.law360.com/legalindustry/articles/1319407/seyfarth-cyberattack-spotlights-gaps-in-law-firm-security"
+    ],
+    "month": 10,
+    "summary": "Law360 - The recent ransomware attack against Seyfarth Shaw LLP should be a wake-up call for law fir",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
