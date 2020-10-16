@@ -1,0 +1,16 @@
+{
+    "entity": "Dickeys BBQ",
+    "links": [
+        "https://securityaffairs.co/wordpress/109583/data-breach/dickeys-barbecue-pit-pos-breach.html"
+    ],
+    "month": 10,
+    "summary": "Dickey's Barbecue Pit, the largest barbecue restaurant chain in the US, suffered a POS breach, card ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
