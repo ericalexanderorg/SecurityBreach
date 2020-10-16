@@ -1,0 +1,16 @@
+{
+    "entity": "Puerto Rico\u2019s firefighting department ",
+    "links": [
+        "https://securityaffairs.co/wordpress/109551/hacking/puerto-rico-firefighting-department-attack.html"
+    ],
+    "month": 10,
+    "summary": "Puerto Rico's firefighting department discloses a security breach, hackers breached its database and",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
