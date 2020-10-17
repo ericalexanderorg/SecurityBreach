@@ -1,0 +1,16 @@
+{
+    "entity": "Ubisoft",
+    "links": [
+        "https://www.altchar.com/game-news/ubisoft-and-crytek-have-reportedly-been-victims-of-a-ransomware-attack-a1Har4A8rnZe"
+    ],
+    "month": 10,
+    "summary": "Ubisoft andCrytek data has been posted on ransomware gang's site. A ransomware gang going by the nam",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
