@@ -1,0 +1,33 @@
+name: ML Directory Maintenance
+on:
+  schedule:
+    - cron: "1 1 * * 0"
+jobs:
+  mlDirectoryMaintenance:
+    runs-on: ubuntu-latest
+    name: ML Directory Maintenance
+    steps:
+      - name: Checkout repo
+        id: checkout
+        uses: actions/checkout@v2
+      - name: Create ML Directory Files
+        id: maintenance
+        uses: ericalexanderorg/SecurityBreach/ACTIONS/ml-directory-maintenance@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
+          SUMMRY_API_KEY: ${{ secrets.SUMMRY_API_KEY }}
+      - name: Create Pull Request
+        id: cpr
+        uses: peter-evans/create-pull-request@v2
+        with:
+          token: ${{ secrets.GH_PAT }}
+          commit-message: ML Directory Maintenance
+          author-email: ML-Directory-Maintenance@users.noreply.github.com
+          author-name: ML Directory Maintenance
+          title: ML Directory Maintenance
+          body: ML Directory Maintenance
+          labels: ml-directory-maintenance
+          branch: ml-directory-maintenance-${{ github.run_id }}
+      - name: Check cpr outputs
+        run: |
+          echo "Pull Request Number - ${{ env.PULL_REQUEST_NUMBER }}"
