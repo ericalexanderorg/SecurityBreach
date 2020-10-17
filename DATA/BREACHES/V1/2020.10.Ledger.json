@@ -1,0 +1,16 @@
+{
+    "entity": "Ledger",
+    "links": [
+        "https://cointelegraph.com/news/ledger-s-recent-security-audit-was-unconnected-to-their-data-breach-in-june"
+    ],
+    "month": 10,
+    "summary": "Popular hardware wallet company Ledger recently announced that they had passed a notable security ev",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2020
+}
