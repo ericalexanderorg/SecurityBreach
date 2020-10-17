@@ -1,0 +1,16 @@
+{
+    "entity": "Barnes & Noble",
+    "links": [
+        "https://www.securityweek.com/barnes-noble-informs-customers-cyberattack"
+    ],
+    "month": 10,
+    "summary": "Bookselling giant Barnes & Noble has sent email notifications to its customers to inform them of a r",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
