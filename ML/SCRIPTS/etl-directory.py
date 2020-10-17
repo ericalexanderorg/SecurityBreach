@@ -31,7 +31,7 @@ def main():
             print(path)
             if not os.path.exists(path):
                 os.makedirs(path)
-            # Write datat to a file in our path
+            # Write data to a file in our path
             fname = hashlib.sha1(d['Data'].encode('utf-8')).hexdigest()
             path = "{}/{}".format(path,fname)
             f = open(path, "w")

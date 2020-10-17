@@ -16,11 +16,14 @@ Defensive security starts with situational awareness, it's the first two stages 
 - [x] A basic react UI that enables easy exploration of the data
 - [x] A build pipeline that builds and deploys the UI after every PR approval
 - [x] Github action on new issues that auto-classifies new breach data into a PR
+- [] Nightly ML job (currently manually run).
+- [] Full auto classify. Get the classify ML to the point no humans are needed.
+- [] Auto intake. Use the code in the SecurityNews project to auto find breach news and feed into the auto classify.
 
 ## State change in progress
 * Intake new issues
 
 ## ETA for next state update?
-January 1, 2020
+January 1, 2021
 
 
