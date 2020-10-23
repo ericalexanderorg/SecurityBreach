@@ -1,0 +1,16 @@
+{
+    "entity": "Hackney Council",
+    "links": [
+        "https://www.computerweekly.com/news/252491005/Cyber-attack-on-Hackney-Council-is-morally-repugnant-says-mayor"
+    ],
+    "month": 10,
+    "summary": "The cyber attack on Hackney Council is \"Morally repugnant\", says Hackney mayor Phillip Glanville. Mo",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
