@@ -1,0 +1,16 @@
+{
+    "entity": "Sopra Steria",
+    "links": [
+        "https://securityaffairs.co/wordpress/109917/cyber-crime/sopra-steria-ryuk-ransomware.html"
+    ],
+    "month": 10,
+    "summary": "French IT outsourcer Sopra Steria has been hit by a ransomware attack, while the company did not rev",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
