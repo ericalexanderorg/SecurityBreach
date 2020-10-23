@@ -6,11 +6,11 @@
     "month": 10,
     "summary": "Dr. Reddy's, the contractor for Russia's \"Sputinik V\" COVID-19 vaccine and a major generics producer",
     "tags": {
-        "actor": "Nation State",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Espionage"
+        "motive": "?"
     },
     "year": 2020
 }
