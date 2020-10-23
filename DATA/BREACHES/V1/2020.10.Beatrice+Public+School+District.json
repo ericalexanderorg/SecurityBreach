@@ -9,8 +9,8 @@
         "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A5",
-        "motive": "Espionage"
+        "initial-access": "?",
+        "motive": "Money:Ransomware"
     },
     "year": 2020
 }
