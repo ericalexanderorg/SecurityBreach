@@ -6,11 +6,11 @@
     "month": 10,
     "summary": "Dutch ethical hacker Victor Gevers claims it only took five attempts to guess the password to Presid",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Hacktivist",
         "cost-usd": 0,
-        "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Misc"
+        "impacted-user-count": 1,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Hacktivism:Schadenfreude"
     },
     "year": 2020
 }
