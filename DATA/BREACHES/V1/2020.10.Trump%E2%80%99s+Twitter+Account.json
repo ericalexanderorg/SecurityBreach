@@ -1,0 +1,16 @@
+{
+    "entity": "Trump\u2019s Twitter Account",
+    "links": [
+        "https://threatpost.com/researcher-hacked-trumps-twitter-password/160473/"
+    ],
+    "month": 10,
+    "summary": "Dutch ethical hacker Victor Gevers claims it only took five attempts to guess the password to Presid",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Misc"
+    },
+    "year": 2020
+}
