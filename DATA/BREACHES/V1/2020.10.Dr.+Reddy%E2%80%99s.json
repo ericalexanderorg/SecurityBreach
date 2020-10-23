@@ -1,0 +1,16 @@
+{
+    "entity": "Dr. Reddy\u2019s",
+    "links": [
+        "https://threatpost.com/covid-19-vaccine-cyberattack-data-breach/160495/"
+    ],
+    "month": 10,
+    "summary": "Dr. Reddy's, the contractor for Russia's \"Sputinik V\" COVID-19 vaccine and a major generics producer",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2020
+}
