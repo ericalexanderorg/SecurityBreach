@@ -1,0 +1,16 @@
+{
+    "entity": "State, local, territorial, and tribal (SLTT) government networks",
+    "links": [
+        "https://www.securityweek.com/us-says-russian-hackers-stole-data-two-government-servers"
+    ],
+    "month": 10,
+    "summary": "The United States says Russian state-sponsored hacking group Energetic Bear has successfully comprom",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
