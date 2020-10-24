@@ -1,0 +1,16 @@
+{
+    "entity": "Haldiram",
+    "links": [
+        "http://timesofindia.indiatimes.com/articleshow/78712465.cms"
+    ],
+    "month": 10,
+    "summary": "NOIDA: Snacks manufacturer Haldiram's faced a ransomware attack on its servers by hackers who allege",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
