@@ -1,0 +1,16 @@
+{
+    "entity": "Mt. Pleasant city government ",
+    "links": [
+        "https://www.themorningsun.com/news/mt-pleasant-city-government-subject-to-ransomware-attack/article_8f918d62-0c8c-11eb-add7-0fbf8e4031cf.html"
+    ],
+    "month": 10,
+    "summary": "Officials from Mt. Pleasant city government say no election data was breached during a Saturday rans",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
