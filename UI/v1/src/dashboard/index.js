@@ -64,24 +64,30 @@ function totalBarChartData(key, data, inMillions=false){
 function attributeBarChartData(column, data, minYear, summarize){
     // Google doc on bar charts: https://developers.google.com/chart/interactive/docs/gallery/barchart
     // react-google-charts doc on bar charts: https://react-google-charts.com/bar-chart
+
     // uniques array holds our unique column values
     var uniques = [column]
+
     // tempObj is used to store data temporarily, as the name implies
     var tempObj = {}
+
     // Loop through all breach data
     Object.keys(data).forEach(function (id) {
+        // Validate this year exceeds our minimum year (we don't want too many years in some graphs)
         if(data[id]['year'] >= minYear){
-            // Create a variable for or array id. Makes the code cleaner. 
+            // Use a var instead of data[id], easier to read the code
             var breachObj = data[id]
             // Exclude ? and undefined values
             if(breachObj[column] === "?" || breachObj[column] === undefined){
                 return
             }
+            // Use a var instead of breachObj[column], easier to read the code
             var val = breachObj[column]
             // Convert numbers to strings
             if(typeof val == 'number'){
                 val = val.toString()
             }
+            // Some data has first:second order data and sometimes we only want the first order data
             if(summarize){
                 var components = breachObj[column].split(':')
                 val = components[0]
@@ -101,6 +107,8 @@ function attributeBarChartData(column, data, minYear, summarize){
     });
     // Create the object we'll return
     var returnObj = []
+    // Sort our uniques so data is sorted in the graph
+    uniques.sort((a, b) => a - b);
     uniques.push({ role: 'annotation' })
     // Add the uniques list first. It's our header value. 
     returnObj.push(uniques)
@@ -125,6 +133,7 @@ function attributeBarChartData(column, data, minYear, summarize){
         yearArray.push('')
         returnObj.push(yearArray)
     });
+
     return returnObj
 }
 
