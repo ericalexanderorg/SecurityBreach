@@ -7,7 +7,7 @@
     "summary": "A Mississippi school district has voted to pay $300,000 to recover files that were encrypted during ",
     "tags": {
         "actor": "Criminal",
-        "cost-usd": 0,
+        "cost-usd": 300,000,
         "impacted-user-count": 0,
         "initial-access": "?",
         "motive": "Money:Ransom"
