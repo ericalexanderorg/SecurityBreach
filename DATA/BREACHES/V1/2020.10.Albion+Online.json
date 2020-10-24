@@ -1,0 +1,16 @@
+{
+    "entity": "Albion Online",
+    "links": [
+        "https://securityaffairs.co/wordpress/109731/data-breach/albion-online-data-breach.html"
+    ],
+    "month": 10,
+    "summary": "Albion Online game maker discloses a data breach, hackers gained access to the company forum databas",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A9",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
