@@ -1,0 +1,16 @@
+{
+    "entity": "Stats Perform",
+    "links": [
+        "https://www.legalsportsreport.com/44946/stats-perform-ransomware-attack/"
+    ],
+    "month": 10,
+    "summary": "Sports data provider Stats Perform has been down for almost a week thanks to a ransomware hack, Lega",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
