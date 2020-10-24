@@ -1,0 +1,16 @@
+{
+    "entity": "Carnival Corp",
+    "links": [
+        "https://www.computing.co.uk/news/4021816/carnival-ransomware-cruise-lines"
+    ],
+    "month": 10,
+    "summary": "Cruise firm Carnival has revealed that hackers were able to access guests' and employees' personal i",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
