@@ -1,0 +1,16 @@
+{
+    "entity": "Hackney Borough Council",
+    "links": [
+        "https://www.hackneycitizen.co.uk/2020/10/19/cyber-attack-investigation-continues-council-systems-paralysed/"
+    ],
+    "month": 10,
+    "summary": "The Town Hall is working to support residents after a serious cyber attack first revealed on 13 Octo",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
