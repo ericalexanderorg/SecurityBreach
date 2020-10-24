@@ -1,0 +1,16 @@
+{
+    "entity": "Heartland Community College",
+    "links": [
+        "https://week.com/2020/10/19/heartland-community-college-reminds-others-of-digital-security-after-recent-systems-breach/"
+    ],
+    "month": 10,
+    "summary": "NORMAL - Heartland Community College is using a recent cyberattack to make sure people are protectin",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
