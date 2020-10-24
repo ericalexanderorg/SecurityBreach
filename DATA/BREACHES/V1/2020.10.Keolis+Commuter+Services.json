@@ -1,0 +1,16 @@
+{
+    "entity": "Keolis Commuter Services",
+    "links": [
+        "https://www.masstransitmag.com/safety-security/news/21159677/ma-mbta-commuter-rail-operator-hit-by-ransomware"
+    ],
+    "month": 10,
+    "summary": "Systems shut down due to ransomware incident",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransomware"
+    },
+    "year": 2020
+}
