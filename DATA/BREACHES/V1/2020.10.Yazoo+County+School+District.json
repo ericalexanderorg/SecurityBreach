@@ -1,0 +1,16 @@
+{
+    "entity": "Yazoo County School District",
+    "links": [
+        "https://www.infosecurity-magazine.com/news/cyberattack-on-mississippi-schools/"
+    ],
+    "month": 10,
+    "summary": "A Mississippi school district has voted to pay $300,000 to recover files that were encrypted during ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 300000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
