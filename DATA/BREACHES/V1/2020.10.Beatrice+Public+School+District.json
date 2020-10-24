@@ -1,0 +1,16 @@
+{
+    "entity": "Beatrice Public School District",
+    "links": [
+        "https://www.newschannelnebraska.com/story/42809139/esu-number-five-aiding-beatrice-public-schoolsand-quelling-ransomware-attack"
+    ],
+    "month": 10,
+    "summary": "API ERROR: SOURCE IS TOO SHORT",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransomware"
+    },
+    "year": 2020
+}

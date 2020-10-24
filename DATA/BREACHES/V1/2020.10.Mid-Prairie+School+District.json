@@ -1,0 +1,16 @@
+{
+    "entity": "Mid-Prairie School District",
+    "links": [
+        "https://www.kciiradio.com/2020/10/23/mid-prairie-alerts-residents-of-data-breach/"
+    ],
+    "month": 10,
+    "summary": "The Mid-Prairie School District is alerting parents and students to a possible data breach. In a sta",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransomware"
+    },
+    "year": 2020
+}

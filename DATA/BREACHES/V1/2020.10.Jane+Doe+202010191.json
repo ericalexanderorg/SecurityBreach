@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 202010191",
+    "links": [
+        "https://thedfirreport.com/2020/10/18/ryuk-in-5-hours/"
+    ],
+    "month": 10,
+    "summary": "The Ryuk threat actors went from a phishing email to domain wide ransomware in 5 hours. After moving",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
