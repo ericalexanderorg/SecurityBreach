@@ -1,0 +1,16 @@
+{
+    "entity": "Amber Windows",
+    "links": [
+        "https://www.openpr.com/news/2143874/uk-company-breaches-500-000-peoples-personal-informationuk"
+    ],
+    "month": 9,
+    "summary": "The database of Amber Windows contained 234.6 million records, including the personal information of",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 500000,
+        "initial-access": "?",
+        "motive": "Hacktivist:Press"
+    },
+    "year": 2020
+}
