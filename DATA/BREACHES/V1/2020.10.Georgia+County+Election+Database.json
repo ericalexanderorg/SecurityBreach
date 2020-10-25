@@ -1,0 +1,16 @@
+{
+    "entity": "Georgia County Election Database",
+    "links": [
+        "https://www.securityweek.com/report-ransomware-disables-georgia-county-election-database"
+    ],
+    "month": 10,
+    "summary": "A ransomware attack that hobbled a Georgia county government in early October reportedly disabled a ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
