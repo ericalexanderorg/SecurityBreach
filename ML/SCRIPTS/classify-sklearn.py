@@ -1,6 +1,7 @@
 import sys
 import os
 import json
+import re
 from datetime import datetime
 from sklearn.datasets import load_files
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -15,6 +16,33 @@ def transform_name(name):
     name = name.replace('_', ':')
     name = name.replace('UNKOWN', '?')
     return name
+
+def extract_cost(summry):
+    cost = 0
+    match = re.search('\$([0-9],*)', summry)
+    if match:
+        cost = int(match.group(1).replace(",", ""))
+    if cost < 1000:
+        # Guessing we're talking millions
+        cost = cost*1000000        
+    return cost
+
+def extract_user_count(summry):
+    users = 0
+    match = re.search('([0-9,]*[0-9]) members', summry)
+    if match:
+        users = int(match.group(1).replace(",", ""))
+    else:
+        # Continue searching
+        match = re.search('([0-9,]*[0-9]) users', summry)
+        if match:
+            users = int(match.group(1).replace(",", ""))
+        else:
+            # Continue searching
+            match = re.search('([0-9,]*[0-9]) records', summry)
+            if match:
+                users = int(match.group(1).replace(",", ""))        
+    return users
 
 def main(url='', entity=''):
     # Determine if we're in a script. We'll use to determine output later.
@@ -40,8 +68,8 @@ def main(url='', entity=''):
     output['entity'] = sys.argv[2]
     output['summary'] = summry[0:100]
     output['tags'] = {}
-    output['tags']['impacted-user-count'] = 0
-    output['tags']['cost-usd'] = 0
+    output['tags']['impacted-user-count'] = extract_user_count(summry)
+    output['tags']['cost-usd'] = extract_cost(summry)
     output['links'] = []
     output['links'].append(url)
 
