@@ -8,7 +8,7 @@
     "tags": {
         "actor": "Hacktivist",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 60000,
         "initial-access": "OWASP:A6",
         "motive": "Hacktivism:Press"
     },
