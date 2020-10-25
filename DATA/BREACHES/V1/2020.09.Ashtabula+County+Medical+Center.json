@@ -1,0 +1,16 @@
+{
+    "entity": "Ashtabula County Medical Center",
+    "links": [
+        "https://www.nbcnews.com/tech/security/cleveland-area-hospital-goes-offline-after-apparent-cyberattack-n1241408"
+    ],
+    "month": 9,
+    "summary": "A Cleveland-area hospital has spent more than a week offline after being hit by an apparent cyberatt",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
