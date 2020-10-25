@@ -7,10 +7,10 @@
     "summary": "In a country that claims to be at the forefront of digitization and data security, the criminals man",
     "tags": {
         "actor": "Criminal",
-        "cost-usd": 0,
+        "cost-usd": 640000,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "PII:?"
+        "motive": "Money:Ransom"
     },
     "year": 2020
 }
