@@ -1,0 +1,16 @@
+{
+    "entity": "Vastamo",
+    "links": [
+        "https://yle.fi/uutiset/osasto/news/psychotherapy_centre_reveals_two_separate_data_breaches_of_sensitive_patient_information/11612453"
+    ],
+    "month": 10,
+    "summary": "Psychotherapy centre Vastamo's information system may have been subject to two separate data breache",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
