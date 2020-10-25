@@ -1,0 +1,16 @@
+{
+    "entity": "Boyne Resorts",
+    "links": [
+        "https://securityaffairs.co/wordpress/109933/hacking/boyne-resorts-wastedlocker-ransomware.html"
+    ],
+    "month": 10,
+    "summary": "The systems at the US-based ski and golf resort operator were infected with the WastedLocker ransomw",
+    "tags": {
+        "actor": "Criminal:WastedLocker",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
