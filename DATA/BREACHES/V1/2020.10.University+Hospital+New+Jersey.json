@@ -1,0 +1,16 @@
+{
+    "entity": "University Hospital New Jersey",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/new-jersey-hospital-paid-ransomware-gang-670k-to-prevent-data-leak/"
+    ],
+    "month": 10,
+    "summary": "University Hospital New Jersey in Newark, New Jersey, paid a $670,000 ransomware demand this month t",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 670000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
