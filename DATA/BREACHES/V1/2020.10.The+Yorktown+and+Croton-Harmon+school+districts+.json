@@ -1,0 +1,16 @@
+{
+    "entity": "The Yorktown and Croton-Harmon school districts ",
+    "links": [
+        "http://yonkerstimes.com/hackers-hit-yorktown-croton-school-districts/"
+    ],
+    "month": 10,
+    "summary": "The Yorktown and Croton-Harmon school districts in Westchester County recently had their computer sy",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
