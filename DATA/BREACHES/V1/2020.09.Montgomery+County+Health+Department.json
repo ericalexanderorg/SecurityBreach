@@ -1,0 +1,16 @@
+{
+    "entity": "Montgomery County Health Department",
+    "links": [
+        "https://www.theleafchronicle.com/story/news/2020/09/28/montgomery-county-computer-network-back-up-after-data-security-breach/3563441001/"
+    ],
+    "month": 9,
+    "summary": "Montgomery County officials say their computer systems are back up and operational, after a brief we",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
