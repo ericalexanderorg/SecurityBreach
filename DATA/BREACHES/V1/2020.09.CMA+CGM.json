@@ -1,0 +1,16 @@
+{
+    "entity": "CMA CGM",
+    "links": [
+        "https://www.offshore-energy.biz/cma-cgm-confirms-cyber-attack/"
+    ],
+    "month": 9,
+    "summary": "\"As soon as the security breach was detected, external access to applications was interrupted to pre",
+    "tags": {
+        "actor": "Criminal:Ragnar",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
