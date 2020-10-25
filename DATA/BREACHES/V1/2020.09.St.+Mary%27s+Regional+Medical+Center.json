@@ -1,0 +1,16 @@
+{
+    "entity": "St. Mary's Regional Medical Center",
+    "links": [
+        "https://www.enidnews.com/news/local_news/st-marys-regional-medical-center-affected-by-security-breach/article_671af35e-0279-11eb-be28-a3e8d541d67f.html"
+    ],
+    "month": 9,
+    "summary": "ENID, Okla. - St. Mary's Regional Medical Center is among an estimated 250 health care facilities im",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
