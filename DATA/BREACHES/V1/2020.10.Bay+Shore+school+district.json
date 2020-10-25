@@ -1,0 +1,16 @@
+{
+    "entity": "Bay Shore school district",
+    "links": [
+        "https://www.newsday.com/long-island/education/bay-shore-schools-hack-1.50010940"
+    ],
+    "month": 10,
+    "summary": "A hacker attack has disrupted computer service for students and teachers in the Bay Shore school dis",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
