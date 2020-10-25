@@ -1,0 +1,16 @@
+{
+    "entity": "Robinhood",
+    "links": [
+        "https://www.investopedia.com/robinhood-kicks-cybersecurity-month-off-by-getting-hacked-5082845"
+    ],
+    "month": 10,
+    "summary": "Approximately 2,000 Robinhood accounts were accessed by hackers and looted during the week of Octobe",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
