@@ -1,1 +1,16 @@
-{"entity": "Pemex", "links": ["https://www.bleepingcomputer.com/news/security/mexicos-pemex-oil-suffers-ransomware-attack-49-million-demanded/"], "month": 11, "summary": "Mexico's state-owned oil company, Pemex, has suffered a DoppelPaymer ransomware attack that demanded", "tags": {"actor": "Criminal", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "?", "motive": "Money:Ransom"}, "year": 2019}
+{
+    "entity": "Pemex",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/mexicos-pemex-oil-suffers-ransomware-attack-49-million-demanded/"
+    ],
+    "month": 11,
+    "summary": "Mexico's state-owned oil company, Pemex, has suffered a DoppelPaymer ransomware attack that demanded",
+    "tags": {
+        "actor": "Criminal:Ryuk",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2019
+}

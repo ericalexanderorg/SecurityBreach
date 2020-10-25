@@ -6,7 +6,7 @@
     "month": 10,
     "summary": "The Ryuk threat actors went from a phishing email to domain wide ransomware in 5 hours. After moving",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Criminal:Ryuk",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",

@@ -6,7 +6,7 @@
     "month": 1,
     "summary": "The popular US government contractor Electronic Warfare Associates has suffered a ransomware attack,",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Criminal:Ryuk",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",

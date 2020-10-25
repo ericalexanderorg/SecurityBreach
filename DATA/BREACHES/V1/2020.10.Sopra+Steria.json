@@ -6,7 +6,7 @@
     "month": 10,
     "summary": "French IT outsourcer Sopra Steria has been hit by a ransomware attack, while the company did not rev",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Criminal:Ryuk",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
