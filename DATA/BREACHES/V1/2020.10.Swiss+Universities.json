@@ -1,0 +1,16 @@
+{
+    "entity": "Swiss Universities",
+    "links": [
+        "https://securityaffairs.co/wordpress/109100/hacking/swiss-universities-hacked.html"
+    ],
+    "month": 10,
+    "summary": "Threat actors have hacked at least three Swiss universities, including the University of Basel and m",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2020
+}
