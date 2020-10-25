@@ -6,11 +6,11 @@
     "month": 9,
     "summary": "The database of Amber Windows contained 234.6 million records, including the personal information of",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Hacktivist",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 500000,
         "initial-access": "?",
-        "motive": "PII:?"
+        "motive": "Hacktivist:Press"
     },
     "year": 2020
 }
