@@ -1,0 +1,16 @@
+{
+    "entity": "UHS",
+    "links": [
+        "https://securityaffairs.co/wordpress/108875/malware/uhs-ryuk-ransomware.html"
+    ],
+    "month": 9,
+    "summary": "Universal Health Services healthcare providers has reportedly shut down systems at healthcare facili",
+    "tags": {
+        "actor": "Criminal:Ryuk",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
