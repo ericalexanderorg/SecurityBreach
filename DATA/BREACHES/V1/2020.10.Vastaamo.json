@@ -1,0 +1,16 @@
+{
+    "entity": "Vastaamo",
+    "links": [
+        "https://www.foreigner.fi/articulo/national/scandal-over-the-hijack-and-and-publication-of-private-mental-health-data/20201023121903008599.html"
+    ],
+    "month": 10,
+    "summary": "In a country that claims to be at the forefront of digitization and data security, the criminals man",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
