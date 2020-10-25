@@ -1,0 +1,16 @@
+{
+    "entity": "People of Praise",
+    "links": [
+        "https://www.catholicnewsagency.com/news/people-of-praise-hacked-before-amy-coney-barrett-nomination-34597"
+    ],
+    "month": 9,
+    "summary": "Days before Judge Amy Coney Barrett was nominated to the Supreme Court, the website of the People of",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
