@@ -1,0 +1,16 @@
+{
+    "entity": "Press Trust of India",
+    "links": [
+        "https://www.thehindubusinessline.com/info-tech/pti-services-disrupted-after-massive-ransomware-attack-on-servers/article32940254.ece"
+    ],
+    "month": 10,
+    "summary": "The Press Trust of India's computer servers suffered a massive ransomware attack, disrupting operati",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
