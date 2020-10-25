@@ -1,0 +1,16 @@
+{
+    "entity": "Premera",
+    "links": [
+        "https://healthitsecurity.com/news/premera-pays-ocr-6.85m-to-settle-hipaa-violations-breach-of-10.4m"
+    ],
+    "month": 9,
+    "summary": "With Premera Blue Cross for $6.85 million and a corrective action plan, after an audit into the insu",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
