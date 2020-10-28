@@ -1,0 +1,16 @@
+{
+    "entity": "3 St. Lawrence County hospitals",
+    "links": [
+        "https://www.wwnytv.com/2020/10/27/gouverneur-canton-potsdam-hospitals-dealing-with-computer-problems/"
+    ],
+    "month": 10,
+    "summary": "GOUVERNEUR, N.Y. - St. Lawrence Health System says computers at Canton-Potsdam, Massena and Gouverne",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
