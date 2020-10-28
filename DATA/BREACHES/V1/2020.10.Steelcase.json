@@ -1,0 +1,16 @@
+{
+    "entity": "Steelcase",
+    "links": [
+        "https://www.infosecurity-magazine.com/news/furniture-giant-steelcase/"
+    ],
+    "month": 10,
+    "summary": "A multibillion-dollar furniture maker has become the latest big name apparently hit by a major ranso",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
