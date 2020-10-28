@@ -1,0 +1,16 @@
+{
+    "entity": "Sky Lakes Medical Center",
+    "links": [
+        "https://fox26medford.com/cyber-attack-reportedly-hits-sky-lakes-medical-center/"
+    ],
+    "month": 10,
+    "summary": "A local hospital was reportedly the victim of a cybercrime. Sky Lakes Medical Center in Klamath Fall",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2020
+}
