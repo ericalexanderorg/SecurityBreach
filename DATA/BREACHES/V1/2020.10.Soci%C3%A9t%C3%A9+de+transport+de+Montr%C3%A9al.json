@@ -1,0 +1,16 @@
+{
+    "entity": "Soci\u00e9t\u00e9 de transport de Montr\u00e9al",
+    "links": [
+        "https://globalnews.ca/news/7425413/stm-still-investigating-widespread-outage-sparked-by-ransomware-attack/"
+    ],
+    "month": 10,
+    "summary": "The Soci\u00e9t\u00e9 de transport de Montr\u00e9al says it still can't confirm the origin of the computer virus th",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
