@@ -7,7 +7,7 @@
     "summary": "A cyberattack on Chenango County government computers is not expected to interfere with regular oper",
     "tags": {
         "actor": "Criminal",
-        "cost-usd": 4000000,
+        "cost-usd": 90000,
         "impacted-user-count": 0,
         "initial-access": "?",
         "motive": "Money:Ransom"
