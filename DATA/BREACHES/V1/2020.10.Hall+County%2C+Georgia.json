@@ -1,0 +1,16 @@
+{
+    "entity": "Hall County, Georgia",
+    "links": [
+        "https://www.natlawreview.com/article/ransomware-attack-affects-georgia-county-election-administration-system"
+    ],
+    "month": 10,
+    "summary": "Hall County, Georgia reported on October 7, 2020, that it was the victim of a ransomware attack that",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
