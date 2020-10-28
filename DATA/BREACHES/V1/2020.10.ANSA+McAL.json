@@ -1,0 +1,16 @@
+{
+    "entity": "ANSA McAL",
+    "links": [
+        "https://newsday.co.tt/2020/10/27/ansa-mcal-it-systems-recovery-largely-complete-after-hack-attack/"
+    ],
+    "month": 10,
+    "summary": "ANSA McAL says recovery of its IT systems after a security incident is \"Largely complete.\" Last Wedn",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
