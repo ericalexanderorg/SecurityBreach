@@ -1,0 +1,16 @@
+{
+    "entity": "Fragomen law firm",
+    "links": [
+        "https://securityaffairs.co/wordpress/110054/data-breach/fragomen-data-breach.html"
+    ],
+    "month": 10,
+    "summary": "Immigration law firm Fragomen has disclosed a data breach that exposed current and former Google emp",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
