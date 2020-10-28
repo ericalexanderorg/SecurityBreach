@@ -21,11 +21,11 @@
     "month": 10,
     "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "ATT&CK:T1078",
-        "motive": "Espionage"
+        "motive": "Ransomware"
     },
     "year": 2020
 }
