@@ -1,0 +1,16 @@
+{
+    "entity": "https://www.informationsecuritybuzz.com/expert-comments/expert-commentary-massive-nitro-data-breach-impacts-microsoft-google-apple-more/",
+    "links": [
+        "https://www.informationsecuritybuzz.com/expert-comments/expert-commentary-massive-nitro-data-breach-impacts-microsoft-google-apple-more/"
+    ],
+    "month": 10,
+    "summary": "A massive data breach suffered by the Nitro PDF service has impacted many well-known organizations, ",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 70000000,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
