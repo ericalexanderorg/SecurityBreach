@@ -1,0 +1,16 @@
+{
+    "entity": "Chenango County",
+    "links": [
+        "https://www.thedailystar.com/news/local_news/chenango-to-work-around-cyberattack-deny-ransom/article_28fda8d9-4347-5bcc-a04a-02d7f18b9466.html"
+    ],
+    "month": 10,
+    "summary": "A cyberattack on Chenango County government computers is not expected to interfere with regular oper",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 90000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
