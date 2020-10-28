@@ -1,0 +1,17 @@
+{
+    "entity": "Gunnebo",
+    "links": [
+        "https://portswigger.net/daily-swig/data-breach-at-swedish-security-company-leaks-38-000-sensitive-documents",
+        "https://news.yahoo.com/customer-information-swedish-security-firm-115239214.html"
+    ],
+    "month": 10,
+    "summary": "Blueprints of government buildings and bank vaults among exposed files. A data breach has leaked tho",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
