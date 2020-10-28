@@ -13,4 +13,19 @@
         "motive": "Money:Ransom"
     },
     "year": 2020
+}{
+    "entity": "Press Trust of India",
+    "links": [
+        "https://techstory.in/ransomware-lockbit-hits-pti-disrupting-services-for-hours/"
+    ],
+    "month": 10,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Espionage"
+    },
+    "year": 2020
 }
