@@ -1,0 +1,16 @@
+{
+    "entity": "Marriott (update)",
+    "links": [
+        "https://securityaffairs.co/wordpress/110297/data-breach/uk-ico-fines-marriott.html"
+    ],
+    "month": 11,
+    "summary": "The UK Information Commissioner's Office fined US hotels group Marriott over the 2018 data breach th",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
