@@ -1,0 +1,16 @@
+{
+    "entity": "State election sites",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/fbi-how-iranian-hackers-stole-voter-info-from-state-election-sites/"
+    ],
+    "month": 11,
+    "summary": "DHS CISA and the FBI today shared more info on how an Iranian state-sponsored hacking group was able",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
