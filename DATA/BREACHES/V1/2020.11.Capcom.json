@@ -1,0 +1,16 @@
+{
+    "entity": "Capcom",
+    "links": [
+        "https://clicklancashire.com/2020/11/08/capcom-hit-by-cyber-attack-customer-data-may-have-been.html"
+    ],
+    "month": 11,
+    "summary": "Per a notice put out on the company's investor-facing site, Capcom first noticed the attack early Mo",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
