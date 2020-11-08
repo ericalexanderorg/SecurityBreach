@@ -1,0 +1,16 @@
+{
+    "entity": "Brazil\u2019s Superior Court of Justice",
+    "links": [
+        "https://securityaffairs.co/wordpress/110484/malware/brazils-court-system-ransomware.html"
+    ],
+    "month": 11,
+    "summary": "This week, Brazil's Superior Court of Justice has temporarily shut down its operation following a ra",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
