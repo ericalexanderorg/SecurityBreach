@@ -1,0 +1,16 @@
+{
+    "entity": "X-Cart",
+    "links": [
+        "https://securityaffairs.co/wordpress/110623/malware/x-cart-ransomware-attack.html"
+    ],
+    "month": 11,
+    "summary": "The e-commerce software platform X-Cart suffered a ransomware attack at the end of October, e-stores",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
