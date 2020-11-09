@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 2020110901",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/fake-microsoft-teams-updates-lead-to-cobalt-strike-deployment/"
+    ],
+    "month": 11,
+    "summary": "Ransomware operators are using malicious fake ads for Microsoft Teams updates to infect systems with",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
