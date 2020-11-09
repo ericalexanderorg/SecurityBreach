@@ -1,0 +1,16 @@
+{
+    "entity": "Sandicliffe Motor Group",
+    "links": [
+        "https://www.am-online.com/news/dealer-news/2020/11/09/sandicliffe-customer-data-breach-could-affect-thousands"
+    ],
+    "month": 11,
+    "summary": "A data breach at Sandicliffe Motor Group could affect \"Thousands\" of staff and customers of the AM10",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
