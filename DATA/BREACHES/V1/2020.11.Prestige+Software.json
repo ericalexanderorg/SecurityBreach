@@ -1,0 +1,16 @@
+{
+    "entity": "Prestige Software",
+    "links": [
+        "https://threatpost.com/millions-hotel-guests-worldwide-data-leak/161044/"
+    ],
+    "month": 11,
+    "summary": "A widely used hotel reservation platform has exposed 10 million files related to guests at various h",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 10000000,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
