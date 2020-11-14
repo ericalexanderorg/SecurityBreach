@@ -1,0 +1,16 @@
+{
+    "entity": "Vertafore",
+    "links": [
+        "https://securityaffairs.co/wordpress/110848/data-breach/vertafore-data-breach.html"
+    ],
+    "month": 11,
+    "summary": "Vertafore announced that information of 27.7 million Texas drivers has been exposed in a data breach",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
