@@ -1,0 +1,16 @@
+{
+    "entity": "Pluto TV",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/hacker-shares-32-million-pluto-tv-accounts-for-free-on-forum/"
+    ],
+    "month": 11,
+    "summary": "A hacker is sharing what they state are 3.2 million Pluto TV user records that were stolen during a ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
