@@ -1,0 +1,16 @@
+{
+    "entity": "Miltenyi Biotec",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/biotech-research-firm-miltenyi-biotec-hit-by-ransomware-data-leaked/"
+    ],
+    "month": 11,
+    "summary": "Biomedical and clinical research company Miltenyi Biotec says that it has fully restored systems aft",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
