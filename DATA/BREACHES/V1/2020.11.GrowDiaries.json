@@ -1,0 +1,16 @@
+{
+    "entity": "GrowDiaries",
+    "links": [
+        "https://usaherald.com/growdiaries-data-breach-exposed-3-4-million-records-cannabis-online-community/"
+    ],
+    "month": 11,
+    "summary": "Researcher Volodymyr \"Bob\" Diachenko reported a. data breach linked to GrowDiaries. In his November ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
