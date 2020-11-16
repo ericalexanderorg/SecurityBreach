@@ -1,0 +1,16 @@
+{
+    "entity": "MaxLinear",
+    "links": [
+        "https://www.itpro.co.uk/security/ransomware/356186/maxlinear-targeted-by-maze-ransomware-attack"
+    ],
+    "month": 11,
+    "summary": "US-based hardware company MaxLinear has been targeted by a Maze ransomware attack. Threat actors gai",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
