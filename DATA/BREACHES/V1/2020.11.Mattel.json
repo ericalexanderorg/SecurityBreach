@@ -1,0 +1,16 @@
+{
+    "entity": "Mattel",
+    "links": [
+        "https://securityaffairs.co/wordpress/110381/cyber-crime/mattel-ransowmare-attack.html"
+    ],
+    "month": 11,
+    "summary": "Toymaker giant Mattel disclosed a ransomware attack, the incident took place in July and impacted so",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
