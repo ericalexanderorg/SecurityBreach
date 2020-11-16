@@ -1,0 +1,16 @@
+{
+    "entity": "Bigbasket",
+    "links": [
+        "https://www.outlookindia.com/newsscroll/bigbasket-faces-potential-data-breach-details-of-2-cr-users-put-on-sale-on-dark-web/1972159"
+    ],
+    "month": 11,
+    "summary": "New Delhi, Nov 7 Grocery e-commerce platform Bigbasket has faced a potential data breach which could",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
