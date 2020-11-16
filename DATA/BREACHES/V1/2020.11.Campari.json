@@ -1,0 +1,16 @@
+{
+    "entity": "Campari",
+    "links": [
+        "https://threatpost.com/campari-site-ransomware-hangover/161029/"
+    ],
+    "month": 11,
+    "summary": "Italian spirits brand Campari has restored its company website following a recent ransomware attack.",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
