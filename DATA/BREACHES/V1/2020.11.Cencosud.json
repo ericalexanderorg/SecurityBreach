@@ -1,0 +1,16 @@
+{
+    "entity": "Cencosud",
+    "links": [
+        "https://securityaffairs.co/wordpress/110941/cyber-crime/cencosud-egregor-ransomware.html"
+    ],
+    "month": 11,
+    "summary": "Chilean-based retail giant Cencosud has suffered a ransomware attack that impacted operations at its",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
