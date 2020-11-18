@@ -1,0 +1,16 @@
+{
+    "entity": "New Zealand Bloom",
+    "links": [
+        "https://www.stuff.co.nz/business/123429479/flower-company-new-zealand-bloom-targeted-in-ransomware-attack"
+    ],
+    "month": 11,
+    "summary": "API ERROR: TEXT IS TOO SHORT 2",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
