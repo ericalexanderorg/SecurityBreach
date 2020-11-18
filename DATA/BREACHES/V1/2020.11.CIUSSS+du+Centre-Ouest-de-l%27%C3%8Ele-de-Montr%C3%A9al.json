@@ -1,0 +1,16 @@
+{
+    "entity": "CIUSSS du Centre-Ouest-de-l'\u00cele-de-Montr\u00e9al",
+    "links": [
+        "https://www.cbc.ca/news/canada/montreal/montreal-s-west-end-health-agency-just-beginning-to-come-back-online-weeks-after-cyber-attack-1.5805322"
+    ],
+    "month": 11,
+    "summary": "Montreal's west end health agency, the CIUSSS du Centre-Ouest-de-l'\u00cele-de-Montr\u00e9al, is only now begi",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 2000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
