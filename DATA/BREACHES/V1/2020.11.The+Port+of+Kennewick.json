@@ -1,0 +1,16 @@
+{
+    "entity": "The Port of Kennewick",
+    "links": [
+        "https://www.maritime-executive.com/article/ransomware-attack-cripples-systems-of-inland-port-in-washington-state"
+    ],
+    "month": 11,
+    "summary": "The Port of Kennewick, Washington reports that it is the latest target to suffer a crippling cyber-a",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
