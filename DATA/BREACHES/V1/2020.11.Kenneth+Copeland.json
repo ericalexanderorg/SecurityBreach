@@ -1,0 +1,16 @@
+{
+    "entity": "Kenneth Copeland",
+    "links": [
+        "https://www.dailymail.co.uk/news/article-8966623/Russian-hacker-group-REvil-claims-massive-attack-televangelist-Kenneth-Copeland.html"
+    ],
+    "month": 11,
+    "summary": "The Russian hacker group known as REvil has named televangelist Kenneth Copeland as its latest victi",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
