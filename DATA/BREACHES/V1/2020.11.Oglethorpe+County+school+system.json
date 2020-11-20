@@ -1,0 +1,16 @@
+{
+    "entity": "Oglethorpe County school system",
+    "links": [
+        "https://www.onlineathens.com/news/20201119/ransomware-attack-cripples-oglethorpe-county-school-system"
+    ],
+    "month": 11,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2020
+}
