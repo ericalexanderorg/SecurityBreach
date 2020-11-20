@@ -1,0 +1,16 @@
+{
+    "entity": "Mercy Iowa City",
+    "links": [
+        "https://www.thegazette.com/subject/news/health/mercy-iowa-city-hospital-data-breach-employee-email-20201119"
+    ],
+    "month": 11,
+    "summary": "IOWA CITY - Mercy Iowa City is notifying more than 60,000 patients that their personal information m",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
