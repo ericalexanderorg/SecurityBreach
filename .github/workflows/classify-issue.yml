@@ -16,10 +16,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_PAT }}
           SUMMRY_API_KEY: ${{ secrets.SUMMRY_API_KEY }}
-      - name: Check classify outputs
-        run: |
-          echo "Issue Number - ${{ steps.classify.outputs.issue_number }}"
-          echo "PR Comment - ${{ steps.classify.outputs.pr_comment }}"
       - name: Create Pull Request
         id: cpr
         uses: peter-evans/create-pull-request@v2
@@ -32,6 +28,3 @@ jobs:
           body: auto-classify-issue-${{ steps.classify.outputs.issue_number }}
           labels: auto-classify
           branch: auto-classify-issue-${{ steps.classify.outputs.issue_number }}
-      - name: Check cpr outputs
-        run: |
-          echo "Pull Request Number - ${{ env.PULL_REQUEST_NUMBER }}"
