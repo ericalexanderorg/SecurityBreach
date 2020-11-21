@@ -1,0 +1,16 @@
+{
+    "entity": "Manchester United",
+    "links": [
+        "https://securityaffairs.co/wordpress/111231/hacking/manchester-united-cyber-attack.html"
+    ],
+    "month": 11,
+    "summary": "The Manchester United football club has been hit by a cyber attack on their systems, it is not aware",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
