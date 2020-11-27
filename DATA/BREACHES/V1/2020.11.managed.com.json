@@ -1,0 +1,16 @@
+{
+    "entity": "managed.com",
+    "links": [
+        "https://www.zdnet.com/article/web-hosting-provider-managed-shuts-down-after-ransomware-attack/"
+    ],
+    "month": 11,
+    "summary": "Managed.com, one of the biggest providers of managed web hosting solutions, has taken down all its s",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
