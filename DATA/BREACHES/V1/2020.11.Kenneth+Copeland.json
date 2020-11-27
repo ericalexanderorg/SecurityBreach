@@ -6,7 +6,7 @@
     "month": 11,
     "summary": "The Russian hacker group known as REvil has named televangelist Kenneth Copeland as its latest victi",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Criminal:REvil",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
