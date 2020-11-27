@@ -1,0 +1,16 @@
+{
+    "entity": "Ritzau",
+    "links": [
+        "https://securityaffairs.co/wordpress/111507/cyber-crime/ritzau-ransomware-attack.html"
+    ],
+    "month": 11,
+    "summary": "Ritzau, the biggest Danish news agency, was hit by a ransomware attack that brought it offline but r",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
