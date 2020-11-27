@@ -7,7 +7,7 @@
     "summary": "The City of Saint John has confirmed that the recent cyber attack against it was ransomware. \"We do ",
     "tags": {
         "actor": "Criminal",
-        "cost-usd": 7000000,
+        "cost-usd": 75000,
         "impacted-user-count": 0,
         "initial-access": "?",
         "motive": "Money:Ransom"
