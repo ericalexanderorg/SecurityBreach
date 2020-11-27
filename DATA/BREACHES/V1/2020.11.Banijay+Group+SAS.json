@@ -1,0 +1,16 @@
+{
+    "entity": "Banijay Group SAS",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/masterchef-big-brother-producer-hit-by-doppelpaymer-ransomware/"
+    ],
+    "month": 11,
+    "summary": "French multinational production and distribution firm Banijay Group SAS was hit earlier this month b",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 4000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
