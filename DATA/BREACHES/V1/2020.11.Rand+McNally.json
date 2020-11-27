@@ -1,0 +1,16 @@
+{
+    "entity": "Rand McNally",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/truck-routing-provider-rand-mcnally-hit-by-cyberattack/"
+    ],
+    "month": 11,
+    "summary": "Chicago-based transportation technology firm Rand McNally is working on restoring network functional",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
