@@ -1,9 +1,9 @@
 # SecurityBreach
-Crowd sourced catalog of security breaches. [Join us on Slack](https://join.slack.com/t/securitybreach/shared_invite/enQtNzk1ODA5MDk5NzE0LTAwODQxMDZkNzAxM2FmZDc2ZGJjN2ZiMmUwOGY2MmI2Y2Q0Y2U3ODhiZTFkMmYzN2JlNjExMDAzM2EyMGI2YjE)
+Crowd sourced catalog of security breaches. 
 
 View the data through the UI: https://ericalexander.org/SecurityBreach
 
-View the JSON data directly: https://raw.githubusercontent.com/ericalexanderorg/SecurityBreach/master/UI/v1/src/dataProvider/security-breach-v1.json
+View the JSON data directly: https://github.com/ericalexanderorg/SecurityBreach/tree/master/DATA/BREACHES/V1
 
 ## Why?
 Defensive security starts with situational awareness, it's the first two stages of the OODA Loop. If you have no situational awareness about what's happening in the real world, then you're likely to be chasing your tail and/or the latest security marketing FUD. 
@@ -16,7 +16,7 @@ Defensive security starts with situational awareness, it's the first two stages 
 - [x] A basic react UI that enables easy exploration of the data
 - [x] A build pipeline that builds and deploys the UI after every PR approval
 - [x] Github action on new issues that auto-classifies new breach data into a PR
-- [] Nightly ML job (currently manually run).
+- [x] Weekly ML job (currently manually run).
 - [] Full auto classify. Get the classify ML to the point no humans are needed.
 - [] Auto intake. Use the code in the SecurityNews project to auto find breach news and feed into the auto classify.
 
