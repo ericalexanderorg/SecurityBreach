@@ -1,0 +1,17 @@
+{
+    "entity": "Home Depot",
+    "links": [
+        "https://balleralert.com/profiles/blogs/the-home-depot-settlement/",
+        "https://money.cnn.com/2014/09/18/technology/security/home-depot-hack/index.html"
+    ],
+    "month": 9,
+    "summary": "The Home Depot has reached a $17.5 million settlement with 46 states including, Ohio, Indiana, and K",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2014
+}
