@@ -1,0 +1,16 @@
+{
+    "entity": "argentina.gob.ar",
+    "links": [
+        "https://www.explica.co/argentine-government-website-suffers-ransomware-attack-and-50gb-of-information-stolen/"
+    ],
+    "month": 11,
+    "summary": "The REvil ransomware gang, also known as Sodinokibi, claims to have stolen 50 gigabytes of informati",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
