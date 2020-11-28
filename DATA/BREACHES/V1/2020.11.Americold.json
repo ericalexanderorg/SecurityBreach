@@ -1,0 +1,16 @@
+{
+    "entity": "Americold",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/cold-storage-giant-americold-hit-by-cyberattack-services-impacted/"
+    ],
+    "month": 11,
+    "summary": "Cold storage giant Americold is currently dealing with a cyberattack impacting their operations, inc",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
