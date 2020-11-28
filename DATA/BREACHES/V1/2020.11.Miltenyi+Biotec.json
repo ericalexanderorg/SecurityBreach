@@ -1,22 +1,8 @@
 {
     "entity": "Miltenyi Biotec",
     "links": [
+        "https://www.securityweek.com/biotech-company-miltenyi-biotec-discloses-malware-attack",
         "https://www.bleepingcomputer.com/news/security/biotech-research-firm-miltenyi-biotec-hit-by-ransomware-data-leaked/"
-    ],
-    "month": 11,
-    "summary": "Biomedical and clinical research company Miltenyi Biotec says that it has fully restored systems aft",
-    "tags": {
-        "actor": "Criminal",
-        "cost-usd": 0,
-        "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Ransom"
-    },
-    "year": 2020
-}{
-    "entity": "Miltenyi Biotec",
-    "links": [
-        "https://www.securityweek.com/biotech-company-miltenyi-biotec-discloses-malware-attack"
     ],
     "month": 11,
     "summary": "International biotechnology company Miltenyi Biotec says it has fully recovered from a malware attac",
