@@ -1,0 +1,16 @@
+{
+    "entity": "The City of Saint John",
+    "links": [
+        "https://www.cbc.ca/news/canada/new-brunswick/saint-john-attack-was-ransonware-1.5805531"
+    ],
+    "month": 11,
+    "summary": "The City of Saint John has confirmed that the recent cyber attack against it was ransomware. \"We do ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 75000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}

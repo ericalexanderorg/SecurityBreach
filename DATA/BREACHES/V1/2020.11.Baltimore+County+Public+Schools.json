@@ -1,0 +1,16 @@
+{
+    "entity": "Baltimore County Public Schools",
+    "links": [
+        "https://www.bankinfosecurity.com/ransomware-attack-targets-baltimore-county-public-schools-a-15467"
+    ],
+    "month": 11,
+    "summary": "Officials with the Baltimore County Public Schools are investigating a ransomware attack that distri",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
