@@ -1,0 +1,16 @@
+{
+    "entity": "South Eastern Asian Government Institutions",
+    "links": [
+        "https://labs.bitdefender.com/2020/11/a-detailed-timeline-of-a-chinese-apt-espionage-attack-targeting-south-eastern-asian-government-institutions/"
+    ],
+    "month": 11,
+    "summary": "Bitdefender researchers have recently investigated a complex and targeted espionage attack on potent",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
