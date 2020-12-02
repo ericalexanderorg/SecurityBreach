@@ -1,0 +1,16 @@
+{
+    "entity": "City of Keene",
+    "links": [
+        "https://ci.keene.nh.us/my-city-government/public-notices/technology-management-resources-inc-tmr"
+    ],
+    "month": 11,
+    "summary": "The City uses Mascoma Bank to manage certain of its financial accounts. Technology Management Resour",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
