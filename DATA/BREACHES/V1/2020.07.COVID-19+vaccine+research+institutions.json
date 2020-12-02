@@ -1,0 +1,16 @@
+{
+    "entity": "COVID-19 vaccine research institutions",
+    "links": [
+        "https://www.securityweek.com/uk-us-canada-accuse-russia-hacking-virus-vaccine-trials"
+    ],
+    "month": 7,
+    "summary": "Britain, the United States and Canada accused Russian hackers on Thursday of trying to steal informa",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
