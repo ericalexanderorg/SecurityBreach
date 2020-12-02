@@ -1,0 +1,16 @@
+{
+    "entity": "The Generalitat",
+    "links": [
+        "https://www.somagnews.com/the-generalitat-suffers-an-online-security-breach/"
+    ],
+    "month": 11,
+    "summary": "Cybercriminals take advantage of the current situation of uncertainty, the massive influx of Telewor",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 5000,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
