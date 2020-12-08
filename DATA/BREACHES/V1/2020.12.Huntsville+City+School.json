@@ -1,0 +1,16 @@
+{
+    "entity": "Huntsville City School",
+    "links": [
+        "https://www.waff.com/2020/12/07/investigation-cyber-attack-stretches-into-second-week-students-return-class/"
+    ],
+    "month": 12,
+    "summary": "HUNTSVILLE, Ala. - Huntsville City School students are getting back to learning this week, after hav",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
