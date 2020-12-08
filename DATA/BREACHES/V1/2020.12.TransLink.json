@@ -1,0 +1,16 @@
+{
+    "entity": "TransLink",
+    "links": [
+        "https://www.securityweek.com/metro-vancouver-transportation-agency-translink-hit-ransomware"
+    ],
+    "month": 12,
+    "summary": "TransLink, the transportation agency of Metro Vancouver in British Columbia, Canada, has been hit by",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
