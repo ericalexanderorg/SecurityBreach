@@ -1,0 +1,16 @@
+{
+    "entity": "Embraer",
+    "links": [
+        "https://www.zdnet.com/article/hackers-leak-data-from-embraer-worlds-third-largest-airplane-maker/"
+    ],
+    "month": 12,
+    "summary": "Brazilian company Embraer, considered today's third-largest airplane maker after Boeing and Airbus, ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
