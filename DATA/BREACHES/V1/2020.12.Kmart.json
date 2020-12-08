@@ -1,0 +1,16 @@
+{
+    "entity": "Kmart",
+    "links": [
+        "https://www.darkreading.com/attacks-breaches/kmart-hit-by-egregor-ransomware/d/d-id/1339620"
+    ],
+    "month": 12,
+    "summary": "In Kubernetes clusters using VSphere as a cloud provider, with a logging level set to 4 or above, VS",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
