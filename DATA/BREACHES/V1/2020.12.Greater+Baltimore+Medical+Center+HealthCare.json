@@ -1,0 +1,16 @@
+{
+    "entity": "Greater Baltimore Medical Center HealthCare",
+    "links": [
+        "https://www.beckershospitalreview.com/cybersecurity/maryland-hospital-reports-it-outage-after-ransomware-attack.html"
+    ],
+    "month": 12,
+    "summary": "Towson, Md.-based Greater Baltimore Medical Center HealthCare detected ransomware Dec. 6 and shut do",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
