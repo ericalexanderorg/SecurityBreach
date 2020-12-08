@@ -1,0 +1,16 @@
+{
+    "entity": "E-Land",
+    "links": [
+        "https://securityaffairs.co/wordpress/111842/malware/clop-ransomware-e-land.html"
+    ],
+    "month": 12,
+    "summary": "E-Land Retail suffered a ransomware attack, Clop ransomware operators claim to have stolen 2 million",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
