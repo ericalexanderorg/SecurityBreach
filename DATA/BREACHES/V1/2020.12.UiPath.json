@@ -1,0 +1,16 @@
+{
+    "entity": "UiPath",
+    "links": [
+        "https://securityaffairs.co/wordpress/112267/data-breach/uipath-data-leak.html"
+    ],
+    "month": 12,
+    "summary": "Last week, ZDnet reported in an exclusive that the tech unicorn UiPath admitted having accidentally ",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
