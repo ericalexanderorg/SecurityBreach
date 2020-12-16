@@ -1,0 +1,16 @@
+{
+    "entity": "Weslaco School District",
+    "links": [
+        "https://www.kurv.com/weslaco-school-district-suffers-ransomware-attack/"
+    ],
+    "month": 12,
+    "summary": "The FBI is working to track down the source of a ransomware attack on the Weslaco school district. L",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
