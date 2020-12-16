@@ -1,0 +1,16 @@
+{
+    "entity": "SolarWinds",
+    "links": [
+        "https://thehackernews.com/2020/12/us-agencies-and-fireeye-were-hacked.html"
+    ],
+    "month": 12,
+    "summary": "The motive and the full scope of what intelligence was compromised remains unclear, but signs are th",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
