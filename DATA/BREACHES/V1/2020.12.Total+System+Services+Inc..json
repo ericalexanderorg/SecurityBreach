@@ -1,0 +1,16 @@
+{
+    "entity": "Total System Services Inc.",
+    "links": [
+        "https://krebsonsecurity.com/2020/12/payment-processing-giant-tsys-ransomware-incident-immaterial-to-company/"
+    ],
+    "month": 12,
+    "summary": "Payment card processing giant TSYS suffered a ransomware attack earlier this month. The company says",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
