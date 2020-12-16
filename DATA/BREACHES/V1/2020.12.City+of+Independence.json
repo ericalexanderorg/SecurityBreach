@@ -1,0 +1,16 @@
+{
+    "entity": "City of Independence",
+    "links": [
+        "https://www.securityweek.com/cyberattack-independence-systems-causes-bill-paying-delay"
+    ],
+    "month": 12,
+    "summary": "INDEPENDENCE, Mo. - A ransomware attack on the city of Independence's computer systems has left some",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
