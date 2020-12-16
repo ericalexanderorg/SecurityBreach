@@ -1,0 +1,16 @@
+{
+    "entity": "Dental Care Alliance",
+    "links": [
+        "https://healthitsecurity.com/news/third-party-vendor-dental-care-alliance-breach-impacts-1m-patients"
+    ],
+    "month": 12,
+    "summary": "The potentially compromised data could include patient names, contact details, dental diagnoses, tre",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
