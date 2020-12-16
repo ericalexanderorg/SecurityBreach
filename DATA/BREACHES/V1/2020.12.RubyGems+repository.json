@@ -1,0 +1,16 @@
+{
+    "entity": "RubyGems repository",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/malicious-rubygems-packages-used-in-cryptocurrency-supply-chain-attack/"
+    ],
+    "month": 12,
+    "summary": "New malicious RubyGems packages have been discovered that are being used in a supply chain attack to",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2020
+}
