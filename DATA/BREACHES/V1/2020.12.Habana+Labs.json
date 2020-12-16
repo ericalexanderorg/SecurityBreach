@@ -1,0 +1,16 @@
+{
+    "entity": "Habana Labs",
+    "links": [
+        "https://securityaffairs.co/wordpress/112258/data-breach/pay2key-hacked-habana-labs.html"
+    ],
+    "month": 12,
+    "summary": "Pay2Key ransomware operators claim to have compromised the network of the Intel-owned chipmaker Haba",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
