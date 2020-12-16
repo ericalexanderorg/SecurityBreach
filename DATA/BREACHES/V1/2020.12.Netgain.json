@@ -1,0 +1,16 @@
+{
+    "entity": "Netgain",
+    "links": [
+        "https://www.mondaq.com/unitedstates/it-and-internet/1016294/ransomware-attack-hits-major-service-provider-for-accounting-and-healthcare-organizations"
+    ],
+    "month": 12,
+    "summary": "To print this article, all you need is to be registered or login on Mondaq.com. According to recent ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
