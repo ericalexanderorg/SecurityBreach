@@ -1,0 +1,16 @@
+{
+    "entity": "Spotify",
+    "links": [
+        "https://threatpost.com/spotify-changes-passwords-data-breach/162256/"
+    ],
+    "month": 12,
+    "summary": "Spotify has alerted users that some of their registration data was inadvertently exposed to a third-",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
