@@ -1,0 +1,16 @@
+{
+    "entity": "Microsoft",
+    "links": [
+        "https://www.reddit.com/r/InfoSecNews/comments/knzujq/solarwinds_hackers_gained_access_to_microsoft/"
+    ],
+    "month": 1,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2021
+}
