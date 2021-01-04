@@ -1,0 +1,16 @@
+{
+    "entity": "T-Mobile",
+    "links": [
+        "https://www.techtimes.com/articles/255548/20210103/t-mobile-hacked-2021-200-000-sensitive-customer-data-breached.htm"
+    ],
+    "month": 1,
+    "summary": "2020 ended with T-Mobile announcing its very second data breach of the entire year. It was then stat",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
