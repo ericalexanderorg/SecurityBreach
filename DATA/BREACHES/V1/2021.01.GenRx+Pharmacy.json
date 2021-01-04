@@ -1,0 +1,16 @@
+{
+    "entity": "GenRx Pharmacy",
+    "links": [
+        "https://latesthackingnews.com/2021/01/04/genrx-pharmacy-ransomware-attack-resulted-in-data-breach/"
+    ],
+    "month": 1,
+    "summary": "A huge cyberattack affecting the American GenRx Pharmacy potentially resulted in a data breach. Thro",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
