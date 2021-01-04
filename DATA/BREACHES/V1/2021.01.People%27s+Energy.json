@@ -1,0 +1,16 @@
+{
+    "entity": "People's Energy",
+    "links": [
+        "https://www.itpro.co.uk/security/hacking/358185/peoples-energy-data-breach-affects-all-270000-customers"
+    ],
+    "month": 1,
+    "summary": "Low-cost energy supplier People's Energy has suffered a data breach affecting every one of its 270,0",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
