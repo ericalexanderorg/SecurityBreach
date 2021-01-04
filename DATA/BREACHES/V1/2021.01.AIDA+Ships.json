@@ -1,0 +1,16 @@
+{
+    "entity": "AIDA Ships",
+    "links": [
+        "https://latesthackingnews.com/2021/01/03/aida-ships-face-service-disruptions-ransomware-attack-suspected/"
+    ],
+    "month": 1,
+    "summary": "The German cruise line AIDA Cruises had to cancel recent cruises for New Year Eve due to some \"IT re",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
