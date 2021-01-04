@@ -1,0 +1,16 @@
+{
+    "entity": "36 Journalists",
+    "links": [
+        "https://thehackernews.com/2020/12/iphones-of-36-journalists-hacked-using.html"
+    ],
+    "month": 1,
+    "summary": "Three dozen journalists working for Al Jazeera had their iPhones stealthily compromised via a zero-c",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
