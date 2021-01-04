@@ -1,0 +1,16 @@
+{
+    "entity": "U.S. Treasury, Commerce Depts",
+    "links": [
+        "https://krebsonsecurity.com/2020/12/u-s-treasury-commerce-depts-hacked-through-solarwinds-compromise/"
+    ],
+    "month": 1,
+    "summary": "Communications at the U.S. Treasury and Commerce Departments were reportedly compromised by a supply",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
