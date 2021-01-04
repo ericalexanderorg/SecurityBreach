@@ -1,0 +1,16 @@
+{
+    "entity": "Apex Laboratory",
+    "links": [
+        "https://www.securityweek.com/apex-laboratory-says-patient-data-stolen-ransomware-attack"
+    ],
+    "month": 1,
+    "summary": "At-home laboratory services provider Apex Laboratory said hackers stole some patient data during a r",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
