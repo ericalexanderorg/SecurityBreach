@@ -1,0 +1,16 @@
+{
+    "entity": "University of Vermont Health Network",
+    "links": [
+        "https://www.securityweek.com/vermont-hospital-says-cyberattack-was-ransomware"
+    ],
+    "month": 1,
+    "summary": "A Vermont-based hospital network is now saying a cyberattack that crippled its computer systems in O",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
