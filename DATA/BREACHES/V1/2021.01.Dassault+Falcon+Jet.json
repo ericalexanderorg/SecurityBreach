@@ -1,0 +1,16 @@
+{
+    "entity": "Dassault Falcon Jet",
+    "links": [
+        "https://securityaffairs.co/wordpress/113216/data-breach/dassault-falcon-data-breach.html"
+    ],
+    "month": 1,
+    "summary": "Dassault Falcon Jet has disclosed a data breach that exposed personal information belonging to curre",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
