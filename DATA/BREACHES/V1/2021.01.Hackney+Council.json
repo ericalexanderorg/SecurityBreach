@@ -1,0 +1,16 @@
+{
+    "entity": "Hackney Council",
+    "links": [
+        "http://www.thecommentator.com/article/7838/hackney_council_hit_with_ransomware_attack"
+    ],
+    "month": 1,
+    "summary": "A cyber crime group has posted what it claims are documents stolen from Hackney Council in a ransomw",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
