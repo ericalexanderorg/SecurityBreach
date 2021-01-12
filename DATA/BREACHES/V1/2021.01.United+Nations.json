@@ -1,0 +1,16 @@
+{
+    "entity": "United Nations",
+    "links": [
+        "https://siliconangle.com/2021/01/11/united-nations-data-breach-exposes-details-100000-employees/"
+    ],
+    "month": 1,
+    "summary": "The United Nations has suffered a data breach that exposed the details of more than 100,000 U.N. Env",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
