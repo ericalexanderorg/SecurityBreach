@@ -1,0 +1,16 @@
+{
+    "entity": "Ubiquiti",
+    "links": [
+        "https://www.securityweek.com/ubiquiti-tells-users-change-passwords-after-breach-cloud-provider"
+    ],
+    "month": 1,
+    "summary": "American technology company Ubiquiti this week revealed that one of its third-party cloud providers ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
