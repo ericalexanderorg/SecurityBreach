@@ -1,0 +1,16 @@
+{
+    "entity": "Update: Capcom",
+    "links": [
+        "https://www.gamesindustry.biz/articles/2021-01-12-capcom-confirms-security-breach-compromised-personal-data-of-16-415-people"
+    ],
+    "month": 1,
+    "summary": "The Japanese publisher confirmed it had been the victim of such an attack back in November, warning ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
