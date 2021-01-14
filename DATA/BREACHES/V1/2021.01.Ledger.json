@@ -1,0 +1,16 @@
+{
+    "entity": "Ledger",
+    "links": [
+        "https://coingeek.com/ledger-discovers-new-security-breach/"
+    ],
+    "month": 1,
+    "summary": "Today, Ledger disclosed that 20,000 new customer records were leaked and are now out in the wild. Th",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
