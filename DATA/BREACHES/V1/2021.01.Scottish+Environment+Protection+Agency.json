@@ -1,0 +1,16 @@
+{
+    "entity": "Scottish Environment Protection Agency",
+    "links": [
+        "https://www.heraldscotland.com/business_hq/19012788.scottish-ransomware-attack-likely-aimed-extorting-public-funds/"
+    ],
+    "month": 1,
+    "summary": "The Scottish Environment Protection Agency has confirmed that an ongoing ransomware attack is likely",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
