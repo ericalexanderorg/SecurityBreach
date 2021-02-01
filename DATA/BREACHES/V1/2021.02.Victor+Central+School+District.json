@@ -1,0 +1,16 @@
+{
+    "entity": "Victor Central School District",
+    "links": [
+        "https://www.whec.com/orleans-county-ny-news/victor-central-school-district-to-be-closed-monday-after-malware-attack/5996972/"
+    ],
+    "month": 2,
+    "summary": "API ERROR: TEXT IS TOO SHORT 3",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2021
+}
