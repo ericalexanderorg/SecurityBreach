@@ -1,0 +1,16 @@
+{
+    "entity": "Serco",
+    "links": [
+        "https://www.itpro.co.uk/security/ransomware/358476/serco-babuk-ransomware-attack"
+    ],
+    "month": 2,
+    "summary": "The outsourcing firm behind NHS Test and Trace has confirmed that it was targeted by cyber criminals",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
