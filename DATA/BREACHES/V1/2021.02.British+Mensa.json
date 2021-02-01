@@ -1,0 +1,16 @@
+{
+    "entity": "British Mensa",
+    "links": [
+        "https://portswigger.net/daily-swig/british-mensa-website-hacked-after-directors-quit-over-data-protection-failures"
+    ],
+    "month": 2,
+    "summary": "The British Mensa website has suffered a cyber-attack following reports from disgruntled employees t",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 18000,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
