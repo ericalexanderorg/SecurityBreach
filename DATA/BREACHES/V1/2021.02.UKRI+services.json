@@ -1,0 +1,16 @@
+{
+    "entity": "UKRI services",
+    "links": [
+        "https://www.itpro.co.uk/security/ransomware/358480/ukri-services-hit-by-ransomware"
+    ],
+    "month": 2,
+    "summary": "At least two government services have been knocked offline as part of a wider cyber attack against U",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
