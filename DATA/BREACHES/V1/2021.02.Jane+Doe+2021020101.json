@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 2021020101",
+    "links": [
+        "https://www.welivesecurity.com/2021/02/01/operation-nightscout-supply-chain-attack-online-gaming-asia/"
+    ],
+    "month": 2,
+    "summary": "In January 2021, we discovered a new supply-chain attack compromising the update mechanism of NoxPla",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 5,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
