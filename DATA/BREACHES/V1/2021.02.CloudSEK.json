@@ -1,0 +1,16 @@
+{
+    "entity": "CloudSEK",
+    "links": [
+        "https://securityaffairs.co/wordpress/114148/data-breach/police-exam-database-exposes-500k-indian-citizens-pii.html"
+    ],
+    "month": 2,
+    "summary": "CloudSEK has discovered a post on a well-known database sharing forum advertising the PII of 500,000",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 10000,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
