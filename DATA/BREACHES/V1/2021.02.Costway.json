@@ -1,0 +1,16 @@
+{
+    "entity": "Costway",
+    "links": [
+        "https://threatpost.com/magento-web-skimmers-costway/163593/"
+    ],
+    "month": 2,
+    "summary": "Two web skimmers have been discovered on the payment webpages of Costway, one of the top retailers i",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2021
+}
