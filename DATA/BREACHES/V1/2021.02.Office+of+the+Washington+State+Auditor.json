@@ -1,0 +1,16 @@
+{
+    "entity": "Office of the Washington State Auditor",
+    "links": [
+        "https://www.securityweek.com/over-1-million-impacted-data-breach-washington-state-auditor"
+    ],
+    "month": 2,
+    "summary": "The Office of the Washington State Auditor has disclosed a cybersecurity incident in which the perso",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
