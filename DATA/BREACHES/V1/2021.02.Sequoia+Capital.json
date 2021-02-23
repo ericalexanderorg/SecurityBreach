@@ -1,0 +1,16 @@
+{
+    "entity": "Sequoia Capital",
+    "links": [
+        "https://www.darkreading.com/attacks-breaches/sequoia-capital-suffers-data-breach--/d/d-id/1340224"
+    ],
+    "month": 2,
+    "summary": "This issue affects: pTIME NAS 1.4.36. All versions of package nuance-gulp-build-common are vulnerabl",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
