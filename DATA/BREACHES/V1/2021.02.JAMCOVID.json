@@ -1,0 +1,16 @@
+{
+    "entity": "JAMCOVID",
+    "links": [
+        "http://jamaica-gleaner.com/article/lead-stories/20210219/prosecution-threat-jamcovid-breach"
+    ],
+    "month": 2,
+    "summary": "The Jamaican Government has hinted that it will punish anyone found guilty of breaching the JAMCOVID",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
