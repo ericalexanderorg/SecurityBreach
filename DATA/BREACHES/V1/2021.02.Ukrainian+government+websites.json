@@ -1,0 +1,16 @@
+{
+    "entity": "Ukrainian government websites",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/ukraine-ddos-attacks-on-govt-sites-originated-from-russia/"
+    ],
+    "month": 2,
+    "summary": "The National Security and Defense Council of Ukraine is accusing threat actors located on Russia net",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2021
+}
