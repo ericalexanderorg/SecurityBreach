@@ -1,0 +1,16 @@
+{
+    "entity": "TietoEVRY",
+    "links": [
+        "https://threatpost.com/finnish-it-giant-ransomware-cyberattack/164193/"
+    ],
+    "month": 2,
+    "summary": "A major Finnish IT provider has been hit with a ransomware attack that has forced the company to tur",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 2000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
