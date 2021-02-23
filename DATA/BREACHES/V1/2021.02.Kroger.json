@@ -1,0 +1,16 @@
+{
+    "entity": "Kroger",
+    "links": [
+        "https://www.securityweek.com/supermarket-chain-kroger-discloses-data-breach"
+    ],
+    "month": 2,
+    "summary": "Grocery and pharmacy chain Kroger has started informing customers and associates of a data breach in",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
