@@ -1,0 +1,16 @@
+{
+    "entity": "Small trucking and logistics company",
+    "links": [
+        "https://www.freightwaves.com/news/inside-a-ransomware-attack-on-a-small-trucking-company"
+    ],
+    "month": 2,
+    "summary": "George got the email a week after the ransomware attack on the small trucking and logistics company ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
