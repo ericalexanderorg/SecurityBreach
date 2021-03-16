@@ -1,0 +1,16 @@
+{
+    "entity": "Microsoft Exchange Jane Does ",
+    "links": [
+        "https://thehackernews.com/2021/03/microsoft-exchange-cyber-attack-what-do.html"
+    ],
+    "month": 3,
+    "summary": "Microsoft on Friday warned of active attacks exploiting unpatched Exchange Servers carried out by mu",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2021
+}
