@@ -1,0 +1,16 @@
+{
+    "entity": "Buffalo Public Schools",
+    "links": [
+        "https://spectrumlocalnews.com/nys/buffalo/news/2021/03/16/bps-parents-frustrated-after-cybersecurity-attack"
+    ],
+    "month": 3,
+    "summary": "BUFFALO, N.Y. - As the investigation continues into last Friday's cybersecurity attack, parents of s",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
