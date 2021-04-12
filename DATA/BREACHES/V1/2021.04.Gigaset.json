@@ -1,0 +1,16 @@
+{
+    "entity": "Gigaset",
+    "links": [
+        "https://thehackernews.com/2021/04/gigaset-android-update-server-hacked-to.html"
+    ],
+    "month": 4,
+    "summary": "Gigaset has revealed a malware infection discovered in its Android devices was the result of a compr",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
