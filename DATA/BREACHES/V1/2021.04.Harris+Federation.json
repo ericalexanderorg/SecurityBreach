@@ -1,0 +1,16 @@
+{
+    "entity": "Harris Federation",
+    "links": [
+        "https://www.itpro.co.uk/security/ransomware/359064/harris-federation-ransomware-attack"
+    ],
+    "month": 4,
+    "summary": "The incident, which took place over the weekend, comes just days after the University of Northampton",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
