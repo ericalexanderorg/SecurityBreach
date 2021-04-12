@@ -1,0 +1,16 @@
+{
+    "entity": "FBS",
+    "links": [
+        "https://www.itpro.co.uk/security/data-breaches/359027/forex-broker-fbs-exposes-millions-of-customer-records"
+    ],
+    "month": 4,
+    "summary": "According to WizCase, online forex trading site FBS left nearly 20 TB of data exposed on an unsecure",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2021
+}
