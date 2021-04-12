@@ -1,0 +1,16 @@
+{
+    "entity": "University of Northampton",
+    "links": [
+        "https://www.itpro.co.uk/security/cyber-attacks/359003/university-of-northampton-hit-by-cyber-attack"
+    ],
+    "month": 4,
+    "summary": "The University of Northampton has been hit by a cyber attack that resulted in the disruption of its ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
