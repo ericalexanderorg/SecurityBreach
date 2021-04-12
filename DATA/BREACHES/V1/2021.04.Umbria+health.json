@@ -1,0 +1,16 @@
+{
+    "entity": "Umbria health",
+    "links": [
+        "https://www.ansa.it/english/news/2021/04/12/umbria-health-authority-under-hacker-attack_c1491c42-14b7-465c-9de9-268bc70611f0.html"
+    ],
+    "month": 4,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
