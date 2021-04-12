@@ -1,0 +1,16 @@
+{
+    "entity": "Haverhill High School",
+    "links": [
+        "https://whdh.com/news/haverhill-high-school-goes-fully-remote-as-issues-from-ransomware-attack-linger/"
+    ],
+    "month": 4,
+    "summary": "HAVERHILL, MASS. - Haverhill High School went fully remote Monday after a ransomware attack continue",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
