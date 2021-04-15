@@ -1,0 +1,16 @@
+{
+    "entity": "Capcom",
+    "links": [
+        "https://www.pcmag.com/news/capcom-blames-old-vpn-device-for-2020-ransomware-attack"
+    ],
+    "month": 4,
+    "summary": "Video game maker Capcom has uncovered how its servers became infected with ransomware in November-th",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
