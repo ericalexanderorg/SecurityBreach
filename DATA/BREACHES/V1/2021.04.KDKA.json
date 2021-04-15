@@ -1,0 +1,16 @@
+{
+    "entity": "KDKA",
+    "links": [
+        "https://pittsburgh.cbslocal.com/2021/04/14/pittsburgh-parking-authority-app-data-breach/"
+    ],
+    "month": 4,
+    "summary": "PITTSBURGH - The app Pittsburgh Parking Authority uses has had a data breach affecting 21 million us",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2021
+}
