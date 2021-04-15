@@ -1,0 +1,16 @@
+{
+    "entity": "Union City",
+    "links": [
+        "https://www.mercurynews.com/2021/04/14/after-ransomware-attack-union-city-hiring-cyber-security-manager/"
+    ],
+    "month": 4,
+    "summary": "Union City is hiring a cyber security manager about a year-and-a-half after a ransomware computer vi",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
