@@ -1,0 +1,16 @@
+{
+    "entity": "Partit Nazzjonalista",
+    "links": [
+        "https://newsbook.com.mt/en/exclusive-hackers-threaten-pn-with-a-240-hour-ultimatum/"
+    ],
+    "month": 4,
+    "summary": "Avaddon ransomware, the hackers who broke into the IT system of the Partit Nazzjonalista on Monday h",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
