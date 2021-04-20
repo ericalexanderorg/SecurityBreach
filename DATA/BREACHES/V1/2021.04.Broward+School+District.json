@@ -1,0 +1,16 @@
+{
+    "entity": "Broward School District",
+    "links": [
+        "https://www.clickorlando.com/news/florida/2021/04/20/hackers-post-26000-files-after-florida-school-district-doesnt-pay-40-million-ransom/"
+    ],
+    "month": 4,
+    "summary": "Hackers who sought $40 million in ransom from a South Florida school district that refused to pay ha",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 4000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
