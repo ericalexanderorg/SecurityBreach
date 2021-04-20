@@ -1,0 +1,16 @@
+{
+    "entity": "University of Portsmouth",
+    "links": [
+        "https://www.infosecurity-magazine.com/news/campus-closed-portsmouth/"
+    ],
+    "month": 4,
+    "summary": "Key IT systems at the University of Portsmouth continue to remain offline this week after a supposed",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
