@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 2021042101",
+    "links": [
+        "https://www.securityweek.com/three-zero-day-flaws-sonicwall-email-security-product-exploited-attacks"
+    ],
+    "month": 4,
+    "summary": "SonicWall's Email Security product is affected by three vulnerabilities that have been exploited in ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
