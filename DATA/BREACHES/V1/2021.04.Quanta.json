@@ -1,0 +1,16 @@
+{
+    "entity": "Quanta",
+    "links": [
+        "https://securityaffairs.co/wordpress/117083/cyber-crime/revil-ransomware-apple-quanta.html"
+    ],
+    "month": 4,
+    "summary": "The REvil ransomware operators are attempting to blackmail Apple after they has allegedly stolen pro",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 5000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
