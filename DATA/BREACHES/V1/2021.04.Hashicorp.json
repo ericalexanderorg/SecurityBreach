@@ -1,0 +1,16 @@
+{
+    "entity": "Hashicorp",
+    "links": [
+        "https://discuss.hashicorp.com/t/hcsec-2021-12-codecov-security-event-and-hashicorp-gpg-key-exposure/23512"
+    ],
+    "month": 4,
+    "summary": "Codecov Security EventOn April 15, 2021, Codecov publicly disclosed a security event during which an",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
