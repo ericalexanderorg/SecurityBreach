@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 2021042701",
+    "links": [
+        "https://securityaffairs.co/wordpress/117144/malware/qlocker-ransomware-infections.html"
+    ],
+    "month": 4,
+    "summary": "A new ransomware strain dubbed Qlocker is infecting hundreds of QNAP NAS devices every day and deman",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 5000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
