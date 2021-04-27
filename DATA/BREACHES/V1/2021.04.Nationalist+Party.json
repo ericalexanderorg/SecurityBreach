@@ -1,0 +1,16 @@
+{
+    "entity": "Nationalist Party",
+    "links": [
+        "https://www.maltatoday.com.mt/news/national/109252/hackers_want_5000_for_hacked_pn_data_before_thursday_deadline"
+    ],
+    "month": 4,
+    "summary": "Hackers holding the Nationalist Party to ransom in order not to publish data seized from a computer ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
