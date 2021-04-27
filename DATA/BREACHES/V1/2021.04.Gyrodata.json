@@ -1,0 +1,16 @@
+{
+    "entity": "Gyrodata",
+    "links": [
+        "https://www.securityweek.com/oilfield-services-company-gyrodata-discloses-data-breach"
+    ],
+    "month": 4,
+    "summary": "Oilfield services company Gyrodata last week revealed that it was recently targeted in a cyberattack",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
