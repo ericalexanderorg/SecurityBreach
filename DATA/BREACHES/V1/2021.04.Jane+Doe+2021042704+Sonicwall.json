@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 2021042704 Sonicwall",
+    "links": [
+        "https://www.darkreading.com/perimeter/zero-day-flaws-in-sonicwall-email-security-tool-under-attack/d/d-id/1340783"
+    ],
+    "month": 4,
+    "summary": "SonicWall has deployed patches for three zero-day vulnerabilities in its email security tools and re",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
