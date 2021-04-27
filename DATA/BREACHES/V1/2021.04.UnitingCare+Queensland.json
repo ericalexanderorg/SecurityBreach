@@ -1,0 +1,16 @@
+{
+    "entity": "UnitingCare Queensland",
+    "links": [
+        "https://www.technologydecisions.com.au/content/security/news/unitingcare-queensland-hit-by-ransomware-attack-1113471805"
+    ],
+    "month": 4,
+    "summary": "UnitingCare Queensland has fallen victim to a ransomware attack that has taken some of the organisat",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
