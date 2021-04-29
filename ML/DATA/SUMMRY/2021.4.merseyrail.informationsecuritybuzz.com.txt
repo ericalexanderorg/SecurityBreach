@@ -1,0 +1,1 @@
+BACKGROUND. UK rail network, Merseyrail has confirmed that it has been targeted by cyberattackers. The cybercriminals used its email system to notify employees and journalists about the ransomware, deemed to be Lockbit after finding an email from the 18th of April with the subject: "Lockbit ransomware attack and Data Theft".
