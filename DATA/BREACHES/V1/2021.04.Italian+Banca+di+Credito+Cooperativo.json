@@ -1,0 +1,16 @@
+{
+    "entity": "Italian Banca di Credito Cooperativo",
+    "links": [
+        "https://securityaffairs.co/wordpress/117360/cyber-crime/banca-di-credito-cooperativo-darkside-ransomware.html"
+    ],
+    "month": 4,
+    "summary": "Banca di Credito Cooperativo, one of the largest Italian cooperative credit banks was hit by a ranso",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
