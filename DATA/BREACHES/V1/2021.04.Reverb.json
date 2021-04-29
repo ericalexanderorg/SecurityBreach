@@ -1,0 +1,16 @@
+{
+    "entity": "Reverb",
+    "links": [
+        "https://gizmodo.com/etsy-owned-music-sales-site-reverb-hit-with-data-breach-1846789193"
+    ],
+    "month": 4,
+    "summary": "Last week, security consultant Bob Diachenko found an unsecured database run by the Etsy-owned music",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2021
+}
