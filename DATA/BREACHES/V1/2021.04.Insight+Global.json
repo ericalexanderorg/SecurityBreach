@@ -1,0 +1,16 @@
+{
+    "entity": "Insight Global",
+    "links": [
+        "https://www.witf.org/2021/04/29/contact-tracing-data-breach-exposed-personal-information-for-more-than-72k-people-in-pa/"
+    ],
+    "month": 4,
+    "summary": "A vendor working with the Pennsylvania Department of Health exposed the private information of more ",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
