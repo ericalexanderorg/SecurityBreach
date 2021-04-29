@@ -1,0 +1,16 @@
+{
+    "entity": "Whistler resort municipality",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/whistler-resort-municipality-hit-by-new-ransomware-operation/"
+    ],
+    "month": 4,
+    "summary": "The Whistler municipality in British Columbia, Canada, has suffered a cyberattack at the hands of a ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
