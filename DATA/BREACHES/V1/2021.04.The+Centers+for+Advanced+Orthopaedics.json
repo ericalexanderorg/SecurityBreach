@@ -1,0 +1,16 @@
+{
+    "entity": "The Centers for Advanced Orthopaedics",
+    "links": [
+        "https://ryortho.com/breaking/maryland-ortho-practice-data-breach-exposes-over-125000-people/"
+    ],
+    "month": 4,
+    "summary": "Bethesda, Maryland-based The Centers for Advanced Orthopaedics has notified 125,291 patients and CAO",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
