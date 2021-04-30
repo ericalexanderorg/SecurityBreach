@@ -1,0 +1,16 @@
+{
+    "entity": "Hotbit",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/hotbit-cryptocurrency-exchange-down-after-hackers-targeted-wallets/"
+    ],
+    "month": 4,
+    "summary": "Cryptocurrency trading platform Hotbit has shut down all services for at least a week after a cybera",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2021
+}
