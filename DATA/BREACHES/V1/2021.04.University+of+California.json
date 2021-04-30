@@ -1,0 +1,16 @@
+{
+    "entity": "University of California",
+    "links": [
+        "https://www.cshub.com/attacks/articles/iotw-university-of-california-schools-hit-with-ransomware-attack"
+    ],
+    "month": 4,
+    "summary": "In March, the University of California announced it was the victim of a ransomware attack. On Januar",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
