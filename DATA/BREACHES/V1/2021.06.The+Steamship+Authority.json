@@ -1,0 +1,16 @@
+{
+    "entity": "The Steamship Authority",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/massachusetts-largest-ferry-service-hit-by-ransomware-attack/"
+    ],
+    "month": 6,
+    "summary": "The Steamship Authority, Massachusetts' largest ferry service, was hit by a ransomware attack on Wed",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 5000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
