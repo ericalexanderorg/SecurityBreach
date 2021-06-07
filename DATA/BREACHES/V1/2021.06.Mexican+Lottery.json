@@ -1,0 +1,16 @@
+{
+    "entity": "Mexican Lottery",
+    "links": [
+        "https://www.technadu.com/mexican-lottery-blocks-access-to-foreign-ips-following-avaddon-ransomware-attack/279935/"
+    ],
+    "month": 6,
+    "summary": "Avaddon hit the Mexican state lottery agency and is already leaking sensitive documents on the site.",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
