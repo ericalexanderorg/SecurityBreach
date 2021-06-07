@@ -1,0 +1,16 @@
+{
+    "entity": "HSE",
+    "links": [
+        "https://www.thejournal.ie/hse-making-progress-rebuilding-systems-after-cyber-attack-paul-reid-ossian-smyth-colm-henry-5452113-May2021/"
+    ],
+    "month": 6,
+    "summary": "API ERROR: TEXT IS TOO SHORT 3",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2021
+}
