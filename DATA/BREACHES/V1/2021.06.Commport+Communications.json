@@ -1,0 +1,16 @@
+{
+    "entity": "Commport Communications",
+    "links": [
+        "https://ca.finance.yahoo.com/news/canada-post-says-950-000-173112847.html"
+    ],
+    "month": 6,
+    "summary": "OTTAWA - Canada Post says more than 950,000 customers were potentially exposed in a data breach atta",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
