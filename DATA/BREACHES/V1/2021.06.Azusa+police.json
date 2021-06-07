@@ -1,0 +1,16 @@
+{
+    "entity": "Azusa police",
+    "links": [
+        "https://www.sgvtribune.com/2021/05/28/azusa-police-computers-hit-by-ransomware-attack/"
+    ],
+    "month": 6,
+    "summary": "Azusa police fell victim to a ransomware attack and the suspect got access to information in the dep",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
