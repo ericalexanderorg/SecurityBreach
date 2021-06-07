@@ -1,0 +1,16 @@
+{
+    "entity": "City of Tulsa",
+    "links": [
+        "https://www.newson6.com/story/60b1b2c7d50a530bcd255668/city-of-tulsa-says-online-bill-payments-now-functional-after-ransomware-attack-"
+    ],
+    "month": 6,
+    "summary": "The City of Tulsa said you can now pay bills online again, following the recent ransomware attack. W",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
