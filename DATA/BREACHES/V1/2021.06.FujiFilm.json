@@ -1,0 +1,16 @@
+{
+    "entity": "FujiFilm",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/fujifilm-shuts-down-network-after-suspected-ransomware-attack/"
+    ],
+    "month": 6,
+    "summary": "FujiFilm is investigating a ransomware attack and has shut down portions of its network to prevent t",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
