@@ -1,0 +1,16 @@
+{
+    "entity": "New South Wales Health",
+    "links": [
+        "https://www.zdnet.com/article/nsw-health-confirms-data-breached-due-to-accellion-vulnerability/"
+    ],
+    "month": 6,
+    "summary": "\"Following the NSW government's advice earlier this year around a world-wide cyber attack that inclu",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
