@@ -1,0 +1,16 @@
+{
+    "entity": "Merseyrail",
+    "links": [
+        "https://informationsecuritybuzz.com/expert-comments/experts-insight-on-merseyrail-targeted-with-lockbit-ransomware/"
+    ],
+    "month": 4,
+    "summary": "BACKGROUND. UK rail network, Merseyrail has confirmed that it has been targeted by cyberattackers. T",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
