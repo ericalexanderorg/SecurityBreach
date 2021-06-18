@@ -1,0 +1,16 @@
+{
+    "entity": "hacktivist vs hactivism - what is the difference?",
+    "links": [
+        "https://ericalexander.org/SecurityBreach/"
+    ],
+    "month": 4,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
