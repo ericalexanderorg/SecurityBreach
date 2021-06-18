@@ -1,0 +1,16 @@
+{
+    "entity": "Colonial Pipeline (update)",
+    "links": [
+        "https://thehackernews.com/2021/06/hackers-breached-colonial-pipeline.html"
+    ],
+    "month": 6,
+    "summary": "The ransomware cartel that masterminded the Colonial Pipeline attack early last month crippled the p",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 4000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
