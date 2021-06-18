@@ -1,0 +1,16 @@
+{
+    "entity": "Cox Media Group",
+    "links": [
+        "https://barrettsportsmedia.com/2021/06/07/cox-media-group-target-of-ransomware-attacks/"
+    ],
+    "month": 6,
+    "summary": "A new poll conducted by the nationally syndicated Kim Komando Show sheds new light on how some peopl",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
