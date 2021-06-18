@@ -1,0 +1,17 @@
+{
+    "entity": "HSE",
+    "links": [
+        "https://www.thejournal.ie/hse-making-progress-rebuilding-systems-after-cyber-attack-paul-reid-ossian-smyth-colm-henry-5452113-May2021/",
+        "https://www.cnbc.com/2021/05/14/irish-health-service-hit-by-sophisticated-ransomware-attack.html"
+    ],
+    "month": 6,
+    "summary": "Ransomware attack lead to shutdown of health services",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransomware"
+    },
+    "year": 2021
+}
