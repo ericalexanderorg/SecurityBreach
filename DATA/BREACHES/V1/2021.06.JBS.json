@@ -1,0 +1,16 @@
+{
+    "entity": "JBS",
+    "links": [
+        "https://www.zdnet.com/article/usda-delays-release-of-wholesale-prices-for-beef-and-pork-after-ransomware-attack-on-jbs-confirmed-by-white-house/"
+    ],
+    "month": 6,
+    "summary": "The fallout from the cyberattack on global meat producer JBS continued on Tuesday as the White House",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
