@@ -1,0 +1,16 @@
+{
+    "entity": "Transportation Research Board",
+    "links": [
+        "https://www.ttnews.com/articles/trbs-registration-database-hacked-ransomware-attack"
+    ],
+    "month": 4,
+    "summary": "\"As a result of the attack, personal information for those who registered for TRB annual meetings fr",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
