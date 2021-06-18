@@ -1,0 +1,16 @@
+{
+    "entity": "Illinois Attorney General",
+    "links": [
+        "https://1440wrok.com/illinois-attorney-generals-office-hit-with-ransomware-attack/"
+    ],
+    "month": 4,
+    "summary": "If you're not familiar with the term \"Ransomware,\" it's worth trying to get yourself up-to-speed, be",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
