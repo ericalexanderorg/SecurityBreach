@@ -1,0 +1,16 @@
+{
+    "entity": "MultiCare Health System",
+    "links": [
+        "https://www.securityweek.com/breach-exposes-data-200k-health-system-staff-patients"
+    ],
+    "month": 3,
+    "summary": "A medical practice management firm that provides support to Tacoma-based MultiCare Health System has",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
