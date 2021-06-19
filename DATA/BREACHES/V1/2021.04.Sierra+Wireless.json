@@ -1,0 +1,16 @@
+{
+    "entity": "Sierra Wireless",
+    "links": [
+        "https://www.itpro.co.uk/security/ransomware/359004/sierra-wireless-ransomware-attack"
+    ],
+    "month": 4,
+    "summary": "IoT solutions provider Sierra Wireless has been forced to halt production at its manufacturing site ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 5000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
