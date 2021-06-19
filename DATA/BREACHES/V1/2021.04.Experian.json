@@ -1,0 +1,16 @@
+{
+    "entity": "Experian",
+    "links": [
+        "https://threatpost.com/experian-api-leaks-american-credit-scores/165731/"
+    ],
+    "month": 4,
+    "summary": "A researcher is claiming that the credit scores of almost every American were exposed through an API",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2021
+}
