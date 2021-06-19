@@ -1,0 +1,16 @@
+{
+    "entity": "DigitalOcean",
+    "links": [
+        "https://www.securityweek.com/digitalocean-discloses-breach-involving-billing-information"
+    ],
+    "month": 4,
+    "summary": "Cloud solutions provider DigitalOcean has started informing some customers that their billing inform",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
