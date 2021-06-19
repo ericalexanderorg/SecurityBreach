@@ -1,0 +1,16 @@
+{
+    "entity": "National Australia Bank",
+    "links": [
+        "https://www.afr.com/companies/financial-services/nab-repays-customers-688k-for-data-breach-20210421-p57l1q"
+    ],
+    "month": 4,
+    "summary": "\"At the time of the event, there were insufficient technical controls in place to prevent transfers ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 6000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
