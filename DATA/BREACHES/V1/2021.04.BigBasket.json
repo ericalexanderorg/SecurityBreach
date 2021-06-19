@@ -1,0 +1,16 @@
+{
+    "entity": "BigBasket",
+    "links": [
+        "https://www.bgr.in/news/bigbasket-data-breach-phone-number-email-id-more-personal-details-of-over-2-crore-indians-leak-dark-web-956564/"
+    ],
+    "month": 4,
+    "summary": "As per a recent report, more than 2 crore user information including some of the sensitive data have",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
