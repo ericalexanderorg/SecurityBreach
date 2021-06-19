@@ -1,0 +1,16 @@
+{
+    "entity": "Moneycontrol",
+    "links": [
+        "https://inc42.com/buzz/moneycontrol-resets-passwords-en-masse-after-alleged-data-breach/"
+    ],
+    "month": 4,
+    "summary": "Personal data of over 7 lakh users has allegedly been leaked on the dark web, where it's available f",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 3000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
