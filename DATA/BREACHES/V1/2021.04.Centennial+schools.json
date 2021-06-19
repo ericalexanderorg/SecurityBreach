@@ -1,0 +1,16 @@
+{
+    "entity": "Centennial schools",
+    "links": [
+        "https://www.oregonlive.com/education/2021/04/centennial-schools-to-close-for-2-days-after-hackers-breach-school-technology-systems.html"
+    ],
+    "month": 4,
+    "summary": "A Portland-area school district has canceled Tuesday and Wednesday classes as staffers work to fix a",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
