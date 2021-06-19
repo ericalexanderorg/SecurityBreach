@@ -1,0 +1,16 @@
+{
+    "entity": "VTA",
+    "links": [
+        "https://www.mercurynews.com/2021/04/26/a-hot-mess-vta-ransomware-attack-strands-riders-with-disabilities/"
+    ],
+    "month": 4,
+    "summary": "As she got ready to go to work last Monday morning, 40-year-old Amanda Evans expected to see the Val",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
