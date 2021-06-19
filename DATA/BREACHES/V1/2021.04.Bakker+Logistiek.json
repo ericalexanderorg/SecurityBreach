@@ -1,0 +1,16 @@
+{
+    "entity": "Bakker Logistiek",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/dutch-supermarkets-run-out-of-cheese-after-ransomware-attack/"
+    ],
+    "month": 4,
+    "summary": "A ransomware attack against conditioned warehousing and transportation provider Bakker Logistiek has",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
