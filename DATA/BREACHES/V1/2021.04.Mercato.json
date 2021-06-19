@@ -1,0 +1,16 @@
+{
+    "entity": "Mercato",
+    "links": [
+        "https://techcrunch.com/2021/04/14/mercato-data-exposed-customers/"
+    ],
+    "month": 4,
+    "summary": "The company fixed the data spill, but has not yet alerted its customers. TechCrunch obtained a copy ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
