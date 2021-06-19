@@ -1,0 +1,16 @@
+{
+    "entity": "Georgetown County",
+    "links": [
+        "https://www.live5news.com/2021/03/16/cyber-experts-weigh-after-georgetown-county-ransomware-attack/"
+    ],
+    "month": 3,
+    "summary": "\"It's estimated that globally there's one ransomware attack on a business every 11 seconds,\" Cyber S",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
