@@ -1,0 +1,16 @@
+{
+    "entity": "Verkada",
+    "links": [
+        "https://www.darkreading.com/vulnerabilities---threats/verkada-breach-demonstrates-danger-of-overprivileged-users/d/d-id/1340403"
+    ],
+    "month": 3,
+    "summary": "The massive breach of privacy of Verkada's customers highlights that companies - often, startups - h",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
