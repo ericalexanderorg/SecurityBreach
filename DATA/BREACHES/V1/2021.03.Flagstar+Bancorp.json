@@ -1,0 +1,16 @@
+{
+    "entity": "Flagstar Bancorp",
+    "links": [
+        "https://www.americanbanker.com/news/flagstars-data-breach-and-what-banks-can-learn-from-it"
+    ],
+    "month": 3,
+    "summary": "Flagstar Bancorp fell victim to a recent data breach in which personal information of employees and ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
