@@ -1,0 +1,16 @@
+{
+    "entity": "Guilderland Central School District",
+    "links": [
+        "https://www.securityweek.com/officials-say-school-district-near-albany-hit-cyberattack"
+    ],
+    "month": 4,
+    "summary": "An Albany-area school district is investigating a malware attack that forced students in grades 7 th",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 4000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
