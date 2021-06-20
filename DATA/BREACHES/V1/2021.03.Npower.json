@@ -1,0 +1,16 @@
+{
+    "entity": "Npower",
+    "links": [
+        "https://www.itpro.co.uk/security/hacking/358713/npower-shuts-down-app-after-hackers-steal-user-data"
+    ],
+    "month": 3,
+    "summary": "Npower has scrapped its mobile app after learning that hackers obtained customer login details to ac",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
