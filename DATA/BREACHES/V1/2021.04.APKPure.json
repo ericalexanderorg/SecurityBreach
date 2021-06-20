@@ -1,0 +1,16 @@
+{
+    "entity": "APKPure",
+    "links": [
+        "https://securityaffairs.co/wordpress/116635/cyber-crime/apkpure-client-malware.html"
+    ],
+    "month": 4,
+    "summary": "APKPure, one of the largest alternative app stores, was the victim of a supply chain attack, threat ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2021
+}
