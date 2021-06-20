@@ -1,0 +1,16 @@
+{
+    "entity": "Ubiquity",
+    "links": [
+        "https://krebsonsecurity.com/2021/04/ubiquiti-all-but-confirms-breach-response-iniquity/"
+    ],
+    "month": 4,
+    "summary": "For four days this past week, Internet-of-Things giant Ubiquiti failed to respond to requests for co",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
