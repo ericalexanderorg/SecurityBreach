@@ -1,0 +1,16 @@
+{
+    "entity": "php.net",
+    "links": [
+        "https://thehackernews.com/2021/04/php-sites-user-database-was-hacked-in.html"
+    ],
+    "month": 4,
+    "summary": "The maintainers of the PHP programming language have issued an update regarding the security inciden",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
