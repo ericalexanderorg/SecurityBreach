@@ -1,0 +1,16 @@
+{
+    "entity": "VW",
+    "links": [
+        "https://www.digitaljournal.com/business/vw-delays-in-contacting-3-3-million-customers-over-data-breach/article"
+    ],
+    "month": 6,
+    "summary": "Customers were not contacted until June 19, 2021, despite the potential for personally indefinable i",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
