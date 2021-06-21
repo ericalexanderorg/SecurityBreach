@@ -1,0 +1,16 @@
+{
+    "entity": "ADATA",
+    "links": [
+        "https://securityaffairs.co/wordpress/119196/cyber-crime/ragnar-locker-ransomware-adata.html?utm_source=rss"
+    ],
+    "month": 6,
+    "summary": "The Taiwanese memory and storage chip maker ADATA was hit by the Ragnar Locker ransomware gang that ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
