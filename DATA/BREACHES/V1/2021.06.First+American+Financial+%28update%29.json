@@ -1,0 +1,16 @@
+{
+    "entity": "First American Financial (update)",
+    "links": [
+        "https://www.bankinfosecurity.com/first-american-financials-sec-breach-settlement-488000-a-16912"
+    ],
+    "month": 6,
+    "summary": "First American Financial Corp., a Santa Clara, California-based company that's one of the largest pr",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 4000000,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A2",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
