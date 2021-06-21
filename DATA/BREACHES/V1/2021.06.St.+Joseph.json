@@ -1,0 +1,16 @@
+{
+    "entity": "St. Joseph",
+    "links": [
+        "https://healthitsecurity.com/news/st-josephs-candler-suffers-ransomware-attack-ehr-downtime"
+    ],
+    "month": 6,
+    "summary": "June 21, 2021 - St. Joseph's/Candler, a large hospital system in Savannah, Georgia, suffered a ranso",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
