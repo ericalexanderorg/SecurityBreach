@@ -1,0 +1,16 @@
+{
+    "entity": "Wegmans",
+    "links": [
+        "https://threatpost.com/wegmans-exposes-customer-data-misconfigured-databases/167099/"
+    ],
+    "month": 6,
+    "summary": "Wegmans Food Markets, the U.S. supermarket chain, has notified customers that some of their data was",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
