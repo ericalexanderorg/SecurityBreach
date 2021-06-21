@@ -1,0 +1,16 @@
+{
+    "entity": "South Korean Atomic Energy Research Institute",
+    "links": [
+        "https://www.securityweek.com/south-korean-atomic-energy-research-institute-confirms-cyberattack"
+    ],
+    "month": 6,
+    "summary": "The South Korean Atomic Energy Research Institute has confirmed that an unknown third-party gained u",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
