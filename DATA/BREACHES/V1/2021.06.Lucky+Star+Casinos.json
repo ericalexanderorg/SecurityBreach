@@ -1,0 +1,16 @@
+{
+    "entity": "Lucky Star Casinos",
+    "links": [
+        "https://www.news9.com/story/60d0f363bfabaa0bec4d556a/lucky-star-casinos-confirm-it-suffered-ransomware-attack"
+    ],
+    "month": 6,
+    "summary": "After its locations statewide were closed over the weekend, Lucky Star Casinos said Monday that it w",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
