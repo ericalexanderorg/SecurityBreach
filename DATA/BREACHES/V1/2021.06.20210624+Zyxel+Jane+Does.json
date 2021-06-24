@@ -1,0 +1,16 @@
+{
+    "entity": "20210624 Zyxel Jane Does",
+    "links": [
+        "https://securityaffairs.co/wordpress/119351/hacking/zyxel-firewall-vpn-attacks.html?utm_source=rss"
+    ],
+    "month": 6,
+    "summary": "Networking equipment giant Zyxel warns customers of a series of attacks that have been targeting som",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
