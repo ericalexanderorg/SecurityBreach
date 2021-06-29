@@ -1,0 +1,16 @@
+{
+    "entity": "Wolfe Eye Clinic",
+    "links": [
+        "https://www.hipaaguide.net/ransomware-attack-on-eye-clinic-network-affects-half-a-million-patients/"
+    ],
+    "month": 6,
+    "summary": "On February 8, 2021, Wolfe Eye Clinic in Iowa suffered a ransomware attack that resulted in widespre",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
