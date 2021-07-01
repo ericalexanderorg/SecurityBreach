@@ -1,0 +1,16 @@
+{
+    "entity": "20210701 Jane Doe",
+    "links": [
+        "https://research.checkpoint.com/2021/indigozebra-apt-continues-to-attack-central-asia-with-evolving-tools/"
+    ],
+    "month": 7,
+    "summary": "The backdoor contain narrow capabilities: download and upload files, run commands and send the attac",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
