@@ -1,0 +1,16 @@
+{
+    "entity": "2021070201 Jane Does",
+    "links": [
+        "https://redhuntlabs.com/blog/thousands-of-unauthenticated-databases-exposed-on-the-internet.html"
+    ],
+    "month": 7,
+    "summary": "At RedHunt Labs we decided to do an internet-scale study on the security posture of databases expose",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2021
+}
