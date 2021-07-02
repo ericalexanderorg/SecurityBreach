@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SecurityBreach/static/css/main.b100e6da.chunk.css",
+    "main.js": "/SecurityBreach/static/js/main.2a5bf73e.chunk.js",
+    "main.js.map": "/SecurityBreach/static/js/main.2a5bf73e.chunk.js.map",
+    "runtime-main.js": "/SecurityBreach/static/js/runtime-main.fa411124.js",
+    "runtime-main.js.map": "/SecurityBreach/static/js/runtime-main.fa411124.js.map",
+    "static/js/2.8f27088a.chunk.js": "/SecurityBreach/static/js/2.8f27088a.chunk.js",
+    "static/js/2.8f27088a.chunk.js.map": "/SecurityBreach/static/js/2.8f27088a.chunk.js.map",
+    "index.html": "/SecurityBreach/index.html",
+    "precache-manifest.dac2b18a08c582ff812813ce4fbbb400.js": "/SecurityBreach/precache-manifest.dac2b18a08c582ff812813ce4fbbb400.js",
+    "service-worker.js": "/SecurityBreach/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/SecurityBreach/static/css/main.b100e6da.chunk.css.map"
+  }
+}
