@@ -1,0 +1,16 @@
+{
+    "entity": "2921062601 Jane Doe",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/microsoft-admits-to-signing-rootkit-malware-in-supply-chain-fiasco/"
+    ],
+    "month": 6,
+    "summary": "Microsoft has now confirmed signing a malicious driver being distributed within gaming environments.",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2021
+}
