@@ -1,0 +1,16 @@
+{
+    "entity": "Indian power company",
+    "links": [
+        "https://thehackernews.com/2021/06/pakistan-linked-hackers-targeted-indian.html"
+    ],
+    "month": 6,
+    "summary": "A threat actor with suspected ties to Pakistan has been striking government and energy organizations",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
