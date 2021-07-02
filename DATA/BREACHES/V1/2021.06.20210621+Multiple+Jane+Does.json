@@ -1,0 +1,16 @@
+{
+    "entity": "20210621 Multiple Jane Does",
+    "links": [
+        "https://securityaffairs.co/wordpress/119135/apt/redfoxtrot-operations-linked-to-chinas-pla-unit-69010-due-to-bad-opsec.html"
+    ],
+    "month": 6,
+    "summary": "Experts from Recorded Future's Insikt Group linked a series of attacks, part of RedFoxtrot China-lin",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
