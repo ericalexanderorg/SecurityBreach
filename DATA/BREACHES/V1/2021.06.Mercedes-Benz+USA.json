@@ -1,0 +1,16 @@
+{
+    "entity": "Mercedes-Benz USA",
+    "links": [
+        "https://sg.news.yahoo.com/mercedes-benz-us-asserts-no-000000006.html"
+    ],
+    "month": 6,
+    "summary": "Mercedes-Benz USA said that it has not found evidence that the personal information of less than 1,0",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
