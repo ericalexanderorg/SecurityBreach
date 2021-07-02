@@ -1,0 +1,16 @@
+{
+    "entity": "Microsoft",
+    "links": [
+        "https://threatpost.com/russian-attackers-breach-microsoft/167340/"
+    ],
+    "month": 6,
+    "summary": "The same group behind the SolarWinds supply-chain attacks has been targeting Microsoft's corporate n",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
