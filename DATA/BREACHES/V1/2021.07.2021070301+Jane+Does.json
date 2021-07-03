@@ -1,0 +1,16 @@
+{
+    "entity": "2021070301 Jane Does",
+    "links": [
+        "https://www.wired.com/story/fancy-bear-russia-brute-force-hacking/"
+    ],
+    "month": 7,
+    "summary": "Russia's devastating SolarWinds spy campaign put the spotlight on the sophisticated supply chain hij",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2021
+}
