@@ -1,0 +1,16 @@
+{
+    "entity": "Kaseya",
+    "links": [
+        "https://www.bbc.com/news/world-us-canada-57703836"
+    ],
+    "month": 7,
+    "summary": "Huntress Labs said the hack targeted Florida-based IT company Kaseya before spreading through corpor",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
