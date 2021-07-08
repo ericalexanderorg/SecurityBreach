@@ -1,0 +1,16 @@
+{
+    "entity": "2021070801 Jane Does",
+    "links": [
+        "https://unit42.paloaltonetworks.com/revil-threat-actors/"
+    ],
+    "month": 7,
+    "summary": "In just the past month, it extracted an $11 million payment from the world's largest meatpacking com",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
