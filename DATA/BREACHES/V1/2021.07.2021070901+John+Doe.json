@@ -1,0 +1,16 @@
+{
+    "entity": "2021070901 John Doe",
+    "links": [
+        "https://blog.keys.casa/casa-client-case-study-the-tinder-trap/"
+    ],
+    "month": 7,
+    "summary": "This week we received an emergency lockdown request from a client who had been attacked and was deal",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
