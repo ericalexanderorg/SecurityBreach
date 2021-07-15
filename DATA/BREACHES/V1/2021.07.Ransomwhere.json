@@ -1,0 +1,16 @@
+{
+    "entity": "Ransomwhere",
+    "links": [
+        "https://ransomwhe.re/"
+    ],
+    "month": 7,
+    "summary": "Due to the transparent nature of Bitcoin, it's easy to track payments with knowledge of receipt addr",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 3000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
