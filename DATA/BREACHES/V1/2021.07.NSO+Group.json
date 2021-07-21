@@ -1,0 +1,16 @@
+{
+    "entity": "NSO Group",
+    "links": [
+        "https://www.schneier.com/blog/archives/2021/07/nso-group-hacked.html"
+    ],
+    "month": 7,
+    "summary": "NSO Group, the Israeli cyberweapons arms manufacturer behind the Pegasus spyware - used by authorita",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2021
+}
