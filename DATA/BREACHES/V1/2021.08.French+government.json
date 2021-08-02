@@ -1,0 +1,16 @@
+{
+    "entity": "French government",
+    "links": [
+        "http://www.homelandsecuritynewswire.com/dr20210729-israel-tries-to-limit-fallout-from-the-pegasus-spyware-scandal"
+    ],
+    "month": 8,
+    "summary": "His goal: To try to pacify the angry French authorities following the revelations that a sophisticat",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
