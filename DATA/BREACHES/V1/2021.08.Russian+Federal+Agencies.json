@@ -1,0 +1,16 @@
+{
+    "entity": "Russian Federal Agencies",
+    "links": [
+        "https://thehackernews.com/2021/08/russian-federal-agencies-were-attacked.html"
+    ],
+    "month": 8,
+    "summary": "An amalgam of multiple state-sponsored threat groups from China may have been behind a string of tar",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
