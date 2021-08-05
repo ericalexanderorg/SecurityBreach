@@ -1,0 +1,16 @@
+{
+    "entity": "Sanford Health",
+    "links": [
+        "https://www.argusleader.com/story/news/2021/08/04/sanford-health-say-no-personal-financial-data-breached-tuesday-cyber-attack-south-dakota/5487666001/"
+    ],
+    "month": 8,
+    "summary": "Hackers have targeted a leading healthcare system headquartered in Sioux Falls. Sanford Health infor",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
