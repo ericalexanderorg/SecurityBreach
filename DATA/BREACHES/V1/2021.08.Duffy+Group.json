@@ -1,0 +1,16 @@
+{
+    "entity": "Duffy Group",
+    "links": [
+        "https://www.entrepreneur.com/article/378829"
+    ],
+    "month": 8,
+    "summary": "In the United States, a cyberattack occurs every 39 seconds, according to Security Magazine. In Marc",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
