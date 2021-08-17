@@ -1,0 +1,16 @@
+{
+    "entity": "T-mobile",
+    "links": [
+        "https://www.vice.com/en/article/y3d4dw/t-mobile-confirms-it-was-hacked"
+    ],
+    "month": 8,
+    "summary": "T-Mobile confirmed hackers gained access to the telecom giant's systems in an announcement published",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
