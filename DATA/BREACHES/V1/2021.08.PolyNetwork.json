@@ -1,0 +1,16 @@
+{
+    "entity": "PolyNetwork",
+    "links": [
+        "https://medium.com/poly-network/latest-updates-aug-17-241398d64a40"
+    ],
+    "month": 8,
+    "summary": "In the past few days, Poly Network has completed the second phase of \"Mainnet Upgrade\" as per the se",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 5000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
