@@ -1,0 +1,16 @@
+{
+    "entity": "Eye & Retina Surgeons",
+    "links": [
+        "https://portswigger.net/daily-swig/ransomware-attack-at-singapore-eye-clinic-potentially-breaches-73-000-patients-data"
+    ],
+    "month": 8,
+    "summary": "A ransomware attack at a Singapore eye clinic has potentially exposed the personal data of more than",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
