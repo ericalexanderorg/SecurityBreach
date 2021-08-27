@@ -1,0 +1,16 @@
+{
+    "entity": "202108271 Jane Does",
+    "links": [
+        "https://www.reuters.com/article/microsoft-security-idUSL1N2PX2W7"
+    ],
+    "month": 8,
+    "summary": "3 Min Read.SAN FRANCISCO, Aug 26 - Microsoft on Thursday warned thousands of its cloud computing cus",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 4000000,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2021
+}
