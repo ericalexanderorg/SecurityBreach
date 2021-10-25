@@ -1,4 +1,10 @@
 # SecurityBreach
+Looking for help. I've struggled with time to keep up on breach intake and attribution. Let me know if you'd like to help. -Eric
+
+
+
+
+# SecurityBreach
 Crowd sourced catalog of security breaches. 
 
 View the data through the UI: https://ericalexander.org/SecurityBreach
