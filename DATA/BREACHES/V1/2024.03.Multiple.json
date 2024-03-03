@@ -1,0 +1,16 @@
+{
+    "entity": "Multiple",
+    "links": [
+        "https://socket.dev/blog/lockbit-cyber-crime-unicorn-billions-in-stolen-funds"
+    ],
+    "month": 3,
+    "summary": "The proverb \"Crime doesn't pay\" might need an update, as the NCA reports reveal LockBit's total mone",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
