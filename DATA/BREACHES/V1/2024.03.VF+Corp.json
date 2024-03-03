@@ -1,0 +1,16 @@
+{
+    "entity": "VF Corp",
+    "links": [
+        "https://www.reddit.com/r/cybersecurity/comments/18lqul8/vans_supreme_owner_vf_corp_says_personal_data/"
+    ],
+    "month": 3,
+    "summary": "Your request has been blocked due to a network policy. Try logging in or creating an account here to",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2024
+}
