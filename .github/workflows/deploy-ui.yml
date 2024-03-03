@@ -18,16 +18,16 @@ jobs:
 
       - name: Install Dependencies
         run: npm install
-        working-directory: UI/v1
+        working-directory: UI/v2
 
       - name: Build
         run: npm run build
-        working-directory: UI/v1
+        working-directory: UI/v2
 
       - name: Upload
         uses: actions/upload-pages-artifact@master
         with:
-          path: UI/v1/build
+          path: UI/v2/build
 
   deploy:
     needs: build
