@@ -1,10 +1,10 @@
 {
-    "entity": "Multiple ",
+    "entity": "Maine",
     "links": [
         "https://www.maine.gov/moveit-global-data-security-incident/"
     ],
-    "month": 3,
-    "summary": "The State of Maine is also offering two years of complimentary credit monitoring and identity theft ",
+    "month": 5,
+    "summary": "MOVEit vulnerability exploited",
     "tags": {
         "actor": "Criminal",
         "cost-usd": 0,
@@ -12,5 +12,5 @@
         "initial-access": "?",
         "motive": "PII:?"
     },
-    "year": 2024
+    "year": 2023
 }
