@@ -1,0 +1,16 @@
+{
+    "entity": "Maine",
+    "links": [
+        "https://www.maine.gov/moveit-global-data-security-incident/"
+    ],
+    "month": 5,
+    "summary": "MOVEit vulnerability exploited",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A06",
+        "motive": "PII:?"
+    },
+    "year": 2023
+}
