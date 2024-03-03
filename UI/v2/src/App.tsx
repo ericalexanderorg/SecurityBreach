@@ -1,18 +1,10 @@
-import {
-  Admin,
-  Resource,
-  ListGuesser,
-  EditGuesser,
-  ShowGuesser,
-} from "react-admin";
+import { Admin, Resource } from "react-admin";
+import { Dashboard } from "./dashboard";
+import { BreachList, BreachCreate } from './breaches';
 import { dataProvider } from "./dataProvider";
 
 export const App = () => (
-  <Admin dataProvider={dataProvider}>
-    <Resource
-      name="breaches"
-      list={ListGuesser}
-      show={ShowGuesser}
-    />
+  <Admin dashboard={Dashboard} title="SecurityBreach" dataProvider={dataProvider}>
+    <Resource name="breaches" list={BreachList} create={BreachCreate} />
   </Admin>
 );
