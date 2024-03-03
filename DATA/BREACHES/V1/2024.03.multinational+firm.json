@@ -1,0 +1,16 @@
+{
+    "entity": "multinational firm",
+    "links": [
+        "https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html"
+    ],
+    "month": 3,
+    "summary": "API ERROR: THE REQUESTED PAGE IS TOO LONG",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2024
+}
