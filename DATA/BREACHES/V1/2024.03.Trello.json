@@ -1,0 +1,16 @@
+{
+    "entity": "Trello",
+    "links": [
+        "https://news.ycombinator.com/item?id=39096280"
+    ],
+    "month": 3,
+    "summary": "Attackers queried Trello with email addresses and got back names, usernames and if the addresses wer",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
