@@ -1,0 +1,16 @@
+{
+    "entity": "Multiple breaches",
+    "links": [
+        "https://www.infostealers.com/article/top-5-breaches-caused-by-infostealer-infections/"
+    ],
+    "month": 3,
+    "summary": "Hudson Rock's cybersecurity intelligence was instrumental in uncovering the breach, revealing that t",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
