@@ -1,0 +1,16 @@
+{
+    "entity": "Norton Healthcare",
+    "links": [
+        "https://moonlock.com/norton-healthcare-breach-2"
+    ],
+    "month": 3,
+    "summary": "It has been about seven months since Norton Healthcare - a leading United States healthcare organiza",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
