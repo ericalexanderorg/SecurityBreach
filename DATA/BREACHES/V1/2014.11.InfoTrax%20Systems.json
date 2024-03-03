@@ -1,1 +1,16 @@
-{"entity": "InfoTrax Systems", "links": ["https://thehackernews.com/2019/11/hacking-file-storage.html"], "month": 11, "summary": "Entity alerted to 2 year long breach when storage capacity exhausted.", "tags": {"actor": "Criminal", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "?", "motive": "PII:?"}, "year": 2014}
+{
+    "entity": "InfoTrax Systems",
+    "links": [
+        "https://thehackernews.com/2019/11/hacking-file-storage.html"
+    ],
+    "month": 11,
+    "summary": "Entity alerted to 2 year long breach when storage capacity exhausted.",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2014
+}

@@ -11,7 +11,7 @@
     "react-admin": "^3.19.12",
     "react-dom": "^16.10.0",
     "react-google-charts": "^3.0.15",
-    "react-scripts": "5.0.1"
+    "react-scripts": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",

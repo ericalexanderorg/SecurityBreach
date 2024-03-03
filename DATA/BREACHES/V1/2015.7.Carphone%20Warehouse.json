@@ -1,1 +1,15 @@
-{"entity": "Carphone Warehouse", "month": 7, "year": 2015, "summary": "Site compromised due to known (6 years) wordpress plugin vulnerability", "tags": {"motive": "PII:?", "actor": "Criminal", "initial-access": "OWASP:A9"}, "links": ["https://www.databreachtoday.com/carphone-warehouse-breach-striking-failures-trigger-fine-a-10571", "https://ico.org.uk/media/action-weve-taken/mpns/2172972/carphone-warehouse-mpn-20180110.pdf"]}
+{
+    "entity": "Carphone Warehouse",
+    "month": 7,
+    "year": 2015,
+    "summary": "Site compromised due to known (6 years) wordpress plugin vulnerability",
+    "tags": {
+        "motive": "PII:?",
+        "actor": "Criminal",
+        "initial-access": "OWASP:A9"
+    },
+    "links": [
+        "https://www.databreachtoday.com/carphone-warehouse-breach-striking-failures-trigger-fine-a-10571",
+        "https://ico.org.uk/media/action-weve-taken/mpns/2172972/carphone-warehouse-mpn-20180110.pdf"
+    ]
+}

@@ -1,1 +1,16 @@
-{"year": 2015, "month": 1, "entity": "GE", "summary": "Entity targeted for aeronautic related intellectual property", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Nation State:Turbine Panda", "initial-access": "?", "motive": "Espionage"}, "links": ["https://www.zdnet.com/article/building-chinas-comac-c919-airplane-involved-a-lot-of-hacking-report-says/"]}
+{
+    "year": 2015,
+    "month": 1,
+    "entity": "GE",
+    "summary": "Entity targeted for aeronautic related intellectual property",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:Turbine Panda",
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "links": [
+        "https://www.zdnet.com/article/building-chinas-comac-c919-airplane-involved-a-lot-of-hacking-report-says/"
+    ]
+}
