@@ -1,0 +1,16 @@
+{
+    "entity": "North Carolina City",
+    "links": [
+        "https://www.cyberdaily.co.uk/employee-data-leaked-in-north-carolina-city-due-to-thanksgiving-cyber-attack/"
+    ],
+    "month": 3,
+    "summary": "Hendersonville, a city in North Carolina, has faced a significant cyberattack. The attack targeted e",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
