@@ -1,0 +1,16 @@
+{
+    "entity": "AnyDesk",
+    "links": [
+        "https://techcrunch.com/2024/02/05/remote-access-giant-anydesk-resets-passwords-and-revokes-certificates-after-hack/"
+    ],
+    "month": 3,
+    "summary": "We, TechCrunch, are part of the Yahoo family of brandsThe sites and apps that we own and operate, in",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
