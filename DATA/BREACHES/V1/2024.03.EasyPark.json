@@ -1,0 +1,16 @@
+{
+    "entity": "EasyPark",
+    "links": [
+        "https://www.easypark.com/en-nl/comm"
+    ],
+    "month": 3,
+    "summary": "Published: December 14, at 21:00 CETUpdated: January 18, at 10:00 CETUpdate on EasyPark data breachW",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
