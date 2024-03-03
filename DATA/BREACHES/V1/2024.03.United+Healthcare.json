@@ -1,0 +1,16 @@
+{
+    "entity": "United Healthcare",
+    "links": [
+        "https://www.cnn.com/2024/02/23/business/cyberattack-leaves-patients-facing-the-choice-to-pay-or-wait-for-their-prescriptions/index.html"
+    ],
+    "month": 3,
+    "summary": "API ERROR: THE REQUESTED PAGE IS TOO LONG",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2024
+}
