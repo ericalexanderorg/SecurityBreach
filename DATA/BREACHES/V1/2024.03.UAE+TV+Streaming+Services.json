@@ -1,0 +1,16 @@
+{
+    "entity": "UAE TV Streaming Services",
+    "links": [
+        "https://www.theguardian.com/technology/2024/feb/08/iran-backed-hackers-interrupt-uae-tv-streaming-services-with-deepfake-news"
+    ],
+    "month": 3,
+    "summary": "Iranian state-backed hackers interrupted TV streaming services in the United Arab Emirates to broadc",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2024
+}
