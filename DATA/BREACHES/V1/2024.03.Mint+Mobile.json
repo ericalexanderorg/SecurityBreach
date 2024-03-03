@@ -1,0 +1,16 @@
+{
+    "entity": "Mint Mobile",
+    "links": [
+        "https://www.pcmag.com/news/mint-mobile-recently-suffered-a-security-breach"
+    ],
+    "month": 3,
+    "summary": "If you consent, we and our 803 partners can store and access personal information on your device to ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2024
+}
