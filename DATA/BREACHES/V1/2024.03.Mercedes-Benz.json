@@ -1,0 +1,16 @@
+{
+    "entity": "Mercedes-Benz",
+    "links": [
+        "https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/"
+    ],
+    "month": 3,
+    "summary": "We, TechCrunch, are part of the Yahoo family of brandsThe sites and apps that we own and operate, in",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
