@@ -1,0 +1,16 @@
+{
+    "entity": "AutoZone",
+    "links": [
+        "https://www.securityweek.com/185000-individuals-impacted-by-moveit-hack-at-car-parts-giant-autozone/"
+    ],
+    "month": 3,
+    "summary": "Car parts giant AutoZone, which has over 7,000 stores across the Americas, is informing nearly 185,0",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
