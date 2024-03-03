@@ -1,0 +1,16 @@
+{
+    "entity": "Cloudflare",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/cloudflare-hacked-using-auth-tokens-stolen-in-okta-attack/"
+    ],
+    "month": 3,
+    "summary": "Cloudflare disclosed today that its internal Atlassian server was breached by a 'nation state' attac",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
