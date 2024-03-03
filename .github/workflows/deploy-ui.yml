@@ -27,7 +27,7 @@ jobs:
       - name: Upload
         uses: actions/upload-pages-artifact@master
         with:
-          path: UI/v2/build
+          path: UI/v2/dist
 
   deploy:
     needs: build
