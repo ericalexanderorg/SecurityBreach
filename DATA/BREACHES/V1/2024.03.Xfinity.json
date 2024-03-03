@@ -1,0 +1,16 @@
+{
+    "entity": "Xfinity",
+    "links": [
+        "https://www.theverge.com/2023/12/18/24007082/xfinity-data-breach-hack-notice-citrix"
+    ],
+    "month": 3,
+    "summary": "API ERROR: THE REQUESTED PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2024
+}
