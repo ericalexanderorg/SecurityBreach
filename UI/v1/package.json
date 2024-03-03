@@ -8,7 +8,7 @@
     "ra-data-fakerest": "^2.6.0",
     "ra-data-json-server": "^2.9.6",
     "react": "^16.10.0",
-    "react-admin": "^2.9.6",
+    "react-admin": "^3.19.12",
     "react-dom": "^16.10.0",
     "react-google-charts": "^3.0.15",
     "react-scripts": "5.0.1"
