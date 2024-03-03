@@ -1,38 +1,47 @@
-name: Deploy UI
+name: Build and deploy to Github Pages
 
 on:
   push:
     branches:
-    - master
+      - main  
 
 jobs:
-  build-deploy:
+  build: 
+
+    permissions:
+      contents: read
+
+    runs-on: ubuntu-latest
+    steps: 
+      - name: Checkout Repository
+        uses: actions/checkout@master
+
+      - name: Install Dependencies
+        run: npm install
+        working-directory: UI/v1
+
+      - name: Build
+        run: npm run build
+        working-directory: UI/v1
+
+      - name: Upload
+        uses: actions/upload-pages-artifact@master
+        with:
+          path: UI/v1/build
+
+  deploy:
+    needs: build
+
+    permissions:
+      pages: write
+      id-token: write
+
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@master
-
-    - name: Merge JSON
-      uses: ericalexanderorg/SecurityBreach/ACTIONS/merge-json@master
-
-    - name: Set Node.js 10.x
-      uses: actions/setup-node@master
-      with:
-        version: 10.x
-    
-    - name: Install dependencies
-      working-directory: ./UI/v1
-      run: |
-        npm install -g yarn
-        yarn install
-
-    - name: Build and Deploy
-      working-directory: ./UI/v1
-      run: yarn build
-
-    - name: Deploy
-      uses: maxheld83/ghpages@v0.2.1
-      if: success()
-      env:
-        GH_PAT: ${{ secrets.GH_PAT }}
-        BUILD_DIR: UI/v1/build/
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@master
