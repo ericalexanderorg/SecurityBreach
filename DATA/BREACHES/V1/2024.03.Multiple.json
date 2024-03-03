@@ -1,9 +1,9 @@
 {
-    "entity": "Multiple",
+    "entity": "Multiple 20230725",
     "links": [
         "https://socket.dev/blog/social-engineering-campaign-npm-malware"
     ],
-    "month": 3,
+    "month": 7,
     "summary": "A recent alert from GitHub has sounded the alarm bells about a sophisticated social engineering sche",
     "tags": {
         "actor": "Nation State",
@@ -12,5 +12,5 @@
         "initial-access": "?",
         "motive": "Espionage"
     },
-    "year": 2024
+    "year": 2023
 }
