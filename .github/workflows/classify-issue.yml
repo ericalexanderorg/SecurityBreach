@@ -18,7 +18,7 @@ jobs:
           SUMMRY_API_KEY: ${{ secrets.SUMMRY_API_KEY }}
       - name: Create Pull Request
         id: cpr
-        uses: peter-evans/create-pull-request@v4
+        uses: peter-evans/create-pull-request@v6
         with:
           token: ${{ secrets.GH_PAT }}
           commit-message: ${{ steps.classify.outputs.pr_comment }}
