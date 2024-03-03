@@ -1,0 +1,16 @@
+{
+    "entity": "Multiple",
+    "links": [
+        "https://www.databreaches.net/"
+    ],
+    "month": 3,
+    "summary": "API ERROR: SOURCE IS TOO SHORT",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
