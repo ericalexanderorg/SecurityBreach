@@ -1,0 +1,16 @@
+{
+    "entity": "First Republic Bank",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/cloud-engineer-gets-2-years-for-wiping-ex-employers-code-repos/"
+    ],
+    "month": 3,
+    "summary": "Miklos Daniel Brody, a cloud engineer, was sentenced to two years in prison and a restitution of $52",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 5000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
