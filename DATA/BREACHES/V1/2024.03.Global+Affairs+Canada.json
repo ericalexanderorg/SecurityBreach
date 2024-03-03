@@ -1,0 +1,16 @@
+{
+    "entity": "Global Affairs Canada",
+    "links": [
+        "https://www.cbc.ca/news/politics/global-affairs-security-breach-1.7099290"
+    ],
+    "month": 3,
+    "summary": "Canadian authorities are investigating a prolonged data security breach following the \"Detection of ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
