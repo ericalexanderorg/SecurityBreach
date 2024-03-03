@@ -1,0 +1,16 @@
+{
+    "entity": "Bank of America",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/bank-of-america-warns-customers-of-data-breach-after-vendor-hack/"
+    ],
+    "month": 3,
+    "summary": "Bank of America is warning customers of a data breach exposing their personal information after one ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
