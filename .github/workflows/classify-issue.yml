@@ -22,8 +22,6 @@ jobs:
         with:
           token: ${{ secrets.GH_PAT }}
           commit-message: ${{ steps.classify.outputs.pr_comment }}
-          author-email: security-breach-auto-classify@users.noreply.github.com
-          author-name: Auto Classify
           title: auto-classify-issue-${{ steps.classify.outputs.issue_number }}
           body: auto-classify-issue-${{ steps.classify.outputs.issue_number }}
           labels: auto-classify
