@@ -1,0 +1,16 @@
+{
+    "entity": "Spoutible",
+    "links": [
+        "https://www.troyhunt.com/how-spoutibles-leaky-api-spurted-out-a-deluge-of-personal-data/"
+    ],
+    "month": 3,
+    "summary": "Last week, someone reached it to me with what they claimed was a Spoutible data breach obtained by e",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
