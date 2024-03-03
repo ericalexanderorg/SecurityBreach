@@ -1,0 +1,16 @@
+{
+    "entity": "LoanDepot",
+    "links": [
+        "https://www.scmagazine.com/news/loandepot-confirms-ssns-leaked-in-breach-claimed-by-alphv-blackcat"
+    ],
+    "month": 3,
+    "summary": "Major U.S. mortgage lender loanDepot notified nearly 17 million customers that their data, including",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 6000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
