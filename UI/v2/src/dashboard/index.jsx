@@ -1,6 +1,7 @@
 import { Component } from 'react';
 import { Welcome } from './Welcome';
 import { HelpWanted } from './HelpWanted';
+import { Chart } from './Chart';
 
 
 const styles = {
@@ -10,6 +11,14 @@ const styles = {
     rightCol: { flex: 1, marginLeft: '1em' },
     singleCol: { marginTop: '2em', marginBottom: '2em' },
 };
+
+export const yearsData = [
+    ["Year", "Sales", "Expenses", "Profit"],
+    ["2014", 1000, 400, 200],
+    ["2015", 1170, 460, 250],
+    ["2016", 660, 1120, 300],
+    ["2017", 1030, 540, 350],
+  ];
 
 class DashboardComponent extends Component {
     render() {
@@ -21,6 +30,9 @@ class DashboardComponent extends Component {
                     </div>
                     <div style={{ marginBottom: '2em' }}>
                         <HelpWanted />
+                    </div>
+                    <div style={{marginBottom: '2em' }}>
+                        <Chart type={'BarChart'} value={yearsData} title={'Years'} subject={'Breaches cataloged per year.'} />
                     </div>
                 </div>
             </div>
