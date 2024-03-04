@@ -90,13 +90,16 @@ class DashboardComponent extends Component {
                         <Chart type={'BarChart'} value={metrics.yearsCount} title={'Years'} subject={'Breaches cataloged per year'} />
                     </div>
                     <div style={{marginBottom: '2em' }}>
-                        <Chart type={'PieChart'} value={metrics.actorCount} title={'Bad Actors'} subject={'Breaches per bad actor'} />
+                        <Chart type={'BarChart'} value={metrics.monthsCount} title={'Months'} subject={'Are there more breaches in certain months?'} />
                     </div>
                     <div style={{marginBottom: '2em' }}>
-                        <Chart type={'PieChart'} value={metrics.initialAccessCount} title={'Initial Access'} subject={'Access'} />
+                        <Chart type={'PieChart'} value={metrics.actorCount} title={'Bad Actors'} subject={'Who did it?'} />
                     </div>
                     <div style={{marginBottom: '2em' }}>
-                        <Chart type={'PieChart'} value={metrics.motiveCount} title={'Motive'} subject={'Motive'} />
+                        <Chart type={'PieChart'} value={metrics.initialAccessCount} title={'Initial Access'} subject={'How did they get in?'} />
+                    </div>
+                    <div style={{marginBottom: '2em' }}>
+                        <Chart type={'PieChart'} value={metrics.motiveCount} title={'Motive'} subject={'What was their motive?'} />
                     </div>
                 </div>
             </div>
