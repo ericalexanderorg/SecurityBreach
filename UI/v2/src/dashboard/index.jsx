@@ -1,6 +1,7 @@
 import { Component } from 'react';
-import { CardWelcome } from './cardWelcome';
-import HelpWanted from './cardHelpWanted'
+import { Welcome } from './Welcome';
+import { HelpWanted } from './HelpWanted';
+
 
 const styles = {
     flex: { display: 'flex' },
@@ -16,7 +17,7 @@ class DashboardComponent extends Component {
             <div>
                 <div style={styles.flexColumn}>
                     <div style={{ marginBottom: '2em' }}>
-                        <CardWelcome />
+                        <Welcome />
                     </div>
                     <div style={{ marginBottom: '2em' }}>
                         <HelpWanted />

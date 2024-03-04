@@ -1,15 +1,8 @@
-import React from 'react';
 import Button from '@mui/material/Button';
-import { Explore as ExploreIcon } from "@mui/icons-material";
+import { Explore as ExploreIcon, Code as CodeIcon, Help as HelpIcon, Description as DescriptionIcon } from "@mui/icons-material";
 import { Card, CardContent, CardActions, Typography } from '@mui/material';
 
-const styles = {
-    media: {
-        height: '18em',
-    },
-};
-
-export const CardWelcome = () => (
+export const Welcome = () => (
     <Card>
         <CardContent>
             <Typography variant="headline" component="h1">
