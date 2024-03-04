@@ -15,7 +15,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 1
+            "id": 0
         },
         {
             "year": 2014,
@@ -35,7 +35,7 @@
                 "https://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-black-vine-cyberespionage-group.pdf",
                 "https://www.bankinfosecurity.com/new-in-depth-analysis-anthem-breach-a-9627"
             ],
-            "id": 2
+            "id": 1
         },
         {
             "entity": "CMA CGM",
@@ -52,7 +52,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 3
+            "id": 2
         },
         {
             "entity": "Carnival Corp",
@@ -69,7 +69,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 4
+            "id": 3
         },
         {
             "entity": "John Doe",
@@ -86,7 +86,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 5
+            "id": 4
         },
         {
             "entity": "OXO",
@@ -101,7 +101,7 @@
             "links": [
                 "https://ago.vermont.gov/blog/2018/12/28/oxo-notice-of-data-breach-to-consumers-2/"
             ],
-            "id": 6
+            "id": 5
         },
         {
             "entity": "Arbys",
@@ -116,7 +116,7 @@
             "links": [
                 "https://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100"
             ],
-            "id": 7
+            "id": 6
         },
         {
             "year": 2019,
@@ -133,7 +133,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/trendmicro-employee-sold-customer-info-to-tech-support-scammers/"
             ],
-            "id": 8
+            "id": 7
         },
         {
             "entity": "texthelp.com",
@@ -148,7 +148,7 @@
             "links": [
                 "https://www.texthelp.com/en-gb/company/corporate-blog/february-2018/data-security-investigation-underway-at-texthelp/"
             ],
-            "id": 9
+            "id": 8
         },
         {
             "entity": "Aptoide",
@@ -165,7 +165,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 10
+            "id": 9
         },
         {
             "entity": "City of Marseille",
@@ -182,7 +182,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 11
+            "id": 10
         },
         {
             "entity": "NiceHash",
@@ -197,7 +197,7 @@
             "links": [
                 "https://www.reddit.com/r/NiceHash/comments/7i0s6o/official_press_release_statement_by_nicehash/"
             ],
-            "id": 12
+            "id": 11
         },
         {
             "year": 2016,
@@ -214,7 +214,7 @@
             "links": [
                 "https://thehackernews.com/2019/10/hackers-extorted-money.html"
             ],
-            "id": 13
+            "id": 12
         },
         {
             "entity": "Prestige Software",
@@ -231,7 +231,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 14
+            "id": 13
         },
         {
             "entity": "Timehop",
@@ -246,7 +246,7 @@
             "links": [
                 "https://www.timehop.com/security"
             ],
-            "id": 15
+            "id": 14
         },
         {
             "year": 2016,
@@ -263,7 +263,7 @@
             "links": [
                 "https://web.br.de/interaktiv/winnti/english/"
             ],
-            "id": 16
+            "id": 15
         },
         {
             "entity": "Tecnimont",
@@ -278,7 +278,7 @@
             "links": [
                 "https://www.bankinfosecurity.com/bec-scam-leads-to-theft-186-million-a-11930"
             ],
-            "id": 17
+            "id": 16
         },
         {
             "entity": "Stockx",
@@ -295,7 +295,7 @@
                 "motive": "?"
             },
             "year": 2019,
-            "id": 18
+            "id": 17
         },
         {
             "entity": "Ripoff Report",
@@ -312,7 +312,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2016,
-            "id": 19
+            "id": 18
         },
         {
             "entity": "City of Las Vegas",
@@ -329,7 +329,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 20
+            "id": 19
         },
         {
             "year": 2019,
@@ -346,7 +346,7 @@
             "links": [
                 "https://thehackernews.com/2019/05/credit-card-checkers-restaurants.html"
             ],
-            "id": 21
+            "id": 20
         },
         {
             "entity": "Rand McNally",
@@ -363,7 +363,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 22
+            "id": 21
         },
         {
             "year": 2019,
@@ -380,7 +380,7 @@
             "links": [
                 "https://www.scmagazine.com/home/security-news/data-breach/independent-researcher-xxdesmus-discovered-a-honda-motor-company-database-leaking-the-computer-data-of-134-million-rows-roughly-40gb-of-employee-information/"
             ],
-            "id": 23
+            "id": 22
         },
         {
             "year": 2019,
@@ -397,7 +397,7 @@
             "links": [
                 "https://www.fireeye.com/blog/threat-research/2019/10/messagetap-who-is-reading-your-text-messages.html"
             ],
-            "id": 24
+            "id": 23
         },
         {
             "entity": "Mongolian Public Sector",
@@ -414,7 +414,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 25
+            "id": 24
         },
         {
             "entity": "Seyfarth Shaw LLP",
@@ -431,7 +431,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 26
+            "id": 25
         },
         {
             "year": 2018,
@@ -449,7 +449,7 @@
                 "https://web.br.de/interaktiv/winnti/english/",
                 "https://media.cert.europa.eu/static/MEMO/2019/TLP-WHITE-CERT-EU-MEMO-190725-1.pdf"
             ],
-            "id": 27
+            "id": 26
         },
         {
             "entity": "Hammer Nutrition",
@@ -464,7 +464,7 @@
             "links": [
                 "https://oag.ca.gov/system/files/1st%20Email%20Notification%2012-17-18_0.pdf"
             ],
-            "id": 28
+            "id": 27
         },
         {
             "year": 2019,
@@ -481,7 +481,7 @@
             "links": [
                 "https://threatpost.com/ransomware-demand-massachusetts-city-no-thanks/148034/"
             ],
-            "id": 29
+            "id": 28
         },
         {
             "year": 2016,
@@ -498,7 +498,7 @@
             "links": [
                 "https://krebsonsecurity.com/2017/02/fast-food-chain-arbys-acknowledges-breach/"
             ],
-            "id": 30
+            "id": 29
         },
         {
             "entity": "The city of Racine",
@@ -515,7 +515,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 31
+            "id": 30
         },
         {
             "entity": "Olympic Ticket Reseller and Survival Food Sites",
@@ -532,7 +532,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 32
+            "id": 31
         },
         {
             "entity": "Newegg",
@@ -548,7 +548,7 @@
                 "https://techcrunch.com/2018/09/19/newegg-credit-card-data-breach/",
                 "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"
             ],
-            "id": 33
+            "id": 32
         },
         {
             "entity": "Michigan State University",
@@ -565,7 +565,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 34
+            "id": 33
         },
         {
             "entity": "Travelex",
@@ -583,7 +583,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 35
+            "id": 34
         },
         {
             "entity": "NRC Health",
@@ -600,7 +600,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 36
+            "id": 35
         },
         {
             "entity": "Entities involved in South China Sea disputes",
@@ -617,7 +617,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 37
+            "id": 36
         },
         {
             "entity": "Cox Media Group",
@@ -634,7 +634,7 @@
                 "motive": "PII:?"
             },
             "year": 2021,
-            "id": 38
+            "id": 37
         },
         {
             "entity": "https://www.informationsecuritybuzz.com/expert-comments/expert-commentary-massive-nitro-data-breach-impacts-microsoft-google-apple-more/",
@@ -651,7 +651,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 39
+            "id": 38
         },
         {
             "entity": "City of Potsdam",
@@ -668,7 +668,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 40
+            "id": 39
         },
         {
             "entity": "College of Nurses of Ontario",
@@ -685,7 +685,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 41
+            "id": 40
         },
         {
             "entity": "Dreamfii HK Limited",
@@ -702,7 +702,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 42
+            "id": 41
         },
         {
             "entity": "Catch Restaurants",
@@ -719,7 +719,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2019,
-            "id": 43
+            "id": 42
         },
         {
             "entity": "Multiple entities",
@@ -736,7 +736,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 44
+            "id": 43
         },
         {
             "entity": "Edureka",
@@ -753,7 +753,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 45
+            "id": 44
         },
         {
             "entity": "Nine websites",
@@ -770,7 +770,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 46
+            "id": 45
         },
         {
             "entity": "Jane Doe 2020110901",
@@ -787,7 +787,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 47
+            "id": 46
         },
         {
             "year": 2019,
@@ -804,7 +804,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/over-90-million-records-leaked-by-chinese-public-security-department/"
             ],
-            "id": 48
+            "id": 47
         },
         {
             "entity": "Cayman National Bank",
@@ -821,7 +821,7 @@
                 "motive": "Hacktivism:Schadenfreude"
             },
             "year": 2016,
-            "id": 49
+            "id": 48
         },
         {
             "entity": "Student Advocates Group",
@@ -838,7 +838,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 50
+            "id": 49
         },
         {
             "entity": "Trump\u2019s Twitter Account",
@@ -855,7 +855,7 @@
                 "motive": "Hacktivism:Schadenfreude"
             },
             "year": 2020,
-            "id": 51
+            "id": 50
         },
         {
             "entity": "Beatrice Public School District",
@@ -872,7 +872,7 @@
                 "motive": "Money:Ransomware"
             },
             "year": 2020,
-            "id": 52
+            "id": 51
         },
         {
             "entity": "The Centers for Advanced Orthopaedics",
@@ -889,7 +889,7 @@
                 "motive": "PII:?"
             },
             "year": 2021,
-            "id": 53
+            "id": 52
         },
         {
             "entity": "Mid-Prairie School District",
@@ -906,7 +906,7 @@
                 "motive": "Money:Ransomware"
             },
             "year": 2020,
-            "id": 54
+            "id": 53
         },
         {
             "entity": "RailWorks",
@@ -923,7 +923,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 55
+            "id": 54
         },
         {
             "entity": "The Manor Independent School District",
@@ -940,7 +940,7 @@
                 "motive": "Money:Bank Transfer"
             },
             "year": 2020,
-            "id": 56
+            "id": 55
         },
         {
             "entity": "Middle East Govs",
@@ -959,7 +959,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 57
+            "id": 56
         },
         {
             "entity": "Blind",
@@ -974,7 +974,7 @@
             "links": [
                 "https://techcrunch.com/2018/12/20/blind-anonymous-app-data-exposure/"
             ],
-            "id": 58
+            "id": 57
         },
         {
             "entity": "East Greenwich City",
@@ -991,7 +991,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 59
+            "id": 58
         },
         {
             "year": 2019,
@@ -1008,7 +1008,7 @@
             "links": [
                 "https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html"
             ],
-            "id": 60
+            "id": 59
         },
         {
             "entity": "Isreal water system",
@@ -1025,7 +1025,7 @@
                 "motive": "Political"
             },
             "year": 2020,
-            "id": 61
+            "id": 60
         },
         {
             "entity": "Software MacKiev",
@@ -1042,7 +1042,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 62
+            "id": 61
         },
         {
             "entity": "AT&T",
@@ -1059,7 +1059,7 @@
                 "motive": "Money:Misc"
             },
             "year": 2019,
-            "id": 63
+            "id": 62
         },
         {
             "entity": "Rogers",
@@ -1076,7 +1076,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 64
+            "id": 63
         },
         {
             "entity": "Cathay Pacific Airways",
@@ -1091,7 +1091,7 @@
             "links": [
                 "https://www.nytimes.com/2018/10/25/business/cathay-pacific-hack.html"
             ],
-            "id": 65
+            "id": 64
         },
         {
             "entity": "InfoTrax Systems",
@@ -1108,7 +1108,7 @@
                 "motive": "PII:?"
             },
             "year": 2014,
-            "id": 66
+            "id": 65
         },
         {
             "entity": "PageUp",
@@ -1123,7 +1123,7 @@
             "links": [
                 "https://www.itwire.com/open-sauce/85366-pageup-claims-no-data-taken-in-breach-please-pull-the-other-one.html"
             ],
-            "id": 67
+            "id": 66
         },
         {
             "entity": "Microsoft",
@@ -1140,7 +1140,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 68
+            "id": 67
         },
         {
             "entity": "Slickwraps",
@@ -1157,7 +1157,7 @@
                 "motive": "Hacktivism:?"
             },
             "year": 2020,
-            "id": 69
+            "id": 68
         },
         {
             "entity": "Mailgun/Reddit",
@@ -1172,7 +1172,7 @@
             "links": [
                 "http://blog.mailgun.com/mailgun-security-incident-and-important-customer-information/"
             ],
-            "id": 70
+            "id": 69
         },
         {
             "entity": "Campari",
@@ -1189,7 +1189,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 71
+            "id": 70
         },
         {
             "entity": "discountmugs.com",
@@ -1204,7 +1204,7 @@
             "links": [
                 "https://ago.vermont.gov/blog/2018/12/26/bel-usa-notice-of-data-breach-to-consumers/"
             ],
-            "id": 72
+            "id": 71
         },
         {
             "year": 2019,
@@ -1222,7 +1222,7 @@
                 "https://www.welivesecurity.com/2019/07/02/two-billion-logs-leaked-smart-home/",
                 "https://www.bleepingcomputer.com/news/security/billions-of-records-including-passwords-leaked-by-smart-home-vendor/"
             ],
-            "id": 73
+            "id": 72
         },
         {
             "entity": "JailCore",
@@ -1239,7 +1239,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 74
+            "id": 73
         },
         {
             "entity": "Santander Consumer Bank",
@@ -1256,7 +1256,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 75
+            "id": 74
         },
         {
             "entity": "Bitpoint",
@@ -1273,7 +1273,7 @@
                 "motive": "Money:Cryptocurrency"
             },
             "year": 2019,
-            "id": 76
+            "id": 75
         },
         {
             "entity": "Unnamed company that enables birth and death record access",
@@ -1290,7 +1290,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2019,
-            "id": 77
+            "id": 76
         },
         {
             "year": 2015,
@@ -1307,7 +1307,7 @@
             "links": [
                 "https://www.zdnet.com/article/building-chinas-comac-c919-airplane-involved-a-lot-of-hacking-report-says/"
             ],
-            "id": 78
+            "id": 77
         },
         {
             "entity": "Minted",
@@ -1324,7 +1324,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 79
+            "id": 78
         },
         {
             "entity": "Synoptek",
@@ -1341,7 +1341,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 80
+            "id": 79
         },
         {
             "entity": "Political and law enforcement organizations and NGOs in Asia",
@@ -1358,7 +1358,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 81
+            "id": 80
         },
         {
             "year": 2019,
@@ -1375,7 +1375,7 @@
             "links": [
                 "https://www.securitymagazine.com/articles/90618-city-power-hit-by-ransomware-attack"
             ],
-            "id": 82
+            "id": 81
         },
         {
             "entity": "North Miami Beach Police Department",
@@ -1392,7 +1392,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 83
+            "id": 82
         },
         {
             "entity": "University Hospital New Jersey",
@@ -1409,7 +1409,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 84
+            "id": 83
         },
         {
             "entity": "The National Bank of Blacksburg",
@@ -1424,7 +1424,7 @@
             "links": [
                 "https://krebsonsecurity.com/2018/07/hackers-breached-virginia-bank-twice-in-eight-months-stole-2-4m/"
             ],
-            "id": 85
+            "id": 84
         },
         {
             "entity": "Boom!",
@@ -1441,7 +1441,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 86
+            "id": 85
         },
         {
             "entity": "Small Business Administration",
@@ -1458,7 +1458,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 87
+            "id": 86
         },
         {
             "entity": "2021062901 Jane Doe",
@@ -1475,7 +1475,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2021,
-            "id": 88
+            "id": 87
         },
         {
             "year": 2016,
@@ -1494,7 +1494,7 @@
                 "https://www.wired.com/story/sandworm-russia-cyberattack-links/",
                 "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
             ],
-            "id": 89
+            "id": 88
         },
         {
             "entity": "PrismHR",
@@ -1511,7 +1511,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 90
+            "id": 89
         },
         {
             "entity": "Italian automotive production chain companies",
@@ -1528,7 +1528,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 91
+            "id": 90
         },
         {
             "entity": "Exactis",
@@ -1543,7 +1543,7 @@
             "links": [
                 "https://www.wired.com/story/exactis-database-leak-340-million-records/"
             ],
-            "id": 92
+            "id": 91
         },
         {
             "entity": "Colonial Pipeline (update)",
@@ -1560,7 +1560,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 93
+            "id": 92
         },
         {
             "entity": "Pittsburg Unified School District",
@@ -1577,7 +1577,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 94
+            "id": 93
         },
         {
             "entity": "Doxzoo",
@@ -1594,7 +1594,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 95
+            "id": 94
         },
         {
             "entity": "Chilis",
@@ -1610,7 +1610,7 @@
                 "http://brinker.com/mediaroom/partials/newsdetail.html?news_id=135394",
                 "https://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100"
             ],
-            "id": 96
+            "id": 95
         },
         {
             "entity": "Taskrabbit",
@@ -1625,7 +1625,7 @@
             "links": [
                 "https://www.cnet.com/news/taskrabbit-investigates-cybersecurity-incident-app-taken-down/"
             ],
-            "id": 97
+            "id": 96
         },
         {
             "year": 2015,
@@ -1642,7 +1642,7 @@
             "links": [
                 "https://www.buzzfeednews.com/article/alexkantrowitz/how-saudi-arabia-infiltrated-twitter"
             ],
-            "id": 98
+            "id": 97
         },
         {
             "entity": "Kobe Steel",
@@ -1659,7 +1659,7 @@
                 "motive": "Espionage"
             },
             "year": 2016,
-            "id": 99
+            "id": 98
         },
         {
             "entity": "Mathway",
@@ -1676,7 +1676,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 100
+            "id": 99
         },
         {
             "entity": "managed.com",
@@ -1693,7 +1693,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 101
+            "id": 100
         },
         {
             "year": 2016,
@@ -1712,7 +1712,7 @@
                 "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
                 "https://www.sacs.co.za/2019/06/28/4918/"
             ],
-            "id": 102
+            "id": 101
         },
         {
             "entity": "Crytek",
@@ -1729,7 +1729,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 103
+            "id": 102
         },
         {
             "entity": "Exude",
@@ -1744,7 +1744,7 @@
             "links": [
                 "https://ago.vermont.gov/blog/2018/12/14/exude-inc-notice-of-data-breach-to-consumers/"
             ],
-            "id": 104
+            "id": 103
         },
         {
             "entity": "Misc aviation, healthcare, finance, insurance, energy, and gambling entities",
@@ -1761,7 +1761,7 @@
                 "motive": "?"
             },
             "year": 2019,
-            "id": 105
+            "id": 104
         },
         {
             "entity": "High-profile targets in Vietnam, Laos, and Thailand",
@@ -1778,7 +1778,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 106
+            "id": 105
         },
         {
             "entity": "Haverhill High School",
@@ -1795,7 +1795,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 107
+            "id": 106
         },
         {
             "year": 2016,
@@ -1812,7 +1812,7 @@
                 "https://threatpost.com/zendesk-exposes-10000-accounts/148881/",
                 "https://www.zendesk.com/blog/security-update-2019/"
             ],
-            "id": 108
+            "id": 107
         },
         {
             "entity": "Pemex",
@@ -1829,7 +1829,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 109
+            "id": 108
         },
         {
             "year": 2018,
@@ -1846,7 +1846,7 @@
             "links": [
                 "https://www.extremetech.com/internet/293563-a-rogue-raspberry-pi-let-hackers-into-nasas-jpl-network"
             ],
-            "id": 110
+            "id": 109
         },
         {
             "entity": "Five Guys",
@@ -1861,7 +1861,7 @@
             "links": [
                 "http://ago.vermont.gov/blog/2018/11/02/five-guys-holdings-inc-notice-of-data-breach-to-consumers/"
             ],
-            "id": 111
+            "id": 110
         },
         {
             "entity": "Facebook",
@@ -1878,7 +1878,7 @@
                 "motive": "?"
             },
             "year": 2019,
-            "id": 112
+            "id": 111
         },
         {
             "entity": "Greek Government Websites and Stock Exchange",
@@ -1895,7 +1895,7 @@
                 "motive": "Political"
             },
             "year": 2020,
-            "id": 113
+            "id": 112
         },
         {
             "year": 2017,
@@ -1912,7 +1912,7 @@
             "links": [
                 "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
             ],
-            "id": 114
+            "id": 113
         },
         {
             "entity": "Kars4Kids",
@@ -1927,7 +1927,7 @@
             "links": [
                 "https://techcrunch.com/2018/11/13/kars4kids-data-breach/"
             ],
-            "id": 115
+            "id": 114
         },
         {
             "entity": "Kinomap",
@@ -1944,7 +1944,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 116
+            "id": 115
         },
         {
             "entity": "Maine",
@@ -1961,7 +1961,7 @@
                 "motive": "PII:?"
             },
             "year": 2023,
-            "id": 117
+            "id": 116
         },
         {
             "entity": "Ashtabula County Medical Center",
@@ -1978,7 +1978,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 118
+            "id": 117
         },
         {
             "entity": "Companies across the UK and EU",
@@ -1995,7 +1995,7 @@
                 "motive": "Money:Misc"
             },
             "year": 2020,
-            "id": 119
+            "id": 118
         },
         {
             "entity": "Puerto Rico\u2019s firefighting department ",
@@ -2012,7 +2012,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 120
+            "id": 119
         },
         {
             "entity": "HelloTech",
@@ -2029,7 +2029,7 @@
                 "motive": "?"
             },
             "year": 2019,
-            "id": 121
+            "id": 120
         },
         {
             "entity": "The Federal Depository Library Program",
@@ -2046,7 +2046,7 @@
                 "motive": "Hacktivism"
             },
             "year": 2020,
-            "id": 122
+            "id": 121
         },
         {
             "entity": "National Baseball Hall of Fame",
@@ -2063,7 +2063,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2018,
-            "id": 123
+            "id": 122
         },
         {
             "entity": "Burisma",
@@ -2080,7 +2080,7 @@
                 "motive": "Political"
             },
             "year": 2020,
-            "id": 124
+            "id": 123
         },
         {
             "entity": "Nipissing First Nation",
@@ -2097,7 +2097,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 125
+            "id": 124
         },
         {
             "entity": "Toll Group",
@@ -2114,7 +2114,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 126
+            "id": 125
         },
         {
             "entity": "Blur",
@@ -2129,7 +2129,7 @@
             "links": [
                 "https://www.abine.com/blog/2018/blur-security-update/"
             ],
-            "id": 127
+            "id": 126
         },
         {
             "year": 2017,
@@ -2148,7 +2148,7 @@
                 "https://www.tripwire.com/state-of-security/security-data-protection/cyber-security/notpetya-timeline-of-a-ransomworm/",
                 "https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/"
             ],
-            "id": 128
+            "id": 127
         },
         {
             "entity": "Imgur",
@@ -2163,7 +2163,7 @@
             "links": [
                 "https://blog.imgur.com/2017/11/24/notice-of-data-breach/"
             ],
-            "id": 129
+            "id": 128
         },
         {
             "entity": "Azusa police",
@@ -2180,7 +2180,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 130
+            "id": 129
         },
         {
             "entity": "Morgan Stanley",
@@ -2197,7 +2197,7 @@
                 "motive": "PII:?"
             },
             "year": 2016,
-            "id": 131
+            "id": 130
         },
         {
             "entity": "Rockdale County GA",
@@ -2214,7 +2214,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 132
+            "id": 131
         },
         {
             "entity": "Honda",
@@ -2231,7 +2231,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2019,
-            "id": 133
+            "id": 132
         },
         {
             "year": 2018,
@@ -2247,7 +2247,7 @@
             "links": [
                 "https://oag.ca.gov/system/files/E-Z%20UP%2C%20Inc.%20-%20Notice%20of%20Data%20Event%20-%20Exhibit%201%20-%20CA_0%20%28notice%29_0.pdf"
             ],
-            "id": 134
+            "id": 133
         },
         {
             "entity": "HappyHotel",
@@ -2264,7 +2264,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 135
+            "id": 134
         },
         {
             "entity": "Multiple open source projects",
@@ -2281,7 +2281,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 136
+            "id": 135
         },
         {
             "entity": "Organizations that use the Zeplin collaboration platform",
@@ -2298,7 +2298,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 137
+            "id": 136
         },
         {
             "entity": "Jane Doe 2020090101",
@@ -2315,7 +2315,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 138
+            "id": 137
         },
         {
             "entity": "healthcare.gov",
@@ -2330,7 +2330,7 @@
             "links": [
                 "https://techcrunch.com/2018/11/09/hackers-stole-income-immigration-and-tax-data-in-healthcare-gov-breach-government-confirms/"
             ],
-            "id": 139
+            "id": 138
         },
         {
             "year": 2019,
@@ -2347,7 +2347,7 @@
             "links": [
                 "https://www.zdnet.com/article/ad-agency-leaks-data-on-us-military-veterans-combat-injuries/"
             ],
-            "id": 140
+            "id": 139
         },
         {
             "entity": "Voxox",
@@ -2362,7 +2362,7 @@
             "links": [
                 "https://techcrunch.com/2018/11/15/millions-sms-text-messages-leaked-two-factor-codes/"
             ],
-            "id": 141
+            "id": 140
         },
         {
             "entity": "Illinois Attorney General",
@@ -2379,7 +2379,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 142
+            "id": 141
         },
         {
             "year": 2014,
@@ -2396,7 +2396,7 @@
             "links": [
                 "https://web.br.de/interaktiv/winnti/english/"
             ],
-            "id": 143
+            "id": 142
         },
         {
             "entity": "1,000 U.S. Schools",
@@ -2413,7 +2413,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 144
+            "id": 143
         },
         {
             "entity": "Ticketfly",
@@ -2428,7 +2428,7 @@
             "links": [
                 "https://www.tomsguide.com/us/ticketfly-data-breach,news-27374.html"
             ],
-            "id": 145
+            "id": 144
         },
         {
             "entity": "JBS",
@@ -2445,7 +2445,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 146
+            "id": 145
         },
         {
             "entity": "Typeform",
@@ -2460,7 +2460,7 @@
             "links": [
                 "https://nakedsecurity.sophos.com/2018/07/03/typeform-data-breach-hits-thousands-of-survey-accounts/"
             ],
-            "id": 147
+            "id": 146
         },
         {
             "entity": "Wyze",
@@ -2477,7 +2477,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2019,
-            "id": 148
+            "id": 147
         },
         {
             "year": 2013,
@@ -2494,7 +2494,7 @@
             "links": [
                 "https://securelist.com/winnti-more-than-just-a-game/37029/"
             ],
-            "id": 149
+            "id": 148
         },
         {
             "entity": "State, local, territorial, and tribal (SLTT) government networks",
@@ -2511,7 +2511,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 150
+            "id": 149
         },
         {
             "year": 2019,
@@ -2528,7 +2528,7 @@
             "links": [
                 "https://krebsonsecurity.com/2019/06/breach-at-cloud-solution-provider-pcm-inc/"
             ],
-            "id": 151
+            "id": 150
         },
         {
             "entity": "Carnival Corporation",
@@ -2545,7 +2545,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 152
+            "id": 151
         },
         {
             "year": 2013,
@@ -2562,7 +2562,7 @@
             "links": [
                 "https://securelist.com/winnti-more-than-just-a-game/37029/"
             ],
-            "id": 153
+            "id": 152
         },
         {
             "entity": "Quanta",
@@ -2579,7 +2579,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 154
+            "id": 153
         },
         {
             "entity": "British Airways",
@@ -2595,7 +2595,7 @@
                 "https://www.riskiq.com/blog/labs/magecart-british-airways-breach/",
                 "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"
             ],
-            "id": 155
+            "id": 154
         },
         {
             "year": 2019,
@@ -2612,7 +2612,7 @@
             "links": [
                 "https://nbcmontana.com/news/local/krh-security-breach-exposes-private-patient-information"
             ],
-            "id": 156
+            "id": 155
         },
         {
             "year": 2013,
@@ -2629,7 +2629,7 @@
             "links": [
                 "https://securelist.com/winnti-more-than-just-a-game/37029/"
             ],
-            "id": 157
+            "id": 156
         },
         {
             "entity": "Wawa",
@@ -2646,7 +2646,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2019,
-            "id": 158
+            "id": 157
         },
         {
             "year": 2011,
@@ -2663,7 +2663,7 @@
             "links": [
                 "https://web.br.de/interaktiv/winnti/english/"
             ],
-            "id": 159
+            "id": 158
         },
         {
             "entity": "BGR (aka Boy Genius Report)",
@@ -2680,7 +2680,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 160
+            "id": 159
         },
         {
             "entity": "Sophos XG Firewall Customers",
@@ -2697,7 +2697,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 161
+            "id": 160
         },
         {
             "year": 2019,
@@ -2714,7 +2714,7 @@
             "links": [
                 "https://agportal-s3bucket.s3.amazonaws.com/uploadedfiles/Another/Supporting_Law_Enforcement/CalibreCPAGroup.2019-10-10_1.pdf"
             ],
-            "id": 162
+            "id": 161
         },
         {
             "entity": "Hundreds of counterfeit shoe sites",
@@ -2731,7 +2731,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2019,
-            "id": 163
+            "id": 162
         },
         {
             "entity": "University of Portsmouth",
@@ -2748,7 +2748,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 164
+            "id": 163
         },
         {
             "entity": "US Government and Energy Targets",
@@ -2765,7 +2765,7 @@
                 "motive": "Political"
             },
             "year": 2020,
-            "id": 165
+            "id": 164
         },
         {
             "entity": "KuCoin",
@@ -2782,7 +2782,7 @@
                 "motive": "Money:Cryptocurrency"
             },
             "year": 2020,
-            "id": 166
+            "id": 165
         },
         {
             "entity": "Breach of Zynga's game 'Words With Friends'",
@@ -2798,7 +2798,7 @@
             "links": [
                 "https://thehackernews.com/2019/09/zynga-game-hacking.html"
             ],
-            "id": 167
+            "id": 166
         },
         {
             "entity": "City of Torrance",
@@ -2815,7 +2815,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 168
+            "id": 167
         },
         {
             "entity": "People of Praise",
@@ -2832,7 +2832,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 169
+            "id": 168
         },
         {
             "entity": "DOD Contractor",
@@ -2848,7 +2848,7 @@
             "links": [
                 "https://www.forbes.com/sites/leemathews/2018/10/14/department-of-defense-data-breach-exposes-30000-employees/#231f93b91a6b"
             ],
-            "id": 170
+            "id": 169
         },
         {
             "entity": "TrueDialog",
@@ -2865,7 +2865,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2019,
-            "id": 171
+            "id": 170
         },
         {
             "entity": "Multiple cryptocurrency companies",
@@ -2880,7 +2880,7 @@
             "links": [
                 "https://thenextweb.com/hardfork/2018/10/19/cryptocurrency-attack-report/"
             ],
-            "id": 172
+            "id": 171
         },
         {
             "year": 2019,
@@ -2897,7 +2897,7 @@
             "links": [
                 "https://www.vice.com/en_us/article/zmpx4x/hacker-monitor-cars-kill-engine-gps-tracking-apps"
             ],
-            "id": 173
+            "id": 172
         },
         {
             "entity": "Clearview AI",
@@ -2914,7 +2914,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 174
+            "id": 173
         },
         {
             "entity": "RavnAir",
@@ -2931,7 +2931,7 @@
                 "motive": "?"
             },
             "year": 2019,
-            "id": 175
+            "id": 174
         },
         {
             "year": 2013,
@@ -2948,7 +2948,7 @@
             "links": [
                 "https://securelist.com/winnti-more-than-just-a-game/37029/"
             ],
-            "id": 176
+            "id": 175
         },
         {
             "year": 2019,
@@ -2964,7 +2964,7 @@
             "links": [
                 "https://www.scmagazine.com/home/security-news/ransomware-disables-cleveland-airports-email-systems-information-screens/"
             ],
-            "id": 177
+            "id": 176
         },
         {
             "entity": "LifeLabs",
@@ -2981,7 +2981,7 @@
                 "motive": "PII:?"
             },
             "year": 2019,
-            "id": 178
+            "id": 177
         },
         {
             "entity": "Sandicliffe Motor Group",
@@ -2998,7 +2998,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 179
+            "id": 178
         },
         {
             "entity": "Ubisoft",
@@ -3015,7 +3015,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 180
+            "id": 179
         },
         {
             "entity": "Georgia County Election Database",
@@ -3032,7 +3032,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 181
+            "id": 180
         },
         {
             "entity": "John Doe",
@@ -3049,7 +3049,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 182
+            "id": 181
         },
         {
             "entity": "Chipotle",
@@ -3064,7 +3064,7 @@
             "links": [
                 "https://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100"
             ],
-            "id": 183
+            "id": 182
         },
         {
             "entity": "Special Olympics of New York",
@@ -3081,7 +3081,7 @@
                 "motive": "?"
             },
             "year": 2019,
-            "id": 184
+            "id": 183
         },
         {
             "entity": "Nunavut",
@@ -3098,7 +3098,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 185
+            "id": 184
         },
         {
             "entity": "Aimbridge Hospitality Holdings",
@@ -3113,7 +3113,7 @@
             "links": [
                 "https://agportal-s3bucket.s3.amazonaws.com/uploadedfiles/Home/Safeguarding_Consumers/Data_Breach/AimbridgeHospitalityHoldingsLLC.2018-12-31.PDF"
             ],
-            "id": 186
+            "id": 185
         },
         {
             "entity": "Facebook",
@@ -3130,7 +3130,7 @@
                 "https://auth0.com/blog/facebook-access-token-data-breach-early-look/",
                 "https://www.facebook.com/zuck/posts/10105274505136221"
             ],
-            "id": 187
+            "id": 186
         },
         {
             "entity": "Twitter",
@@ -3147,7 +3147,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 188
+            "id": 187
         },
         {
             "year": 2019,
@@ -3165,7 +3165,7 @@
                 "https://nakedsecurity.sophos.com/2019/10/16/pitney-bowes-and-groupe-m6-join-ransomwares-victim-list/",
                 "https://threatpost.com/pitney-bowes-hit-with-ransomware-attack/149156/"
             ],
-            "id": 189
+            "id": 188
         },
         {
             "entity": "Moss Adams",
@@ -3182,7 +3182,7 @@
                 "motive": "?"
             },
             "year": 2019,
-            "id": 190
+            "id": 189
         },
         {
             "entity": "Maritime Transportation Security Act",
@@ -3199,7 +3199,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 191
+            "id": 190
         },
         {
             "year": 2016,
@@ -3218,7 +3218,7 @@
                 "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
                 "https://www.sacs.co.za/2019/06/28/4918/"
             ],
-            "id": 192
+            "id": 191
         },
         {
             "year": 2013,
@@ -3235,7 +3235,7 @@
             "links": [
                 "https://securelist.com/winnti-more-than-just-a-game/37029/"
             ],
-            "id": 193
+            "id": 192
         },
         {
             "entity": "Cognizant",
@@ -3252,7 +3252,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 194
+            "id": 193
         },
         {
             "entity": "Elexon",
@@ -3269,7 +3269,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 195
+            "id": 194
         },
         {
             "entity": "Mediterranean Shipping Company (MSC)",
@@ -3286,7 +3286,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 196
+            "id": 195
         },
         {
             "year": 2019,
@@ -3303,7 +3303,7 @@
             "links": [
                 "https://www.securityweek.com/scammers-grab-25-million-north-carolina-county-bec-scam"
             ],
-            "id": 197
+            "id": 196
         },
         {
             "entity": "Bulgarian Tax Agency",
@@ -3320,7 +3320,7 @@
                 "motive": "PII:?"
             },
             "year": 2019,
-            "id": 198
+            "id": 197
         },
         {
             "entity": "Puerto Rico",
@@ -3337,7 +3337,7 @@
                 "motive": "Money:Bank Transfer"
             },
             "year": 2020,
-            "id": 199
+            "id": 198
         },
         {
             "entity": "Microsoft",
@@ -3354,7 +3354,7 @@
                 "motive": "Espionage"
             },
             "year": 2021,
-            "id": 200
+            "id": 199
         },
         {
             "entity": "Clearview AI",
@@ -3371,7 +3371,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 201
+            "id": 200
         },
         {
             "year": 2014,
@@ -3389,7 +3389,7 @@
                 "https://www.zdnet.com/article/building-chinas-comac-c919-airplane-involved-a-lot-of-hacking-report-says/",
                 "https://en.wikipedia.org/wiki/Office_of_Personnel_Management_data_breach"
             ],
-            "id": 202
+            "id": 201
         },
         {
             "entity": "German companies",
@@ -3406,7 +3406,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 203
+            "id": 202
         },
         {
             "entity": "DESMI",
@@ -3423,7 +3423,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 204
+            "id": 203
         },
         {
             "entity": "PayPal",
@@ -3438,7 +3438,7 @@
             "links": [
                 "http://www.tallahassee.com/story/news/2017/12/28/potential-data-breach-affects-customers-who-use-remote-payment-kiosksmay-affect-thousands-tallahasse/987390001/"
             ],
-            "id": 205
+            "id": 204
         },
         {
             "entity": "MoviePass",
@@ -3456,7 +3456,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2019,
-            "id": 206
+            "id": 205
         },
         {
             "year": 2018,
@@ -3474,7 +3474,7 @@
                 "https://www.theregister.co.uk/2019/03/08/citrix_hacked_data_stolen/",
                 "https://www.resecurity.com/article/citrix"
             ],
-            "id": 207
+            "id": 206
         },
         {
             "entity": "Blackbaud",
@@ -3491,7 +3491,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 208
+            "id": 207
         },
         {
             "entity": "The Port of Kennewick",
@@ -3508,7 +3508,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 209
+            "id": 208
         },
         {
             "entity": "Sharepost",
@@ -3525,7 +3525,7 @@
                 "motive": "?"
             },
             "year": 2019,
-            "id": 210
+            "id": 209
         },
         {
             "entity": "Jensen Precast",
@@ -3540,7 +3540,7 @@
             "links": [
                 "https://oag.ca.gov/system/files/Jensen%20-%20CA%20Regulatory%20Notification%20Letter_0%20%28notice%29_0.pdf"
             ],
-            "id": 211
+            "id": 210
         },
         {
             "entity": "Panera",
@@ -3555,7 +3555,7 @@
             "links": [
                 "https://krebsonsecurity.com/2018/04/panerabread-com-leaks-millions-of-customer-records/"
             ],
-            "id": 212
+            "id": 211
         },
         {
             "entity": "Wegmans",
@@ -3572,7 +3572,7 @@
                 "motive": "PII:?"
             },
             "year": 2021,
-            "id": 213
+            "id": 212
         },
         {
             "entity": "Wolfe Eye Clinic",
@@ -3589,7 +3589,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 214
+            "id": 213
         },
         {
             "entity": "Marriott/Starwood",
@@ -3605,7 +3605,7 @@
                 "https://techcrunch.com/2018/11/30/starwood-hotels-says-500-million-guest-records-stolen-in-massive-data-breach/",
                 "https://www.nytimes.com/2018/11/30/business/marriott-data-breach.html"
             ],
-            "id": 215
+            "id": 214
         },
         {
             "entity": "SHEIN",
@@ -3620,7 +3620,7 @@
             "links": [
                 "https://www.zdnet.com/article/shein-fashion-retailer-announces-breach-affecting-6-42-million-users/"
             ],
-            "id": 216
+            "id": 215
         },
         {
             "year": 2016,
@@ -3637,7 +3637,7 @@
             "links": [
                 "https://web.br.de/interaktiv/winnti/english/"
             ],
-            "id": 217
+            "id": 216
         },
         {
             "entity": "Israeli water facility",
@@ -3654,7 +3654,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 218
+            "id": 217
         },
         {
             "entity": "NextMotion",
@@ -3671,7 +3671,7 @@
                 "motive": "Hacktivism:Schadenfreude"
             },
             "year": 2020,
-            "id": 219
+            "id": 218
         },
         {
             "entity": "Capcom",
@@ -3688,7 +3688,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 220
+            "id": 219
         },
         {
             "year": 2019,
@@ -3705,7 +3705,7 @@
             "links": [
                 "https://www.helpnetsecurity.com/2019/06/24/eurofins-ransomware-attack/"
             ],
-            "id": 221
+            "id": 220
         },
         {
             "year": 2018,
@@ -3722,7 +3722,7 @@
             "links": [
                 "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
             ],
-            "id": 222
+            "id": 221
         },
         {
             "entity": "Metaformers Inc.",
@@ -3739,7 +3739,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 223
+            "id": 222
         },
         {
             "entity": "RailWorks Corporation",
@@ -3756,7 +3756,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 224
+            "id": 223
         },
         {
             "year": 2019,
@@ -3773,7 +3773,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/la-porte-county-pays-130-000-ransom-to-ryuk-ransomware/"
             ],
-            "id": 225
+            "id": 224
         },
         {
             "entity": "SeaChange",
@@ -3790,7 +3790,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 226
+            "id": 225
         },
         {
             "entity": "Tens of thousands Israeli websites",
@@ -3807,7 +3807,7 @@
                 "motive": "Political"
             },
             "year": 2020,
-            "id": 227
+            "id": 226
         },
         {
             "year": 2019,
@@ -3824,7 +3824,7 @@
             "links": [
                 "https://matrix.org/blog/2019/04/11/we-have-discovered-and-addressed-a-security-breach-updated-2019-04-12"
             ],
-            "id": 228
+            "id": 227
         },
         {
             "entity": "Open Exchange Rates",
@@ -3841,7 +3841,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 229
+            "id": 228
         },
         {
             "entity": "California Girl Scouts",
@@ -3857,7 +3857,7 @@
             "links": [
                 "http://techgenix.com/california-girl-scouts-data-breach/"
             ],
-            "id": 230
+            "id": 229
         },
         {
             "entity": "The Steamship Authority",
@@ -3874,7 +3874,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 231
+            "id": 230
         },
         {
             "entity": "Hall County, Georgia",
@@ -3891,7 +3891,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 232
+            "id": 231
         },
         {
             "entity": "Mattel",
@@ -3908,7 +3908,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 233
+            "id": 232
         },
         {
             "year": 2016,
@@ -3925,7 +3925,7 @@
             "links": [
                 "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
             ],
-            "id": 234
+            "id": 233
         },
         {
             "entity": "Center for Health Care Services",
@@ -3942,7 +3942,7 @@
                 "motive": "?"
             },
             "year": 2019,
-            "id": 235
+            "id": 234
         },
         {
             "entity": "T-Mobile",
@@ -3957,7 +3957,7 @@
             "links": [
                 "https://www.t-mobile.com/customers/6305378821"
             ],
-            "id": 236
+            "id": 235
         },
         {
             "entity": "Kokomo-Howard County Public Library",
@@ -3974,7 +3974,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 237
+            "id": 236
         },
         {
             "entity": "usps",
@@ -3989,7 +3989,7 @@
             "links": [
                 "https://krebsonsecurity.com/2018/11/usps-site-exposed-data-on-60-million-users/"
             ],
-            "id": 238
+            "id": 237
         },
         {
             "entity": "Entercom (aka radio.com)",
@@ -4006,7 +4006,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 239
+            "id": 238
         },
         {
             "year": 2015,
@@ -4023,7 +4023,7 @@
             "links": [
                 "https://siliconangle.com/2015/08/10/american-airlines-and-sabre-hit-by-reported-chinese-hack/"
             ],
-            "id": 240
+            "id": 239
         },
         {
             "entity": "NutriBullet",
@@ -4040,7 +4040,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 241
+            "id": 240
         },
         {
             "entity": "Home Depot",
@@ -4058,7 +4058,7 @@
                 "motive": "PII:?"
             },
             "year": 2014,
-            "id": 242
+            "id": 241
         },
         {
             "entity": "Jason's Deli",
@@ -4073,7 +4073,7 @@
             "links": [
                 "https://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100"
             ],
-            "id": 243
+            "id": 242
         },
         {
             "year": 2017,
@@ -4090,7 +4090,7 @@
             "links": [
                 "https://securityaffairs.co/wordpress/92891/cyber-crime/los-angeles-superior-court-hack.html"
             ],
-            "id": 244
+            "id": 243
         },
         {
             "year": 2019,
@@ -4107,7 +4107,7 @@
             "links": [
                 "https://www.reddit.com/r/netsec/comments/bty412/investmentweekcouk_left_330k_user_records_exposed/"
             ],
-            "id": 245
+            "id": 244
         },
         {
             "entity": "John Doe",
@@ -4124,7 +4124,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 246
+            "id": 245
         },
         {
             "entity": "Westat",
@@ -4141,7 +4141,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 247
+            "id": 246
         },
         {
             "entity": "surebet247.com",
@@ -4158,7 +4158,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 248
+            "id": 247
         },
         {
             "year": 2019,
@@ -4176,7 +4176,7 @@
                 "https://krebsonsecurity.com/2019/10/ransomware-hits-b2b-payments-firm-billtrust/",
                 "http://wittichen-supply.com/billtrust-service-interruption/"
             ],
-            "id": 249
+            "id": 248
         },
         {
             "year": 2019,
@@ -4193,7 +4193,7 @@
             "links": [
                 "https://securityaffairs.co/wordpress/88157/data-breach/maryland-department-of-labor-data-breach.html"
             ],
-            "id": 250
+            "id": 249
         },
         {
             "entity": "Press Trust of India",
@@ -4210,7 +4210,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 251
+            "id": 250
         },
         {
             "year": 2018,
@@ -4227,7 +4227,7 @@
             "links": [
                 "https://agportal-s3bucket.s3.amazonaws.com/uploadedfiles/Another/Supporting_Law_Enforcement/EyeBuyDirectInc.2019-10-15.pdf"
             ],
-            "id": 252
+            "id": 251
         },
         {
             "year": 2018,
@@ -4245,7 +4245,7 @@
                 "https://twitter.com/hexdefined/status/1185864801261477891",
                 "https://nordvpn.com/nl/blog/official-response-datacenter-breach/"
             ],
-            "id": 253
+            "id": 252
         },
         {
             "year": 2013,
@@ -4262,7 +4262,7 @@
             "links": [
                 "https://securelist.com/winnti-more-than-just-a-game/37029/"
             ],
-            "id": 254
+            "id": 253
         },
         {
             "entity": "Hostinger",
@@ -4280,7 +4280,7 @@
                 "motive": "PII:?"
             },
             "year": 2019,
-            "id": 255
+            "id": 254
         },
         {
             "year": 2016,
@@ -4299,7 +4299,7 @@
                 "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
                 "https://www.sacs.co.za/2019/06/28/4918/"
             ],
-            "id": 256
+            "id": 255
         },
         {
             "entity": "A Tier-1 bank.",
@@ -4316,7 +4316,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 257
+            "id": 256
         },
         {
             "entity": "Avon",
@@ -4333,7 +4333,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 258
+            "id": 257
         },
         {
             "year": 2019,
@@ -4349,7 +4349,7 @@
             "links": [
                 "https://securityaffairs.co/wordpress/91605/breaking-news/thinkful-data-breach.html"
             ],
-            "id": 259
+            "id": 258
         },
         {
             "year": 2019,
@@ -4368,7 +4368,7 @@
                 "https://avoid-coinomi.com/",
                 "https://www.reddit.com/r/COINOMI/comments/av01oz/coinnomi_hacked/"
             ],
-            "id": 260
+            "id": 259
         },
         {
             "entity": "National Veterinary Associates",
@@ -4385,7 +4385,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 261
+            "id": 260
         },
         {
             "entity": "English borough of Redcar and Cleveland",
@@ -4402,7 +4402,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 262
+            "id": 261
         },
         {
             "entity": "City of Ames",
@@ -4417,7 +4417,7 @@
             "links": [
                 "https://www.desmoinesregister.com/story/news/2018/11/30/ames-information-data-breach-parking-ticket-online-payment-system-central-iowa-hacking-crime/2168241002/"
             ],
-            "id": 263
+            "id": 262
         },
         {
             "entity": "CNN-News18",
@@ -4434,7 +4434,7 @@
                 "motive": "Hacktivism:Schadenfreude"
             },
             "year": 2020,
-            "id": 264
+            "id": 263
         },
         {
             "year": 2016,
@@ -4457,7 +4457,7 @@
                 "https://github.com/TKCERT/winnti-detector",
                 "https://github.com/TKCERT/winnti-suricata-lua"
             ],
-            "id": 265
+            "id": 264
         },
         {
             "entity": "China's Ministry of Emergency Management",
@@ -4474,7 +4474,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 266
+            "id": 265
         },
         {
             "year": 2018,
@@ -4491,7 +4491,7 @@
             "links": [
                 "https://www.2-spyware.com/bayer-cyber-attack-chinese-hackers-wicked-panda-used-winnti-malware"
             ],
-            "id": 267
+            "id": 266
         },
         {
             "entity": "Twitter",
@@ -4508,7 +4508,7 @@
                 "motive": "Money:Misc"
             },
             "year": 2020,
-            "id": 268
+            "id": 267
         },
         {
             "entity": "ACCO Engineered Systems",
@@ -4525,7 +4525,7 @@
                 "motive": "?"
             },
             "year": 2019,
-            "id": 269
+            "id": 268
         },
         {
             "entity": "Americold",
@@ -4542,7 +4542,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 270
+            "id": 269
         },
         {
             "year": 2017,
@@ -4560,7 +4560,7 @@
                 "https://www.theguardian.com/world/2017/may/08/macron-hackers-linked-to-russian-affiliated-group-behind-us-attack",
                 "https://www.wired.com/story/sandworm-russia-cyberattack-links/"
             ],
-            "id": 271
+            "id": 270
         },
         {
             "year": 2019,
@@ -4577,7 +4577,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/gaming-site-emuparadise-suffered-data-breach-of-11m-accounts/"
             ],
-            "id": 272
+            "id": 271
         },
         {
             "year": 2019,
@@ -4594,7 +4594,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/billing-details-for-119m-quest-diagnostics-clients-exposed/"
             ],
-            "id": 273
+            "id": 272
         },
         {
             "entity": "Gunnebo",
@@ -4612,7 +4612,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 274
+            "id": 273
         },
         {
             "year": 2013,
@@ -4629,7 +4629,7 @@
             "links": [
                 "https://securelist.com/winnti-more-than-just-a-game/37029/"
             ],
-            "id": 275
+            "id": 274
         },
         {
             "year": 2019,
@@ -4646,7 +4646,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/hackers-breach-avast-antivirus-network-through-insecure-vpn-profile/"
             ],
-            "id": 276
+            "id": 275
         },
         {
             "year": 2019,
@@ -4663,7 +4663,7 @@
             "links": [
                 "https://www.reuters.com/article/legal-us-hudson-s-bay-databreach/saks-lord-taylor-hit-by-payment-card-data-breach-idUSKCN1H91W7"
             ],
-            "id": 277
+            "id": 276
         },
         {
             "entity": "Amtrak",
@@ -4680,7 +4680,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 278
+            "id": 277
         },
         {
             "entity": "X-Cart",
@@ -4697,7 +4697,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 279
+            "id": 278
         },
         {
             "entity": "Landry's Restaurant Chain",
@@ -4715,7 +4715,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2019,
-            "id": 280
+            "id": 279
         },
         {
             "entity": "Multiple entities (2)",
@@ -4732,7 +4732,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 281
+            "id": 280
         },
         {
             "entity": "The City of Saint John",
@@ -4749,7 +4749,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 282
+            "id": 281
         },
         {
             "entity": "Barnes & Noble",
@@ -4766,7 +4766,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 283
+            "id": 282
         },
         {
             "entity": "Partit Nazzjonalista",
@@ -4783,7 +4783,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 284
+            "id": 283
         },
         {
             "year": 2019,
@@ -4800,7 +4800,7 @@
             "links": [
                 "https://thehackernews.com/2019/05/flipboard-data-breach-hacking.html"
             ],
-            "id": 285
+            "id": 284
         },
         {
             "year": 2019,
@@ -4817,7 +4817,7 @@
             "links": [
                 "https://www.scmagazine.com/home/security-news/monster-com-job-applicants-info-exposed-on-unprotected-server/"
             ],
-            "id": 286
+            "id": 285
         },
         {
             "year": 2019,
@@ -4834,7 +4834,7 @@
             "links": [
                 "https://nakedsecurity.sophos.com/2019/10/28/johannesburg-hit-by-second-malware-attack/"
             ],
-            "id": 287
+            "id": 286
         },
         {
             "year": 2018,
@@ -4852,7 +4852,7 @@
                 "https://www.ptsecurity.com/upload/corporate/ww-en/analytics/calypso-apt-2019-eng.pdf",
                 "https://threatpost.com/calypso-apt-target-governments/149773/"
             ],
-            "id": 288
+            "id": 287
         },
         {
             "year": 2019,
@@ -4869,7 +4869,7 @@
             "links": [
                 "https://nakedsecurity.sophos.com/2019/10/16/pitney-bowes-and-groupe-m6-join-ransomwares-victim-list/"
             ],
-            "id": 289
+            "id": 288
         },
         {
             "entity": "Bakker Logistiek",
@@ -4886,7 +4886,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 290
+            "id": 289
         },
         {
             "entity": "Saudi Arabian petrochemical facility",
@@ -4903,7 +4903,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 291
+            "id": 290
         },
         {
             "entity": "University of Northampton",
@@ -4920,7 +4920,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 292
+            "id": 291
         },
         {
             "entity": "Albany International Airport",
@@ -4937,7 +4937,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 293
+            "id": 292
         },
         {
             "entity": "PlanetDrugsDirect",
@@ -4954,7 +4954,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 294
+            "id": 293
         },
         {
             "year": 2017,
@@ -4971,7 +4971,7 @@
             "links": [
                 "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
             ],
-            "id": 295
+            "id": 294
         },
         {
             "entity": "HSE",
@@ -4989,7 +4989,7 @@
                 "motive": "Money:Ransomware"
             },
             "year": 2021,
-            "id": 296
+            "id": 295
         },
         {
             "entity": "Mercy Iowa City",
@@ -5006,7 +5006,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 297
+            "id": 296
         },
         {
             "entity": "T-Mobile",
@@ -5023,7 +5023,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 298
+            "id": 297
         },
         {
             "entity": "Nintendo",
@@ -5040,7 +5040,7 @@
                 "motive": "Hacktivism:Schadenfreude"
             },
             "year": 2020,
-            "id": 299
+            "id": 298
         },
         {
             "entity": "Revista Factum",
@@ -5057,7 +5057,7 @@
                 "motive": "Political"
             },
             "year": 2020,
-            "id": 300
+            "id": 299
         },
         {
             "entity": "Louisiana State Government",
@@ -5074,7 +5074,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 301
+            "id": 300
         },
         {
             "entity": "Community Health Systems",
@@ -5091,7 +5091,7 @@
                 "motive": "PII:?"
             },
             "year": 2014,
-            "id": 302
+            "id": 301
         },
         {
             "entity": "Virtual Care Provider Inc.",
@@ -5108,7 +5108,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 303
+            "id": 302
         },
         {
             "entity": "CyrusOne",
@@ -5125,7 +5125,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 304
+            "id": 303
         },
         {
             "entity": "AMCA",
@@ -5143,7 +5143,7 @@
                 "motive": "PII:?"
             },
             "year": 2019,
-            "id": 305
+            "id": 304
         },
         {
             "entity": "Metropolitan Police Department DC",
@@ -5160,7 +5160,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 306
+            "id": 305
         },
         {
             "year": 2019,
@@ -5177,7 +5177,7 @@
             "links": [
                 "https://www.baltimoresun.com/politics/bs-md-ci-it-outage-20190507-story.html"
             ],
-            "id": 307
+            "id": 306
         },
         {
             "entity": "Merseyrail",
@@ -5194,7 +5194,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 308
+            "id": 307
         },
         {
             "entity": "Caribou Cofee",
@@ -5209,7 +5209,7 @@
             "links": [
                 "https://www.zdnet.com/article/caribou-coffee-chain-announces-card-breach-impacting-239-stores/"
             ],
-            "id": 309
+            "id": 308
         },
         {
             "entity": "Gentoo/Github",
@@ -5224,7 +5224,7 @@
             "links": [
                 "https://wiki.gentoo.org/wiki/Github/2018-06-28"
             ],
-            "id": 310
+            "id": 309
         },
         {
             "entity": "Garmin",
@@ -5242,7 +5242,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 311
+            "id": 310
         },
         {
             "entity": "Guilderland Central School District",
@@ -5259,7 +5259,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 312
+            "id": 311
         },
         {
             "entity": "Westech International",
@@ -5276,7 +5276,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 313
+            "id": 312
         },
         {
             "entity": "A natural gas compression facility in the United States",
@@ -5294,7 +5294,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 314
+            "id": 313
         },
         {
             "year": 2019,
@@ -5311,7 +5311,7 @@
             "links": [
                 "https://www.theregister.co.uk/2019/05/23/perceptics_hacked_license_plate_recognition/"
             ],
-            "id": 315
+            "id": 314
         },
         {
             "entity": "European Central Bank",
@@ -5328,7 +5328,7 @@
                 "motive": "PII:?"
             },
             "year": 2019,
-            "id": 316
+            "id": 315
         },
         {
             "entity": "Mexican Lottery",
@@ -5345,7 +5345,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 317
+            "id": 316
         },
         {
             "entity": "Hy-Vee",
@@ -5363,7 +5363,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2018,
-            "id": 318
+            "id": 317
         },
         {
             "year": 2016,
@@ -5380,7 +5380,7 @@
             "links": [
                 "https://web.br.de/interaktiv/winnti/english/"
             ],
-            "id": 319
+            "id": 318
         },
         {
             "entity": "Rutters",
@@ -5397,7 +5397,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 320
+            "id": 319
         },
         {
             "year": 2013,
@@ -5414,7 +5414,7 @@
             "links": [
                 "https://securelist.com/winnti-more-than-just-a-game/37029/"
             ],
-            "id": 321
+            "id": 320
         },
         {
             "year": 2019,
@@ -5430,7 +5430,7 @@
             "links": [
                 "https://www.itpro.co.uk/security/34388/unicef-leaks-more-than-8000-users-personal-data"
             ],
-            "id": 322
+            "id": 321
         },
         {
             "entity": "Sopra Steria",
@@ -5448,7 +5448,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 323
+            "id": 322
         },
         {
             "entity": "Wisepay",
@@ -5465,7 +5465,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 324
+            "id": 323
         },
         {
             "year": 2014,
@@ -5483,7 +5483,7 @@
                 "https://www.zdnet.com/article/building-chinas-comac-c919-airplane-involved-a-lot-of-hacking-report-says/",
                 "https://www.symantec.com/content/en/us/enterprise/media/security_response/whitepapers/the-black-vine-cyberespionage-group.pdf"
             ],
-            "id": 325
+            "id": 324
         },
         {
             "year": 2019,
@@ -5500,7 +5500,7 @@
             "links": [
                 "http://feedproxy.google.com/~r/TheHackersNews/~3/eV4pJvvSErI/xkcd-forum-hacked.html"
             ],
-            "id": 326
+            "id": 325
         },
         {
             "entity": "GetMonero.com",
@@ -5517,7 +5517,7 @@
                 "motive": "Money:Cryptocurrency"
             },
             "year": 2019,
-            "id": 327
+            "id": 326
         },
         {
             "year": 2019,
@@ -5534,7 +5534,7 @@
             "links": [
                 "https://krebsonsecurity.com/2019/05/ny-investigates-exposure-of-885-million-mortgage-documents/"
             ],
-            "id": 328
+            "id": 327
         },
         {
             "year": 2019,
@@ -5551,7 +5551,7 @@
             "links": [
                 "https://www.upguard.com/breaches/facebook-user-data-leak"
             ],
-            "id": 329
+            "id": 328
         },
         {
             "entity": "Albion Online",
@@ -5568,7 +5568,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 330
+            "id": 329
         },
         {
             "entity": "Tupperware",
@@ -5585,7 +5585,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 331
+            "id": 330
         },
         {
             "entity": "Sprint",
@@ -5602,7 +5602,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 332
+            "id": 331
         },
         {
             "entity": "Durham City/County",
@@ -5619,7 +5619,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 333
+            "id": 332
         },
         {
             "year": 2019,
@@ -5635,7 +5635,7 @@
             "links": [
                 "https://threatpost.com/payment-card-breach-hits-8-cities-using-vulnerable-bill-portal/148521/"
             ],
-            "id": 334
+            "id": 333
         },
         {
             "entity": "Oil Companies",
@@ -5652,7 +5652,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 335
+            "id": 334
         },
         {
             "entity": "European Space Agency",
@@ -5669,7 +5669,7 @@
                 "motive": "Hacktivism:?"
             },
             "year": 2020,
-            "id": 336
+            "id": 335
         },
         {
             "entity": "Bank of Costa Rica",
@@ -5686,7 +5686,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 337
+            "id": 336
         },
         {
             "entity": "Visser Precision",
@@ -5703,7 +5703,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 338
+            "id": 337
         },
         {
             "entity": "Baltimore County Public Schools",
@@ -5720,7 +5720,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 339
+            "id": 338
         },
         {
             "year": 2019,
@@ -5737,7 +5737,7 @@
             "links": [
                 "https://www.cyberdefensemagazine.com/bodybuilding-com-forces-password-reset-after-a-security-breach/"
             ],
-            "id": 340
+            "id": 339
         },
         {
             "entity": "Jane Doe 2020100801",
@@ -5754,7 +5754,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 341
+            "id": 340
         },
         {
             "entity": "Misc sites",
@@ -5771,7 +5771,7 @@
                 "motive": "Money:Sale on dark web"
             },
             "year": 2019,
-            "id": 342
+            "id": 341
         },
         {
             "entity": "Alomere Health",
@@ -5788,7 +5788,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 343
+            "id": 342
         },
         {
             "entity": "ZEE5",
@@ -5805,7 +5805,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 344
+            "id": 343
         },
         {
             "entity": "Montgomery County Health Department",
@@ -5822,7 +5822,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 345
+            "id": 344
         },
         {
             "year": 2019,
@@ -5839,7 +5839,7 @@
             "links": [
                 "https://web.br.de/interaktiv/winnti/english/"
             ],
-            "id": 346
+            "id": 345
         },
         {
             "entity": "Dickeys BBQ",
@@ -5856,7 +5856,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 347
+            "id": 346
         },
         {
             "entity": "Miltenyi Biotec",
@@ -5874,7 +5874,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 348
+            "id": 347
         },
         {
             "entity": "Pasco",
@@ -5891,7 +5891,7 @@
                 "motive": "Espionage"
             },
             "year": 2018,
-            "id": 349
+            "id": 348
         },
         {
             "entity": "Reddit",
@@ -5906,7 +5906,7 @@
             "links": [
                 "https://www.reddit.com/r/announcements/comments/93qnm5/we_had_a_security_incident_heres_what_you_need_to/"
             ],
-            "id": 350
+            "id": 349
         },
         {
             "year": 2016,
@@ -5925,7 +5925,7 @@
                 "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
                 "https://www.sacs.co.za/2019/06/28/4918/"
             ],
-            "id": 351
+            "id": 350
         },
         {
             "year": 2018,
@@ -5942,7 +5942,7 @@
             "links": [
                 "https://securityaffairs.co/wordpress/87415/data-breach/desjardins-data-leak.html"
             ],
-            "id": 352
+            "id": 351
         },
         {
             "entity": "City of Tulsa",
@@ -5959,7 +5959,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 353
+            "id": 352
         },
         {
             "entity": "Volusia County Public Library",
@@ -5976,7 +5976,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 354
+            "id": 353
         },
         {
             "year": 2019,
@@ -5993,7 +5993,7 @@
             "links": [
                 "https://krebsonsecurity.com/2019/08/ransomware-bites-dental-data-backup-firm/"
             ],
-            "id": 355
+            "id": 354
         },
         {
             "entity": "Energias de Portugal",
@@ -6010,7 +6010,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 356
+            "id": 355
         },
         {
             "entity": "Unspecified Australia Bushfire Donor Site",
@@ -6027,7 +6027,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 357
+            "id": 356
         },
         {
             "entity": "Verificient technologies",
@@ -6045,7 +6045,7 @@
                 "motive": "Hacktivist"
             },
             "year": 2020,
-            "id": 358
+            "id": 357
         },
         {
             "entity": "MyEtherWallet.com/AWS",
@@ -6060,7 +6060,7 @@
             "links": [
                 "https://doublepulsar.com/hijack-of-amazons-internet-domain-service-used-to-reroute-web-traffic-for-two-hours-unnoticed-3a6f0dda6a6f"
             ],
-            "id": 359
+            "id": 358
         },
         {
             "entity": "EduCBA",
@@ -6077,7 +6077,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 360
+            "id": 359
         },
         {
             "entity": "Hackney Borough Council",
@@ -6094,7 +6094,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 361
+            "id": 360
         },
         {
             "year": 2019,
@@ -6111,7 +6111,7 @@
             "links": [
                 "http://www.pinecitymn.com/news/pine-county-hacked-security-breach-feared/article_ed404924-f5ba-11e9-9c02-9731bc6010e9.html"
             ],
-            "id": 362
+            "id": 361
         },
         {
             "year": 2019,
@@ -6128,7 +6128,7 @@
             "links": [
                 "https://thehackernews.com/2019/03/bithumb-cryptocurrency-hacked.html"
             ],
-            "id": 363
+            "id": 362
         },
         {
             "year": 2017,
@@ -6144,7 +6144,7 @@
             "links": [
                 "https://www.recordedfuture.com/apt10-cyberespionage-campaign/"
             ],
-            "id": 364
+            "id": 363
         },
         {
             "entity": "Florida Dept Health",
@@ -6159,7 +6159,7 @@
             "links": [
                 "https://www.pnj.com/story/news/2018/11/09/florida-department-health-reports-data-breach-medical-info/1946263002/"
             ],
-            "id": 365
+            "id": 364
         },
         {
             "entity": "Macy's",
@@ -6176,7 +6176,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2019,
-            "id": 366
+            "id": 365
         },
         {
             "entity": "3 St. Lawrence County hospitals",
@@ -6193,7 +6193,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 367
+            "id": 366
         },
         {
             "entity": "BlackWallet",
@@ -6208,7 +6208,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/hackers-hijack-dns-server-of-blackwallet-to-steal-400-000/"
             ],
-            "id": 368
+            "id": 367
         },
         {
             "year": 2019,
@@ -6229,7 +6229,7 @@
                 "http://www.krystal.com/security/",
                 "https://krebsonsecurity.com/2019/11/sale-of-4-million-stolen-cards-tied-to-breaches-at-4-restaurant-chains/"
             ],
-            "id": 369
+            "id": 368
         },
         {
             "entity": "Toondoo.com",
@@ -6246,7 +6246,7 @@
                 "motive": "?"
             },
             "year": 2019,
-            "id": 370
+            "id": 369
         },
         {
             "entity": "Twilio",
@@ -6263,7 +6263,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 371
+            "id": 370
         },
         {
             "entity": "San Diego Unified School District",
@@ -6278,7 +6278,7 @@
             "links": [
                 "https://www.sandiegounified.org/datasafety"
             ],
-            "id": 372
+            "id": 371
         },
         {
             "entity": "ADIF",
@@ -6295,7 +6295,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 373
+            "id": 372
         },
         {
             "year": 2019,
@@ -6312,7 +6312,7 @@
             "links": [
                 "https://www.vpnmentor.com/blog/us-travel-military-leak/"
             ],
-            "id": 374
+            "id": 373
         },
         {
             "year": 2019,
@@ -6329,7 +6329,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/headhunting-firm-leaks-millions-of-resumes-client-private-data/"
             ],
-            "id": 375
+            "id": 374
         },
         {
             "entity": "Vastaamo",
@@ -6346,7 +6346,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 376
+            "id": 375
         },
         {
             "entity": "The Heritage Company",
@@ -6364,7 +6364,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 377
+            "id": 376
         },
         {
             "year": 2018,
@@ -6381,7 +6381,7 @@
                 "https://techcrunch.com/2018/09/11/veeam-security-lapse-leaked-over-440-million-email-addresses/",
                 "https://www.linkedin.com/pulse/veeam-inadvertently-exposed-marketing-info-hundreds-its-bob-diachenko/"
             ],
-            "id": 378
+            "id": 377
         },
         {
             "entity": "John Doe",
@@ -6398,7 +6398,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 379
+            "id": 378
         },
         {
             "entity": "Newcastle University",
@@ -6415,7 +6415,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 380
+            "id": 379
         },
         {
             "entity": "DX.Exchange",
@@ -6430,7 +6430,7 @@
             "links": [
                 "https://arstechnica.com/information-technology/2019/01/hot-new-trading-site-leaked-oodles-of-user-data-including-login-tokens/"
             ],
-            "id": 381
+            "id": 380
         },
         {
             "entity": "Three hacking forums",
@@ -6447,7 +6447,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 382
+            "id": 381
         },
         {
             "entity": "Wolverine Solutions Group",
@@ -6462,7 +6462,7 @@
             "links": [
                 "https://ago.vermont.gov/blog/2018/12/28/wolverine-solutions-group-snotice-of-data-breach-to-consumers/"
             ],
-            "id": 383
+            "id": 382
         },
         {
             "entity": "FastaBooking",
@@ -6478,7 +6478,7 @@
                 "https://www.bleepingcomputer.com/news/security/hundreds-of-hotels-affected-by-data-breach-at-hotel-booking-software-provider/",
                 "https://www.darkreading.com/attacks-breaches/hundreds-of-hotels-hit-in-fastbooking-breach/d/d-id/1332162"
             ],
-            "id": 384
+            "id": 383
         },
         {
             "entity": "Doordash",
@@ -6494,7 +6494,7 @@
             "links": [
                 "https://techcrunch.com/2019/09/26/doordash-data-breach/"
             ],
-            "id": 385
+            "id": 384
         },
         {
             "entity": "GEDmatch",
@@ -6511,7 +6511,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 386
+            "id": 385
         },
         {
             "entity": "Endeavor Business Media",
@@ -6528,7 +6528,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 387
+            "id": 386
         },
         {
             "entity": "FujiFilm",
@@ -6545,7 +6545,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 388
+            "id": 387
         },
         {
             "entity": "Mercedes-Benz USA",
@@ -6562,7 +6562,7 @@
                 "motive": "PII:?"
             },
             "year": 2021,
-            "id": 389
+            "id": 388
         },
         {
             "year": 2019,
@@ -6579,7 +6579,7 @@
             "links": [
                 "https://threatpost.com/magecart-attack-skin-care-site/149580/"
             ],
-            "id": 390
+            "id": 389
         },
         {
             "entity": "Diebold ATM Terminals",
@@ -6596,7 +6596,7 @@
                 "motive": "Money:Misc"
             },
             "year": 2020,
-            "id": 391
+            "id": 390
         },
         {
             "entity": "Italian Banca di Credito Cooperativo",
@@ -6613,7 +6613,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 392
+            "id": 391
         },
         {
             "year": 2019,
@@ -6630,7 +6630,7 @@
             "links": [
                 "https://www.scmagazine.com/home/security-news/sun-prairie-wisc-warns-of-data-breach-after-intruder-accesses-employee-email-accounts/"
             ],
-            "id": 393
+            "id": 392
         },
         {
             "entity": "TrueFire Guitar",
@@ -6647,7 +6647,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 394
+            "id": 393
         },
         {
             "entity": "2gether",
@@ -6664,7 +6664,7 @@
                 "motive": "Money:Cryptocurrency"
             },
             "year": 2020,
-            "id": 395
+            "id": 394
         },
         {
             "entity": "ZoneAlarm",
@@ -6681,7 +6681,7 @@
                 "motive": "PII:?"
             },
             "year": 2019,
-            "id": 396
+            "id": 395
         },
         {
             "entity": "Binance KYC",
@@ -6700,7 +6700,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 397
+            "id": 396
         },
         {
             "entity": "Active Network",
@@ -6717,7 +6717,7 @@
                 "motive": "PII:?"
             },
             "year": 2019,
-            "id": 398
+            "id": 397
         },
         {
             "entity": "EDP",
@@ -6734,7 +6734,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 399
+            "id": 398
         },
         {
             "year": 2016,
@@ -6753,7 +6753,7 @@
                 "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
                 "https://www.sacs.co.za/2019/06/28/4918/"
             ],
-            "id": 400
+            "id": 399
         },
         {
             "year": 2016,
@@ -6772,7 +6772,7 @@
                 "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
                 "https://www.sacs.co.za/2019/06/28/4918/"
             ],
-            "id": 401
+            "id": 400
         },
         {
             "entity": "Joomla Resources Directory",
@@ -6789,7 +6789,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 402
+            "id": 401
         },
         {
             "entity": "Multiple",
@@ -6804,7 +6804,7 @@
             "links": [
                 "https://www.scmagazine.com/home/security-news/four-iranian-nationals-indicted-in-samsam-attacks/"
             ],
-            "id": 403
+            "id": 402
         },
         {
             "year": 2019,
@@ -6820,7 +6820,7 @@
             "links": [
                 "https://securityaffairs.co/wordpress/91503/malware/magecart-hotel-chain-websites.html"
             ],
-            "id": 404
+            "id": 403
         },
         {
             "entity": "Forever 21",
@@ -6836,7 +6836,7 @@
                 "http://wwd.com/fashion-news/fashion-scoops/forever-21-security-breach-details-11082973/",
                 "https://gizmodo.com/hackers-broke-into-forever-21s-payment-system-for-over-1821668357"
             ],
-            "id": 405
+            "id": 404
         },
         {
             "year": 2019,
@@ -6853,7 +6853,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/brooklyn-hospital-loses-patient-data-in-ransomware-attack/"
             ],
-            "id": 406
+            "id": 405
         },
         {
             "entity": "BancoEstado",
@@ -6870,7 +6870,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 407
+            "id": 406
         },
         {
             "supported": true,
@@ -6967,7 +6967,7 @@
                     }
                 }
             },
-            "id": 408
+            "id": 407
         },
         {
             "entity": "Facebook",
@@ -6984,7 +6984,7 @@
                 "motive": "Money:Misc"
             },
             "year": 2016,
-            "id": 409
+            "id": 408
         },
         {
             "year": 2015,
@@ -7004,7 +7004,7 @@
                 "https://www.sacs.co.za/2019/06/28/4918/",
                 "https://siliconangle.com/2015/08/10/american-airlines-and-sabre-hit-by-reported-chinese-hack/"
             ],
-            "id": 410
+            "id": 409
         },
         {
             "entity": "Misc fuel dispenser merchants",
@@ -7021,7 +7021,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2019,
-            "id": 411
+            "id": 410
         },
         {
             "year": 2019,
@@ -7039,7 +7039,7 @@
                 "https://web.br.de/interaktiv/winnti/english/",
                 "https://media.cert.europa.eu/static/MEMO/2019/TLP-WHITE-CERT-EU-MEMO-190725-1.pdf"
             ],
-            "id": 412
+            "id": 411
         },
         {
             "year": 2019,
@@ -7056,7 +7056,7 @@
             "links": [
                 "https://securityaffairs.co/wordpress/92529/data-breach/click2mail-data-breach.html"
             ],
-            "id": 413
+            "id": 412
         },
         {
             "year": 2019,
@@ -7073,7 +7073,7 @@
             "links": [
                 "https://www.nytimes.com/2019/12/10/world/middleeast/Iran-bank-hacking-protests.html"
             ],
-            "id": 414
+            "id": 413
         },
         {
             "entity": "Ticket Master",
@@ -7089,7 +7089,7 @@
                 "https://nakedsecurity.sophos.com/2018/06/28/ticketmaster-breach-what-happened-and-what-to-do/",
                 "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"
             ],
-            "id": 415
+            "id": 414
         },
         {
             "year": 2019,
@@ -7106,7 +7106,7 @@
             "links": [
                 "https://threatpost.com/bec-scam-nikkei-29-million/149834/"
             ],
-            "id": 416
+            "id": 415
         },
         {
             "year": 2017,
@@ -7124,7 +7124,7 @@
                 "https://thehackernews.com/2019/08/imperva-waf-breach.html",
                 "https://www.imperva.com/blog/ceoblog/"
             ],
-            "id": 417
+            "id": 416
         },
         {
             "year": 2019,
@@ -7140,7 +7140,7 @@
             "links": [
                 "https://techcrunch.com/2019/01/29/rubrik-data-leak/"
             ],
-            "id": 418
+            "id": 417
         },
         {
             "entity": "Jane Doe 202010191",
@@ -7157,7 +7157,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 419
+            "id": 418
         },
         {
             "entity": "Indian power company",
@@ -7174,7 +7174,7 @@
                 "motive": "Espionage"
             },
             "year": 2021,
-            "id": 420
+            "id": 419
         },
         {
             "entity": "Bankers Life",
@@ -7189,7 +7189,7 @@
             "links": [
                 "https://www.ibj.com/articles/71110-data-breach-at-bankers-life-under-investigation-by-state-insurance-department"
             ],
-            "id": 421
+            "id": 420
         },
         {
             "entity": "Mt. Pleasant city government ",
@@ -7206,7 +7206,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 422
+            "id": 421
         },
         {
             "entity": "CheckPeople",
@@ -7223,7 +7223,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 423
+            "id": 422
         },
         {
             "year": 2019,
@@ -7239,7 +7239,7 @@
             "links": [
                 "https://threatpost.com/doordash-data-breach-impacts-personal-data-of-almost-5m-users/148724/"
             ],
-            "id": 424
+            "id": 423
         },
         {
             "entity": "Covve",
@@ -7256,7 +7256,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 425
+            "id": 424
         },
         {
             "entity": "Carphone Warehouse",
@@ -7272,7 +7272,7 @@
                 "https://www.databreachtoday.com/carphone-warehouse-breach-striking-failures-trigger-fine-a-10571",
                 "https://ico.org.uk/media/action-weve-taken/mpns/2172972/carphone-warehouse-mpn-20180110.pdf"
             ],
-            "id": 426
+            "id": 425
         },
         {
             "entity": "View Media",
@@ -7289,7 +7289,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 427
+            "id": 426
         },
         {
             "entity": "Australian Emergency Warning System",
@@ -7304,7 +7304,7 @@
             "links": [
                 "https://www.abc.net.au/news/2019-01-07/emergency-text-service-hacked-warning-about-personal-data-sent/10688748"
             ],
-            "id": 428
+            "id": 427
         },
         {
             "entity": "20210621 Multiple Jane Does",
@@ -7321,7 +7321,7 @@
                 "motive": "Espionage"
             },
             "year": 2021,
-            "id": 429
+            "id": 428
         },
         {
             "entity": "Luscious",
@@ -7339,7 +7339,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2019,
-            "id": 430
+            "id": 429
         },
         {
             "entity": "Union City",
@@ -7356,7 +7356,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 431
+            "id": 430
         },
         {
             "entity": "Vision Direct",
@@ -7371,7 +7371,7 @@
             "links": [
                 "https://www.theregister.co.uk/2018/11/19/vision_direct_fesses_up_to_hack_that_exposed_customer_names_and_payment_deets/"
             ],
-            "id": 432
+            "id": 431
         },
         {
             "entity": "Harris Federation",
@@ -7388,7 +7388,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 433
+            "id": 432
         },
         {
             "entity": "University Hospital Brno",
@@ -7405,7 +7405,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 434
+            "id": 433
         },
         {
             "entity": "T-Mobile",
@@ -7423,7 +7423,7 @@
                 "motive": "PII:?"
             },
             "year": 2019,
-            "id": 435
+            "id": 434
         },
         {
             "entity": "Finastra",
@@ -7441,7 +7441,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 436
+            "id": 435
         },
         {
             "entity": "Detroit hospital network",
@@ -7458,7 +7458,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 437
+            "id": 436
         },
         {
             "entity": "North Korea-related news site",
@@ -7475,7 +7475,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 438
+            "id": 437
         },
         {
             "year": 2012,
@@ -7495,7 +7495,7 @@
                 "https://arstechnica.com/tech-policy/2018/10/feds-say-chinese-spies-and-their-hired-hackers-stole-aviation-secrets/",
                 "https://eromang.zataz.com/2013/01/02/capstone-turbine-corporation-also-targeted-in-the-cfr-watering-hole-attack-and-more/"
             ],
-            "id": 439
+            "id": 438
         },
         {
             "entity": "Honda",
@@ -7512,7 +7512,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 440
+            "id": 439
         },
         {
             "year": 2019,
@@ -7529,7 +7529,7 @@
             "links": [
                 "https://www.wired.com/story/cozy-bear-dukes-russian-hackers-new-tricks/"
             ],
-            "id": 441
+            "id": 440
         },
         {
             "entity": "Manchester United",
@@ -7546,7 +7546,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 442
+            "id": 441
         },
         {
             "entity": "Boing Boing",
@@ -7563,7 +7563,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 443
+            "id": 442
         },
         {
             "entity": "Red Kite Community Housing",
@@ -7580,7 +7580,7 @@
                 "motive": "Money:Bank Transfer"
             },
             "year": 2020,
-            "id": 444
+            "id": 443
         },
         {
             "entity": "iNSYNQ",
@@ -7597,7 +7597,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 445
+            "id": 444
         },
         {
             "entity": "Justus Liebig University (JLU)",
@@ -7614,7 +7614,7 @@
                 "motive": "?"
             },
             "year": 2019,
-            "id": 446
+            "id": 445
         },
         {
             "entity": "Flagship Group\u2019s",
@@ -7631,7 +7631,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 447
+            "id": 446
         },
         {
             "entity": "Equifax",
@@ -7650,7 +7650,7 @@
                 "https://www.thesslstore.com/blog/equifax-data-breach-total-data-lost-the-final-count/",
                 "https://threatpost.com/equifax-settles-class-action-lawsuit/151873/"
             ],
-            "id": 448
+            "id": 447
         },
         {
             "entity": "LightInTheBox",
@@ -7667,7 +7667,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2019,
-            "id": 449
+            "id": 448
         },
         {
             "entity": "Banijay Group SAS",
@@ -7684,7 +7684,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 450
+            "id": 449
         },
         {
             "entity": "Brazil\u2019s Superior Court of Justice",
@@ -7701,7 +7701,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 451
+            "id": 450
         },
         {
             "entity": "Dussmann group",
@@ -7718,7 +7718,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 452
+            "id": 451
         },
         {
             "year": 2019,
@@ -7735,7 +7735,7 @@
             "links": [
                 "https://stackoverflow.blog/2019/05/17/update-to-security-incident-may-17-2019/"
             ],
-            "id": 453
+            "id": 452
         },
         {
             "entity": "FBS",
@@ -7752,7 +7752,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2021,
-            "id": 454
+            "id": 453
         },
         {
             "entity": "Roosevelt General Hospital",
@@ -7769,7 +7769,7 @@
                 "motive": "?"
             },
             "year": 2019,
-            "id": 455
+            "id": 454
         },
         {
             "entity": "BevMo",
@@ -7784,7 +7784,7 @@
             "links": [
                 "https://oag.ca.gov/system/files/Sample%20Notice_27.pdf"
             ],
-            "id": 456
+            "id": 455
         },
         {
             "entity": "Epiq",
@@ -7801,7 +7801,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 457
+            "id": 456
         },
         {
             "year": 2019,
@@ -7818,7 +7818,7 @@
             "links": [
                 "https://www.helpnetsecurity.com/2019/10/18/cryptojacking-worm-docker/"
             ],
-            "id": 458
+            "id": 457
         },
         {
             "entity": "Amber Windows",
@@ -7835,7 +7835,7 @@
                 "motive": "Hacktivist:Press"
             },
             "year": 2020,
-            "id": 459
+            "id": 458
         },
         {
             "entity": "Virgin Media",
@@ -7852,7 +7852,7 @@
                 "motive": "Hacktivism:Schadenfreude"
             },
             "year": 2020,
-            "id": 460
+            "id": 459
         },
         {
             "year": 2019,
@@ -7868,7 +7868,7 @@
             "links": [
                 "https://www.darkreading.com/attacks-breaches/lion-air-the-latest-to-get-tripped-up-by-misconfigured-aws-s3-/d/d-id/1335864?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple"
             ],
-            "id": 461
+            "id": 460
         },
         {
             "entity": "CIUSSS du Centre-Ouest-de-l'\u00cele-de-Montr\u00e9al",
@@ -7885,7 +7885,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 462
+            "id": 461
         },
         {
             "entity": "P&N Bank",
@@ -7902,7 +7902,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 463
+            "id": 462
         },
         {
             "year": 2019,
@@ -7920,7 +7920,7 @@
                 "https://www.zdnet.com/article/chinese-cyberspies-breached-teamviewer-in-2016/",
                 "https://www.spiegel.de/plus/teamviewer-wie-hacker-das-deutsche-vorzeige-start-up-ausspionierten-a-00000000-0002-0001-0000-000163955857"
             ],
-            "id": 464
+            "id": 463
         },
         {
             "entity": "Multiple",
@@ -7935,7 +7935,7 @@
             "links": [
                 "https://geminiadvisory.io/hacked-click2gov-exposed-payment-data/"
             ],
-            "id": 465
+            "id": 464
         },
         {
             "entity": "Reverb",
@@ -7952,7 +7952,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2021,
-            "id": 466
+            "id": 465
         },
         {
             "entity": "Fedex",
@@ -7967,7 +7967,7 @@
             "links": [
                 "http://www.zdnet.com/article/unsecured-server-exposes-fedex-customer-records/"
             ],
-            "id": 467
+            "id": 466
         },
         {
             "entity": "Commport Communications",
@@ -7985,7 +7985,7 @@
                 "motive": "Money:Ransomware"
             },
             "year": 2021,
-            "id": 468
+            "id": 467
         },
         {
             "entity": "European Network of Transmission System Operators for Electricity",
@@ -8002,7 +8002,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 469
+            "id": 468
         },
         {
             "entity": "European companies",
@@ -8019,7 +8019,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 470
+            "id": 469
         },
         {
             "entity": "City of Pensacola",
@@ -8036,7 +8036,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 471
+            "id": 470
         },
         {
             "entity": "Fox IT",
@@ -8051,7 +8051,7 @@
             "links": [
                 "https://www.fox-it.com/en/insights/blogs/blog/fox-hit-cyber-attack/"
             ],
-            "id": 472
+            "id": 471
         },
         {
             "entity": "Heartland Community College",
@@ -8068,7 +8068,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 473
+            "id": 472
         },
         {
             "year": 2019,
@@ -8085,7 +8085,7 @@
             "links": [
                 "https://www.reuters.com/article/us-facebook-cyber-whatsapp-nsogroup/exclusive-whatsapp-hacked-to-spy-on-top-government-officials-at-u-s-allies-sources-idUSKBN1XA27H"
             ],
-            "id": 474
+            "id": 473
         },
         {
             "year": 2019,
@@ -8102,7 +8102,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/three-us-universities-disclose-data-breaches-over-two-day-span/"
             ],
-            "id": 475
+            "id": 474
         },
         {
             "year": 2019,
@@ -8118,7 +8118,7 @@
             "links": [
                 "https://www.softwaretestingnews.co.uk/19025-2-sbi-leaks-financial-data/"
             ],
-            "id": 476
+            "id": 475
         },
         {
             "entity": "eResearchTechnology",
@@ -8135,7 +8135,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 477
+            "id": 476
         },
         {
             "entity": "Tellus",
@@ -8152,7 +8152,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 478
+            "id": 477
         },
         {
             "entity": "Dutch Government Website",
@@ -8169,7 +8169,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 479
+            "id": 478
         },
         {
             "entity": "Ubiquity",
@@ -8186,7 +8186,7 @@
                 "motive": "PII:?"
             },
             "year": 2021,
-            "id": 480
+            "id": 479
         },
         {
             "entity": "Kenneth Cole Productions",
@@ -8203,7 +8203,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 481
+            "id": 480
         },
         {
             "year": 2019,
@@ -8219,7 +8219,7 @@
             "links": [
                 "https://threatpost.com/voip-espionage-campaign-utilities-supplier/148916/"
             ],
-            "id": 482
+            "id": 481
         },
         {
             "entity": "Jeff Bezos",
@@ -8236,7 +8236,7 @@
                 "motive": "Political"
             },
             "year": 2019,
-            "id": 483
+            "id": 482
         },
         {
             "entity": "Bank of Valletta",
@@ -8253,7 +8253,7 @@
                 "motive": "Money:Bank Transfer"
             },
             "year": 2020,
-            "id": 484
+            "id": 483
         },
         {
             "entity": "Florida Unemployment System",
@@ -8270,7 +8270,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 485
+            "id": 484
         },
         {
             "entity": "Steelcase",
@@ -8287,7 +8287,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 486
+            "id": 485
         },
         {
             "entity": "ViralQuotes",
@@ -8304,7 +8304,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 487
+            "id": 486
         },
         {
             "entity": "Austria Foreign Ministry",
@@ -8321,7 +8321,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 488
+            "id": 487
         },
         {
             "entity": "GoGet",
@@ -8336,7 +8336,7 @@
             "links": [
                 "https://www.goget.com.au/notification/"
             ],
-            "id": 489
+            "id": 488
         },
         {
             "year": 2019,
@@ -8353,7 +8353,7 @@
             "links": [
                 "https://web.br.de/interaktiv/winnti/english/"
             ],
-            "id": 490
+            "id": 489
         },
         {
             "year": 2019,
@@ -8370,7 +8370,7 @@
             "links": [
                 "https://thehackernews.com/2019/09/tweet-via-sms-text-message-hacking.html"
             ],
-            "id": 491
+            "id": 490
         },
         {
             "entity": "Boyne Resorts",
@@ -8387,7 +8387,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 492
+            "id": 491
         },
         {
             "year": 2019,
@@ -8403,7 +8403,7 @@
             "links": [
                 "https://www.zdnet.com/article/hackers-breach-volusion-and-start-collecting-card-details-from-thousands-of-sites/"
             ],
-            "id": 493
+            "id": 492
         },
         {
             "entity": "US Fertility",
@@ -8420,7 +8420,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 494
+            "id": 493
         },
         {
             "entity": "Carefirst",
@@ -8436,7 +8436,7 @@
             "links": [
                 "https://krebsonsecurity.com/2015/05/carefirst-blue-cross-breach-hits-1-1m/"
             ],
-            "id": 495
+            "id": 494
         },
         {
             "year": 2016,
@@ -8455,7 +8455,7 @@
                 "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
                 "https://www.sacs.co.za/2019/06/28/4918/"
             ],
-            "id": 496
+            "id": 495
         },
         {
             "year": 2019,
@@ -8472,7 +8472,7 @@
             "links": [
                 "https://success.docker.com/article/docker-hub-user-notification"
             ],
-            "id": 497
+            "id": 496
         },
         {
             "year": 2019,
@@ -8490,7 +8490,7 @@
                 "https://thehackernews.com/2019/06/outlook-app-android.html",
                 "https://thehackernews.com/2019/06/microsoft-outlook-vulnerability.html"
             ],
-            "id": 498
+            "id": 497
         },
         {
             "year": 2019,
@@ -8507,7 +8507,7 @@
             "links": [
                 "https://media.cert.europa.eu/static/MEMO/2019/TLP-WHITE-CERT-EU-MEMO-190725-1.pdf"
             ],
-            "id": 499
+            "id": 498
         },
         {
             "entity": "Electrum",
@@ -8522,7 +8522,7 @@
             "links": [
                 "https://www.reddit.com/r/CryptoCurrency/comments/a9yji3/electrum_wallet_hacked_200_btc_stolen_so_far/"
             ],
-            "id": 500
+            "id": 499
         },
         {
             "year": 2019,
@@ -8540,7 +8540,7 @@
                 "https://securityaffairs.co/wordpress/84501/malware/aebi-schmidt-ransomware.html",
                 "https://techcrunch.com/2019/04/23/aebi-schmidt-ransomware/"
             ],
-            "id": 501
+            "id": 500
         },
         {
             "entity": "Amadeus",
@@ -8555,7 +8555,7 @@
             "links": [
                 "https://www.bankinfosecurity.com/airline-booking-system-exposed-passenger-details-a-11952"
             ],
-            "id": 502
+            "id": 501
         },
         {
             "entity": "Misc crypto currency users and companies",
@@ -8572,7 +8572,7 @@
                 "motive": "Money:Cryptocurrency"
             },
             "year": 2019,
-            "id": 503
+            "id": 502
         },
         {
             "year": 2019,
@@ -8589,7 +8589,7 @@
             "links": [
                 "https://www.zdnet.com/article/australian-tech-unicorn-canva-suffers-security-breach/"
             ],
-            "id": 504
+            "id": 503
         },
         {
             "entity": "myfitnesspal.com",
@@ -8604,7 +8604,7 @@
             "links": [
                 "https://content.myfitnesspal.com/security-information/notice.html"
             ],
-            "id": 505
+            "id": 504
         },
         {
             "entity": "Rooster Teeth",
@@ -8621,7 +8621,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2019,
-            "id": 506
+            "id": 505
         },
         {
             "entity": "Webkinz World",
@@ -8638,7 +8638,7 @@
                 "motive": "Hacktivism:?"
             },
             "year": 2020,
-            "id": 507
+            "id": 506
         },
         {
             "entity": "Transportation Research Board",
@@ -8655,7 +8655,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 508
+            "id": 507
         },
         {
             "year": 2019,
@@ -8672,7 +8672,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/ransomware-attack-causes-school-district-wide-shutdown/"
             ],
-            "id": 509
+            "id": 508
         },
         {
             "entity": "Gaming industry",
@@ -8689,7 +8689,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 510
+            "id": 509
         },
         {
             "entity": "Uniswap adn Lendf.me",
@@ -8706,7 +8706,7 @@
                 "motive": "Money:Cryptocurrency"
             },
             "year": 2020,
-            "id": 511
+            "id": 510
         },
         {
             "entity": "CWT Travel Agency",
@@ -8724,7 +8724,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 512
+            "id": 511
         },
         {
             "entity": "VTA",
@@ -8741,7 +8741,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 513
+            "id": 512
         },
         {
             "entity": "Electronic Warfare Associates",
@@ -8758,7 +8758,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 514
+            "id": 513
         },
         {
             "entity": "UN",
@@ -8776,7 +8776,7 @@
                 "motive": "?"
             },
             "year": 2019,
-            "id": 515
+            "id": 514
         },
         {
             "entity": "UHS",
@@ -8793,7 +8793,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 516
+            "id": 515
         },
         {
             "year": 2019,
@@ -8810,7 +8810,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/over-37-million-lost-by-toyota-boshoku-subsidiary-in-bec-scam/"
             ],
-            "id": 517
+            "id": 516
         },
         {
             "entity": "Stats Perform",
@@ -8827,7 +8827,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 518
+            "id": 517
         },
         {
             "entity": "Havenly",
@@ -8844,7 +8844,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 519
+            "id": 518
         },
         {
             "entity": "HSBC",
@@ -8859,7 +8859,7 @@
             "links": [
                 "https://www.americanbanker.com/news/hsbc-suffers-data-breach-on-small-number-of-online-accounts"
             ],
-            "id": 520
+            "id": 519
         },
         {
             "entity": "Brechin school",
@@ -8876,7 +8876,7 @@
                 "motive": "?"
             },
             "year": 2021,
-            "id": 521
+            "id": 520
         },
         {
             "entity": "SmarterASP",
@@ -8893,7 +8893,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 522
+            "id": 521
         },
         {
             "entity": "Whistler resort municipality",
@@ -8910,7 +8910,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 523
+            "id": 522
         },
         {
             "entity": "Nintendo",
@@ -8927,7 +8927,7 @@
                 "motive": "Money:Misc"
             },
             "year": 2020,
-            "id": 524
+            "id": 523
         },
         {
             "entity": "Two Hong Kong universities",
@@ -8944,7 +8944,7 @@
                 "motive": "Political"
             },
             "year": 2019,
-            "id": 525
+            "id": 524
         },
         {
             "entity": "Sierra Wireless",
@@ -8961,7 +8961,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 526
+            "id": 525
         },
         {
             "year": 2018,
@@ -8979,7 +8979,7 @@
                 "https://www.washingtonpost.com/world/national-security/russian-spies-hacked-the-olympics-and-tried-to-make-it-look-like-north-korea-did-it-us-officials-say/2018/02/24/44b5468e-18f2-11e8-92c9-376b4fe57ff7_story.html",
                 "https://www.wired.com/story/sandworm-russia-cyberattack-links/"
             ],
-            "id": 527
+            "id": 526
         },
         {
             "entity": "Quora",
@@ -8994,7 +8994,7 @@
             "links": [
                 "https://www.fraud.org/quora_2018"
             ],
-            "id": 528
+            "id": 527
         },
         {
             "entity": "Infowars",
@@ -9009,7 +9009,7 @@
             "links": [
                 "https://www.zdnet.com/article/card-skimming-malware-removed-from-infowars-online-store/"
             ],
-            "id": 529
+            "id": 528
         },
         {
             "entity": "Lyca Mobile",
@@ -9026,7 +9026,7 @@
                 "motive": "Hacktivism:Schadenfreude"
             },
             "year": 2019,
-            "id": 530
+            "id": 529
         },
         {
             "year": 2019,
@@ -9044,7 +9044,7 @@
                 "https://www.scmagazine.com/home/security-news/gaming/major-software-vendor-compromised-with-previously-undocumented-portreuse-backdoor/",
                 "https://www.bleepingcomputer.com/news/security/winnti-group-uses-new-portreuse-malware-against-asian-manufacturer/"
             ],
-            "id": 531
+            "id": 530
         },
         {
             "year": 2019,
@@ -9061,7 +9061,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/keyloggers-injected-in-web-trust-seal-supply-chain-attack/"
             ],
-            "id": 532
+            "id": 531
         },
         {
             "entity": "ComplyRight",
@@ -9076,7 +9076,7 @@
             "links": [
                 "https://krebsonsecurity.com/2018/07/human-resources-firm-complyright-breached/"
             ],
-            "id": 533
+            "id": 532
         },
         {
             "entity": "MGM Grand",
@@ -9093,7 +9093,7 @@
                 "motive": "PII:?"
             },
             "year": 2019,
-            "id": 534
+            "id": 533
         },
         {
             "entity": "Danish company Demant",
@@ -9110,7 +9110,7 @@
             "links": [
                 "https://securityaffairs.co/wordpress/91959/security/demant-ransomware-attack.html"
             ],
-            "id": 535
+            "id": 534
         },
         {
             "entity": "Catawba County",
@@ -9126,7 +9126,7 @@
             "links": [
                 "http://www.wbtv.com/story/37649426/catawba-county-employee-computers-hacked"
             ],
-            "id": 536
+            "id": 535
         },
         {
             "entity": "Nebraska Medicine",
@@ -9143,7 +9143,7 @@
                 "motive": "PII:?"
             },
             "year": 2019,
-            "id": 537
+            "id": 536
         },
         {
             "entity": "East Tennessee State University",
@@ -9158,7 +9158,7 @@
             "links": [
                 "https://www.wvlt.tv/content/news/Data-breach-leaves-thousands-of-ETSU-employees-vulnerable--500860311.html"
             ],
-            "id": 538
+            "id": 537
         },
         {
             "entity": "Allied Universal",
@@ -9175,7 +9175,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 539
+            "id": 538
         },
         {
             "entity": "https://www.hipaaguide.net/914000-patients-impacted-by-hacking-of-florida-orthopedic-institute-and-benefit-recovery-specialists/",
@@ -9192,7 +9192,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 540
+            "id": 539
         },
         {
             "entity": "Adobe - Magento Marketplace",
@@ -9209,7 +9209,7 @@
                 "motive": "PII:?"
             },
             "year": 2019,
-            "id": 541
+            "id": 540
         },
         {
             "entity": "Complete Technology Solutions",
@@ -9226,7 +9226,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 542
+            "id": 541
         },
         {
             "entity": "South Korean Gaming Company",
@@ -9244,7 +9244,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 543
+            "id": 542
         },
         {
             "entity": "Energy and industrial sectors in the Middle East",
@@ -9261,7 +9261,7 @@
                 "motive": "Political"
             },
             "year": 2019,
-            "id": 544
+            "id": 543
         },
         {
             "entity": "LiveJournal",
@@ -9278,7 +9278,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 545
+            "id": 544
         },
         {
             "entity": "AccuDoc",
@@ -9293,7 +9293,7 @@
             "links": [
                 "https://www.theregister.co.uk/2018/11/29/accudoc_atrium_health_data_breach/"
             ],
-            "id": 546
+            "id": 545
         },
         {
             "year": 2019,
@@ -9310,7 +9310,7 @@
             "links": [
                 "https://threatpost.com/magecart-attack-skin-care-site/149580/"
             ],
-            "id": 547
+            "id": 546
         },
         {
             "entity": "MCA Wizard",
@@ -9327,7 +9327,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 548
+            "id": 547
         },
         {
             "entity": "North Koreans",
@@ -9344,7 +9344,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 549
+            "id": 548
         },
         {
             "entity": "Benefit Mall",
@@ -9359,7 +9359,7 @@
             "links": [
                 "https://oag.ca.gov/system/files/BMC%20-%20FINAL%20CONSUMER%20NOTICE_0.pdf"
             ],
-            "id": 550
+            "id": 549
         },
         {
             "entity": "Benefit Recovery Specialists",
@@ -9377,7 +9377,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 551
+            "id": 550
         },
         {
             "year": 2019,
@@ -9394,7 +9394,7 @@
             "links": [
                 "https://www.wltx.com/article/news/local/cybersecurity-prisma-health-breach-website/101-e00dedcf-8abf-4302-a576-473495e53cd3"
             ],
-            "id": 552
+            "id": 551
         },
         {
             "entity": "Chowbus",
@@ -9411,7 +9411,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 553
+            "id": 552
         },
         {
             "entity": "Three Italian universities",
@@ -9428,7 +9428,7 @@
                 "motive": "Hacktivism:Schadenfreude"
             },
             "year": 2020,
-            "id": 554
+            "id": 553
         },
         {
             "entity": "Suprema",
@@ -9445,7 +9445,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2019,
-            "id": 555
+            "id": 554
         },
         {
             "entity": "New Jersey Synagogue",
@@ -9462,7 +9462,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 556
+            "id": 555
         },
         {
             "entity": "Ritzau",
@@ -9479,7 +9479,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 557
+            "id": 556
         },
         {
             "entity": "Keolis Commuter Services",
@@ -9496,7 +9496,7 @@
                 "motive": "Money:Ransomware"
             },
             "year": 2020,
-            "id": 558
+            "id": 557
         },
         {
             "entity": "Hackney Council",
@@ -9513,7 +9513,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 559
+            "id": 558
         },
         {
             "entity": "Kitronik",
@@ -9528,7 +9528,7 @@
             "links": [
                 "https://www.zdnet.com/article/magecart-claims-fresh-victim-in-kitronik/"
             ],
-            "id": 560
+            "id": 559
         },
         {
             "entity": "DeepSource",
@@ -9545,7 +9545,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 561
+            "id": 560
         },
         {
             "entity": "Lancaster University",
@@ -9562,7 +9562,7 @@
                 "motive": "Money:Misc"
             },
             "year": 2019,
-            "id": 562
+            "id": 561
         },
         {
             "year": 2019,
@@ -9578,7 +9578,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/credit-info-exposed-in-transunion-data-security-incident/"
             ],
-            "id": 563
+            "id": 562
         },
         {
             "year": 2019,
@@ -9594,7 +9594,7 @@
             "links": [
                 "https://m.signalvnoise.com/yesterdays-mass-login-attack-on-basecamp-is-another-reminder-to-protect-yourself/"
             ],
-            "id": 564
+            "id": 563
         },
         {
             "year": 2015,
@@ -9611,7 +9611,7 @@
             "links": [
                 "https://web.br.de/interaktiv/winnti/english/"
             ],
-            "id": 565
+            "id": 564
         },
         {
             "entity": "Israel\u2019s Likud party",
@@ -9628,7 +9628,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 566
+            "id": 565
         },
         {
             "entity": "Middle East John Does",
@@ -9645,7 +9645,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 567
+            "id": 566
         },
         {
             "entity": "NEC",
@@ -9662,7 +9662,7 @@
                 "motive": "?"
             },
             "year": 2016,
-            "id": 568
+            "id": 567
         },
         {
             "entity": "Cisco",
@@ -9679,7 +9679,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 569
+            "id": 568
         },
         {
             "year": 2019,
@@ -9696,7 +9696,7 @@
             "links": [
                 "https://www.securityweek.com/aircraft-parts-maker-asco-severely-hit-ransomware"
             ],
-            "id": 570
+            "id": 569
         },
         {
             "entity": "Maastricht University",
@@ -9714,7 +9714,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 571
+            "id": 570
         },
         {
             "entity": "Hanna Andersson",
@@ -9731,7 +9731,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 572
+            "id": 571
         },
         {
             "entity": "Orbitz",
@@ -9746,7 +9746,7 @@
             "links": [
                 "https://www.lifelock.com/learn-data-breaches-orbitz-data-breach-what-to-do-next.html"
             ],
-            "id": 573
+            "id": 572
         },
         {
             "year": 2019,
@@ -9762,7 +9762,7 @@
             "links": [
                 "https://securityaffairs.co/wordpress/91452/hacking/pacs-servers-unprotected-online.html"
             ],
-            "id": 574
+            "id": 573
         },
         {
             "entity": "OxyData.Io",
@@ -9779,7 +9779,7 @@
                 "motive": "PII:?"
             },
             "year": 2019,
-            "id": 575
+            "id": 574
         },
         {
             "year": 2013,
@@ -9796,7 +9796,7 @@
             "links": [
                 "https://securelist.com/winnti-more-than-just-a-game/37029/"
             ],
-            "id": 576
+            "id": 575
         },
         {
             "entity": "Broward School District",
@@ -9813,7 +9813,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 577
+            "id": 576
         },
         {
             "entity": "Alteryx",
@@ -9828,7 +9828,7 @@
             "links": [
                 "http://beta.latimes.com/business/technology/la-fi-tn-alteryx-data-breach-20171222-story.html"
             ],
-            "id": 578
+            "id": 577
         },
         {
             "entity": "Estee Lauder",
@@ -9845,7 +9845,7 @@
                 "motive": "Hacktivism:Schadenfreude"
             },
             "year": 2020,
-            "id": 579
+            "id": 578
         },
         {
             "year": 2013,
@@ -9862,7 +9862,7 @@
             "links": [
                 "https://securelist.com/winnti-more-than-just-a-game/37029/"
             ],
-            "id": 580
+            "id": 579
         },
         {
             "year": 2012,
@@ -9879,7 +9879,7 @@
             "links": [
                 "https://eromang.zataz.com/2013/01/02/capstone-turbine-corporation-also-targeted-in-the-cfr-watering-hole-attack-and-more/"
             ],
-            "id": 581
+            "id": 580
         },
         {
             "entity": "ANSA McAL",
@@ -9896,7 +9896,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 582
+            "id": 581
         },
         {
             "entity": "Iranian Internet",
@@ -9913,7 +9913,7 @@
                 "motive": "Political"
             },
             "year": 2020,
-            "id": 583
+            "id": 582
         },
         {
             "entity": "Focus Camera",
@@ -9930,7 +9930,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 584
+            "id": 583
         },
         {
             "year": 2016,
@@ -9949,7 +9949,7 @@
                 "https://www.justice.gov/opa/pr/two-chinese-hackers-associated-ministry-state-security-charged-global-computer-intrusion",
                 "https://www.sacs.co.za/2019/06/28/4918/"
             ],
-            "id": 585
+            "id": 584
         },
         {
             "entity": "Dixons",
@@ -9966,7 +9966,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 586
+            "id": 585
         },
         {
             "year": 2019,
@@ -9982,7 +9982,7 @@
             "links": [
                 "https://computersweden.idg.se/2.2683/1.714787/inspelade-samtal-1177-vardguiden-oskyddade-internet"
             ],
-            "id": 587
+            "id": 586
         },
         {
             "entity": "University of Florida Health The Villages Regional Hospital",
@@ -10000,7 +10000,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 588
+            "id": 587
         },
         {
             "entity": "Deer Valley Resort",
@@ -10017,7 +10017,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2019,
-            "id": 589
+            "id": 588
         },
         {
             "year": 2019,
@@ -10034,7 +10034,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/toyota-security-breach-exposes-personal-info-of-31-million-clients/"
             ],
-            "id": 590
+            "id": 589
         },
         {
             "entity": "Century Springs",
@@ -10049,7 +10049,7 @@
             "links": [
                 "https://ago.vermont.gov/blog/2018/12/14/century-spring-notice-of-data-breach-to-consumers/"
             ],
-            "id": 591
+            "id": 590
         },
         {
             "entity": "ADATA",
@@ -10066,7 +10066,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 592
+            "id": 591
         },
         {
             "entity": "Yazoo County School District",
@@ -10083,7 +10083,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 593
+            "id": 592
         },
         {
             "entity": "Entercom",
@@ -10100,7 +10100,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 594
+            "id": 593
         },
         {
             "entity": "Direcci\u00f3n Nacional de Migraciones",
@@ -10117,7 +10117,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 595
+            "id": 594
         },
         {
             "year": 2019,
@@ -10134,7 +10134,7 @@
             "links": [
                 "https://thehackernews.com/2019/10/adobe-database-leaked.html"
             ],
-            "id": 596
+            "id": 595
         },
         {
             "entity": "ISS (Danish multinational services company)",
@@ -10151,7 +10151,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 597
+            "id": 596
         },
         {
             "entity": "Thousands of individuals and organizations worldwide",
@@ -10168,7 +10168,7 @@
                 "motive": "Money:Misc"
             },
             "year": 2020,
-            "id": 598
+            "id": 597
         },
         {
             "year": 2019,
@@ -10185,7 +10185,7 @@
             "links": [
                 "https://blog.poshmark.com/2019/08/01/important-security-notice-from-poshmark/"
             ],
-            "id": 599
+            "id": 598
         },
         {
             "entity": "Peekaboo Moments",
@@ -10202,7 +10202,7 @@
                 "motive": "Hacktivism:Press"
             },
             "year": 2020,
-            "id": 600
+            "id": 599
         },
         {
             "entity": "Artech",
@@ -10219,7 +10219,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 601
+            "id": 600
         },
         {
             "year": 2014,
@@ -10237,7 +10237,7 @@
                 "https://www.cshub.com/attacks/articles/incident-of-the-week-multiple-yahoo-data-breaches-across-4-years-result-in-a-1175-million-settlement",
                 "https://en.wikipedia.org/wiki/Yahoo!_data_breaches"
             ],
-            "id": 602
+            "id": 601
         },
         {
             "entity": "Life Healthcare",
@@ -10254,7 +10254,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 603
+            "id": 602
         },
         {
             "entity": "Vatican",
@@ -10271,7 +10271,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 604
+            "id": 603
         },
         {
             "entity": "MJ Insurance",
@@ -10286,7 +10286,7 @@
             "links": [
                 "https://oag.ca.gov/system/files/CHDOCS01-%232634704-v1-AG-CA-Notification-Letter_0.PDF"
             ],
-            "id": 605
+            "id": 604
         },
         {
             "year": 2019,
@@ -10303,7 +10303,7 @@
                 "https://threatpost.com/mattress-company-leaks-data-records-of-387k-customers/148530/",
                 "https://www.scmagazine.com/home/security-news/data-breach/sleeping-on-the-job-verlo-mattress-factory-exposes-database/"
             ],
-            "id": 606
+            "id": 605
         },
         {
             "year": 2015,
@@ -10320,7 +10320,7 @@
             "links": [
                 "https://www.zdnet.com/article/building-chinas-comac-c919-airplane-involved-a-lot-of-hacking-report-says/"
             ],
-            "id": 607
+            "id": 606
         },
         {
             "entity": "Home Chef",
@@ -10337,7 +10337,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 608
+            "id": 607
         },
         {
             "entity": "Over a dozen Swiss entities",
@@ -10354,7 +10354,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 609
+            "id": 608
         },
         {
             "entity": "City of Toronto",
@@ -10371,7 +10371,7 @@
                 "motive": "PII:?"
             },
             "year": 2021,
-            "id": 610
+            "id": 609
         },
         {
             "year": 2019,
@@ -10388,7 +10388,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/atlanta-hawks-online-shop-hit-with-credit-card-stealing-attack/"
             ],
-            "id": 611
+            "id": 610
         },
         {
             "entity": "Haldiram",
@@ -10405,7 +10405,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 612
+            "id": 611
         },
         {
             "year": 2016,
@@ -10422,7 +10422,7 @@
             "links": [
                 "https://krebsonsecurity.com/2017/06/credit-card-breach-at-buckle-stores/"
             ],
-            "id": 613
+            "id": 612
         },
         {
             "entity": "Centennial schools",
@@ -10439,7 +10439,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 614
+            "id": 613
         },
         {
             "entity": "NTT Com",
@@ -10456,7 +10456,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 615
+            "id": 614
         },
         {
             "entity": "Misc APT33 Targets",
@@ -10474,7 +10474,7 @@
                 "motive": "Espionage"
             },
             "year": 2019,
-            "id": 616
+            "id": 615
         },
         {
             "year": 2019,
@@ -10491,7 +10491,7 @@
             "links": [
                 "https://thehackernews.com/2019/08/magecart-hacking-credit-card.html"
             ],
-            "id": 617
+            "id": 616
         },
         {
             "entity": "Capital One",
@@ -10510,7 +10510,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 618
+            "id": 617
         },
         {
             "entity": "Palo Alto Networks",
@@ -10527,7 +10527,7 @@
                 "motive": "PII:?"
             },
             "year": 2019,
-            "id": 619
+            "id": 618
         },
         {
             "entity": "Software AG",
@@ -10544,7 +10544,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 620
+            "id": 619
         },
         {
             "year": 2019,
@@ -10561,7 +10561,7 @@
             "links": [
                 "https://thehackernews.com/2019/05/wyzant-data-breach.html"
             ],
-            "id": 621
+            "id": 620
         },
         {
             "entity": "Chinese venture-capital firm",
@@ -10578,7 +10578,7 @@
                 "motive": "Money:Bank Transfer"
             },
             "year": 2019,
-            "id": 622
+            "id": 621
         },
         {
             "entity": "AMD",
@@ -10595,7 +10595,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 623
+            "id": 622
         },
         {
             "entity": "Kenneth Copeland",
@@ -10612,7 +10612,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 624
+            "id": 623
         },
         {
             "entity": "Mitsubishi Electric",
@@ -10630,7 +10630,7 @@
                 "motive": "Espionage"
             },
             "year": 2019,
-            "id": 625
+            "id": 624
         },
         {
             "year": 2019,
@@ -10647,7 +10647,7 @@
             "links": [
                 "https://www.cnet.com/news/south-carolina-capital-website-has-a-security-flaw-that-exposed-passwords/"
             ],
-            "id": 626
+            "id": 625
         },
         {
             "entity": "Ten hospitals (3 U.S. and 7 Australia)",
@@ -10664,7 +10664,7 @@
             "links": [
                 "https://securityaffairs.co/wordpress/92015/hacking/hospitals-ransomware-attacks.html"
             ],
-            "id": 627
+            "id": 626
         },
         {
             "entity": "Southwire",
@@ -10681,7 +10681,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 628
+            "id": 627
         },
         {
             "entity": "Chenango County",
@@ -10698,7 +10698,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 629
+            "id": 628
         },
         {
             "year": 2019,
@@ -10715,7 +10715,7 @@
             "links": [
                 "https://threatpost.com/magecart-attack-skin-care-site/149580/"
             ],
-            "id": 630
+            "id": 629
         },
         {
             "entity": "Unknown sql injection targets",
@@ -10732,7 +10732,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 631
+            "id": 630
         },
         {
             "entity": "Zellow",
@@ -10750,7 +10750,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 632
+            "id": 631
         },
         {
             "entity": "Coincheck",
@@ -10765,7 +10765,7 @@
             "links": [
                 "https://www.coindesk.com/numbers-not-coincheck-isnt-another-mt-gox/"
             ],
-            "id": 633
+            "id": 632
         },
         {
             "entity": "Cencosud",
@@ -10782,7 +10782,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 634
+            "id": 633
         },
         {
             "entity": "Mixcloud",
@@ -10799,7 +10799,7 @@
                 "motive": "Money:Sale on dark web"
             },
             "year": 2019,
-            "id": 635
+            "id": 634
         },
         {
             "entity": "J.Crew",
@@ -10816,7 +10816,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 636
+            "id": 635
         },
         {
             "entity": "Red Robin",
@@ -10831,7 +10831,7 @@
             "links": [
                 "https://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100"
             ],
-            "id": 637
+            "id": 636
         },
         {
             "entity": "Sky Brasil",
@@ -10846,7 +10846,7 @@
             "links": [
                 "https://www.scmagazine.com/home/security-news/sky-brasil-one-of-the-biggest-subscription-television-services-in-brazil-is-the-latest-elasticsearch-server-user-to-leave-its-customers-exposed-after-not-securing-the-server-with-a-password/"
             ],
-            "id": 638
+            "id": 637
         },
         {
             "entity": "U.S. government agency and non-US foreign nationals",
@@ -10863,7 +10863,7 @@
                 "motive": "Espionage"
             },
             "year": 2020,
-            "id": 639
+            "id": 638
         },
         {
             "entity": "German parliament",
@@ -10880,7 +10880,7 @@
                 "motive": "Espionage"
             },
             "year": 2015,
-            "id": 640
+            "id": 639
         },
         {
             "entity": "OS News",
@@ -10895,7 +10895,7 @@
             "links": [
                 "https://www.osnews.com/story/128924/what-happened-here/"
             ],
-            "id": 641
+            "id": 640
         },
         {
             "entity": "Global Imports",
@@ -10910,7 +10910,7 @@
             "links": [
                 "https://oag.ca.gov/system/files/A%26A%20Consumer%20Notice%20Proof%20-%20FINAL%201-9-19_0.pdf"
             ],
-            "id": 642
+            "id": 641
         },
         {
             "entity": "Multiple 20230725",
@@ -10927,7 +10927,7 @@
                 "motive": "Espionage"
             },
             "year": 2023,
-            "id": 643
+            "id": 642
         },
         {
             "year": 2015,
@@ -10944,7 +10944,7 @@
             "links": [
                 "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
             ],
-            "id": 644
+            "id": 643
         },
         {
             "entity": "Bulletproof Coffee",
@@ -10959,7 +10959,7 @@
             "links": [
                 "https://www.theregister.co.uk/2017/11/27/bulletproof_coffee_hacked/"
             ],
-            "id": 645
+            "id": 644
         },
         {
             "entity": "Dr. Reddy\u2019s",
@@ -10976,7 +10976,7 @@
                 "motive": "?"
             },
             "year": 2020,
-            "id": 646
+            "id": 645
         },
         {
             "entity": "Orange",
@@ -10993,7 +10993,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 647
+            "id": 646
         },
         {
             "year": 2019,
@@ -11010,7 +11010,7 @@
             "links": [
                 "https://www.csoonline.com/article/3488816/how-a-nuclear-plant-got-hacked.html"
             ],
-            "id": 648
+            "id": 647
         },
         {
             "entity": "Islands Restaurants",
@@ -11028,7 +11028,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2019,
-            "id": 649
+            "id": 648
         },
         {
             "year": 2019,
@@ -11045,7 +11045,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/worlds-first-domain-registrar-network-solutions-discloses-breach/"
             ],
-            "id": 650
+            "id": 649
         },
         {
             "entity": "Warner Music Group",
@@ -11062,7 +11062,7 @@
                 "motive": "Money:Credit Card"
             },
             "year": 2020,
-            "id": 651
+            "id": 650
         },
         {
             "year": 2019,
@@ -11079,7 +11079,7 @@
             "links": [
                 "https://www.techdirt.com/articles/20191004/19564743128/city-baltimore-blew-off-76000-ransomware-demand-only-to-find-out-bunch-data-had-never-been-backed-up.shtml"
             ],
-            "id": 652
+            "id": 651
         },
         {
             "entity": "University of California",
@@ -11096,7 +11096,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 653
+            "id": 652
         },
         {
             "entity": "San Francisco Employees\u2019 Retirement System",
@@ -11113,7 +11113,7 @@
                 "motive": "PII:?"
             },
             "year": 2020,
-            "id": 654
+            "id": 653
         },
         {
             "entity": "New South Wales Health",
@@ -11131,7 +11131,7 @@
                 "motive": "?"
             },
             "year": 2021,
-            "id": 655
+            "id": 654
         },
         {
             "entity": "Georgetown County",
@@ -11148,7 +11148,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2021,
-            "id": 656
+            "id": 655
         },
         {
             "entity": "LIHKG Forum",
@@ -11165,7 +11165,7 @@
                 "motive": "Political"
             },
             "year": 2019,
-            "id": 657
+            "id": 656
         },
         {
             "entity": "Swatch Group",
@@ -11182,7 +11182,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 658
+            "id": 657
         },
         {
             "year": 2019,
@@ -11199,7 +11199,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/monroe-college-hit-with-ransomware-2-million-demanded/"
             ],
-            "id": 659
+            "id": 658
         },
         {
             "entity": "Hackensack Meridian Health",
@@ -11216,7 +11216,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2019,
-            "id": 660
+            "id": 659
         },
         {
             "entity": "Arthur J. Gallagher",
@@ -11233,7 +11233,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 661
+            "id": 660
         },
         {
             "entity": "Comodo discussion board and support forums (ITarian Forum)",
@@ -11249,7 +11249,7 @@
             "links": [
                 "https://thehackernews.com/2019/10/Comodo-vbulletin-hacked.html"
             ],
-            "id": 662
+            "id": 661
         },
         {
             "year": 2019,
@@ -11265,7 +11265,7 @@
             "links": [
                 "https://www.theregister.co.uk/2019/09/20/tesco_parking_app_10s_millions_anpr_photos_exposed/"
             ],
-            "id": 663
+            "id": 662
         },
         {
             "entity": "Orvis",
@@ -11282,7 +11282,7 @@
                 "motive": "?"
             },
             "year": 2014,
-            "id": 664
+            "id": 663
         },
         {
             "entity": "Minnesota Dept. Human Services",
@@ -11297,7 +11297,7 @@
             "links": [
                 "https://kstp.com/politics/new-probe-launched-into-department-of-human-services-serious-data-breach/5112579/"
             ],
-            "id": 665
+            "id": 664
         },
         {
             "year": 2019,
@@ -11314,7 +11314,7 @@
             "links": [
                 "https://www.bleepingcomputer.com/news/security/bed-bath-and-beyond-discloses-customer-login-credentials-breach/"
             ],
-            "id": 666
+            "id": 665
         },
         {
             "entity": "Lorien Health Services",
@@ -11331,7 +11331,7 @@
                 "motive": "Money:Ransom"
             },
             "year": 2020,
-            "id": 667
+            "id": 666
         }
     ]
 }

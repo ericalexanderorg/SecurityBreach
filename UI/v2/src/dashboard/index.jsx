@@ -2,6 +2,7 @@ import { Component } from 'react';
 import { Welcome } from './Welcome';
 import { HelpWanted } from './HelpWanted';
 import { Chart } from './Chart';
+import metrics from './metrics.json';
 
 
 const styles = {
@@ -20,6 +21,60 @@ export const yearsData = [
     ["2017", 1030, 540, 350],
   ];
 
+export const temp = [
+    [
+        "Year", "Breaches"
+    ],
+    [
+        "2020",
+        268
+    ],
+    [
+        "2014",
+        11
+    ],
+    [
+        "2017",
+        19
+    ],
+    [
+        "2018",
+        82
+    ],
+    [
+        "2019",
+        188
+    ],
+    [
+        "2016",
+        26
+    ],
+    [
+        "2021",
+        48
+    ],
+    [
+        "2015",
+        9
+    ],
+    [
+        "2023",
+        2
+    ],
+    [
+        "2013",
+        10
+    ],
+    [
+        "2011",
+        1
+    ],
+    [
+        "2012",
+        2
+    ]
+];
+
 class DashboardComponent extends Component {
     render() {
         return (
@@ -32,7 +87,16 @@ class DashboardComponent extends Component {
                         <HelpWanted />
                     </div>
                     <div style={{marginBottom: '2em' }}>
-                        <Chart type={'BarChart'} value={yearsData} title={'Years'} subject={'Breaches cataloged per year.'} />
+                        <Chart type={'BarChart'} value={metrics.yearsCount} title={'Years'} subject={'Breaches cataloged per year'} />
+                    </div>
+                    <div style={{marginBottom: '2em' }}>
+                        <Chart type={'PieChart'} value={metrics.actorCount} title={'Bad Actors'} subject={'Breaches per bad actor'} />
+                    </div>
+                    <div style={{marginBottom: '2em' }}>
+                        <Chart type={'PieChart'} value={metrics.initialAccessCount} title={'Initial Access'} subject={'Access'} />
+                    </div>
+                    <div style={{marginBottom: '2em' }}>
+                        <Chart type={'PieChart'} value={metrics.motiveCount} title={'Motive'} subject={'Motive'} />
                     </div>
                 </div>
             </div>
