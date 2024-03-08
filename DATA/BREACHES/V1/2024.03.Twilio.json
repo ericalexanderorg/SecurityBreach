@@ -1,0 +1,16 @@
+{
+    "entity": "Twilio",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/twilio-discloses-data-breach-after-sms-phishing-attack-on-employees/"
+    ],
+    "month": 3,
+    "summary": "Cloud communications company Twilio says some of its customers' data was accessed by attackers who b",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
