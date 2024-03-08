@@ -6,7 +6,7 @@
     "month": 12,
     "summary": "A Citrix vulnerability was exploited, leaking names, contact information, partial social security numbers, and birth dates.",
     "tags": {
-        "actor": "Nation State",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 35879455,
         "initial-access": "OWASP:A9",
