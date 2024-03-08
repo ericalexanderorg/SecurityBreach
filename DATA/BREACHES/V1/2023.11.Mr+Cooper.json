@@ -1,0 +1,16 @@
+{
+    "entity": "Mr Cooper",
+    "links": [
+        "https://www.mrcoopergroup.com/press-releases/mr-cooper-group-update-on-recent-cyber-incident/"
+    ],
+    "month": 11,
+    "summary": "Data Exposed During Payment-Blocking Cyber Attack ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2023
+}
