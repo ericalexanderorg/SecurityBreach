@@ -1,0 +1,16 @@
+{
+    "entity": "Boeing",
+    "links": [
+        "https://www.reuters.com/business/aerospace-defense/boeing-investigating-cyber-incident-affecting-parts-business-2023-11-01/"
+    ],
+    "month": 11,
+    "summary": "Ransomware attack on Boeing",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2023
+}
