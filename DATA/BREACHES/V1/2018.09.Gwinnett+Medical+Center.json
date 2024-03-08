@@ -1,16 +1,16 @@
 {
-    "entity": "Multiple",
+    "entity": "Gwinnett Medical Center",
     "links": [
         "https://www.bleepingcomputer.com/news/security/cybersecurity-firm-executive-pleads-guilty-to-hacking-hospitals/"
     ],
-    "month": 3,
+    "month": 9,
     "summary": "The former chief operating officer of a cybersecurity company has pleaded guilty to hacking two hosp",
     "tags": {
-        "actor": "Nation State",
-        "cost-usd": 0,
+        "actor": "Hacktivist",
+        "cost-usd": 817000,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Money:Ransomware"
+        "motive": "Hacktivism:Press"
     },
-    "year": 2024
+    "year": 2018
 }
