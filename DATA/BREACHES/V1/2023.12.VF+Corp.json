@@ -1,0 +1,17 @@
+{
+    "entity": "VF Corp",
+    "links": [
+        "https://techcrunch.com/2023/12/18/vans-supreme-vf-corporation-personal-data-stolen-orders-impacted-ransomware/",
+        "https://www.sec.gov/ixviewer/ix.html?doc=/Archives/edgar/data/103379/000095012323011228/d659095d8k.htm"
+    ],
+    "month": 12,
+    "summary": "Ransomware",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2023
+}
