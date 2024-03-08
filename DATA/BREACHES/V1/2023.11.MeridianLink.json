@@ -1,0 +1,17 @@
+{
+    "entity": "MeridianLink",
+    "links": [
+        "https://www.reddit.com/r/cybersecurity/comments/17wcamb/ransomware_gang_files_sec_complaint_over_victims/",
+        "https://www.bleepingcomputer.com/news/security/ransomware-gang-files-sec-complaint-over-victims-undisclosed-breach/"
+    ],
+    "month": 11,
+    "summary": "Ransomware gang files SEC complaint over victims",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2023
+}
