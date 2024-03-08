@@ -1,0 +1,16 @@
+{
+    "entity": "AutoZone",
+    "links": [
+        "https://www.securityweek.com/185000-individuals-impacted-by-moveit-hack-at-car-parts-giant-autozone/"
+    ],
+    "month": 11,
+    "summary": "Result of the massive MOVEit hacking campaign",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 185000,
+        "initial-access": "Using Components with Known Vulerabilities",
+        "motive": "PII:?"
+    },
+    "year": 2023
+}
