@@ -1,0 +1,16 @@
+{
+    "entity": "Booking.com",
+    "links": [
+        "https://www.bbc.com/news/technology-67583486"
+    ],
+    "month": 3,
+    "summary": "Hackers are increasing their attacks on Booking.com customers by posting adverts on dark web forums ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Criminal:Money"
+    },
+    "year": 2024
+}
