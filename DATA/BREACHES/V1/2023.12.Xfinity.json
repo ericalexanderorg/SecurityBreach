@@ -3,14 +3,14 @@
     "links": [
         "https://www.theverge.com/2023/12/18/24007082/xfinity-data-breach-hack-notice-citrix"
     ],
-    "month": 3,
-    "summary": "API ERROR: THE REQUESTED PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "month": 12,
+    "summary": "A Citrix vulnerability was exploited, leaking names, contact information, partial social security numbers, and birth dates.",
     "tags": {
         "actor": "Nation State",
         "cost-usd": 0,
-        "impacted-user-count": 0,
-        "initial-access": "?",
+        "impacted-user-count": 35879455,
+        "initial-access": "OWASP:A9",
         "motive": "Money:Credit Card"
     },
-    "year": 2024
+    "year": 2023
 }
