@@ -1,9 +1,9 @@
 {
-    "entity": "Delta Dental",
+    "entity": "Delta Dental of California",
     "links": [
         "https://www.bleepingcomputer.com/news/security/delta-dental-of-california-data-breach-exposed-info-of-7-million-people/"
     ],
-    "month": 3,
+    "month": 12,
     "summary": "Delta Dental of California and its affiliates are warning almost seven million patients that they su",
     "tags": {
         "actor": "Criminal",
@@ -12,5 +12,5 @@
         "initial-access": "?",
         "motive": "PII:?"
     },
-    "year": 2024
+    "year": 2023
 }
