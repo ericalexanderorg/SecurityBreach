@@ -35,6 +35,10 @@
                 "description": "Spearphishing Link",
                 "link": "https://attack.mitre.org/techniques/T1192/"
             },
+            "ATT&CK:T1660": {
+                "description": "Mobile Phishing (smishing)",
+                "link": "https://attack.mitre.org/techniques/T1660/"
+            },
             "ATT&CK:T1078": {
                 "description": "Compromised Valid Accounts",
                 "link": "https://attack.mitre.org/techniques/T1192/"
