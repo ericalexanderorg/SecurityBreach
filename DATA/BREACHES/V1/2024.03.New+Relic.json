@@ -6,11 +6,11 @@
     "month": 3,
     "summary": "Two weeks ago, New Relic became aware of unauthorized access to our staging environment, an internal",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Money:Ransom"
+        "motive": "?"
     },
     "year": 2024
 }
