@@ -1,16 +1,16 @@
 {
-    "entity": "Multiple",
+    "entity": "Android devices wtih backdoored firmware",
     "links": [
         "https://www.securityweek.com/android-devices-with-backdoored-firmware-found-in-us-schools/"
     ],
-    "month": 3,
-    "summary": "API ERROR: THE REQUESTED PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "month": 10,
+    "summary": "Tens of thousands of Android devices have been shipped to end-users with backdoored firmware. Triada, BadBox, PeachPit.",
     "tags": {
-        "actor": "Nation State",
+        "actor": "?",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 280000,
         "initial-access": "?",
-        "motive": "Political"
+        "motive": "?"
     },
-    "year": 2024
+    "year": 2023
 }
