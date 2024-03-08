@@ -1,0 +1,16 @@
+{
+    "entity": "Isle of Wight schools",
+    "links": [
+        "https://www.dailymail.co.uk/news/article-9862771/Hackers-target-private-computer-systems-six-Isle-Wight-schools-ransomware-attack.html"
+    ],
+    "month": 8,
+    "summary": "Hackers have targeted the private computer systems of six schools on the Isle of Wight. A so-called ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
