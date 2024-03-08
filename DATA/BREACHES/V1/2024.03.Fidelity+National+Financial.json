@@ -1,0 +1,16 @@
+{
+    "entity": "Fidelity National Financial",
+    "links": [
+        "https://techcrunch.com/2023/11/27/ransomware-catastrophe-at-fidelity-national-financial-causes-panic-with-homeowners-and-buyers"
+    ],
+    "month": 11,
+    "summary": "Ransomware ‘catastrophe’ at Fidelity National Financial causes panic with homeowners and buyers",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2023
+}
