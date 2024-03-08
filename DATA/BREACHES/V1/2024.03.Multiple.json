@@ -1,16 +1,16 @@
 {
-    "entity": "Multiple",
+    "entity": "Multiple credit unions",
     "links": [
         "https://www.theregister.com/2023/12/02/ransomware_infection_credit_unions/"
     ],
-    "month": 3,
+    "month": 12,
     "summary": "A ransomware infection at a cloud IT provider has disrupted services for 60 or so credit unions acro",
     "tags": {
         "actor": "Criminal",
-        "cost-usd": 2000000,
+        "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
         "motive": "Money:Ransom"
     },
-    "year": 2024
+    "year": 2023
 }
