@@ -1,16 +1,16 @@
 {
     "entity": "Fidelity National Financial",
     "links": [
-        "https://ts2.space/en/unauthorized-access-incident-at-fidelity-national-financial/"
+        "https://techcrunch.com/2023/11/27/ransomware-catastrophe-at-fidelity-national-financial-causes-panic-with-homeowners-and-buyers"
     ],
-    "month": 3,
-    "summary": "API ERROR: THE REQUESTED PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "month": 11,
+    "summary": "Ransomware ‘catastrophe’ at Fidelity National Financial causes panic with homeowners and buyers",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Money:Credit Card"
+        "motive": "Money:Ransom"
     },
-    "year": 2024
+    "year": 2023
 }
