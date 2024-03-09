@@ -18,10 +18,13 @@ def get_essential_tags():
 
 def get_summry(link, entity, year=datetime.now().year, month=datetime.now().month):
     # Set flag to determine if we're going to attempt to pull summry from their API
-    pull_summry = False
+    pull_summry = True
     # extract the domain name, we'll use it in our filename
     parsed_uri = urlparse(link)
     domain = parsed_uri.netloc
+    skip_domains = ["reddit.com"]
+    if domain in skip_domains:
+        pull_summry = False
     # clean up our entity name so it works in the filename
     entity = quote(entity, safe= '')
     # define our filename
