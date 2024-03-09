@@ -1,0 +1,19 @@
+{
+    "entity": "Ubisoft",
+    "links": [
+        "https://thehackernews.com/2022/03/gaming-company-ubisoft-confirms-it-was.html", 
+        "https://www.engadget.com/ubisoft-reportedly-stopped-hackers-from-stealing-900gb-of-data-in-a-breach-this-week-162438766.html",
+        "https://news.ubisoft.com/en-gb/article/3tSsBh25mhHhlbGSy1xbRw/ubisoft-cyber-security-incident-update",
+        "https://www.spiceworks.com/it-security/security-general/news/lapsus-ubisoft-security-incident/"
+    ],
+    "month": 3,
+    "summary": "Lapsus$ attempted to steal video game data.",
+    "tags": {
+        "actor": "Criminal:Lapsus$",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2022
+}
