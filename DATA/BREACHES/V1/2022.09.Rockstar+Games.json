@@ -1,0 +1,17 @@
+{
+    "entity": "GTA 6",
+    "links": [
+        "https://www.theguardian.com/uk-news/2023/dec/21/british-teenager-behind-gta-6-hack-receives-indefinite-hospital-order", 
+        "https://www.videogameschronicle.com/news/huge-gta-6-leak-sees-over-90-alleged-videos-circulated/"
+    ],
+    "month": 9,
+    "summary": "Over 90 alleged videos from a development build of Grand Theft Auto 6 have been leaked onto social media",
+    "tags": {
+        "actor": "",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2022
+}
