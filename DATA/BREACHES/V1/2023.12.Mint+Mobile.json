@@ -1,0 +1,16 @@
+{
+    "entity": "Mint Mobile",
+    "links": [
+        "https://www.pcmag.com/news/mint-mobile-recently-suffered-a-security-breach"
+    ],
+    "month": 12,
+    "summary": "An unauthorized actor obtained some limited types of customer information",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2023
+}
