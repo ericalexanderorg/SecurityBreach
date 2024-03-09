@@ -1,0 +1,19 @@
+{
+    "entity": "LoanDepot",
+    "links": [
+        "https://techcrunch.com/2024/01/22/loandepot-millions-sensitive-personal-data-ransomware/",
+        "https://www.classaction.org/news/loandepot-data-breach-update-lawsuit-filed-after-16.6m-people-impacted-by-january-2024-incident",
+        "https://www.scmagazine.com/news/loandepot-confirms-ssns-leaked-in-breach-claimed-by-alphv-blackcat",
+        "https://www.scmagazine.com/brief/prudential-financial-loandepot-attacks-admitted-by-alphv-blackcat"
+    ],
+    "month": 1,
+    "summary": "AlPHV/BlackCat got access to 17 million customer records",
+    "tags": {
+        "actor": "Criminal:ALPHV",
+        "cost-usd": 0,
+        "impacted-user-count": 17000000,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
