@@ -1,0 +1,17 @@
+{
+    "entity": "Trello",
+    "links": [
+        "https://news.ycombinator.com/item?id=39096280",
+        "https://community.atlassian.com/t5/Trello-articles/Setting-the-record-straight-about-Trello-user-profile-data/ba-p/2587253"
+    ],
+    "month": 1,
+    "summary": "Data was scraped from Trello and posted for sale on a popular hacking forum",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Sale on dark web"
+    },
+    "year": 2024
+}
