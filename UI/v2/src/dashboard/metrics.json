@@ -5,12 +5,20 @@
             "Count"
         ],
         [
-            "2023",
+            "2024",
             2
         ],
         [
+            "2023",
+            12
+        ],
+        [
+            "2022",
+            1
+        ],
+        [
             "2021",
-            48
+            49
         ],
         [
             "2020",
@@ -22,7 +30,7 @@
         ],
         [
             "2018",
-            82
+            83
         ],
         [
             "2017",
@@ -60,11 +68,11 @@
         ],
         [
             "9",
-            65
+            66
         ],
         [
             "8",
-            29
+            31
         ],
         [
             "7",
@@ -84,7 +92,7 @@
         ],
         [
             "3",
-            41
+            43
         ],
         [
             "2",
@@ -92,15 +100,15 @@
         ],
         [
             "12",
-            50
+            54
         ],
         [
             "11",
-            61
+            66
         ],
         [
             "10",
-            84
+            85
         ],
         [
             "1",
@@ -234,7 +242,7 @@
         ],
         [
             "Hacktivist",
-            68
+            69
         ],
         [
             "Criminal:WastedLocker",
@@ -350,11 +358,11 @@
         ],
         [
             "Criminal",
-            263
+            273
         ],
         [
             "?",
-            132
+            136
         ]
     ],
     "initialAccessCount": [
@@ -363,88 +371,96 @@
             "Count"
         ],
         [
-            "OWASP:A9",
-            19
+            "Using Components with Known Vulerabilities",
+            1
         ],
         [
-            "OWASP:A6",
-            7
+            "SIM Card Swap",
+            1
         ],
         [
-            "OWASP:A5",
-            64
+            "Phishing:SMS",
+            1
+        ],
+        [
+            "Phishing:Link",
+            15
+        ],
+        [
+            "Phishing:Attachment",
+            22
         ],
         [
             "OWASP:A3",
             2
         ],
         [
-            "OWASP:A2",
-            13
-        ],
-        [
-            "OWASP:A10",
-            20
-        ],
-        [
-            "OWASP:A1",
-            6
-        ],
-        [
             "OWASP:A06",
             1
         ],
         [
+            "Monitoring Failure",
+            20
+        ],
+        [
+            "Missing Patch",
+            20
+        ],
+        [
+            "Misconfiguration",
+            7
+        ],
+        [
             "Insider",
+            2
+        ],
+        [
+            "Injection",
+            6
+        ],
+        [
+            "Hijacking:Domain",
+            2
+        ],
+        [
+            "Hijack:BGP",
             1
+        ],
+        [
+            "Hardware Additions",
+            3
+        ],
+        [
+            "DOS",
+            4
+        ],
+        [
+            "Compromised Account",
+            38
         ],
         [
             "CIS: Control 1",
             1
         ],
         [
-            "BGP Hijack",
-            1
+            "Broken Authentication and Session Management",
+            13
+        ],
+        [
+            "Broken Access Control",
+            64
         ],
         [
             "BEC:Impersonation",
             2
         ],
         [
-            "ATT&CK:T1499",
-            4
-        ],
-        [
-            "ATT&CK:T1451",
-            1
-        ],
-        [
-            "ATT&CK:T1326",
-            2
-        ],
-        [
-            "ATT&CK:T1200",
-            3
-        ],
-        [
-            "ATT&CK:T1193",
-            22
-        ],
-        [
-            "ATT&CK:T1192",
-            15
-        ],
-        [
             "ATT&CK:T1189",
             1
         ],
         [
-            "ATT&CK:T1078",
-            38
-        ],
-        [
             "?",
-            442
+            453
         ]
     ],
     "motiveCount": [
@@ -458,7 +474,7 @@
         ],
         [
             "PII:?",
-            87
+            89
         ],
         [
             "Money:Sale on dark web",
@@ -470,7 +486,7 @@
         ],
         [
             "Money:Ransom",
-            189
+            195
         ],
         [
             "Money:Misc",
@@ -482,7 +498,7 @@
         ],
         [
             "Money:Credit Card",
-            65
+            66
         ],
         [
             "Money:Bank Transfer",
@@ -502,7 +518,7 @@
         ],
         [
             "Hacktivism:Press",
-            47
+            48
         ],
         [
             "Hacktivism:?",
@@ -517,8 +533,12 @@
             63
         ],
         [
+            "Criminal:Money",
+            1
+        ],
+        [
             "?",
-            103
+            107
         ]
     ]
 }

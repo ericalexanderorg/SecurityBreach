@@ -18,7 +18,7 @@ def get_essential_tags():
 
 def get_summry(link, entity, year=datetime.now().year, month=datetime.now().month):
     # Set flag to determine if we're going to attempt to pull summry from their API
-    pull_summry = True
+    pull_summry = False
     # extract the domain name, we'll use it in our filename
     parsed_uri = urlparse(link)
     domain = parsed_uri.netloc
@@ -107,24 +107,24 @@ def get_summrys():
     for tag in data:
         for breach in data[tag]:
             # Remove data that has error statements
-            if 'ERROR' not in breach['Data']:
-                #print(breach)
-                # Remove motive and actor tags with unknown attribution and also use to create our test data
-                if tag in ['motive','actor']:
-                    if breach['Tag'] in ['?','']:
-                        # add to test data
-                        cleansed_data['test'][tag].append(breach)
-                    else:
-                        # Not enough data to classify by specific actor. Generalize. 
-                        if tag is 'actor':
-                            actor = breach['Tag']
-                            if ":" in actor:
-                                actor = actor.split(':')[0]
-                                cleansed_data['classified'][tag].append({'Tag': actor, 'Data': breach['Data']})
+            if breach['Data'] is not None:
+                if 'ERROR' not in breach['Data']:
+                    # Remove motive and actor tags with unknown attribution and also use to create our test data
+                    if tag in ['motive','actor']:
+                        if breach['Tag'] in ['?','']:
+                            # add to test data
+                            cleansed_data['test'][tag].append(breach)
                         else:
-                            cleansed_data['classified'][tag].append(breach)
-                else:
-                    cleansed_data['classified'][tag].append(breach)
+                            # Not enough data to classify by specific actor. Generalize. 
+                            if tag is 'actor':
+                                actor = breach['Tag']
+                                if ":" in actor:
+                                    actor = actor.split(':')[0]
+                                    cleansed_data['classified'][tag].append({'Tag': actor, 'Data': breach['Data']})
+                            else:
+                                cleansed_data['classified'][tag].append(breach)
+                    else:
+                        cleansed_data['classified'][tag].append(breach)
 
     # Dedupe
     for data_type in cleansed_data:
