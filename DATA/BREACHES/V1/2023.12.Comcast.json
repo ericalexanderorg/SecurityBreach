@@ -1,0 +1,16 @@
+{
+    "entity": "Comcast",
+    "links": [
+        "https://techcrunch.com/2023/12/19/comcast-xfinity-hackers-36-million-customers/"
+    ],
+    "month": 12,
+    "summary": "CitrixBleed exploit led to unauthorized access to 36 million customer records",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 36000000,
+        "initial-access": "Missing Patch",
+        "motive": "PII:?"
+    },
+    "year": 2023
+}
