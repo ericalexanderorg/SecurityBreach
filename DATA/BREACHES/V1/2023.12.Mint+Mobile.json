@@ -3,8 +3,8 @@
     "links": [
         "https://www.pcmag.com/news/mint-mobile-recently-suffered-a-security-breach"
     ],
-    "month": 3,
-    "summary": "If you consent, we and our 803 partners can store and access personal information on your device to ",
+    "month": 12,
+    "summary": "An unauthorized actor obtained some limited types of customer information",
     "tags": {
         "actor": "Nation State",
         "cost-usd": 0,
@@ -12,5 +12,5 @@
         "initial-access": "?",
         "motive": "Money:Credit Card"
     },
-    "year": 2024
+    "year": 2023
 }
