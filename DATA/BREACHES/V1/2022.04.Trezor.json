@@ -1,0 +1,17 @@
+{
+    "entity": "Trezor",
+    "links": [
+        "https://blog.trezor.io/trezor-security-update-stay-vigilant-against-potential-phishing-attack-bb05015a21f8",
+        "https://www.theverge.com/2022/4/4/23010317/hackers-mailchimp-trezor-cryptocurrency-phishing"
+    ],
+    "month": 4,
+    "summary": "Downstream impact from the Mailchimp breach",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 66000,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2022
+}
