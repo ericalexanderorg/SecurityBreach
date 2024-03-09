@@ -22,7 +22,7 @@ def get_summry(link, entity, year=datetime.now().year, month=datetime.now().mont
     # extract the domain name, we'll use it in our filename
     parsed_uri = urlparse(link)
     domain = parsed_uri.netloc
-    skip_domains = ["reddit.com"]
+    skip_domains = ["reddit.com", "techcrunch.com"]
     if domain in skip_domains:
         pull_summry = False
     # clean up our entity name so it works in the filename
