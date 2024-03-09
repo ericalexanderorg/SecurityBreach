@@ -7,7 +7,7 @@
         "impacted-user-count": 0,
         "actor": "Criminal",
         "initial-access": "Broken Access Control",
-        "motive": "Money:Sale on dark web"
+        "motive": "Money:Data Sold"
     },
     "links": [
         "https://www.darkreading.com/attacks-breaches/lion-air-the-latest-to-get-tripped-up-by-misconfigured-aws-s3-/d/d-id/1335864?_mc=rss_x_drr_edt_aud_dr_x_x-rss-simple"

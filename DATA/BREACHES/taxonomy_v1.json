@@ -10,7 +10,7 @@
             "Money:Credit Card": "Money was stolen through credit card transactions.",
             "Money:Cryptocurrency": "Money was stolen through Cryptocurrency transactions.",
             "Money:Ransom": "Money was stolen through ransom.",
-            "Money:Data Sale": "The data was sold (often on the dark web)",
+            "Money:Data Sold": "The data was sold (often on the dark web)",
             "Money:Misc": "Catch all for any type of financial gain",
             "PII:?": "PII was stolen for unknown reasons.",
             "Political": "Nation state action related to political influence."
