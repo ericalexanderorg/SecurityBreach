@@ -6,7 +6,7 @@
     "month": 9,
     "summary": "After a long period of quiet, we identified a new spam campaign linked to the Ryuk actors-part of a ",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Criminal:Ryuk",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "Phishing:Link",
