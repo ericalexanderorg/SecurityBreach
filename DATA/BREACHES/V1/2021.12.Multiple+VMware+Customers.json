@@ -1,7 +1,7 @@
 {
-    "entity": "Multiple",
+    "entity": "Multiple Vmware Customers",
     "links": [
-        "https://www.mandiant.com/resources/blog/chinese-vmware-exploitation-since-2021"
+        "https://www.mandiant.com/resources/blog/chinese-vmware-exploitation-since-2021",
     ],
     "month": 3,
     "summary": "While publicly reported and patched in October 2023, Mandiant and VMware Product Security have found",
