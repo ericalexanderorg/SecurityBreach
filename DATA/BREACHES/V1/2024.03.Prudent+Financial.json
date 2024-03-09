@@ -1,0 +1,16 @@
+{
+    "entity": "Prudent Financial",
+    "links": [
+        "https://www.scmagazine.com/brief/prudential-financial-loandepot-attacks-admitted-by-alphv-blackcat"
+    ],
+    "month": 3,
+    "summary": "Recent cyberattacks against major global financial services provider Prudential Financial and major ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
