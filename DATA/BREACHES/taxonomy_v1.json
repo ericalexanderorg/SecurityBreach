@@ -23,7 +23,7 @@
             "?": "Actor is unknown"
         },
         "initial-access": {
-            "Hijacking:Domain": {
+            "Hijack:Domain": {
                 "link": "https://attack.mitre.org/techniques/T1326/",
                 "alias": "ATT&CK:T1326"
             },

@@ -6,7 +6,7 @@
     "tags": {
         "motive": "Money:Cryptocurrency",
         "actor": "Criminal",
-        "initial-access": "Hijacking:Domain"
+        "initial-access": "Hijack:Domain"
     },
     "links": [
         "https://www.bleepingcomputer.com/news/security/hackers-hijack-dns-server-of-blackwallet-to-steal-400-000/"

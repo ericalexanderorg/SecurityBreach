@@ -9,7 +9,7 @@
         "actor": "Criminal",
         "cost-usd": 700,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A3",
+        "initial-access": "Broken Access Control",
         "motive": "Money:Ransom"
     },
     "year": 2020
