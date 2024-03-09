@@ -6,15 +6,15 @@
         ],
         [
             "2024",
-            2
+            5
         ],
         [
             "2023",
-            12
+            16
         ],
         [
             "2022",
-            1
+            3
         ],
         [
             "2021",
@@ -68,7 +68,7 @@
         ],
         [
             "9",
-            66
+            67
         ],
         [
             "8",
@@ -92,7 +92,7 @@
         ],
         [
             "3",
-            43
+            46
         ],
         [
             "2",
@@ -100,7 +100,7 @@
         ],
         [
             "12",
-            54
+            57
         ],
         [
             "11",
@@ -112,7 +112,7 @@
         ],
         [
             "1",
-            69
+            71
         ]
     ],
     "actorCount": [
@@ -121,248 +121,28 @@
             "Count"
         ],
         [
-            "Nation State:Winnti",
-            1
-        ],
-        [
-            "Nation State:Vicious Panda",
-            1
-        ],
-        [
-            "Nation State:Turbine Panda",
-            7
-        ],
-        [
-            "Nation State:The Dukes",
-            1
-        ],
-        [
-            "Nation State:Russian FSB",
-            1
-        ],
-        [
-            "Nation State:Lazarus Group",
-            1
-        ],
-        [
-            "Nation State:GRU",
-            9
-        ],
-        [
-            "Nation State:DarkHotel",
-            1
-        ],
-        [
-            "Nation State:Chafer",
-            1
-        ],
-        [
-            "Nation State:Calypso",
-            1
-        ],
-        [
-            "Nation State:Bronze President",
-            1
-        ],
-        [
-            "Nation State:Bronze Butler",
-            1
-        ],
-        [
-            "Nation State:APT41",
-            27
-        ],
-        [
-            "Nation State:APT34",
-            2
-        ],
-        [
-            "Nation State:APT20",
-            1
-        ],
-        [
-            "Nation State:APT10",
-            12
-        ],
-        [
             "Nation State",
-            43
+            112
         ],
         [
             "Insider",
             4
         ],
         [
-            "Hacktivist:xxdesmus",
-            1
-        ],
-        [
-            "Hacktivist:vpnMentor",
-            3
-        ],
-        [
-            "Hacktivist:VpnMentor",
-            1
-        ],
-        [
-            "Hacktivist:VPNMentor",
-            1
-        ],
-        [
-            "Hacktivist:VPN Mentor",
-            1
-        ],
-        [
-            "Hacktivist:Twelve Security",
-            1
-        ],
-        [
-            "Hacktivist:SpiderSilk",
-            1
-        ],
-        [
-            "Hacktivist:Press",
-            1
-        ],
-        [
-            "Hacktivist:GDFI",
-            1
-        ],
-        [
-            "Hacktivist:Fidus Information Security",
-            1
-        ],
-        [
-            "Hacktivist:Bob Diachenko",
-            2
-        ],
-        [
-            "Hacktivist:Anonymous",
-            1
-        ],
-        [
             "Hacktivist",
-            69
-        ],
-        [
-            "Criminal:WastedLocker",
-            2
-        ],
-        [
-            "Criminal:TA505 and Silence",
-            1
-        ],
-        [
-            "Criminal:Sodinokibi",
-            1
-        ],
-        [
-            "Criminal:Shiny Hunters",
-            2
-        ],
-        [
-            "Criminal:Shadow Kill Hackers",
-            1
-        ],
-        [
-            "Criminal:SamSam",
-            1
-        ],
-        [
-            "Criminal:Ryuk",
-            9
-        ],
-        [
-            "Criminal:Ragnar Locker",
-            1
-        ],
-        [
-            "Criminal:Ragnar",
-            1
-        ],
-        [
-            "Criminal:REvil",
-            1
-        ],
-        [
-            "Criminal:REVil",
-            1
-        ],
-        [
-            "Criminal:Palesa",
-            1
-        ],
-        [
-            "Criminal:Netwalker",
-            1
-        ],
-        [
-            "Criminal:Nefilim",
-            2
-        ],
-        [
-            "Criminal:NOTROBIN",
-            1
-        ],
-        [
-            "Criminal:Magecart",
-            16
-        ],
-        [
-            "Criminal:MageCart",
-            9
-        ],
-        [
-            "Criminal:JokerStash",
-            1
-        ],
-        [
-            "Criminal:Grim Spider",
-            1
-        ],
-        [
-            "Criminal:Gnosticplayers",
-            1
-        ],
-        [
-            "Criminal:Fullz House",
-            1
-        ],
-        [
-            "Criminal:FIN7",
-            5
-        ],
-        [
-            "Criminal:DoppelPaymer",
-            1
-        ],
-        [
-            "Criminal:Clop",
-            1
-        ],
-        [
-            "Criminal:Carbanak",
-            3
-        ],
-        [
-            "Criminal:Brandon Charles Glover and Vasile Mereacre",
-            1
-        ],
-        [
-            "Criminal:BEC",
-            6
-        ],
-        [
-            "Criminal:A_W_S",
-            1
+            84
         ],
         [
             "Criminal",
-            273
+            351
         ],
         [
             "?",
-            136
+            138
+        ],
+        [
+            "",
+            1
         ]
     ],
     "initialAccessCount": [
@@ -376,27 +156,15 @@
         ],
         [
             "SIM Card Swap",
-            1
-        ],
-        [
-            "Phishing:SMS",
-            1
-        ],
-        [
-            "Phishing:Link",
-            15
-        ],
-        [
-            "Phishing:Attachment",
-            22
-        ],
-        [
-            "OWASP:A3",
             2
         ],
         [
-            "OWASP:A06",
-            1
+            "Phishing",
+            38
+        ],
+        [
+            "OWASP",
+            2
         ],
         [
             "Monitoring Failure",
@@ -404,7 +172,7 @@
         ],
         [
             "Missing Patch",
-            20
+            21
         ],
         [
             "Misconfiguration",
@@ -419,12 +187,8 @@
             6
         ],
         [
-            "Hijacking:Domain",
-            2
-        ],
-        [
-            "Hijack:BGP",
-            1
+            "Hijack",
+            3
         ],
         [
             "Hardware Additions",
@@ -439,7 +203,7 @@
             38
         ],
         [
-            "CIS: Control 1",
+            "CIS",
             1
         ],
         [
@@ -448,19 +212,15 @@
         ],
         [
             "Broken Access Control",
-            64
+            66
         ],
         [
-            "BEC:Impersonation",
+            "BEC",
             2
         ],
         [
-            "ATT&CK:T1189",
-            1
-        ],
-        [
             "?",
-            453
+            460
         ]
     ],
     "motiveCount": [
@@ -473,72 +233,32 @@
             20
         ],
         [
-            "PII:?",
-            89
+            "PII",
+            91
         ],
         [
-            "Money:Sale on dark web",
-            8
-        ],
-        [
-            "Money:Ransomware",
-            6
-        ],
-        [
-            "Money:Ransom",
-            195
-        ],
-        [
-            "Money:Misc",
-            23
-        ],
-        [
-            "Money:Cryptocurrency",
-            16
-        ],
-        [
-            "Money:Credit Card",
-            66
-        ],
-        [
-            "Money:Bank Transfer",
-            10
-        ],
-        [
-            "Hacktivist:Press",
-            1
+            "Money",
+            327
         ],
         [
             "Hacktivist",
-            1
-        ],
-        [
-            "Hacktivism:Schadenfreude",
-            18
-        ],
-        [
-            "Hacktivism:Press",
-            48
-        ],
-        [
-            "Hacktivism:?",
-            8
+            2
         ],
         [
             "Hacktivism",
-            1
+            76
         ],
         [
             "Espionage",
             63
         ],
         [
-            "Criminal:Money",
+            "Criminal",
             1
         ],
         [
             "?",
-            107
+            110
         ]
     ]
 }

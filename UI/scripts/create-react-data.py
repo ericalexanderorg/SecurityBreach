@@ -34,7 +34,11 @@ def get_tag_count(k, data):
     for breach in data['breaches']:
         if 'tags' in breach:
             if k in breach['tags']:
-                all_years.append(breach['tags'][k])
+                # Get only they main reason by splitting
+                tag = breach['tags'][k]
+                if ":" in tag:
+                    tag = tag.split(":")[0]
+                all_years.append(tag)
     all_years.sort(reverse=True)
 
     return get_google_format(all_years)
@@ -56,6 +60,7 @@ def etl(data_dir, data_file, metrics_file):
 
     for item in os.listdir(data_dir):
         if item.endswith('.json'):
+            print(item)
             item_path = os.path.join(data_dir, item)
             with open(item_path, 'r') as json_file:
                 file_data = json.load(json_file)
