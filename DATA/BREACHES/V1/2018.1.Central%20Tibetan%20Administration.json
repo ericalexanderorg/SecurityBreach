@@ -1,1 +1,17 @@
-{"year": 2018, "month": 1, "entity": "Central Tibetan Administration", "summary": "Targeted in nation state espionage campaign", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Nation State:APT41", "initial-access": "?", "motive": "Espionage"}, "links": ["https://web.br.de/interaktiv/winnti/english/", "https://media.cert.europa.eu/static/MEMO/2019/TLP-WHITE-CERT-EU-MEMO-190725-1.pdf"]}
+{
+    "year": 2018,
+    "month": 1,
+    "entity": "Central Tibetan Administration",
+    "summary": "Targeted in nation state espionage campaign",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "links": [
+        "https://web.br.de/interaktiv/winnti/english/",
+        "https://media.cert.europa.eu/static/MEMO/2019/TLP-WHITE-CERT-EU-MEMO-190725-1.pdf"
+    ]
+}

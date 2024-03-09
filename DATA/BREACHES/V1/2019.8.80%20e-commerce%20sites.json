@@ -1,1 +1,16 @@
-{"year": 2019, "month": 8, "entity": "80 e-commerce sites", "summary": "Credit card data ex-filtrated through unauthorized java script. ", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Criminal:Magecart", "initial-access": "OWASP:A10", "motive": "Money:Credit Card"}, "links": ["https://thehackernews.com/2019/08/magecart-hacking-credit-card.html"]}
+{
+    "year": 2019,
+    "month": 8,
+    "entity": "80 e-commerce sites",
+    "summary": "Credit card data ex-filtrated through unauthorized java script. ",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Criminal:Magecart",
+        "initial-access": "Monitoring Failure",
+        "motive": "Money:Credit Card"
+    },
+    "links": [
+        "https://thehackernews.com/2019/08/magecart-hacking-credit-card.html"
+    ]
+}

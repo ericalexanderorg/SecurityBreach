@@ -1,1 +1,17 @@
-{"entity": "MoviePass", "links": ["https://www.scmagazine.com/home/security-news/moviepass-database-exposes-161-million-records/", "https://techcrunch.com/2019/08/20/moviepass-thousands-data-exposed-leak/"], "month": 8, "summary": "An exposed database on a MoviePass subdomain housing 161 million records was left unsecured and expo", "tags": {"actor": "Hacktivist:SpiderSilk", "cost-usd": 0, "impacted-user-count": 58000, "initial-access": "OWASP:A5", "motive": "Hacktivism:Press"}, "year": 2019}
+{
+    "entity": "MoviePass",
+    "links": [
+        "https://www.scmagazine.com/home/security-news/moviepass-database-exposes-161-million-records/",
+        "https://techcrunch.com/2019/08/20/moviepass-thousands-data-exposed-leak/"
+    ],
+    "month": 8,
+    "summary": "An exposed database on a MoviePass subdomain housing 161 million records was left unsecured and expo",
+    "tags": {
+        "actor": "Hacktivist:SpiderSilk",
+        "cost-usd": 0,
+        "impacted-user-count": 58000,
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2019
+}

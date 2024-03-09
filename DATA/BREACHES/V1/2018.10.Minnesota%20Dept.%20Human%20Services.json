@@ -1,1 +1,14 @@
-{"entity": "Minnesota Dept. Human Services", "month": 10, "year": 2018, "summary": "Phishing -> malware -> data access", "tags": {"motive": "PII:?", "actor": "?", "initial-access": "ATT&CK:T1193"}, "links": ["https://kstp.com/politics/new-probe-launched-into-department-of-human-services-serious-data-breach/5112579/"]}
+{
+    "entity": "Minnesota Dept. Human Services",
+    "month": 10,
+    "year": 2018,
+    "summary": "Phishing -> malware -> data access",
+    "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "Phishing:Attachment"
+    },
+    "links": [
+        "https://kstp.com/politics/new-probe-launched-into-department-of-human-services-serious-data-breach/5112579/"
+    ]
+}

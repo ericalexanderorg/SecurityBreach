@@ -1,1 +1,16 @@
-{"year": 2019, "month": 3, "entity": "matrix.org", "summary": "An attacker gained access to the servers hosting Matrix.org. The intruder had access to the production databases, potentially giving them access to unencrypted message data, password hashes and access tokens.", "tags": {"impacted-user-count": null, "cost-usd": null, "actor": "Hacktivist", "initial-access": "OWASP:A9", "motive": "Hacktivism:?"}, "links": ["https://matrix.org/blog/2019/04/11/we-have-discovered-and-addressed-a-security-breach-updated-2019-04-12"]}
+{
+    "year": 2019,
+    "month": 3,
+    "entity": "matrix.org",
+    "summary": "An attacker gained access to the servers hosting Matrix.org. The intruder had access to the production databases, potentially giving them access to unencrypted message data, password hashes and access tokens.",
+    "tags": {
+        "impacted-user-count": null,
+        "cost-usd": null,
+        "actor": "Hacktivist",
+        "initial-access": "Missing Patch",
+        "motive": "Hacktivism:?"
+    },
+    "links": [
+        "https://matrix.org/blog/2019/04/11/we-have-discovered-and-addressed-a-security-breach-updated-2019-04-12"
+    ]
+}

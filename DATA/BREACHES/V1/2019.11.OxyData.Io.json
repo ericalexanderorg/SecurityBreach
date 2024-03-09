@@ -9,7 +9,7 @@
         "actor": "Hacktivist",
         "cost-usd": 0,
         "impacted-user-count": 1200000000,
-        "initial-access": "OWASP:A5",
+        "initial-access": "Broken Access Control",
         "motive": "PII:?"
     },
     "year": 2019

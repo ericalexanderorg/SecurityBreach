@@ -1,1 +1,16 @@
-{"entity": "Stockx", "links": ["https://techcrunch.com/2019/08/01/stockx-security-concerns-reset-passwords/"], "month": 8, "summary": "Some security teams obtain lists of previously breached passwords that make their way online, scramb", "tags": {"actor": "?", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "ATT&CK:T1078", "motive": "?"}, "year": 2019}
+{
+    "entity": "Stockx",
+    "links": [
+        "https://techcrunch.com/2019/08/01/stockx-security-concerns-reset-passwords/"
+    ],
+    "month": 8,
+    "summary": "Some security teams obtain lists of previously breached passwords that make their way online, scramb",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Compromised Account",
+        "motive": "?"
+    },
+    "year": 2019
+}

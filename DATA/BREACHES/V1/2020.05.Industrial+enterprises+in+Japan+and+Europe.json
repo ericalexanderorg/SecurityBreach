@@ -9,7 +9,7 @@
         "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1193",
+        "initial-access": "Phishing:Attachment",
         "motive": "?"
     },
     "year": 2020

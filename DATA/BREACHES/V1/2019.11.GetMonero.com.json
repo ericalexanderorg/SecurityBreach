@@ -1,1 +1,16 @@
-{"entity": "GetMonero.com", "links": ["https://thehackernews.com/2019/11/hacking-monero-cryptocurrency.html"], "month": 11, "summary": "What an irony - someone hacked the official website of the Monero cryptocurrency project and quietly", "tags": {"actor": "Criminal", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "?", "motive": "Money:Cryptocurrency"}, "year": 2019}
+{
+    "entity": "GetMonero.com",
+    "links": [
+        "https://thehackernews.com/2019/11/hacking-monero-cryptocurrency.html"
+    ],
+    "month": 11,
+    "summary": "What an irony - someone hacked the official website of the Monero cryptocurrency project and quietly",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2019
+}

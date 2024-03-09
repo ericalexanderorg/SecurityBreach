@@ -1,1 +1,14 @@
-{"entity": "Florida Dept Health", "month": 10, "year": 2018, "summary": "O365 ATT&CK:T1078", "tags": {"motive": "PII:?", "actor": "?", "initial-access": "ATT&CK:T1078"}, "links": ["https://www.pnj.com/story/news/2018/11/09/florida-department-health-reports-data-breach-medical-info/1946263002/"]}
+{
+    "entity": "Florida Dept Health",
+    "month": 10,
+    "year": 2018,
+    "summary": "O365 ATT&CK:T1078",
+    "tags": {
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "Compromised Account"
+    },
+    "links": [
+        "https://www.pnj.com/story/news/2018/11/09/florida-department-health-reports-data-breach-medical-info/1946263002/"
+    ]
+}

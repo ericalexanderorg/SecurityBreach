@@ -1,1 +1,15 @@
-{"entity": "Carefirst", "month": 6, "year": 2014, "summary": "Unauthorized system access", "tags": {"impacted-user-count": 1100000, "motive": "PII:?", "actor": "Nation State", "initial-access": "?"}, "links": ["https://krebsonsecurity.com/2015/05/carefirst-blue-cross-breach-hits-1-1m/"]}
+{
+    "entity": "Carefirst",
+    "month": 6,
+    "year": 2014,
+    "summary": "Unauthorized system access",
+    "tags": {
+        "impacted-user-count": 1100000,
+        "motive": "PII:?",
+        "actor": "Nation State",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://krebsonsecurity.com/2015/05/carefirst-blue-cross-breach-hits-1-1m/"
+    ]
+}

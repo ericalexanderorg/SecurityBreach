@@ -1,1 +1,14 @@
-{"entity": "Cathay Pacific Airways", "month": 10, "year": 2018, "summary": "?", "tags": {"motive": "PII:?", "actor": "Nation State", "initial-access": "?"}, "links": ["https://www.nytimes.com/2018/10/25/business/cathay-pacific-hack.html"]}
+{
+    "entity": "Cathay Pacific Airways",
+    "month": 10,
+    "year": 2018,
+    "summary": "?",
+    "tags": {
+        "motive": "PII:?",
+        "actor": "Nation State",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://www.nytimes.com/2018/10/25/business/cathay-pacific-hack.html"
+    ]
+}

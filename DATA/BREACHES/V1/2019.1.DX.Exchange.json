@@ -1,1 +1,14 @@
-{"entity": "DX.Exchange", "month": 1, "year": 2019, "summary": "Site leaking data in session tokens", "tags": {"motive": "Hacktivism:Press", "actor": "Hacktivist", "initial-access": "OWASP:A5"}, "links": ["https://arstechnica.com/information-technology/2019/01/hot-new-trading-site-leaked-oodles-of-user-data-including-login-tokens/"]}
+{
+    "entity": "DX.Exchange",
+    "month": 1,
+    "year": 2019,
+    "summary": "Site leaking data in session tokens",
+    "tags": {
+        "motive": "Hacktivism:Press",
+        "actor": "Hacktivist",
+        "initial-access": "Broken Access Control"
+    },
+    "links": [
+        "https://arstechnica.com/information-technology/2019/01/hot-new-trading-site-leaked-oodles-of-user-data-including-login-tokens/"
+    ]
+}

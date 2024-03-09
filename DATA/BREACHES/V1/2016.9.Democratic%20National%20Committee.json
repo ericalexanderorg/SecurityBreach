@@ -1,1 +1,18 @@
-{"year": 2016, "month": 9, "entity": "Democratic National Committee", "summary": "Phishing email lead to compromise of email cache and possibly impacted the US 2016 presidential election. ", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Nation State:GRU", "initial-access": "ATT&CK:T1192", "motive": "Political"}, "links": ["https://www.cnn.com/2016/12/26/us/2016-presidential-campaign-hacking-fast-facts/index.html", "https://www.wired.com/story/sandworm-russia-cyberattack-links/", "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"]}
+{
+    "year": 2016,
+    "month": 9,
+    "entity": "Democratic National Committee",
+    "summary": "Phishing email lead to compromise of email cache and possibly impacted the US 2016 presidential election. ",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:GRU",
+        "initial-access": "Phishing:Link",
+        "motive": "Political"
+    },
+    "links": [
+        "https://www.cnn.com/2016/12/26/us/2016-presidential-campaign-hacking-fast-facts/index.html",
+        "https://www.wired.com/story/sandworm-russia-cyberattack-links/",
+        "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed"
+    ]
+}

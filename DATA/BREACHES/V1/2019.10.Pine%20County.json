@@ -1,1 +1,16 @@
-{"year": 2019, "month": 10, "entity": "Pine County", "summary": "Short summary of what happened", "tags": {"impacted-user-count": 4400, "cost-usd": 0, "actor": "?", "initial-access": "ATT&CK:T1192", "motive": "?"}, "links": ["http://www.pinecitymn.com/news/pine-county-hacked-security-breach-feared/article_ed404924-f5ba-11e9-9c02-9731bc6010e9.html"]}
+{
+    "year": 2019,
+    "month": 10,
+    "entity": "Pine County",
+    "summary": "Short summary of what happened",
+    "tags": {
+        "impacted-user-count": 4400,
+        "cost-usd": 0,
+        "actor": "?",
+        "initial-access": "Phishing:Link",
+        "motive": "?"
+    },
+    "links": [
+        "http://www.pinecitymn.com/news/pine-county-hacked-security-breach-feared/article_ed404924-f5ba-11e9-9c02-9731bc6010e9.html"
+    ]
+}

@@ -1,1 +1,17 @@
-{"year": 2019, "month": 6, "entity": "Outlook for Android app", "summary": "Short summary of what happened", "tags": {"impacted-user-count": null, "cost-usd": null, "motive": "?", "actor": "?", "initial-access": "OWASP:A9"}, "links": ["https://thehackernews.com/2019/06/outlook-app-android.html", "https://thehackernews.com/2019/06/microsoft-outlook-vulnerability.html"]}
+{
+    "year": 2019,
+    "month": 6,
+    "entity": "Outlook for Android app",
+    "summary": "Short summary of what happened",
+    "tags": {
+        "impacted-user-count": null,
+        "cost-usd": null,
+        "motive": "?",
+        "actor": "?",
+        "initial-access": "Missing Patch"
+    },
+    "links": [
+        "https://thehackernews.com/2019/06/outlook-app-android.html",
+        "https://thehackernews.com/2019/06/microsoft-outlook-vulnerability.html"
+    ]
+}

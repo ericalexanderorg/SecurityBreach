@@ -1,1 +1,16 @@
-{"year": 2019, "month": 5, "entity": "First American Financial Corp", "summary": "No authentication was needed to access web site that contained sensitive documents", "tags": {"impacted-user-count": 885000000, "initial-access": "OWASP:A2", "actor": "?", "motive": "?", "cost-usd": null}, "links": ["https://krebsonsecurity.com/2019/05/ny-investigates-exposure-of-885-million-mortgage-documents/"]}
+{
+    "year": 2019,
+    "month": 5,
+    "entity": "First American Financial Corp",
+    "summary": "No authentication was needed to access web site that contained sensitive documents",
+    "tags": {
+        "impacted-user-count": 885000000,
+        "initial-access": "Broken Authentication and Session Management",
+        "actor": "?",
+        "motive": "?",
+        "cost-usd": null
+    },
+    "links": [
+        "https://krebsonsecurity.com/2019/05/ny-investigates-exposure-of-885-million-mortgage-documents/"
+    ]
+}

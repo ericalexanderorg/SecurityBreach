@@ -1,1 +1,18 @@
-{"year": 2017, "month": 6, "entity": "Ukrainian financial, energy and government sectors", "summary": "Destructive cyber attack targeted the Ukrainian financial, energy and government sectors but spread further affecting other European and Russian businesses", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Nation State:GRU", "initial-access": "?", "motive": "Political"}, "links": ["https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed", "https://www.tripwire.com/state-of-security/security-data-protection/cyber-security/notpetya-timeline-of-a-ransomworm/", "https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/"]}
+{
+    "year": 2017,
+    "month": 6,
+    "entity": "Ukrainian financial, energy and government sectors",
+    "summary": "Destructive cyber attack targeted the Ukrainian financial, energy and government sectors but spread further affecting other European and Russian businesses",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:GRU",
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "links": [
+        "https://www.ncsc.gov.uk/news/reckless-campaign-cyber-attacks-russian-military-intelligence-service-exposed",
+        "https://www.tripwire.com/state-of-security/security-data-protection/cyber-security/notpetya-timeline-of-a-ransomworm/",
+        "https://www.wired.com/story/notpetya-cyberattack-ukraine-russia-code-crashed-the-world/"
+    ]
+}

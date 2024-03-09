@@ -1,1 +1,14 @@
-{"entity": "Jason's Deli", "month": 5, "year": 2018, "summary": "Phishing email led to malware that led to unauthorized data access", "tags": {"motive": "Money:Credit Card", "actor": "Criminal:FIN7", "initial-access": "ATT&CK:T1193"}, "links": ["https://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100"]}
+{
+    "entity": "Jason's Deli",
+    "month": 5,
+    "year": 2018,
+    "summary": "Phishing email led to malware that led to unauthorized data access",
+    "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "Criminal:FIN7",
+        "initial-access": "Phishing:Attachment"
+    },
+    "links": [
+        "https://www.justice.gov/opa/pr/three-members-notorious-international-cybercrime-group-fin7-custody-role-attacking-over-100"
+    ]
+}

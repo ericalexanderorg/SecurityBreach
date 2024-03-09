@@ -1,1 +1,16 @@
-{"year": 2019, "month": 9, "entity": "Brooklyn Hospital Center", "summary": "Ransomware attack", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Criminal", "initial-access": "?", "motive": "Money:Ransomware"}, "links": ["https://www.bleepingcomputer.com/news/security/brooklyn-hospital-loses-patient-data-in-ransomware-attack/"]}
+{
+    "year": 2019,
+    "month": 9,
+    "entity": "Brooklyn Hospital Center",
+    "summary": "Ransomware attack",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Ransomware"
+    },
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/brooklyn-hospital-loses-patient-data-in-ransomware-attack/"
+    ]
+}

@@ -10,7 +10,7 @@
         "actor": "Nation State",
         "cost-usd": 4500000,
         "impacted-user-count": 4500000,
-        "initial-access": "ATT&CK:T1193",
+        "initial-access": "Phishing:Attachment",
         "motive": "Money:Ransom"
     },
     "year": 2020

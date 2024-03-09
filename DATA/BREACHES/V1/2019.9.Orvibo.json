@@ -1,1 +1,17 @@
-{"year": 2019, "month": 9, "entity": "Orvibo", "summary": "ElasticSearch database server with no password protection", "tags": {"impacted-user-count": null, "cost-usd": null, "initial-access": "OWASP:A5", "motive": "?", "actor": "Hacktivist:vpnMentor"}, "links": ["https://www.welivesecurity.com/2019/07/02/two-billion-logs-leaked-smart-home/", "https://www.bleepingcomputer.com/news/security/billions-of-records-including-passwords-leaked-by-smart-home-vendor/"]}
+{
+    "year": 2019,
+    "month": 9,
+    "entity": "Orvibo",
+    "summary": "ElasticSearch database server with no password protection",
+    "tags": {
+        "impacted-user-count": null,
+        "cost-usd": null,
+        "initial-access": "Broken Access Control",
+        "motive": "?",
+        "actor": "Hacktivist:vpnMentor"
+    },
+    "links": [
+        "https://www.welivesecurity.com/2019/07/02/two-billion-logs-leaked-smart-home/",
+        "https://www.bleepingcomputer.com/news/security/billions-of-records-including-passwords-leaked-by-smart-home-vendor/"
+    ]
+}

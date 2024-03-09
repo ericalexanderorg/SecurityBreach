@@ -1,1 +1,15 @@
-{"entity": "Catawba County", "month": 3, "year": 2018, "summary": "Malware discovered on county computers", "tags": {"impacted-user-count": 9400, "motive": "?", "actor": "Criminal", "initial-access": "?"}, "links": ["http://www.wbtv.com/story/37649426/catawba-county-employee-computers-hacked"]}
+{
+    "entity": "Catawba County",
+    "month": 3,
+    "year": 2018,
+    "summary": "Malware discovered on county computers",
+    "tags": {
+        "impacted-user-count": 9400,
+        "motive": "?",
+        "actor": "Criminal",
+        "initial-access": "?"
+    },
+    "links": [
+        "http://www.wbtv.com/story/37649426/catawba-county-employee-computers-hacked"
+    ]
+}

@@ -1,1 +1,14 @@
-{"entity": "Exude", "month": 9, "year": 2018, "summary": "ATT&CK:T1078 resulted in a PII data spill", "tags": {"motive": "PII:?", "actor": "Criminal", "initial-access": "ATT&CK:T1078"}, "links": ["https://ago.vermont.gov/blog/2018/12/14/exude-inc-notice-of-data-breach-to-consumers/"]}
+{
+    "entity": "Exude",
+    "month": 9,
+    "year": 2018,
+    "summary": "ATT&CK:T1078 resulted in a PII data spill",
+    "tags": {
+        "motive": "PII:?",
+        "actor": "Criminal",
+        "initial-access": "Compromised Account"
+    },
+    "links": [
+        "https://ago.vermont.gov/blog/2018/12/14/exude-inc-notice-of-data-breach-to-consumers/"
+    ]
+}

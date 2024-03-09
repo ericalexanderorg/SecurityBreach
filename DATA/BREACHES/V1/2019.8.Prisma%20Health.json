@@ -1,1 +1,16 @@
-{"year": 2019, "month": 8, "entity": "Prisma Health", "summary": "Compromise of a Prisma Health team member\u2019s login credentials to a Palmetto Health website", "tags": {"impacted-user-count": 21000, "cost-usd": 0, "actor": "?", "initial-access": "ATT&CK:T1078", "motive": "?"}, "links": ["https://www.wltx.com/article/news/local/cybersecurity-prisma-health-breach-website/101-e00dedcf-8abf-4302-a576-473495e53cd3"]}
+{
+    "year": 2019,
+    "month": 8,
+    "entity": "Prisma Health",
+    "summary": "Compromise of a Prisma Health team member\u2019s login credentials to a Palmetto Health website",
+    "tags": {
+        "impacted-user-count": 21000,
+        "cost-usd": 0,
+        "actor": "?",
+        "initial-access": "Compromised Account",
+        "motive": "?"
+    },
+    "links": [
+        "https://www.wltx.com/article/news/local/cybersecurity-prisma-health-breach-website/101-e00dedcf-8abf-4302-a576-473495e53cd3"
+    ]
+}

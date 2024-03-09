@@ -1,1 +1,16 @@
-{"year": 2018, "month": 12, "entity": "Desjardins credit union", "summary": "Data was leaked after an ill-intentioned employee disclosed it to hackers", "tags": {"impacted-user-count": 2900000, "cost-usd": null, "actor": "?", "motive": "PII:?", "initial-access": "?"}, "links": ["https://securityaffairs.co/wordpress/87415/data-breach/desjardins-data-leak.html"]}
+{
+    "year": 2018,
+    "month": 12,
+    "entity": "Desjardins credit union",
+    "summary": "Data was leaked after an ill-intentioned employee disclosed it to hackers",
+    "tags": {
+        "impacted-user-count": 2900000,
+        "cost-usd": null,
+        "actor": "?",
+        "motive": "PII:?",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://securityaffairs.co/wordpress/87415/data-breach/desjardins-data-leak.html"
+    ]
+}

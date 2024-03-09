@@ -23,77 +23,77 @@
             "?": "Actor is unknown"
         },
         "initial-access": {
-            "ATT&CK:T1326": {
-                "description": "Domain Registration Hijacking is the act of changing the registration of a domain name without the permission of the original registrant.",
-                "link": "https://attack.mitre.org/techniques/T1326/"
+            "Hijacking:Domain": {
+                "link": "https://attack.mitre.org/techniques/T1326/",
+                "alias": "ATT&CK:T1326"
             },
-            "ATT&CK:T1193": {
-                "description": "Spearphishing Attachment",
-                "link": "https://attack.mitre.org/techniques/T1193/"
+            "Phishing:Attachment": {
+                "link": "https://attack.mitre.org/techniques/T1193/",
+                "alias": "ATT&CK:T1193"
             },
-            "ATT&CK:T1192": {
-                "description": "Spearphishing Link",
-                "link": "https://attack.mitre.org/techniques/T1192/"
+            "Phishing:Link": {
+                "link": "https://attack.mitre.org/techniques/T1192/",
+                "alias": "ATT&CK:T1192"
             },
-            "ATT&CK:T1660": {
-                "description": "Mobile Phishing (smishing)",
-                "link": "https://attack.mitre.org/techniques/T1660/"
+            "Phishing:SMS": {
+                "link": "https://attack.mitre.org/techniques/T1660/",
+                "alias": "ATT&CK:T1660"
             },
-            "ATT&CK:T1078": {
-                "description": "Compromised Valid Accounts",
-                "link": "https://attack.mitre.org/techniques/T1192/"
+            "Compromised Account": {
+                "link": "https://attack.mitre.org/techniques/T1192/",
+                "alias": "ATT&CK:T1078"
             },
-            "ATT&CK:T1499": {
-                "description": "Endpoint Denial of Service",
-                "link": "https://attack.mitre.org/techniques/T1499/"
+            "DOS": {
+                "link": "https://attack.mitre.org/techniques/T1499/",
+                "alias": "ATT&CK:T1499"
             },
-            "ATT&CK:T1451": {
-                "description": "SIM Card Swap",
-                "link": "https://attack.mitre.org/techniques/T1451/"
+            "SIM Card Swap": {
+                "link": "https://attack.mitre.org/techniques/T1451/",
+                "alias": "ATT&CK:T1451"
             },
-            "OWASP:A10": {
-                "description": "Insufficient Logging & Monitoring",
-                "link": "https://www.owasp.org/index.php/Top_10-2017_A10-Insufficient_Logging%26Monitoring"
+            "Monitoring Failure": {
+                "link": "https://www.owasp.org/index.php/Top_10-2017_A10-Insufficient_Logging%26Monitoring",
+                "alias": "OWASP:A10"
             },
-            "OWASP:A5": {
-                "description": "Broken Access Control.",
-                "link": "https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control"
+            "Broken Access Control": {
+                "link": "https://www.owasp.org/index.php/Top_10-2017_A5-Broken_Access_Control",
+                "alias": "OWASP:A5"
             },
-            "OWASP:A2": {
-                "description": "Broken Authentication and Session Management",
-                "link": "https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A2-Broken_Authentication.html"
+            "Broken Authentication and Session Management": {
+                "link": "https://owasp.org/www-project-top-ten/OWASP_Top_Ten_2017/Top_10-2017_A2-Broken_Authentication.html",
+                "alias": "OWASP:A2"
             },
-            "OWASP:A6": {
-                "description": "Security Misconfiguration",
-                "link": "https://www.owasp.org/index.php/Top_10-2017_A6-Security_Misconfiguration"
+            "Misconfiguration": {
+                "link": "https://www.owasp.org/index.php/Top_10-2017_A6-Security_Misconfiguration",
+                "alias": "OWASP:A6"
             },
-            "OWASP:A9": {
-                "description": "Using Components with Known Vulerabilities",
-                "link": "https://www.owasp.org/index.php/Top_10-2017_A9-Using_Components_with_Known_Vulnerabilities"
+            "Missing Patch": {
+                "link": "https://www.owasp.org/index.php/Top_10-2017_A9-Using_Components_with_Known_Vulnerabilities",
+                "alias": "OWASP:A9"
             },
             "BEC:Impersonation": {
-                "description": "Attacker poses as a trusted entity and requests an action to be taken that leads to monetary loss.",
-                "link": "https://www.barracuda.com/glossary/business-email-compromise#targetText=BEC%20Exploits&targetText=Although%20the%20perpetrators%20of%20BEC,with%20some%20form%20of%20malware."
+                "link": "https://www.barracuda.com/glossary/business-email-compromise#targetText=BEC%20Exploits&targetText=Although%20the%20perpetrators%20of%20BEC,with%20some%20form%20of%20malware.",
+                "alias": null
             },
-            "BGP Hijack": {
-                "description": "Trafic re-routed through unauthorized BGP advertisements.",
-                "link": "https://www.cloudflare.com/learning/security/glossary/bgp-hijacking/"
+            "Hijack:BGP": {
+                "link": "https://www.cloudflare.com/learning/security/glossary/bgp-hijacking/",
+                "alias": "BGP Hijack"
             },
-            "OWASP:A1": {
-                "description": "Injection",
-                "link": "https://www.owasp.org/index.php/Top_10-2017_A1-Injection"
+            "Injection": {
+                "link": "https://www.owasp.org/index.php/Top_10-2017_A1-Injection",
+                "alias": "OWASP:A1"
             },
-            "ATT&CK:T1200": {
-                "description": "Hardware Additions",
-                "link": "https://attack.mitre.org/techniques/T1200/"
+            "Hardware Additions": {
+                "link": "https://attack.mitre.org/techniques/T1200/",
+                "alias": "ATT&CK:T1200"
             },
             "Insider": {
-                "description": "Authorized access misused",
-                "link": "https://en.wikipedia.org/wiki/Insider_threat"
+                "link": "https://en.wikipedia.org/wiki/Insider_threat",
+                "alias": null
             },
-            "CIS: Control 1": {
-                "description": "Lack of hardware inventory.",
-                "link": "https://www.cisecurity.org/controls/inventory-and-control-of-hardware-assets/"
+            "Lack of hardware inventory": {
+                "link": "https://www.cisecurity.org/controls/inventory-and-control-of-hardware-assets/",
+                "alias": null
             }
         }
     }

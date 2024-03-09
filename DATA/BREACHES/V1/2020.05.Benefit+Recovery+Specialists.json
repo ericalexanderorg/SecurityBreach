@@ -10,7 +10,7 @@
         "actor": "Hacktivist",
         "cost-usd": 0,
         "impacted-user-count": 274000,
-        "initial-access": "ATT&CK:T1192",
+        "initial-access": "Phishing:Link",
         "motive": "PII:?"
     },
     "year": 2020

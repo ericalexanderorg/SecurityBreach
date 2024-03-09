@@ -1,1 +1,16 @@
-{"year": 2019, "month": 5, "entity": "Flipboard", "summary": "Hackers managed to gain unauthorized access to for nearly 10 months. User database was possibly compromised", "tags": {"impacted-user-count": null, "actor": "?", "initial-access": "?", "motive": "PII:?", "cost-usd": null}, "links": ["https://thehackernews.com/2019/05/flipboard-data-breach-hacking.html"]}
+{
+    "year": 2019,
+    "month": 5,
+    "entity": "Flipboard",
+    "summary": "Hackers managed to gain unauthorized access to for nearly 10 months. User database was possibly compromised",
+    "tags": {
+        "impacted-user-count": null,
+        "actor": "?",
+        "initial-access": "?",
+        "motive": "PII:?",
+        "cost-usd": null
+    },
+    "links": [
+        "https://thehackernews.com/2019/05/flipboard-data-breach-hacking.html"
+    ]
+}

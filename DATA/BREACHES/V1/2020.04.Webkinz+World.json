@@ -9,7 +9,7 @@
         "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 22982319,
-        "initial-access": "OWASP:A1",
+        "initial-access": "Injection",
         "motive": "Hacktivism:?"
     },
     "year": 2020

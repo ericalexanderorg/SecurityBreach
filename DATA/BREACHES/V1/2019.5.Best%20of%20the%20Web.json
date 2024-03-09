@@ -1,1 +1,16 @@
-{"year": 2019, "month": 5, "entity": "Best of the Web", "summary": "The script used by Best of the Web to display their trust seal on their customers' websites was compromised and 2 two key logging scripts were added to it", "tags": {"impacted-user-count": null, "cost-usd": null, "motive": "?", "initial-access": "?", "actor": "?"}, "links": ["https://www.bleepingcomputer.com/news/security/keyloggers-injected-in-web-trust-seal-supply-chain-attack/"]}
+{
+    "year": 2019,
+    "month": 5,
+    "entity": "Best of the Web",
+    "summary": "The script used by Best of the Web to display their trust seal on their customers' websites was compromised and 2 two key logging scripts were added to it",
+    "tags": {
+        "impacted-user-count": null,
+        "cost-usd": null,
+        "motive": "?",
+        "initial-access": "?",
+        "actor": "?"
+    },
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/keyloggers-injected-in-web-trust-seal-supply-chain-attack/"
+    ]
+}

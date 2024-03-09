@@ -1,1 +1,14 @@
-{"entity": "Infowars", "month": 11, "year": 2018, "summary": "Javascript injected in site to steal credit card information", "tags": {"motive": "Money:Credit Card", "actor": "Criminal:Magecart", "initial-access": "OWASP:A10"}, "links": ["https://www.zdnet.com/article/card-skimming-malware-removed-from-infowars-online-store/"]}
+{
+    "entity": "Infowars",
+    "month": 11,
+    "year": 2018,
+    "summary": "Javascript injected in site to steal credit card information",
+    "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "Criminal:Magecart",
+        "initial-access": "Monitoring Failure"
+    },
+    "links": [
+        "https://www.zdnet.com/article/card-skimming-malware-removed-from-infowars-online-store/"
+    ]
+}

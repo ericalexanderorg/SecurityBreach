@@ -9,7 +9,7 @@
         "actor": "Criminal",
         "cost-usd": 2600000,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1192",
+        "initial-access": "Phishing:Link",
         "motive": "Money:Bank Transfer"
     },
     "year": 2020

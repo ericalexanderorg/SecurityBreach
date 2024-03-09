@@ -1,1 +1,16 @@
-{"year": 2018, "month": 1, "entity": "Bayer Covestro", "summary": "Targetted in nation state backed espionage campaign using winnti malware", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Nation State:APT41", "initial-access": "?", "motive": "Espionage"}, "links": ["https://www.2-spyware.com/bayer-cyber-attack-chinese-hackers-wicked-panda-used-winnti-malware"]}
+{
+    "year": 2018,
+    "month": 1,
+    "entity": "Bayer Covestro",
+    "summary": "Targetted in nation state backed espionage campaign using winnti malware",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "links": [
+        "https://www.2-spyware.com/bayer-cyber-attack-chinese-hackers-wicked-panda-used-winnti-malware"
+    ]
+}

@@ -1,1 +1,15 @@
-{"entity": "Forever 21", "month": 12, "year": 2017, "summary": "Unauthorized system access", "tags": {"motive": "Money:Credit Card", "actor": "Criminal", "initial-access": "?"}, "links": ["http://wwd.com/fashion-news/fashion-scoops/forever-21-security-breach-details-11082973/", "https://gizmodo.com/hackers-broke-into-forever-21s-payment-system-for-over-1821668357"]}
+{
+    "entity": "Forever 21",
+    "month": 12,
+    "year": 2017,
+    "summary": "Unauthorized system access",
+    "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "Criminal",
+        "initial-access": "?"
+    },
+    "links": [
+        "http://wwd.com/fashion-news/fashion-scoops/forever-21-security-breach-details-11082973/",
+        "https://gizmodo.com/hackers-broke-into-forever-21s-payment-system-for-over-1821668357"
+    ]
+}

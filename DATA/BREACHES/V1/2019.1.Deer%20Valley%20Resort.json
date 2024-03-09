@@ -1,1 +1,16 @@
-{"entity": "Deer Valley Resort", "links": ["https://www.scmagazine.com/home/retail/two-deer-valley-resort-restaurants-hit-with-pos-data-breach/"], "month": 1, "summary": "The Mariposa and the Royal Street Cafe in Deer Valley, Colo had their POS hacked", "tags": {"actor": "Criminal", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "?", "motive": "Money:Credit Card"}, "year": 2019}
+{
+    "entity": "Deer Valley Resort",
+    "links": [
+        "https://www.scmagazine.com/home/retail/two-deer-valley-resort-restaurants-hit-with-pos-data-breach/"
+    ],
+    "month": 1,
+    "summary": "The Mariposa and the Royal Street Cafe in Deer Valley, Colo had their POS hacked",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2019
+}

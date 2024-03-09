@@ -9,7 +9,7 @@
         "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1200",
+        "initial-access": "Hardware Additions",
         "motive": "Money:Ransom"
     },
     "year": 2020

@@ -1,1 +1,16 @@
-{"entity": "Bulgarian Tax Agency", "links": ["https://thehackernews.com/2019/07/bulgaria-nra-data-breach.html"], "month": 7, "summary": "PII stolen from Bulgarian Tax Agency", "tags": {"actor": "Criminal", "cost-usd": 0, "impacted-user-count": 5000000, "initial-access": "?", "motive": "PII:?"}, "year": 2019}
+{
+    "entity": "Bulgarian Tax Agency",
+    "links": [
+        "https://thehackernews.com/2019/07/bulgaria-nra-data-breach.html"
+    ],
+    "month": 7,
+    "summary": "PII stolen from Bulgarian Tax Agency",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 5000000,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2019
+}

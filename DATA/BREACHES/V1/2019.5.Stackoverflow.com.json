@@ -1,1 +1,16 @@
-{"year": 2019, "month": 5, "entity": "Stackoverflow.com", "summary": "a build deployed to the development tier for stackoverflow.com contained a bug, which allowed an attacker to log in to our development tier as well as escalate their access on the production", "tags": {"impacted-user-count": 184, "cost-usd": null, "motive": "?", "actor": "?", "initial-access": "OWASP:A2"}, "links": ["https://stackoverflow.blog/2019/05/17/update-to-security-incident-may-17-2019/"]}
+{
+    "year": 2019,
+    "month": 5,
+    "entity": "Stackoverflow.com",
+    "summary": "a build deployed to the development tier for stackoverflow.com contained a bug, which allowed an attacker to log in to our development tier as well as escalate their access on the production",
+    "tags": {
+        "impacted-user-count": 184,
+        "cost-usd": null,
+        "motive": "?",
+        "actor": "?",
+        "initial-access": "Broken Authentication and Session Management"
+    },
+    "links": [
+        "https://stackoverflow.blog/2019/05/17/update-to-security-incident-may-17-2019/"
+    ]
+}

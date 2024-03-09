@@ -1,1 +1,16 @@
-{"entity": "Misc aviation, healthcare, finance, insurance, energy, and gambling entities", "links": ["https://securityaffairs.co/wordpress/95536/apt/apt20-op-wocao.html"], "month": 12, "summary": "China-linked cyber espionage group APT20 has been bypassing two-factor authentication in recent atta", "tags": {"actor": "Nation State:APT20", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "OWASP:A9", "motive": "?"}, "year": 2019}
+{
+    "entity": "Misc aviation, healthcare, finance, insurance, energy, and gambling entities",
+    "links": [
+        "https://securityaffairs.co/wordpress/95536/apt/apt20-op-wocao.html"
+    ],
+    "month": 12,
+    "summary": "China-linked cyber espionage group APT20 has been bypassing two-factor authentication in recent atta",
+    "tags": {
+        "actor": "Nation State:APT20",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Missing Patch",
+        "motive": "?"
+    },
+    "year": 2019
+}

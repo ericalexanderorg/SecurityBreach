@@ -1,1 +1,15 @@
-{"year": 2019, "month": 4, "entity": "Cleveland Hopkins International Airport", "summary": "Attack affected email, payroll, record-keeping systems and information screens", "tags": {"impacted-user-count": null, "cost-usd": null, "motive": "Money:Ransom", "actor": "Criminal"}, "links": ["https://www.scmagazine.com/home/security-news/ransomware-disables-cleveland-airports-email-systems-information-screens/"]}
+{
+    "year": 2019,
+    "month": 4,
+    "entity": "Cleveland Hopkins International Airport",
+    "summary": "Attack affected email, payroll, record-keeping systems and information screens",
+    "tags": {
+        "impacted-user-count": null,
+        "cost-usd": null,
+        "motive": "Money:Ransom",
+        "actor": "Criminal"
+    },
+    "links": [
+        "https://www.scmagazine.com/home/security-news/ransomware-disables-cleveland-airports-email-systems-information-screens/"
+    ]
+}

@@ -1,1 +1,15 @@
-{"year": 2019, "month": 9, "entity": "DoorDash", "summary": "Unauthorized access to data detected by company", "tags": {"impacted-user-count": 5000000, "actor": "?", "initial-access": "?", "motive": "?"}, "links": ["https://threatpost.com/doordash-data-breach-impacts-personal-data-of-almost-5m-users/148724/"]}
+{
+    "year": 2019,
+    "month": 9,
+    "entity": "DoorDash",
+    "summary": "Unauthorized access to data detected by company",
+    "tags": {
+        "impacted-user-count": 5000000,
+        "actor": "?",
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "links": [
+        "https://threatpost.com/doordash-data-breach-impacts-personal-data-of-almost-5m-users/148724/"
+    ]
+}

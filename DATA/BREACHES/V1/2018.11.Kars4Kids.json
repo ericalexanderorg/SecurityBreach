@@ -1,1 +1,14 @@
-{"entity": "Kars4Kids", "month": 11, "year": 2018, "summary": "Open MongoDB", "tags": {"motive": "Hacktivism:Press", "actor": "Hacktivist", "initial-access": "OWASP:A5"}, "links": ["https://techcrunch.com/2018/11/13/kars4kids-data-breach/"]}
+{
+    "entity": "Kars4Kids",
+    "month": 11,
+    "year": 2018,
+    "summary": "Open MongoDB",
+    "tags": {
+        "motive": "Hacktivism:Press",
+        "actor": "Hacktivist",
+        "initial-access": "Broken Access Control"
+    },
+    "links": [
+        "https://techcrunch.com/2018/11/13/kars4kids-data-breach/"
+    ]
+}

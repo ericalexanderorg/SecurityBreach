@@ -1,1 +1,16 @@
-{"year": 2019, "month": 10, "entity": "Click2Mail.com", "summary": "Breach identified after entity notified many of it's users targeted in spam campaign", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "?", "initial-access": "?", "motive": "?"}, "links": ["https://securityaffairs.co/wordpress/92529/data-breach/click2mail-data-breach.html"]}
+{
+    "year": 2019,
+    "month": 10,
+    "entity": "Click2Mail.com",
+    "summary": "Breach identified after entity notified many of it's users targeted in spam campaign",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "?",
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "links": [
+        "https://securityaffairs.co/wordpress/92529/data-breach/click2mail-data-breach.html"
+    ]
+}

@@ -9,7 +9,7 @@
         "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 35879455,
-        "initial-access": "OWASP:A9",
+        "initial-access": "Missing Patch",
         "motive": "Money:Credit Card"
     },
     "year": 2023

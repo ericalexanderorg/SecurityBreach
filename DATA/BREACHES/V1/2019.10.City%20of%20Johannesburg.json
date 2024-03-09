@@ -1,1 +1,16 @@
-{"year": 2019, "month": 10, "entity": "City of Johannesburg", "summary": "Data compromised and ransom requested to prevent public disclosure of data", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Criminal:Shadow Kill Hackers", "initial-access": "?", "motive": "Money:Ransom"}, "links": ["https://nakedsecurity.sophos.com/2019/10/28/johannesburg-hit-by-second-malware-attack/"]}
+{
+    "year": 2019,
+    "month": 10,
+    "entity": "City of Johannesburg",
+    "summary": "Data compromised and ransom requested to prevent public disclosure of data",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Criminal:Shadow Kill Hackers",
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "links": [
+        "https://nakedsecurity.sophos.com/2019/10/28/johannesburg-hit-by-second-malware-attack/"
+    ]
+}

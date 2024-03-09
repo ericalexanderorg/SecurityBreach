@@ -7,7 +7,7 @@
         "impacted-user-count": 7500000,
         "cost-usd": 0,
         "actor": "Hacktivist:Bob Diachenko",
-        "initial-access": "OWASP:A5",
+        "initial-access": "Broken Access Control",
         "motive": "Hacktivism:Schadenfreude"
     },
     "links": [

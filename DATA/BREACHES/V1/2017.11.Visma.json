@@ -1,1 +1,15 @@
-{"year": 2017, "month": 11, "entity": "Visma", "summary": "Valid credentials used to login via Citrix and/or TeamViewer", "tags": {"impacted-user-count": 0, "actor": "Nation State:APT10", "initial-access": "ATT&CK:T1078", "motive": "Espionage"}, "links": ["https://www.recordedfuture.com/apt10-cyberespionage-campaign/"]}
+{
+    "year": 2017,
+    "month": 11,
+    "entity": "Visma",
+    "summary": "Valid credentials used to login via Citrix and/or TeamViewer",
+    "tags": {
+        "impacted-user-count": 0,
+        "actor": "Nation State:APT10",
+        "initial-access": "Compromised Account",
+        "motive": "Espionage"
+    },
+    "links": [
+        "https://www.recordedfuture.com/apt10-cyberespionage-campaign/"
+    ]
+}

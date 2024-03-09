@@ -6,7 +6,7 @@
     "tags": {
         "motive": "PII:?",
         "actor": "Criminal",
-        "initial-access": "OWASP:A9",
+        "initial-access": "Missing Patch",
         "cost-usd": 2000000000,
         "impacted-user-count": 146599999
     },
@@ -14,6 +14,5 @@
         "https://www.usatoday.com/story/tech/2017/09/26/timeline-events-surrounding-equifax-data-breach/703691001/",
         "https://www.thesslstore.com/blog/equifax-data-breach-total-data-lost-the-final-count/",
         "https://threatpost.com/equifax-settles-class-action-lawsuit/151873/"
-
     ]
 }

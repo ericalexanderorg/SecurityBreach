@@ -1,1 +1,15 @@
-{"year": 2019, "month": 10, "entity": "Volusion", "summary": "Hackers Breach Volusion And Start Collecting Card Details From Thousands Of Sites", "tags": {"impacted-user-count": 0, "actor": "Criminal:Magecart", "initial-access": "?", "motive": "Money:Credit Card"}, "links": ["https://www.zdnet.com/article/hackers-breach-volusion-and-start-collecting-card-details-from-thousands-of-sites/"]}
+{
+    "year": 2019,
+    "month": 10,
+    "entity": "Volusion",
+    "summary": "Hackers Breach Volusion And Start Collecting Card Details From Thousands Of Sites",
+    "tags": {
+        "impacted-user-count": 0,
+        "actor": "Criminal:Magecart",
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "links": [
+        "https://www.zdnet.com/article/hackers-breach-volusion-and-start-collecting-card-details-from-thousands-of-sites/"
+    ]
+}

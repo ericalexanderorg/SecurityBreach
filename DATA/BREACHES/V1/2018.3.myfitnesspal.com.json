@@ -1,1 +1,14 @@
-{"entity": "myfitnesspal.com", "month": 3, "year": 2018, "summary": "Data dump made public", "tags": {"motive": "?", "actor": "?", "initial-access": "?"}, "links": ["https://content.myfitnesspal.com/security-information/notice.html"]}
+{
+    "entity": "myfitnesspal.com",
+    "month": 3,
+    "year": 2018,
+    "summary": "Data dump made public",
+    "tags": {
+        "motive": "?",
+        "actor": "?",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://content.myfitnesspal.com/security-information/notice.html"
+    ]
+}

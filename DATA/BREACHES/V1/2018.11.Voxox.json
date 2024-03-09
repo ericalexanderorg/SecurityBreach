@@ -1,1 +1,14 @@
-{"entity": "Voxox", "month": 11, "year": 2018, "summary": "Elastic search data exposed SMS records of 26 million individuals", "tags": {"motive": "Hacktivism:Press", "actor": "Hacktivist", "initial-access": "OWASP:A5"}, "links": ["https://techcrunch.com/2018/11/15/millions-sms-text-messages-leaked-two-factor-codes/"]}
+{
+    "entity": "Voxox",
+    "month": 11,
+    "year": 2018,
+    "summary": "Elastic search data exposed SMS records of 26 million individuals",
+    "tags": {
+        "motive": "Hacktivism:Press",
+        "actor": "Hacktivist",
+        "initial-access": "Broken Access Control"
+    },
+    "links": [
+        "https://techcrunch.com/2018/11/15/millions-sms-text-messages-leaked-two-factor-codes/"
+    ]
+}

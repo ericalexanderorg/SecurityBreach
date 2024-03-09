@@ -1,1 +1,16 @@
-{"entity": "Lyca Mobile", "links": ["https://securityaffairs.co/wordpress/93474/hacktivism/lulzsecita-lyca-mobile.html"], "month": 11, "summary": "Italian branch of Anonymous and LulzSecITA hacked websites of Lyca Mobile", "tags": {"actor": "Hacktivist:Anonymous", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "?", "motive": "Hacktivism:Schadenfreude"}, "year": 2019}
+{
+    "entity": "Lyca Mobile",
+    "links": [
+        "https://securityaffairs.co/wordpress/93474/hacktivism/lulzsecita-lyca-mobile.html"
+    ],
+    "month": 11,
+    "summary": "Italian branch of Anonymous and LulzSecITA hacked websites of Lyca Mobile",
+    "tags": {
+        "actor": "Hacktivist:Anonymous",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2019
+}

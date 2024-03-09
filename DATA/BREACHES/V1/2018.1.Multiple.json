@@ -1,1 +1,14 @@
-{"entity": "Multiple", "month": 1, "year": 2018, "summary": "RDP brute force lead to data ransom", "tags": {"motive": "Money:Ransom", "actor": "Criminal:SamSam", "initial-access": "ATT&CK:T1078"}, "links": ["https://www.scmagazine.com/home/security-news/four-iranian-nationals-indicted-in-samsam-attacks/"]}
+{
+    "entity": "Multiple",
+    "month": 1,
+    "year": 2018,
+    "summary": "RDP brute force lead to data ransom",
+    "tags": {
+        "motive": "Money:Ransom",
+        "actor": "Criminal:SamSam",
+        "initial-access": "Compromised Account"
+    },
+    "links": [
+        "https://www.scmagazine.com/home/security-news/four-iranian-nationals-indicted-in-samsam-attacks/"
+    ]
+}

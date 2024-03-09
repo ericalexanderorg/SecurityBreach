@@ -1,1 +1,16 @@
-{"year": 2018, "month": 9, "entity": "Eye Buy Direct Inc.", "summary": "Short summary of what happened", "tags": {"impacted-user-count": 356, "cost-usd": 0, "actor": "Criminal", "initial-access": "?", "motive": "Money:Credit Card"}, "links": ["https://agportal-s3bucket.s3.amazonaws.com/uploadedfiles/Another/Supporting_Law_Enforcement/EyeBuyDirectInc.2019-10-15.pdf"]}
+{
+    "year": 2018,
+    "month": 9,
+    "entity": "Eye Buy Direct Inc.",
+    "summary": "Short summary of what happened",
+    "tags": {
+        "impacted-user-count": 356,
+        "cost-usd": 0,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "links": [
+        "https://agportal-s3bucket.s3.amazonaws.com/uploadedfiles/Another/Supporting_Law_Enforcement/EyeBuyDirectInc.2019-10-15.pdf"
+    ]
+}

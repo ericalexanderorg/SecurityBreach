@@ -1,1 +1,16 @@
-{"year": 2019, "month": 7, "entity": "New York City's Monroe College", "summary": "A ransomware attack installed throughout the college's network has shutdown the college's computer systems", "tags": {"impacted-user-count": null, "cost-usd": null, "motive": "Money:Ransom", "initial-access": "?", "actor": "Criminal"}, "links": ["https://www.bleepingcomputer.com/news/security/monroe-college-hit-with-ransomware-2-million-demanded/"]}
+{
+    "year": 2019,
+    "month": 7,
+    "entity": "New York City's Monroe College",
+    "summary": "A ransomware attack installed throughout the college's network has shutdown the college's computer systems",
+    "tags": {
+        "impacted-user-count": null,
+        "cost-usd": null,
+        "motive": "Money:Ransom",
+        "initial-access": "?",
+        "actor": "Criminal"
+    },
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/monroe-college-hit-with-ransomware-2-million-demanded/"
+    ]
+}

@@ -1,1 +1,16 @@
-{"year": 2019, "month": 5, "entity": "Avast", "summary": "The intruder took advantage of a temporary VPN profile that should no longer have been active", "tags": {"impacted-user-count": null, "cost-usd": null, "initial-access": "OWASP:A2", "actor": "?", "motive": "?"}, "links": ["https://www.bleepingcomputer.com/news/security/hackers-breach-avast-antivirus-network-through-insecure-vpn-profile/"]}
+{
+    "year": 2019,
+    "month": 5,
+    "entity": "Avast",
+    "summary": "The intruder took advantage of a temporary VPN profile that should no longer have been active",
+    "tags": {
+        "impacted-user-count": null,
+        "cost-usd": null,
+        "initial-access": "Broken Authentication and Session Management",
+        "actor": "?",
+        "motive": "?"
+    },
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/hackers-breach-avast-antivirus-network-through-insecure-vpn-profile/"
+    ]
+}

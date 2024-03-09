@@ -9,7 +9,7 @@
         "actor": "Nation State",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1499",
+        "initial-access": "DOS",
         "motive": "Political"
     },
     "year": 2020

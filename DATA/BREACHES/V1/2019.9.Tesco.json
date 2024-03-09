@@ -1,1 +1,15 @@
-{"year": 2019, "month": 9, "entity": "Tesco", "summary": "Unsecured Azure blob", "tags": {"impacted-user-count": 10000000, "actor": "Hacktivist", "initial-access": "OWASP:A5", "motive": "Hacktivism:Schadenfreude"}, "links": ["https://www.theregister.co.uk/2019/09/20/tesco_parking_app_10s_millions_anpr_photos_exposed/"]}
+{
+    "year": 2019,
+    "month": 9,
+    "entity": "Tesco",
+    "summary": "Unsecured Azure blob",
+    "tags": {
+        "impacted-user-count": 10000000,
+        "actor": "Hacktivist",
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "links": [
+        "https://www.theregister.co.uk/2019/09/20/tesco_parking_app_10s_millions_anpr_photos_exposed/"
+    ]
+}

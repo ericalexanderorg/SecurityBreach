@@ -1,1 +1,15 @@
-{"entity": "Newegg", "month": 9, "year": 2017, "summary": "Javascript injected in site to steal credit card information", "tags": {"motive": "Money:Credit Card", "actor": "Criminal:Carbanak", "initial-access": "OWASP:A10"}, "links": ["https://techcrunch.com/2018/09/19/newegg-credit-card-data-breach/", "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"]}
+{
+    "entity": "Newegg",
+    "month": 9,
+    "year": 2017,
+    "summary": "Javascript injected in site to steal credit card information",
+    "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "Criminal:Carbanak",
+        "initial-access": "Monitoring Failure"
+    },
+    "links": [
+        "https://techcrunch.com/2018/09/19/newegg-credit-card-data-breach/",
+        "https://securityaffairs.co/wordpress/92849/cyber-crime/magecart-group-5-link-carbanak.html"
+    ]
+}

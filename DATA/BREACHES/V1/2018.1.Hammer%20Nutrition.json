@@ -1,1 +1,14 @@
-{"entity": "Hammer Nutrition", "month": 1, "year": 2018, "summary": "Javascript injected in site to steal credit card information", "tags": {"motive": "Money:Credit Card", "actor": "Criminal:Magecart", "initial-access": "OWASP:A10"}, "links": ["https://oag.ca.gov/system/files/1st%20Email%20Notification%2012-17-18_0.pdf"]}
+{
+    "entity": "Hammer Nutrition",
+    "month": 1,
+    "year": 2018,
+    "summary": "Javascript injected in site to steal credit card information",
+    "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "Criminal:Magecart",
+        "initial-access": "Monitoring Failure"
+    },
+    "links": [
+        "https://oag.ca.gov/system/files/1st%20Email%20Notification%2012-17-18_0.pdf"
+    ]
+}

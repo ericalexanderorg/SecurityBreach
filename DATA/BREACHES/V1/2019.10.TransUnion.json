@@ -1,1 +1,15 @@
-{"year": 2019, "month": 10, "entity": "TransUnion", "summary": "An unauthorized person was able to gain access to a TransUnion Canada web portal and use it to pull consumer credit files.", "tags": {"impacted-user-count": 0, "actor": "?", "initial-access": "ATT&CK:T1078", "motive": "PII:?"}, "links": ["https://www.bleepingcomputer.com/news/security/credit-info-exposed-in-transunion-data-security-incident/"]}
+{
+    "year": 2019,
+    "month": 10,
+    "entity": "TransUnion",
+    "summary": "An unauthorized person was able to gain access to a TransUnion Canada web portal and use it to pull consumer credit files.",
+    "tags": {
+        "impacted-user-count": 0,
+        "actor": "?",
+        "initial-access": "Compromised Account",
+        "motive": "PII:?"
+    },
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/credit-info-exposed-in-transunion-data-security-incident/"
+    ]
+}

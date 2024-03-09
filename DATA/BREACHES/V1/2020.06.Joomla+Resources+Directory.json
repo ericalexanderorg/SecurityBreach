@@ -9,7 +9,7 @@
         "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 2700,
-        "initial-access": "OWASP:A5",
+        "initial-access": "Broken Access Control",
         "motive": "PII:?"
     },
     "year": 2020

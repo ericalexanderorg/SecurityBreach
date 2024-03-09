@@ -1,1 +1,14 @@
-{"entity": "Tecnimont", "month": 1, "year": 2019, "summary": "Employee duped into wiring $18.6 million", "tags": {"motive": "Money:Bank Transfer", "actor": "Criminal:BEC", "initial-access": "BEC:Impersonation"}, "links": ["https://www.bankinfosecurity.com/bec-scam-leads-to-theft-186-million-a-11930"]}
+{
+    "entity": "Tecnimont",
+    "month": 1,
+    "year": 2019,
+    "summary": "Employee duped into wiring $18.6 million",
+    "tags": {
+        "motive": "Money:Bank Transfer",
+        "actor": "Criminal:BEC",
+        "initial-access": "BEC:Impersonation"
+    },
+    "links": [
+        "https://www.bankinfosecurity.com/bec-scam-leads-to-theft-186-million-a-11930"
+    ]
+}

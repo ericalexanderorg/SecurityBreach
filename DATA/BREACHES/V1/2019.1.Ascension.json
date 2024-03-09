@@ -1,1 +1,15 @@
-{"year": 2019, "month": 1, "entity": "Ascension", "summary": "Elastic Search DB exposed to the internet with no authentication", "tags": {"impacted-user-count": 24000000, "actor": "Hacktivist", "initial-access": "OWASP:A5", "motive": "Hacktivism:Press"}, "links": ["https://www.softwaretestingnews.co.uk/19025-2-sbi-leaks-financial-data/"]}
+{
+    "year": 2019,
+    "month": 1,
+    "entity": "Ascension",
+    "summary": "Elastic Search DB exposed to the internet with no authentication",
+    "tags": {
+        "impacted-user-count": 24000000,
+        "actor": "Hacktivist",
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:Press"
+    },
+    "links": [
+        "https://www.softwaretestingnews.co.uk/19025-2-sbi-leaks-financial-data/"
+    ]
+}

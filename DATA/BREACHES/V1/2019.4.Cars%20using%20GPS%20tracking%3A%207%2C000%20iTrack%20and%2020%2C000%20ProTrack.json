@@ -1,1 +1,16 @@
-{"year": 2019, "month": 4, "entity": "Cars using GPS tracking: 7,000 iTrack and 20,000 ProTrack", "summary": "Hacker found that accounts used a default password and then brute-forced \u201cmillions of usernames\u201d to find valid user accounts", "tags": {"impacted-user-count": 27000, "actor": "Hacktivist", "initial-access": "OWASP:A2", "motive": "Hacktivism:Schadenfreude", "cost-usd": null}, "links": ["https://www.vice.com/en_us/article/zmpx4x/hacker-monitor-cars-kill-engine-gps-tracking-apps"]}
+{
+    "year": 2019,
+    "month": 4,
+    "entity": "Cars using GPS tracking: 7,000 iTrack and 20,000 ProTrack",
+    "summary": "Hacker found that accounts used a default password and then brute-forced \u201cmillions of usernames\u201d to find valid user accounts",
+    "tags": {
+        "impacted-user-count": 27000,
+        "actor": "Hacktivist",
+        "initial-access": "Broken Authentication and Session Management",
+        "motive": "Hacktivism:Schadenfreude",
+        "cost-usd": null
+    },
+    "links": [
+        "https://www.vice.com/en_us/article/zmpx4x/hacker-monitor-cars-kill-engine-gps-tracking-apps"
+    ]
+}

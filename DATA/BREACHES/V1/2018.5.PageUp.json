@@ -1,1 +1,14 @@
-{"entity": "PageUp", "month": 5, "year": 2018, "summary": "?", "tags": {"motive": "?", "actor": "?", "initial-access": "?"}, "links": ["https://www.itwire.com/open-sauce/85366-pageup-claims-no-data-taken-in-breach-please-pull-the-other-one.html"]}
+{
+    "entity": "PageUp",
+    "month": 5,
+    "year": 2018,
+    "summary": "?",
+    "tags": {
+        "motive": "?",
+        "actor": "?",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://www.itwire.com/open-sauce/85366-pageup-claims-no-data-taken-in-breach-please-pull-the-other-one.html"
+    ]
+}

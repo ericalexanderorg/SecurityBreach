@@ -1,1 +1,14 @@
-{"entity": "Benefit Mall", "month": 10, "year": 2018, "summary": "Phishing email led to an Account Compromise", "tags": {"motive": "?", "actor": "Criminal", "initial-access": "ATT&CK:T1078"}, "links": ["https://oag.ca.gov/system/files/BMC%20-%20FINAL%20CONSUMER%20NOTICE_0.pdf"]}
+{
+    "entity": "Benefit Mall",
+    "month": 10,
+    "year": 2018,
+    "summary": "Phishing email led to an Account Compromise",
+    "tags": {
+        "motive": "?",
+        "actor": "Criminal",
+        "initial-access": "Compromised Account"
+    },
+    "links": [
+        "https://oag.ca.gov/system/files/BMC%20-%20FINAL%20CONSUMER%20NOTICE_0.pdf"
+    ]
+}

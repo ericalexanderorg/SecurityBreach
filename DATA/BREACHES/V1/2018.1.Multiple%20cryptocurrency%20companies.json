@@ -1,1 +1,14 @@
-{"entity": "Multiple cryptocurrency companies", "month": 1, "year": 2018, "summary": "Phishing -> malware -> digital wallet theft", "tags": {"motive": "Money:Cryptocurrency", "actor": "Criminal", "initial-access": "ATT&CK:T1193"}, "links": ["https://thenextweb.com/hardfork/2018/10/19/cryptocurrency-attack-report/"]}
+{
+    "entity": "Multiple cryptocurrency companies",
+    "month": 1,
+    "year": 2018,
+    "summary": "Phishing -> malware -> digital wallet theft",
+    "tags": {
+        "motive": "Money:Cryptocurrency",
+        "actor": "Criminal",
+        "initial-access": "Phishing:Attachment"
+    },
+    "links": [
+        "https://thenextweb.com/hardfork/2018/10/19/cryptocurrency-attack-report/"
+    ]
+}

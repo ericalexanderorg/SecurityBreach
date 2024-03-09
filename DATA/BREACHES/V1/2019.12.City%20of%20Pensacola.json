@@ -1,1 +1,16 @@
-{"entity": "City of Pensacola", "links": ["https://www.bleepingcomputer.com/news/security/maze-ransomware-behind-pensacola-cyberattack-1m-ransom-demand/"], "month": 12, "summary": "The operators behind the Maze Ransomware have claimed responsibility for the cyberattack affecting t", "tags": {"actor": "Criminal", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "?", "motive": "Money:Ransom"}, "year": 2019}
+{
+    "entity": "City of Pensacola",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/maze-ransomware-behind-pensacola-cyberattack-1m-ransom-demand/"
+    ],
+    "month": 12,
+    "summary": "The operators behind the Maze Ransomware have claimed responsibility for the cyberattack affecting t",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2019
+}

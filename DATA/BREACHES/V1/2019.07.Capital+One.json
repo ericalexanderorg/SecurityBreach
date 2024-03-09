@@ -11,7 +11,7 @@
         "actor": "Hacktivist",
         "cost-usd": 0,
         "impacted-user-count": 100000000,
-        "initial-access": "OWASP:A6",
+        "initial-access": "Misconfiguration",
         "motive": "PII:?"
     },
     "year": 2020

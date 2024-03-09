@@ -1,1 +1,16 @@
-{"year": 2019, "month": 3, "entity": "Bithumb", "summary": "The private key for the EOS hot wallet account belonging to Bithumb was stolen, possibly with the help of an insider", "tags": {"impacted-user-count": null, "cost-usd": 19000000, "actor": "Criminal", "initial-access": "?", "motive": "Money:Cryptocurrency"}, "links": ["https://thehackernews.com/2019/03/bithumb-cryptocurrency-hacked.html"]}
+{
+    "year": 2019,
+    "month": 3,
+    "entity": "Bithumb",
+    "summary": "The private key for the EOS hot wallet account belonging to Bithumb was stolen, possibly with the help of an insider",
+    "tags": {
+        "impacted-user-count": null,
+        "cost-usd": 19000000,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "links": [
+        "https://thehackernews.com/2019/03/bithumb-cryptocurrency-hacked.html"
+    ]
+}

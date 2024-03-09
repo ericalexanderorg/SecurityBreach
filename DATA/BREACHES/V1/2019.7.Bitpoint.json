@@ -1,1 +1,16 @@
-{"entity": "Bitpoint", "links": ["https://www.infosecurity-magazine.com/news/japanese-exchange-bitpoint/"], "month": 7, "summary": "Japan-based cryptocurrency exchange Bitpoint has become the latest to lose tens of millions of dollars", "tags": {"actor": "Criminal", "cost-usd": 10000000, "impacted-user-count": 0, "initial-access": "?", "motive": "Money:Cryptocurrency"}, "year": 2019}
+{
+    "entity": "Bitpoint",
+    "links": [
+        "https://www.infosecurity-magazine.com/news/japanese-exchange-bitpoint/"
+    ],
+    "month": 7,
+    "summary": "Japan-based cryptocurrency exchange Bitpoint has become the latest to lose tens of millions of dollars",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 10000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2019
+}

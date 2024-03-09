@@ -1,1 +1,16 @@
-{"entity": "Nebraska Medicine", "links": ["https://threatpost.com/nebraska-medicine-breached-rogue-employee/150823/"], "month": 12, "summary": "Hospital network Nebraska Medicine has disclosed a data breach after a former employee accessed sens", "tags": {"actor": "Insider", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "?", "motive": "PII:?"}, "year": 2019}
+{
+    "entity": "Nebraska Medicine",
+    "links": [
+        "https://threatpost.com/nebraska-medicine-breached-rogue-employee/150823/"
+    ],
+    "month": 12,
+    "summary": "Hospital network Nebraska Medicine has disclosed a data breach after a former employee accessed sens",
+    "tags": {
+        "actor": "Insider",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2019
+}

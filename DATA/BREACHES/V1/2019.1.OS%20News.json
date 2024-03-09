@@ -1,1 +1,14 @@
-{"entity": "OS News", "month": 1, "year": 2019, "summary": "Root cause unknown ATM", "tags": {"motive": "?", "actor": "?", "initial-access": "?"}, "links": ["https://www.osnews.com/story/128924/what-happened-here/"]}
+{
+    "entity": "OS News",
+    "month": 1,
+    "year": 2019,
+    "summary": "Root cause unknown ATM",
+    "tags": {
+        "motive": "?",
+        "actor": "?",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://www.osnews.com/story/128924/what-happened-here/"
+    ]
+}

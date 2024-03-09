@@ -6,7 +6,7 @@
     "tags": {
         "motive": "PII:?",
         "actor": "Criminal",
-        "initial-access": "OWASP:A9"
+        "initial-access": "Missing Patch"
     },
     "links": [
         "https://www.databreachtoday.com/carphone-warehouse-breach-striking-failures-trigger-fine-a-10571",

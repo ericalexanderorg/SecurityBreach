@@ -1,1 +1,16 @@
-{"year": 2016, "month": 11, "entity": "Zendesk", "summary": "Unauthorized access to PII, TLS certs, config settings, and integration keys.", "tags": {"impacted-user-count": 15000, "actor": "?", "initial-access": "?", "motive": "PII:?"}, "links": ["https://threatpost.com/zendesk-exposes-10000-accounts/148881/", "https://www.zendesk.com/blog/security-update-2019/"]}
+{
+    "year": 2016,
+    "month": 11,
+    "entity": "Zendesk",
+    "summary": "Unauthorized access to PII, TLS certs, config settings, and integration keys.",
+    "tags": {
+        "impacted-user-count": 15000,
+        "actor": "?",
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "links": [
+        "https://threatpost.com/zendesk-exposes-10000-accounts/148881/",
+        "https://www.zendesk.com/blog/security-update-2019/"
+    ]
+}

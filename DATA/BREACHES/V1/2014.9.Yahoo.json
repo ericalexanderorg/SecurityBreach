@@ -7,7 +7,7 @@
         "impacted-user-count": 500000000,
         "cost-usd": 117500000,
         "actor": "Nation State:Russian FSB",
-        "initial-access": "OWASP:A2",
+        "initial-access": "Broken Authentication and Session Management",
         "motive": "PII:?"
     },
     "links": [

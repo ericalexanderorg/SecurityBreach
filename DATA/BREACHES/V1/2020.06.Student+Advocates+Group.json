@@ -9,7 +9,7 @@
         "actor": "Hacktivist",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A10",
+        "initial-access": "Monitoring Failure",
         "motive": "Hacktivism:Press"
     },
     "year": 2020

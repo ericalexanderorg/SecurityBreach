@@ -1,1 +1,16 @@
-{"year": 2016, "month": 10, "entity": "The Buckle Inc.", "summary": "POS system compromised", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Criminal", "initial-access": "?", "motive": "Money:Credit Card"}, "links": ["https://krebsonsecurity.com/2017/06/credit-card-breach-at-buckle-stores/"]}
+{
+    "year": 2016,
+    "month": 10,
+    "entity": "The Buckle Inc.",
+    "summary": "POS system compromised",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "links": [
+        "https://krebsonsecurity.com/2017/06/credit-card-breach-at-buckle-stores/"
+    ]
+}

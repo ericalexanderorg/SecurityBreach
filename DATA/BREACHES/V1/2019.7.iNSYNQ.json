@@ -1,1 +1,16 @@
-{"entity": "iNSYNQ", "links": ["https://krebsonsecurity.com/2019/07/quickbooks-cloud-hosting-firm-insynq-hit-in-ransomware-attack/"], "month": 7, "summary": "Cloud hosting provider iNSYNQ says it is trying to recover from a ransomware attack.", "tags": {"actor": "Criminal", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "?", "motive": "Money:Ransom"}, "year": 2019}
+{
+    "entity": "iNSYNQ",
+    "links": [
+        "https://krebsonsecurity.com/2019/07/quickbooks-cloud-hosting-firm-insynq-hit-in-ransomware-attack/"
+    ],
+    "month": 7,
+    "summary": "Cloud hosting provider iNSYNQ says it is trying to recover from a ransomware attack.",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2019
+}

@@ -1,1 +1,14 @@
-{"entity": "Ticketfly", "month": 4, "year": 2018, "summary": "?", "tags": {"motive": "Hacktivism:Schadenfreude", "actor": "Hacktivist", "initial-access": "?"}, "links": ["https://www.tomsguide.com/us/ticketfly-data-breach,news-27374.html"]}
+{
+    "entity": "Ticketfly",
+    "month": 4,
+    "year": 2018,
+    "summary": "?",
+    "tags": {
+        "motive": "Hacktivism:Schadenfreude",
+        "actor": "Hacktivist",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://www.tomsguide.com/us/ticketfly-data-breach,news-27374.html"
+    ]
+}

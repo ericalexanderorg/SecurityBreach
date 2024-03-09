@@ -1,1 +1,16 @@
-{"year": 2014, "month": 1, "entity": "Henkel", "summary": "Targeted in nation state espionage campaign", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Nation State:APT41", "initial-access": "ATT&CK:T1193", "motive": "Espionage"}, "links": ["https://web.br.de/interaktiv/winnti/english/"]}
+{
+    "year": 2014,
+    "month": 1,
+    "entity": "Henkel",
+    "summary": "Targeted in nation state espionage campaign",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "Phishing:Attachment",
+        "motive": "Espionage"
+    },
+    "links": [
+        "https://web.br.de/interaktiv/winnti/english/"
+    ]
+}

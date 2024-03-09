@@ -1,1 +1,17 @@
-{"entity": "Misc APT33 Targets", "links": ["https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/", "https://www.scmagazine.com/home/security-news/cybercrime/apt33-sics-small-elusive-botnets-on-u-s-and-global-targets/"], "month": 11, "summary": "APT33 targeting private American company that offers services related to national security, victims connecting from a university and a college in the U.S., a victim most likely related to the U.S. military, and several victims in the Middle East and Asia", "tags": {"actor": "Nation State", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "?", "motive": "Espionage"}, "year": 2019}
+{
+    "entity": "Misc APT33 Targets",
+    "links": [
+        "https://blog.trendmicro.com/trendlabs-security-intelligence/more-than-a-dozen-obfuscated-apt33-botnets-used-for-extreme-narrow-targeting/",
+        "https://www.scmagazine.com/home/security-news/cybercrime/apt33-sics-small-elusive-botnets-on-u-s-and-global-targets/"
+    ],
+    "month": 11,
+    "summary": "APT33 targeting private American company that offers services related to national security, victims connecting from a university and a college in the U.S., a victim most likely related to the U.S. military, and several victims in the Middle East and Asia",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2019
+}

@@ -9,7 +9,7 @@
         "actor": "Hacktivist:VpnMentor",
         "cost-usd": 0,
         "impacted-user-count": 36077,
-        "initial-access": "OWASP:A5",
+        "initial-access": "Broken Access Control",
         "motive": "Hacktivism:Press"
     },
     "year": 2020

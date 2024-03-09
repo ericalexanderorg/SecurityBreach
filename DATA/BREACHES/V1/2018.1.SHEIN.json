@@ -1,1 +1,14 @@
-{"entity": "SHEIN", "month": 1, "year": 2018, "summary": "?", "tags": {"motive": "?", "actor": "?", "initial-access": "?"}, "links": ["https://www.zdnet.com/article/shein-fashion-retailer-announces-breach-affecting-6-42-million-users/"]}
+{
+    "entity": "SHEIN",
+    "month": 1,
+    "year": 2018,
+    "summary": "?",
+    "tags": {
+        "motive": "?",
+        "actor": "?",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://www.zdnet.com/article/shein-fashion-retailer-announces-breach-affecting-6-42-million-users/"
+    ]
+}

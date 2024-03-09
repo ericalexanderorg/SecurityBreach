@@ -1,1 +1,16 @@
-{"year": 2016, "month": 6, "entity": "Sumitomo Electric", "summary": "Targeted in nation state espionage campaign", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Nation State:APT41", "initial-access": "?", "motive": "Espionage"}, "links": ["https://web.br.de/interaktiv/winnti/english/"]}
+{
+    "year": 2016,
+    "month": 6,
+    "entity": "Sumitomo Electric",
+    "summary": "Targeted in nation state espionage campaign",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "links": [
+        "https://web.br.de/interaktiv/winnti/english/"
+    ]
+}

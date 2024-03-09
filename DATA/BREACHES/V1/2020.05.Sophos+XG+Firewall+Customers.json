@@ -9,7 +9,7 @@
         "actor": "Criminal:NOTROBIN",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A1",
+        "initial-access": "Injection",
         "motive": "Money:Ransom"
     },
     "year": 2020

@@ -1,1 +1,14 @@
-{"entity": "Caribou Cofee", "month": 12, "year": 2018, "summary": "Compromised POS system", "tags": {"motive": "Money:Credit Card", "actor": "Criminal", "initial-access": "?"}, "links": ["https://www.zdnet.com/article/caribou-coffee-chain-announces-card-breach-impacting-239-stores/"]}
+{
+    "entity": "Caribou Cofee",
+    "month": 12,
+    "year": 2018,
+    "summary": "Compromised POS system",
+    "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "Criminal",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://www.zdnet.com/article/caribou-coffee-chain-announces-card-breach-impacting-239-stores/"
+    ]
+}

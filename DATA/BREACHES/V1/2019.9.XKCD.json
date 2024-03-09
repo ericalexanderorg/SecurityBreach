@@ -1,1 +1,16 @@
-{"year": 2019, "month": 9, "entity": "XKCD", "summary": "User data found in leak", "tags": {"impacted-user-count": 562000, "cost-usd": 0, "actor": "?", "initial-access": "OWASP:A9", "motive": "PII:?"}, "links": ["http://feedproxy.google.com/~r/TheHackersNews/~3/eV4pJvvSErI/xkcd-forum-hacked.html"]}
+{
+    "year": 2019,
+    "month": 9,
+    "entity": "XKCD",
+    "summary": "User data found in leak",
+    "tags": {
+        "impacted-user-count": 562000,
+        "cost-usd": 0,
+        "actor": "?",
+        "initial-access": "Missing Patch",
+        "motive": "PII:?"
+    },
+    "links": [
+        "http://feedproxy.google.com/~r/TheHackersNews/~3/eV4pJvvSErI/xkcd-forum-hacked.html"
+    ]
+}

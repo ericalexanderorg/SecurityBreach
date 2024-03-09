@@ -1,1 +1,15 @@
-{"entity": "Comodo discussion board and support forums (ITarian Forum)", "month": 9, "year": 2019, "summary": "vBulletin 0-day used to expose users' data", "tags": {"motive": "Hacktivism:?", "actor": "Hacktivist", "initial-access": "OWASP:A1", "impacted-user-count": 245000}, "links": ["https://thehackernews.com/2019/10/Comodo-vbulletin-hacked.html"]}
+{
+    "entity": "Comodo discussion board and support forums (ITarian Forum)",
+    "month": 9,
+    "year": 2019,
+    "summary": "vBulletin 0-day used to expose users' data",
+    "tags": {
+        "motive": "Hacktivism:?",
+        "actor": "Hacktivist",
+        "initial-access": "Injection",
+        "impacted-user-count": 245000
+    },
+    "links": [
+        "https://thehackernews.com/2019/10/Comodo-vbulletin-hacked.html"
+    ]
+}

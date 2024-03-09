@@ -1,1 +1,16 @@
-{"entity": "Facebook", "links": ["https://www.engadget.com/2019/12/13/facebook-employee-payroll-data-theft/"], "month": 11, "summary": "Hard drive stolen from employee contained employee PII.", "tags": {"actor": "?", "cost-usd": 0, "impacted-user-count": 29000, "initial-access": "CIS: Control 1", "motive": "?"}, "year": 2019}
+{
+    "entity": "Facebook",
+    "links": [
+        "https://www.engadget.com/2019/12/13/facebook-employee-payroll-data-theft/"
+    ],
+    "month": 11,
+    "summary": "Hard drive stolen from employee contained employee PII.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 29000,
+        "initial-access": "CIS: Control 1",
+        "motive": "?"
+    },
+    "year": 2019
+}

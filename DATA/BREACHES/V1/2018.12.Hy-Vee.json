@@ -1,1 +1,17 @@
-{"entity": "Hy-Vee", "links": ["https://krebsonsecurity.com/2019/08/breach-at-hy-vee-supermarket-chain-tied-to-sale-of-5m-stolen-credit-debit-cards/", "https://www.argusleader.com/story/news/2019/10/03/hy-vee-data-breach-seven-sioux-falls-locations-affected-security-breach/3857299002/"], "month": 12, "summary": "Credit card data found for sale on dark web and triangulated to a breach at Hy-Vee", "tags": {"actor": "Criminal", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "?", "motive": "Money:Credit Card"}, "year": 2018}
+{
+    "entity": "Hy-Vee",
+    "links": [
+        "https://krebsonsecurity.com/2019/08/breach-at-hy-vee-supermarket-chain-tied-to-sale-of-5m-stolen-credit-debit-cards/",
+        "https://www.argusleader.com/story/news/2019/10/03/hy-vee-data-breach-seven-sioux-falls-locations-affected-security-breach/3857299002/"
+    ],
+    "month": 12,
+    "summary": "Credit card data found for sale on dark web and triangulated to a breach at Hy-Vee",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2018
+}

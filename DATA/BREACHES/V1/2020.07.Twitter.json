@@ -9,7 +9,7 @@
         "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1451",
+        "initial-access": "SIM Card Swap",
         "motive": "Money:Misc"
     },
     "year": 2020

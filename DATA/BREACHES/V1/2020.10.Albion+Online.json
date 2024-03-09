@@ -9,7 +9,7 @@
         "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A9",
+        "initial-access": "Missing Patch",
         "motive": "PII:?"
     },
     "year": 2020

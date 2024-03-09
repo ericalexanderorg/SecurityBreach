@@ -9,7 +9,7 @@
         "actor": "Criminal:Magecart",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A9",
+        "initial-access": "Missing Patch",
         "motive": "Money:Credit Card"
     },
     "year": 2019

@@ -1,1 +1,16 @@
-{"entity": "AT&T", "links": ["https://www.zdnet.com/article/at-t-employees-took-bribes-to-plant-malware-on-the-companys-network/"], "month": 8, "summary": "AT&T employees took bribes to unlock millions of smartphones, and to install malware and unauthorize", "tags": {"actor": "Insider", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "?", "motive": "Money:Misc"}, "year": 2019}
+{
+    "entity": "AT&T",
+    "links": [
+        "https://www.zdnet.com/article/at-t-employees-took-bribes-to-plant-malware-on-the-companys-network/"
+    ],
+    "month": 8,
+    "summary": "AT&T employees took bribes to unlock millions of smartphones, and to install malware and unauthorize",
+    "tags": {
+        "actor": "Insider",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Misc"
+    },
+    "year": 2019
+}

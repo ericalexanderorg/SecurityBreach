@@ -1,1 +1,17 @@
-{"year": 2019, "month": 10, "entity": "Billtrust", "summary": "On Thursday, Oct. 17 Billtrust was hit by a ransomware attack", "tags": {"impacted-user-count": null, "cost-usd": null, "motive": "Money:Ransom", "initial-access": "?", "actor": "Criminal"}, "links": ["https://krebsonsecurity.com/2019/10/ransomware-hits-b2b-payments-firm-billtrust/", "http://wittichen-supply.com/billtrust-service-interruption/"]}
+{
+    "year": 2019,
+    "month": 10,
+    "entity": "Billtrust",
+    "summary": "On Thursday, Oct. 17 Billtrust was hit by a ransomware attack",
+    "tags": {
+        "impacted-user-count": null,
+        "cost-usd": null,
+        "motive": "Money:Ransom",
+        "initial-access": "?",
+        "actor": "Criminal"
+    },
+    "links": [
+        "https://krebsonsecurity.com/2019/10/ransomware-hits-b2b-payments-firm-billtrust/",
+        "http://wittichen-supply.com/billtrust-service-interruption/"
+    ]
+}

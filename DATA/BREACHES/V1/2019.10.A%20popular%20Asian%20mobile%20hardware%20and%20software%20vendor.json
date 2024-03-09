@@ -1,1 +1,17 @@
-{"year": 2019, "month": 10, "entity": "A popular Asian mobile hardware and software vendor", "summary": "Research into known bad actor uncovered a breached entity ", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Nation State:APT41", "initial-access": "?", "motive": "Espionage"}, "links": ["https://www.scmagazine.com/home/security-news/gaming/major-software-vendor-compromised-with-previously-undocumented-portreuse-backdoor/", "https://www.bleepingcomputer.com/news/security/winnti-group-uses-new-portreuse-malware-against-asian-manufacturer/"]}
+{
+    "year": 2019,
+    "month": 10,
+    "entity": "A popular Asian mobile hardware and software vendor",
+    "summary": "Research into known bad actor uncovered a breached entity ",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "links": [
+        "https://www.scmagazine.com/home/security-news/gaming/major-software-vendor-compromised-with-previously-undocumented-portreuse-backdoor/",
+        "https://www.bleepingcomputer.com/news/security/winnti-group-uses-new-portreuse-malware-against-asian-manufacturer/"
+    ]
+}

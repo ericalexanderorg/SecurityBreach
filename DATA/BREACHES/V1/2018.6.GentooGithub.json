@@ -1,1 +1,14 @@
-{"entity": "Gentoo/Github", "month": 6, "year": 2018, "summary": "Administrative Gentoo related Github ATT&CK:T1078d", "tags": {"motive": "?", "actor": "?", "initial-access": "ATT&CK:T1078"}, "links": ["https://wiki.gentoo.org/wiki/Github/2018-06-28"]}
+{
+    "entity": "Gentoo/Github",
+    "month": 6,
+    "year": 2018,
+    "summary": "Administrative Gentoo related Github ATT&CK:T1078d",
+    "tags": {
+        "motive": "?",
+        "actor": "?",
+        "initial-access": "Compromised Account"
+    },
+    "links": [
+        "https://wiki.gentoo.org/wiki/Github/2018-06-28"
+    ]
+}

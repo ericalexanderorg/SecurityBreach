@@ -1,1 +1,14 @@
-{"entity": "Blind", "month": 12, "year": 2018, "summary": "Exposed elastic search instance", "tags": {"motive": "Hacktivism:Schadenfreude", "actor": "Hacktivist", "initial-access": "OWASP:A5"}, "links": ["https://techcrunch.com/2018/12/20/blind-anonymous-app-data-exposure/"]}
+{
+    "entity": "Blind",
+    "month": 12,
+    "year": 2018,
+    "summary": "Exposed elastic search instance",
+    "tags": {
+        "motive": "Hacktivism:Schadenfreude",
+        "actor": "Hacktivist",
+        "initial-access": "Broken Access Control"
+    },
+    "links": [
+        "https://techcrunch.com/2018/12/20/blind-anonymous-app-data-exposure/"
+    ]
+}

@@ -1,1 +1,14 @@
-{"entity": "East Tennessee State University", "month": 11, "year": 2018, "summary": "Credential theft originating from a phishing email", "tags": {"motive": "PII:?", "actor": "Criminal", "initial-access": "ATT&CK:T1078"}, "links": ["https://www.wvlt.tv/content/news/Data-breach-leaves-thousands-of-ETSU-employees-vulnerable--500860311.html"]}
+{
+    "entity": "East Tennessee State University",
+    "month": 11,
+    "year": 2018,
+    "summary": "Credential theft originating from a phishing email",
+    "tags": {
+        "motive": "PII:?",
+        "actor": "Criminal",
+        "initial-access": "Compromised Account"
+    },
+    "links": [
+        "https://www.wvlt.tv/content/news/Data-breach-leaves-thousands-of-ETSU-employees-vulnerable--500860311.html"
+    ]
+}

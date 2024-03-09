@@ -9,7 +9,7 @@
         "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1660",
+        "initial-access": "Phishing:SMS",
         "motive": "?"
     },
     "year": 2022

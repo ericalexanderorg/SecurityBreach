@@ -1,1 +1,15 @@
-{"entity": "Doordash", "month": 5, "year": 2019, "summary": "Customers, delivery workers and merchants had their information stolen by hackers", "tags": {"motive": "Hacktivism:?", "actor": "Hacktivist", "initial-access": "?", "impacted-user-count": 4900000}, "links": ["https://techcrunch.com/2019/09/26/doordash-data-breach/"]}
+{
+    "entity": "Doordash",
+    "month": 5,
+    "year": 2019,
+    "summary": "Customers, delivery workers and merchants had their information stolen by hackers",
+    "tags": {
+        "motive": "Hacktivism:?",
+        "actor": "Hacktivist",
+        "initial-access": "?",
+        "impacted-user-count": 4900000
+    },
+    "links": [
+        "https://techcrunch.com/2019/09/26/doordash-data-breach/"
+    ]
+}

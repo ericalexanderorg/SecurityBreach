@@ -1,1 +1,16 @@
-{"year": 2019, "month": 10, "entity": "over 2,000 Docker hosts", "summary": "A worm named Graboid carries out cryptojacking inside containers, spreads a few dockers hosts at a time, and mines Monero", "tags": {"impacted-user-count": 2.034, "cost-usd": null, "motive": "Money:Cryptocurrency", "initial-access": "OWASP:A2", "actor": "Criminal"}, "links": ["https://www.helpnetsecurity.com/2019/10/18/cryptojacking-worm-docker/"]}
+{
+    "year": 2019,
+    "month": 10,
+    "entity": "over 2,000 Docker hosts",
+    "summary": "A worm named Graboid carries out cryptojacking inside containers, spreads a few dockers hosts at a time, and mines Monero",
+    "tags": {
+        "impacted-user-count": 2.034,
+        "cost-usd": null,
+        "motive": "Money:Cryptocurrency",
+        "initial-access": "Broken Authentication and Session Management",
+        "actor": "Criminal"
+    },
+    "links": [
+        "https://www.helpnetsecurity.com/2019/10/18/cryptojacking-worm-docker/"
+    ]
+}

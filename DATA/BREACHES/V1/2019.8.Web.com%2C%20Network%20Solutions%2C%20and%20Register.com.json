@@ -1,1 +1,16 @@
-{"year": 2019, "month": 8, "entity": "Web.com, Network Solutions, and Register.com", "summary": "Network Solutions determined that a third-party gained unauthorized access to a limited number of our computer systems in late August 2019", "tags": {"impacted-user-count": 0, "cost-usd": 0, "motive": "PII:?", "actor": "?", "initial-access": "?"}, "links": ["https://www.bleepingcomputer.com/news/security/worlds-first-domain-registrar-network-solutions-discloses-breach/"]}
+{
+    "year": 2019,
+    "month": 8,
+    "entity": "Web.com, Network Solutions, and Register.com",
+    "summary": "Network Solutions determined that a third-party gained unauthorized access to a limited number of our computer systems in late August 2019",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/worlds-first-domain-registrar-network-solutions-discloses-breach/"
+    ]
+}

@@ -1,1 +1,14 @@
-{"entity": "ComplyRight", "month": 5, "year": 2018, "summary": "?", "tags": {"motive": "PII:?", "actor": "Criminal", "initial-access": "?"}, "links": ["https://krebsonsecurity.com/2018/07/human-resources-firm-complyright-breached/"]}
+{
+    "entity": "ComplyRight",
+    "month": 5,
+    "year": 2018,
+    "summary": "?",
+    "tags": {
+        "motive": "PII:?",
+        "actor": "Criminal",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://krebsonsecurity.com/2018/07/human-resources-firm-complyright-breached/"
+    ]
+}

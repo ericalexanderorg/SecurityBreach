@@ -9,7 +9,7 @@
         "actor": "Criminal",
         "cost-usd": 260000,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1193",
+        "initial-access": "Phishing:Attachment",
         "motive": "Hacktivism:Schadenfreude"
     },
     "year": 2020

@@ -1,1 +1,16 @@
-{"year": 2019, "month": 9, "entity": "Betty Jean Kerr People's Health Centers", "summary": "Credit card skimmer code on website", "tags": {"impacted-user-count": 152000, "cost-usd": 0, "actor": "Criminal", "initial-access": "?", "motive": "Money:Ransom"}, "links": ["https://threatpost.com/magecart-attack-skin-care-site/149580/"]}
+{
+    "year": 2019,
+    "month": 9,
+    "entity": "Betty Jean Kerr People's Health Centers",
+    "summary": "Credit card skimmer code on website",
+    "tags": {
+        "impacted-user-count": 152000,
+        "cost-usd": 0,
+        "actor": "Criminal",
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "links": [
+        "https://threatpost.com/magecart-attack-skin-care-site/149580/"
+    ]
+}

@@ -1,1 +1,14 @@
-{"entity": "Electrum", "month": 12, "year": 2018, "summary": "Phishing email tricked users into installing malware", "tags": {"motive": "Money:Cryptocurrency", "actor": "Criminal", "initial-access": "ATT&CK:T1193"}, "links": ["https://www.reddit.com/r/CryptoCurrency/comments/a9yji3/electrum_wallet_hacked_200_btc_stolen_so_far/"]}
+{
+    "entity": "Electrum",
+    "month": 12,
+    "year": 2018,
+    "summary": "Phishing email tricked users into installing malware",
+    "tags": {
+        "motive": "Money:Cryptocurrency",
+        "actor": "Criminal",
+        "initial-access": "Phishing:Attachment"
+    },
+    "links": [
+        "https://www.reddit.com/r/CryptoCurrency/comments/a9yji3/electrum_wallet_hacked_200_btc_stolen_so_far/"
+    ]
+}

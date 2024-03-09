@@ -1,1 +1,15 @@
-{"entity": "FastaBooking", "month": 6, "year": 2018, "summary": "Server compromise led to unauthorized personal data access", "tags": {"motive": "PII:?", "actor": "Criminal", "initial-access": "?"}, "links": ["https://www.bleepingcomputer.com/news/security/hundreds-of-hotels-affected-by-data-breach-at-hotel-booking-software-provider/", "https://www.darkreading.com/attacks-breaches/hundreds-of-hotels-hit-in-fastbooking-breach/d/d-id/1332162"]}
+{
+    "entity": "FastaBooking",
+    "month": 6,
+    "year": 2018,
+    "summary": "Server compromise led to unauthorized personal data access",
+    "tags": {
+        "motive": "PII:?",
+        "actor": "Criminal",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/hundreds-of-hotels-affected-by-data-breach-at-hotel-booking-software-provider/",
+        "https://www.darkreading.com/attacks-breaches/hundreds-of-hotels-hit-in-fastbooking-breach/d/d-id/1332162"
+    ]
+}

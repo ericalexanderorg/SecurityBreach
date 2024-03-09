@@ -1,1 +1,14 @@
-{"entity": "City of Ames", "month": 11, "year": 2018, "summary": "?", "tags": {"motive": "Money:Credit Card", "actor": "Criminal", "initial-access": "?"}, "links": ["https://www.desmoinesregister.com/story/news/2018/11/30/ames-information-data-breach-parking-ticket-online-payment-system-central-iowa-hacking-crime/2168241002/"]}
+{
+    "entity": "City of Ames",
+    "month": 11,
+    "year": 2018,
+    "summary": "?",
+    "tags": {
+        "motive": "Money:Credit Card",
+        "actor": "Criminal",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://www.desmoinesregister.com/story/news/2018/11/30/ames-information-data-breach-parking-ticket-online-payment-system-central-iowa-hacking-crime/2168241002/"
+    ]
+}

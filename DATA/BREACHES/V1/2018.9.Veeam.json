@@ -1,1 +1,16 @@
-{"year": 2018, "month": 9, "entity": "Veeam", "summary": "MongoDB exposed to the internet with no authentication", "tags": {"impacted-user-count": 440000000, "actor": "Hacktivist", "initial-access": "OWASP:A5", "motive": "Hacktivism:Press"}, "links": ["https://techcrunch.com/2018/09/11/veeam-security-lapse-leaked-over-440-million-email-addresses/", "https://www.linkedin.com/pulse/veeam-inadvertently-exposed-marketing-info-hundreds-its-bob-diachenko/"]}
+{
+    "year": 2018,
+    "month": 9,
+    "entity": "Veeam",
+    "summary": "MongoDB exposed to the internet with no authentication",
+    "tags": {
+        "impacted-user-count": 440000000,
+        "actor": "Hacktivist",
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:Press"
+    },
+    "links": [
+        "https://techcrunch.com/2018/09/11/veeam-security-lapse-leaked-over-440-million-email-addresses/",
+        "https://www.linkedin.com/pulse/veeam-inadvertently-exposed-marketing-info-hundreds-its-bob-diachenko/"
+    ]
+}

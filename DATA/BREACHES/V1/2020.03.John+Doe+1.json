@@ -9,7 +9,7 @@
         "actor": "Nation State:APT41",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A9",
+        "initial-access": "Missing Patch",
         "motive": "Espionage"
     },
     "year": 2020

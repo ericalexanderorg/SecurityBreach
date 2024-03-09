@@ -1,1 +1,17 @@
-{"entity": "Luscious", "links": ["https://threatpost.com/adult-content-site-exposed-personal-data-of-1m-users/147572/", "https://www.vpnmentor.com/blog/report-luscious-data-breach/"], "month": 8, "summary": "The personal information more than a million users of popular adult website Luscious, including emai", "tags": {"actor": "Hacktivist:vpnMentor", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "OWASP:A5", "motive": "Hacktivism:Press"}, "year": 2019}
+{
+    "entity": "Luscious",
+    "links": [
+        "https://threatpost.com/adult-content-site-exposed-personal-data-of-1m-users/147572/",
+        "https://www.vpnmentor.com/blog/report-luscious-data-breach/"
+    ],
+    "month": 8,
+    "summary": "The personal information more than a million users of popular adult website Luscious, including emai",
+    "tags": {
+        "actor": "Hacktivist:vpnMentor",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2019
+}

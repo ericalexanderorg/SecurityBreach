@@ -1,1 +1,14 @@
-{"entity": "Fedex", "month": 2, "year": 2018, "summary": "Exposed S3 bucket", "tags": {"motive": "Hacktivism:Press", "actor": "Hacktivist", "initial-access": "OWASP:A5"}, "links": ["http://www.zdnet.com/article/unsecured-server-exposes-fedex-customer-records/"]}
+{
+    "entity": "Fedex",
+    "month": 2,
+    "year": 2018,
+    "summary": "Exposed S3 bucket",
+    "tags": {
+        "motive": "Hacktivism:Press",
+        "actor": "Hacktivist",
+        "initial-access": "Broken Access Control"
+    },
+    "links": [
+        "http://www.zdnet.com/article/unsecured-server-exposes-fedex-customer-records/"
+    ]
+}

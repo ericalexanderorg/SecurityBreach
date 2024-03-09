@@ -1,1 +1,16 @@
-{"entity": "Palo Alto Networks", "links": ["https://securityboulevard.com/2019/11/palo-alto-networks-employee-data-breach-highlights-risks-posed-by-third-party-vendors/"], "month": 11, "summary": "3rd party vendor exposed PII of seven Palo Alto Networks employees online.", "tags": {"actor": "?", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "?", "motive": "PII:?"}, "year": 2019}
+{
+    "entity": "Palo Alto Networks",
+    "links": [
+        "https://securityboulevard.com/2019/11/palo-alto-networks-employee-data-breach-highlights-risks-posed-by-third-party-vendors/"
+    ],
+    "month": 11,
+    "summary": "3rd party vendor exposed PII of seven Palo Alto Networks employees online.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2019
+}

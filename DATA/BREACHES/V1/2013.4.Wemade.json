@@ -1,1 +1,16 @@
-{"year": 2013, "month": 4, "entity": "Wemade", "summary": "Video game entity targeted by nation state entity for financial gain", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Nation State:APT41", "initial-access": "?", "motive": "Money:Misc"}, "links": ["https://securelist.com/winnti-more-than-just-a-game/37029/"]}
+{
+    "year": 2013,
+    "month": 4,
+    "entity": "Wemade",
+    "summary": "Video game entity targeted by nation state entity for financial gain",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:APT41",
+        "initial-access": "?",
+        "motive": "Money:Misc"
+    },
+    "links": [
+        "https://securelist.com/winnti-more-than-just-a-game/37029/"
+    ]
+}

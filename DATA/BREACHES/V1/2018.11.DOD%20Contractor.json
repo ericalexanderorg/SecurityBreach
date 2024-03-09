@@ -1,1 +1,15 @@
-{"entity": "DOD Contractor", "month": 11, "year": 2018, "summary": "?", "tags": {"impacted-user-count": 30000, "motive": "?", "actor": "Criminal", "initial-access": "?"}, "links": ["https://www.forbes.com/sites/leemathews/2018/10/14/department-of-defense-data-breach-exposes-30000-employees/#231f93b91a6b"]}
+{
+    "entity": "DOD Contractor",
+    "month": 11,
+    "year": 2018,
+    "summary": "?",
+    "tags": {
+        "impacted-user-count": 30000,
+        "motive": "?",
+        "actor": "Criminal",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://www.forbes.com/sites/leemathews/2018/10/14/department-of-defense-data-breach-exposes-30000-employees/#231f93b91a6b"
+    ]
+}

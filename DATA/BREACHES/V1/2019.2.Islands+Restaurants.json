@@ -10,7 +10,7 @@
         "actor": "Nation State",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A5",
+        "initial-access": "Broken Access Control",
         "motive": "Money:Credit Card"
     },
     "year": 2019

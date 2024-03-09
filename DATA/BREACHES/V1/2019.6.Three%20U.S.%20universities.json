@@ -1,1 +1,16 @@
-{"year": 2019, "month": 6, "entity": "Three U.S. universities", "summary": "Unauthorized access to some of their employees' email accounts.", "tags": {"impacted-user-count": null, "motive": "PII:?", "actor": "?", "initial-access": "?", "cost-usd": null}, "links": ["https://www.bleepingcomputer.com/news/security/three-us-universities-disclose-data-breaches-over-two-day-span/"]}
+{
+    "year": 2019,
+    "month": 6,
+    "entity": "Three U.S. universities",
+    "summary": "Unauthorized access to some of their employees' email accounts.",
+    "tags": {
+        "impacted-user-count": null,
+        "motive": "PII:?",
+        "actor": "?",
+        "initial-access": "?",
+        "cost-usd": null
+    },
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/three-us-universities-disclose-data-breaches-over-two-day-span/"
+    ]
+}

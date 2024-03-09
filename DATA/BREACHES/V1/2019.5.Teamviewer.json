@@ -1,1 +1,17 @@
-{"year": 2019, "month": 5, "entity": "Teamviewer", "summary": "Remote access gained through unknown means and then Winnti malware used to pivot", "tags": {"impacted-user-count": null, "cost-usd": null, "actor": "Nation State:APT10", "motive": "Espionage", "initial-access": "?"}, "links": ["https://www.zdnet.com/article/chinese-cyberspies-breached-teamviewer-in-2016/", "https://www.spiegel.de/plus/teamviewer-wie-hacker-das-deutsche-vorzeige-start-up-ausspionierten-a-00000000-0002-0001-0000-000163955857"]}
+{
+    "year": 2019,
+    "month": 5,
+    "entity": "Teamviewer",
+    "summary": "Remote access gained through unknown means and then Winnti malware used to pivot",
+    "tags": {
+        "impacted-user-count": null,
+        "cost-usd": null,
+        "actor": "Nation State:APT10",
+        "motive": "Espionage",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://www.zdnet.com/article/chinese-cyberspies-breached-teamviewer-in-2016/",
+        "https://www.spiegel.de/plus/teamviewer-wie-hacker-das-deutsche-vorzeige-start-up-ausspionierten-a-00000000-0002-0001-0000-000163955857"
+    ]
+}

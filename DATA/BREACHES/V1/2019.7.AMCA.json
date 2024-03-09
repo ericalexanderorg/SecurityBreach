@@ -1,1 +1,17 @@
-{"entity": "AMCA", "links": ["https://www.scmagazine.com/home/security-news/data-breach/2-2-million-clinical-pathology-laboratories-patients-exposed-in-amca-breach/", "https://healthitsecurity.com/news/amca-files-chapter-11-after-data-breach-impacting-quest-labcorp"], "month": 7, "summary": "The list of companies impacted by the American Medical Collection Agency data breach has grown, with", "tags": {"actor": "Criminal", "cost-usd": 10000000, "impacted-user-count": 20000000, "initial-access": "?", "motive": "PII:?"}, "year": 2019}
+{
+    "entity": "AMCA",
+    "links": [
+        "https://www.scmagazine.com/home/security-news/data-breach/2-2-million-clinical-pathology-laboratories-patients-exposed-in-amca-breach/",
+        "https://healthitsecurity.com/news/amca-files-chapter-11-after-data-breach-impacting-quest-labcorp"
+    ],
+    "month": 7,
+    "summary": "The list of companies impacted by the American Medical Collection Agency data breach has grown, with",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 10000000,
+        "impacted-user-count": 20000000,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2019
+}

@@ -1,1 +1,14 @@
-{"entity": "Taskrabbit", "month": 4, "year": 2018, "summary": "Site defaced and emails sent to users", "tags": {"motive": "Hacktivism:Schadenfreude", "actor": "Hacktivist", "initial-access": "?"}, "links": ["https://www.cnet.com/news/taskrabbit-investigates-cybersecurity-incident-app-taken-down/"]}
+{
+    "entity": "Taskrabbit",
+    "month": 4,
+    "year": 2018,
+    "summary": "Site defaced and emails sent to users",
+    "tags": {
+        "motive": "Hacktivism:Schadenfreude",
+        "actor": "Hacktivist",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://www.cnet.com/news/taskrabbit-investigates-cybersecurity-incident-app-taken-down/"
+    ]
+}

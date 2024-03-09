@@ -1,1 +1,15 @@
-{"year": 2019, "month": 1, "entity": "Who was breached?", "summary": "Short summary of what happened", "tags": {"impacted-user-count": 124, "actor": "?", "initial-access": "?", "motive": "?"}, "links": ["https://m.signalvnoise.com/yesterdays-mass-login-attack-on-basecamp-is-another-reminder-to-protect-yourself/"]}
+{
+    "year": 2019,
+    "month": 1,
+    "entity": "Who was breached?",
+    "summary": "Short summary of what happened",
+    "tags": {
+        "impacted-user-count": 124,
+        "actor": "?",
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "links": [
+        "https://m.signalvnoise.com/yesterdays-mass-login-attack-on-basecamp-is-another-reminder-to-protect-yourself/"
+    ]
+}

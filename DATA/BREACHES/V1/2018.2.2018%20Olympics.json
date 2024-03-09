@@ -1,1 +1,17 @@
-{"year": 2018, "month": 2, "entity": "2018 Olympics", "summary": "Retaliation against the International Olympic Committee for banning the Russian team from the Winter Games due to doping violations", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Nation State:GRU", "initial-access": "?", "motive": "Political"}, "links": ["https://www.washingtonpost.com/world/national-security/russian-spies-hacked-the-olympics-and-tried-to-make-it-look-like-north-korea-did-it-us-officials-say/2018/02/24/44b5468e-18f2-11e8-92c9-376b4fe57ff7_story.html", "https://www.wired.com/story/sandworm-russia-cyberattack-links/"]}
+{
+    "year": 2018,
+    "month": 2,
+    "entity": "2018 Olympics",
+    "summary": "Retaliation against the International Olympic Committee for banning the Russian team from the Winter Games due to doping violations",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:GRU",
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "links": [
+        "https://www.washingtonpost.com/world/national-security/russian-spies-hacked-the-olympics-and-tried-to-make-it-look-like-north-korea-did-it-us-officials-say/2018/02/24/44b5468e-18f2-11e8-92c9-376b4fe57ff7_story.html",
+        "https://www.wired.com/story/sandworm-russia-cyberattack-links/"
+    ]
+}

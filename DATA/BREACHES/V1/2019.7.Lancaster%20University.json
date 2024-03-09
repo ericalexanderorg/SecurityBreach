@@ -1,1 +1,16 @@
-{"entity": "Lancaster University", "links": ["https://www.itpro.co.uk/security/34070/lancaster-university-hit-by-double-data-breach"], "month": 7, "summary": "Personal information belonging to students has been stolen.", "tags": {"actor": "Criminal", "cost-usd": 0, "impacted-user-count": 0, "initial-access": "ATT&CK:T1192", "motive": "Money:Misc"}, "year": 2019}
+{
+    "entity": "Lancaster University",
+    "links": [
+        "https://www.itpro.co.uk/security/34070/lancaster-university-hit-by-double-data-breach"
+    ],
+    "month": 7,
+    "summary": "Personal information belonging to students has been stolen.",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Phishing:Link",
+        "motive": "Money:Misc"
+    },
+    "year": 2019
+}

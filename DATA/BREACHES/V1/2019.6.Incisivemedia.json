@@ -1,1 +1,16 @@
-{"year": 2019, "month": 6, "entity": "Incisivemedia", "summary": "An unprotected database server exposed user records", "tags": {"impacted-user-count": 330000, "cost-usd": null, "actor": "?", "initial-access": "OWASP:A5", "motive": "PII:?"}, "links": ["https://www.reddit.com/r/netsec/comments/bty412/investmentweekcouk_left_330k_user_records_exposed/"]}
+{
+    "year": 2019,
+    "month": 6,
+    "entity": "Incisivemedia",
+    "summary": "An unprotected database server exposed user records",
+    "tags": {
+        "impacted-user-count": 330000,
+        "cost-usd": null,
+        "actor": "?",
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "links": [
+        "https://www.reddit.com/r/netsec/comments/bty412/investmentweekcouk_left_330k_user_records_exposed/"
+    ]
+}

@@ -1,1 +1,14 @@
-{"entity": "Quora", "month": 12, "year": 2018, "summary": "Breach notification that data was accessed. No further details", "tags": {"motive": "?", "actor": "?", "initial-access": "?"}, "links": ["https://www.fraud.org/quora_2018"]}
+{
+    "entity": "Quora",
+    "month": 12,
+    "year": 2018,
+    "summary": "Breach notification that data was accessed. No further details",
+    "tags": {
+        "motive": "?",
+        "actor": "?",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://www.fraud.org/quora_2018"
+    ]
+}

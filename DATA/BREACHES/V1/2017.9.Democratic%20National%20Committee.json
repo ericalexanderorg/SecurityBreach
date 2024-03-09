@@ -1,1 +1,17 @@
-{"year": 2017, "month": 9, "entity": "Democratic National Committee", "summary": "Five entire mailboxes were stolen, with many of the accounts being personal Gmail mailboxes", "tags": {"impacted-user-count": 0, "cost-usd": 0, "actor": "Nation State:GRU", "initial-access": "ATT&CK:T1192", "motive": "Political"}, "links": ["https://www.theguardian.com/world/2017/may/08/macron-hackers-linked-to-russian-affiliated-group-behind-us-attack", "https://www.wired.com/story/sandworm-russia-cyberattack-links/"]}
+{
+    "year": 2017,
+    "month": 9,
+    "entity": "Democratic National Committee",
+    "summary": "Five entire mailboxes were stolen, with many of the accounts being personal Gmail mailboxes",
+    "tags": {
+        "impacted-user-count": 0,
+        "cost-usd": 0,
+        "actor": "Nation State:GRU",
+        "initial-access": "Phishing:Link",
+        "motive": "Political"
+    },
+    "links": [
+        "https://www.theguardian.com/world/2017/may/08/macron-hackers-linked-to-russian-affiliated-group-behind-us-attack",
+        "https://www.wired.com/story/sandworm-russia-cyberattack-links/"
+    ]
+}

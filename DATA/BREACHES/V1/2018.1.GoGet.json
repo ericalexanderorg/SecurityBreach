@@ -1,1 +1,14 @@
-{"entity": "GoGet", "month": 1, "year": 2018, "summary": "Unauthorized system access", "tags": {"motive": "?", "actor": "?", "initial-access": "?"}, "links": ["https://www.goget.com.au/notification/"]}
+{
+    "entity": "GoGet",
+    "month": 1,
+    "year": 2018,
+    "summary": "Unauthorized system access",
+    "tags": {
+        "motive": "?",
+        "actor": "?",
+        "initial-access": "?"
+    },
+    "links": [
+        "https://www.goget.com.au/notification/"
+    ]
+}

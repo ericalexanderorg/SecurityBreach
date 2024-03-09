@@ -1,1 +1,14 @@
-{"entity": "Panera", "month": 4, "year": 2018, "summary": "No access control on API allowed retreiving customer data", "tags": {"motive": "Hacktivism:?", "actor": "Hacktivist", "initial-access": "OWASP:A5"}, "links": ["https://krebsonsecurity.com/2018/04/panerabread-com-leaks-millions-of-customer-records/"]}
+{
+    "entity": "Panera",
+    "month": 4,
+    "year": 2018,
+    "summary": "No access control on API allowed retreiving customer data",
+    "tags": {
+        "motive": "Hacktivism:?",
+        "actor": "Hacktivist",
+        "initial-access": "Broken Access Control"
+    },
+    "links": [
+        "https://krebsonsecurity.com/2018/04/panerabread-com-leaks-millions-of-customer-records/"
+    ]
+}

@@ -1,1 +1,14 @@
-{"entity": "HSBC", "month": 11, "year": 2018, "summary": "Credential stuffing attack", "tags": {"motive": "?", "actor": "?", "initial-access": "ATT&CK:T1078"}, "links": ["https://www.americanbanker.com/news/hsbc-suffers-data-breach-on-small-number-of-online-accounts"]}
+{
+    "entity": "HSBC",
+    "month": 11,
+    "year": 2018,
+    "summary": "Credential stuffing attack",
+    "tags": {
+        "motive": "?",
+        "actor": "?",
+        "initial-access": "Compromised Account"
+    },
+    "links": [
+        "https://www.americanbanker.com/news/hsbc-suffers-data-breach-on-small-number-of-online-accounts"
+    ]
+}
