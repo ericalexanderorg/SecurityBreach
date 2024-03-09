@@ -1,0 +1,17 @@
+{
+    "entity": "EasyPark",
+    "links": [
+        "https://www.easypark.com/en-nl/comm",
+        "https://www.theguardian.com/technology/2023/dec/26/hackers-steal-customer-data-europe-parking-app-easypark-ringgo-parkmobile"
+    ],
+    "month": 12,
+    "summary": "Hacker Sells Records Allegedly from 21.1 Million EasyPark Customers",
+    "tags": {
+        "actor": "Criminal:hameraib",
+        "cost-usd": 0,
+        "impacted-user-count": 21000000,
+        "initial-access": "?",
+        "motive": "Money:Sale on dark web"
+    },
+    "year": 2023
+}
