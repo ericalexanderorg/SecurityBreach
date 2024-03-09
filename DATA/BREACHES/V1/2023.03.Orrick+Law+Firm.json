@@ -1,0 +1,17 @@
+{
+    "entity": "Orrick Law Firm",
+    "links": [
+        "https://www.reddit.com/r/cybersecurity/comments/18zzr7k/massive_data_breach_unveiled_by_orrick_law_firm/",
+        "https://www.securityweek.com/law-firm-orrick-reveals-extensive-data-breach-over-half-a-million-affected/"
+    ],
+    "month": 3,
+    "summary": "Your request has been blocked due to a network policy. Try logging in or creating an account here to",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 600000,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2023
+}
