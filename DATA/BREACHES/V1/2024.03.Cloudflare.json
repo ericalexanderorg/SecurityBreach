@@ -4,13 +4,13 @@
         "https://www.bleepingcomputer.com/news/security/cloudflare-hacked-using-auth-tokens-stolen-in-okta-attack/"
     ],
     "month": 3,
-    "summary": "Cloudflare disclosed today that its internal Atlassian server was breached by a 'nation state' attac",
+    "summary": "Cloudflare compromised using stolen Okta authentication tokens.",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Nation State",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Ransom"
+        "initial-access": "Compromised Account",
+        "motive": "?"
     },
     "year": 2024
 }
