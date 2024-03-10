@@ -3,14 +3,14 @@
     "links": [
         "https://mailchimp.com/newsroom/january-2023-security-incident/"
     ],
-    "month": 3,
-    "summary": "Updated 1/17/23 at 8:00 p.m. ET: At Mailchimp, we take the security of our users' data seriously, an",
+    "month": 1,
+    "summary": "Access to internal tools obtained through phishing",
     "tags": {
         "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "Compromised Account",
-        "motive": "PII:?"
+        "initial-access": "Phishing",
+        "motive": "?"
     },
-    "year": 2024
+    "year": 2023
 }
