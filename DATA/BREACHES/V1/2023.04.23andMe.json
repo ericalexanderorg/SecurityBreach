@@ -9,8 +9,8 @@
         "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 6900000,
-        "initial-access": "?",
-        "motive": "PII:?"
+        "initial-access": "Compromised Account",
+        "motive": "Money:Data Sold"
     },
     "year": 2023
 }
