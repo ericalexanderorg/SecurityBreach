@@ -1,0 +1,16 @@
+{
+    "entity": "Microsoft",
+    "links": [
+        "https://www.cyberark.com/resources/blog/apt29s-attack-on-microsoft-tracking-cozy-bears-footprints"
+    ],
+    "month": 1,
+    "summary": "Acccess gained through a legacy, non-production test tenant account through a password spray attack.",
+    "tags": {
+        "actor": "Nation State:Cozy Bear",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Compromised Account",
+        "motive": "Espionage"
+    },
+    "year": 2024
+}
