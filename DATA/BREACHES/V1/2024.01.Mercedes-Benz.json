@@ -1,0 +1,16 @@
+{
+    "entity": "Mercedes-Benz",
+    "links": [
+        "https://techcrunch.com/2024/01/26/mercedez-benz-token-exposed-source-code-github/"
+    ],
+    "month": 1,
+    "summary": "A private key was found online that provided access to source code and additional secrets/keys",
+    "tags": {
+        "actor": "Hacktivism",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Compromised Account",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2024
+}
