@@ -1,0 +1,16 @@
+{
+    "entity": "Spoutible",
+    "links": [
+        "https://www.troyhunt.com/how-spoutibles-leaky-api-spurted-out-a-deluge-of-personal-data/"
+    ],
+    "month": 3,
+    "summary": "Classic case of putting someone else's username in the URL and getting back data about them",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2024
+}
