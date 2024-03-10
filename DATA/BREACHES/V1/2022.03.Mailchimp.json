@@ -1,0 +1,16 @@
+{
+    "entity": "Mailchimp ",
+    "links": [
+        "https://www.theverge.com/2022/4/4/23010317/hackers-mailchimp-trezor-cryptocurrency-phishing"
+    ],
+    "month": 3,
+    "summary": "API ERROR: THE REQUESTED PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2024
+}
