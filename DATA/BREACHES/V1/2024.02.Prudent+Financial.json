@@ -1,0 +1,17 @@
+{
+    "entity": "Prudent Financial",
+    "links": [
+        "https://www.scmagazine.com/brief/prudential-financial-loandepot-attacks-admitted-by-alphv-blackcat",
+        "https://www.bleepingcomputer.com/news/security/prudential-financial-breached-in-data-theft-cyberattack/"
+    ],
+    "month": 2,
+    "summary": "The breach exposed administrative and user data from specific IT systems and some employee and contractor accounts",
+    "tags": {
+        "actor": "Criminal:ALPHV",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
