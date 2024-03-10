@@ -3,13 +3,13 @@
     "links": [
         "https://www.cyberark.com/resources/blog/apt29s-attack-on-microsoft-tracking-cozy-bears-footprints"
     ],
-    "month": 3,
-    "summary": "Today's blog post sheds light on who exactly APT29 is, its motives, what tactics it continues to use",
+    "month": 1,
+    "summary": "Acccess gained through a legacy, non-production test tenant account through a password spray attack.",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Nation State:Cozy Bear",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "Compromised Account",
         "motive": "Espionage"
     },
     "year": 2024
