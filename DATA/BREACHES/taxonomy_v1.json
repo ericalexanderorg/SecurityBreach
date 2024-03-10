@@ -27,6 +27,10 @@
                 "link": "https://attack.mitre.org/techniques/T1326/",
                 "alias": "ATT&CK:T1326"
             },
+            "Phishing": {
+                "link": "TBD",
+                "alias": null
+            },
             "Phishing:Attachment": {
                 "link": "https://attack.mitre.org/techniques/T1193/",
                 "alias": "ATT&CK:T1193"
