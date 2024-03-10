@@ -1,0 +1,17 @@
+{
+    "entity": "Dutch Cyber Intelligence",
+    "links": [
+        "https://news.ycombinator.com/item?id=39277525",
+        "https://www.defensie.nl/actueel/nieuws/2024/02/06/mivd-onthult-werkwijze-chinese-spionage-in-nederland"
+    ],
+    "month": 2,
+    "summary": "MIVD reveals Chinese espionage methods in the Netherlands",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2024
+}
