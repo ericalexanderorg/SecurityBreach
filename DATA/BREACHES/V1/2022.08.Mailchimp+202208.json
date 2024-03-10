@@ -1,0 +1,16 @@
+{
+    "entity": "Mailchimp 202208",
+    "links": [
+        "https://mailchimp.com/newsroom/august-2022-security-incident/"
+    ],
+    "month": 8,
+    "summary": "Internal tools accessed after a social engineer attack.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Phishing",
+        "motive": "?"
+    },
+    "year": 2022
+}
