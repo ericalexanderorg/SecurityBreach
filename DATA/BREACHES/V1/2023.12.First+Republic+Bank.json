@@ -1,0 +1,17 @@
+{
+    "entity": "First Republic Bank",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/cloud-engineer-gets-2-years-for-wiping-ex-employers-code-repos/",
+        "https://www.justice.gov/usao-ndca/pr/disgruntled-cloud-engineer-sentenced-two-years-prison-intentionally-damaging-his"
+    ],
+    "month": 12,
+    "summary": "Disgruntled Cloud Engineer Sentenced To Two Years In Prison For Intentionally Damaging His Former Employer’s Computer Network After He Was Fired",
+    "tags": {
+        "actor": "Insider",
+        "cost-usd": 569000,
+        "impacted-user-count": 0,
+        "initial-access": "Insider",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2023
+}
