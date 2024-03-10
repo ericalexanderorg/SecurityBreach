@@ -1,0 +1,17 @@
+{
+    "entity": "AnyDesk",
+    "links": [
+        "https://techcrunch.com/2024/02/05/remote-access-giant-anydesk-resets-passwords-and-revokes-certificates-after-hack/",
+        "https://www.bleepingcomputer.com/news/security/anydesk-says-hackers-breached-its-production-servers-reset-passwords/"
+    ],
+    "month": 1,
+    "summary": "hackers breached its production servers, reset passwords",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2024
+}
