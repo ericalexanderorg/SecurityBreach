@@ -1,0 +1,16 @@
+{
+    "entity": "Multiple breaches 202403001",
+    "links": [
+        "https://www.infostealers.com/article/top-5-breaches-caused-by-infostealer-infections/"
+    ],
+    "month": 3,
+    "summary": "Discusses relation to infostealer malware and the orange, circleci, airbus, and other breaches.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2024
+}
