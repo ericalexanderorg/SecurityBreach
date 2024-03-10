@@ -1,18 +1,13 @@
 import {
-    Show,
     Filter,
     TextInput,
     List,
     Datagrid,
     TextField,
-    ArrayField,
-    UrlField,
+    FunctionField,
 } from 'react-admin';
-
-
-const inlineInputStyle = {
-    inlineBlock: { display: 'inline-flex', marginRight: '1rem' },
-};
+import { Link } from 'react-router-dom';
+import { OpenInNew as OpenInNewIcon } from '@mui/icons-material';
 
 const BreachFilter = (props) => (
     <Filter {...props}>
@@ -32,7 +27,14 @@ export const BreachList = props => (
             <TextField source="tags.motive" label="Motive"/>
             <TextField source="tags.impacted-user-count" label="Impacted User Count"/>
             <TextField source="tags.cost-usd" label="USD Cost"/>
-            <UrlField source="links" label="Links"/>
+            <FunctionField
+                label="More Info"
+                render={record => (
+                    <Link to={record.links.length > 0 ? record.links[0] : '/'} target="_blank" rel="noopener noreferrer">
+                        <OpenInNewIcon />
+                    </Link>
+                )}
+            />
         </Datagrid>
     </List>
 );
