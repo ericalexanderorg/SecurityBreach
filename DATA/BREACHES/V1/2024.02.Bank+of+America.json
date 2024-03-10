@@ -3,14 +3,14 @@
     "links": [
         "https://www.bleepingcomputer.com/news/security/bank-of-america-warns-customers-of-data-breach-after-vendor-hack/"
     ],
-    "month": 3,
-    "summary": "Bank of America is warning customers of a data breach exposing their personal information after one ",
+    "month": 2,
+    "summary": "Downstream from a Infosys McCamish Systems (IMS) breach",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 57028,
         "initial-access": "?",
-        "motive": "PII:?"
+        "motive": "?"
     },
     "year": 2024
 }
