@@ -1,0 +1,16 @@
+{
+    "entity": "Multiple ",
+    "links": [
+        "https://socket.dev/blog/lockbit-cyber-crime-unicorn-billions-in-stolen-funds"
+    ],
+    "month": 2,
+    "summary": "Lockbit take down and fund review",
+    "tags": {
+        "actor": "Criminal:Lockbit",
+        "cost-usd": 1000000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
