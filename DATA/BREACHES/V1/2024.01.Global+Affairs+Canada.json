@@ -1,0 +1,16 @@
+{
+    "entity": "Global Affairs Canada",
+    "links": [
+        "https://www.cbc.ca/news/politics/global-affairs-security-breach-1.7099290"
+    ],
+    "month": 1,
+    "summary": "Data breach at Global Affairs Canada affecting staff email and internal network.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Phishing",
+        "motive": "?"
+    },
+    "year": 2024
+}
