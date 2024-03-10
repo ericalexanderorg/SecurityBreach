@@ -1,0 +1,16 @@
+{
+    "entity": "Cloudflare",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/cloudflare-hacked-using-auth-tokens-stolen-in-okta-attack/"
+    ],
+    "month": 3,
+    "summary": "Cloudflare compromised using stolen Okta authentication tokens.",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Compromised Account",
+        "motive": "?"
+    },
+    "year": 2024
+}
