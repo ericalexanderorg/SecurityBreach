@@ -1,0 +1,16 @@
+{
+    "entity": "Mailchimp 202301",
+    "links": [
+        "https://mailchimp.com/newsroom/january-2023-security-incident/"
+    ],
+    "month": 1,
+    "summary": "Access to internal tools obtained through phishing",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Phishing",
+        "motive": "?"
+    },
+    "year": 2023
+}
