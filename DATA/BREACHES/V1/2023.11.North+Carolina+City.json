@@ -1,0 +1,17 @@
+{
+    "entity": "North Carolina City",
+    "links": [
+        "https://www.cyberdaily.co.uk/employee-data-leaked-in-north-carolina-city-due-to-thanksgiving-cyber-attack/",
+        "https://www.hendersonvillenc.gov/news/city-manager-cybersecurity-statement"
+    ],
+    "month": 11,
+    "summary": "Hendersonville, a city in North Carolina, has faced a significant cyberattack",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2023
+}
