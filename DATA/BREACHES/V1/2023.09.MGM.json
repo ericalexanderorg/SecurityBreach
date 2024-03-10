@@ -1,0 +1,18 @@
+{
+    "entity": "MGM",
+    "links": [
+        "https://www.kolide.com/blog/what-everyone-got-wrong-about-the-mgm-hack",
+        "https://www.engadget.com/hackers-claim-it-only-took-a-10-minute-phone-call-to-shutdown-mgm-resorts-143147493.html",
+        "https://www.cnn.com/2023/10/05/business/mgm-100-million-hit-data-breach/index.html"
+    ],
+    "month": 9,
+    "summary": "Social engineering call led to a loss of availability and unauthorized access to data.",
+    "tags": {
+        "actor": "Criminal:ALPHV/Blackcat",
+        "cost-usd": 100000000,
+        "impacted-user-count": 0,
+        "initial-access": "Phishing:Voice",
+        "motive": "Money:Ransom"
+    },
+    "year": 2023
+}
