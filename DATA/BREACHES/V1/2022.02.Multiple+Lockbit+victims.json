@@ -1,0 +1,16 @@
+{
+    "entity": "Multiple Lockbit Victims",
+    "links": [
+        "https://www.scmagazine.com/news/lockbit-returns-after-takedown-with-new-extortion-threats"
+    ],
+    "month": 2,
+    "summary": "LockBit is back extorting victims on the dark web a week after a major international law enforcement",
+    "tags": {
+        "actor": "Criminal:Lockbit",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
