@@ -1,16 +1,16 @@
 {
-    "entity": "Multiple - Ivanti patch",
+    "entity": "Ivanti Connect Secure and Ivanti Policy Secure customers",
     "links": [
         "https://www.cisa.gov/news-events/directives/ed-24-01-mitigate-ivanti-connect-secure-and-ivanti-policy-secure-vulnerabilities"
     ],
-    "month": 3,
-    "summary": "CISA has observed widespread and active exploitation of vulnerabilities in Ivanti Connect Secure and",
+    "month": 1,
+    "summary": "Mitigate vulnerabilities in Ivanti Connect Secure and Ivanti Policy Secure solutions.",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
-        "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Ransom"
+        "impacted-user-count": 1,
+        "initial-access": "Injection",
+        "motive": "?"
     },
     "year": 2024
 }
