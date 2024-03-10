@@ -1,0 +1,16 @@
+{
+    "entity": "Mailchimp 202208",
+    "links": [
+        "https://mailchimp.com/newsroom/august-2022-security-incident/"
+    ],
+    "month": 3,
+    "summary": "At Mailchimp, the security of our users' data is our top priority. On August 8, our Security team be",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Compromised Account",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
