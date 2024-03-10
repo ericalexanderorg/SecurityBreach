@@ -31,6 +31,10 @@
                 "link": "TBD",
                 "alias": null
             },
+            "Phishing:Deep Fake": {
+                "link": "TBD",
+                "alias": null
+            },
             "Phishing:Attachment": {
                 "link": "https://attack.mitre.org/techniques/T1193/",
                 "alias": "ATT&CK:T1193"
