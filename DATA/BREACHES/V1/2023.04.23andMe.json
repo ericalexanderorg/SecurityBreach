@@ -3,14 +3,14 @@
     "links": [
         "https://techcrunch.com/2024/01/25/23andme-admits-it-didnt-detect-cyberattacks-for-months/"
     ],
-    "month": 3,
+    "month": 4,
     "summary": "We, TechCrunch, are part of the Yahoo family of brandsThe sites and apps that we own and operate, in",
     "tags": {
         "actor": "Criminal",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 6900000,
         "initial-access": "?",
         "motive": "PII:?"
     },
-    "year": 2024
+    "year": 2023
 }
