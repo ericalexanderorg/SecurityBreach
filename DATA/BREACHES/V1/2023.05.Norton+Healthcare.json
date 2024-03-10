@@ -1,0 +1,17 @@
+{
+    "entity": "Norton Healthcare",
+    "links": [
+        "https://moonlock.com/norton-healthcare-breach-2",
+        "https://www.lpm.org/news/2023-05-12/norton-healthcare-in-louisville-has-notified-law-enforcement-after-a-cybersecurity-problem-this-week"
+    ],
+    "month": 5,
+    "summary": "It has been about seven months since Norton Healthcare - a leading United States healthcare organiza",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2023
+}
