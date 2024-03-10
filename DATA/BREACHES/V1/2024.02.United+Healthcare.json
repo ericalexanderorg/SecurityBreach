@@ -1,0 +1,17 @@
+{
+    "entity": "United Healthcare",
+    "links": [
+        "https://www.cnn.com/2024/02/23/business/cyberattack-leaves-patients-facing-the-choice-to-pay-or-wait-for-their-prescriptions/index.html",
+        "https://www.usnews.com/news/health-news/articles/2024-03-04/explainer-what-to-know-about-the-change-healthcare-cyberattack"
+    ],
+    "month": 3,
+    "summary": "We discovered a threat actor gained access to one of our Change Healthcare environments",
+    "tags": {
+        "actor": "Criminal:ALPHV/BlackCat",
+        "cost-usd": 22000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
