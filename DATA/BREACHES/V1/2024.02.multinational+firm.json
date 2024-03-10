@@ -1,16 +1,17 @@
 {
-    "entity": "multinational firm",
+    "entity": "Multinational firm",
     "links": [
         "https://edition.cnn.com/2024/02/04/asia/deepfake-cfo-scam-hong-kong-intl-hnk/index.html"
     ],
     "month": 2,
-    "summary": "$25 million dollar loss after deepfake call with the CFO",
+    "summary": "Deepfake video call cost $25M in Hong Kong",
     "tags": {
-        "actor": "?",
-        "cost-usd": 0,
-        "impacted-user-count": 0,
+        "actor": "Criminal",
+        "cost-usd": 25000000,
+        "impacted-user-count": 1,
         "initial-access": "Phishing:Deep Fake",
-        "motive": "?"
+        "motive": "Money:Bank Transfer"
     },
     "year": 2024
 }
+
