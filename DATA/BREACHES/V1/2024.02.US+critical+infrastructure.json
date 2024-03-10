@@ -1,0 +1,16 @@
+{
+    "entity": "US critical infrastructure",
+    "links": [
+        "https://www.axios.com/2024/02/07/china-volt-typhoon-critical-cyberattacks"
+    ],
+    "month": 2,
+    "summary": "China-backed hackers have had access to some major U.S. critical infrastructure.",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2024
+}
