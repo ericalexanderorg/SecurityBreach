@@ -1,0 +1,16 @@
+{
+    "entity": "2021.02.Jane Doe",
+    "links": [
+        "https://www.justice.gov/usao-cdca/pr/sim-swapper-sentenced-eight-years-prison-campaign-fraud-and-deception-including"
+    ],
+    "month": 2,
+    "summary": "Sim swap attack used to take over Instagram accounts",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 1218526,
+        "impacted-user-count": 0,
+        "initial-access": "SIM Card Swap",
+        "motive": "Money:Misc"
+    },
+    "year": 2021
+}
