@@ -1,0 +1,16 @@
+{
+    "entity": "ERG",
+    "links": [
+        "https://securityaffairs.co/wordpress/120841/cyber-crime/erg-lockbit-2-0-ransomware.html?utm_source=rss"
+    ],
+    "month": 8,
+    "summary": "ERG SPA, an Italian energy company, reports a minor impact on its operations after the recent ransom",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
