@@ -1,0 +1,16 @@
+{
+    "entity": "Terrorist Screening Center",
+    "links": [
+        "https://threatpost.com/terrorist-watchlist-exposed-online/168737/"
+    ],
+    "month": 8,
+    "summary": "A researcher has revealed the discovery of a federal terrorist watchlist that includes 1.9 million r",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 1900000,
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2021
+}
