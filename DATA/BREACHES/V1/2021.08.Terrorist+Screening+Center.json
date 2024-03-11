@@ -8,8 +8,8 @@
     "tags": {
         "actor": "Hacktivist",
         "cost-usd": 0,
-        "impacted-user-count": 0,
-        "initial-access": "OWASP:A5",
+        "impacted-user-count": 1900000,
+        "initial-access": "Broken Access Control",
         "motive": "Hacktivism:Press"
     },
     "year": 2021
