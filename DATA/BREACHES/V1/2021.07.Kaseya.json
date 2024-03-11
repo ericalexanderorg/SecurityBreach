@@ -6,7 +6,7 @@
     "month": 7,
     "summary": "Huntress Labs said the hack targeted Florida-based IT company Kaseya before spreading through corpor",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Criminal:REvil",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
