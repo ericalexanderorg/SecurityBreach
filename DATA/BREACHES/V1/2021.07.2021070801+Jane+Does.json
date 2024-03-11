@@ -6,8 +6,8 @@
     "month": 7,
     "summary": "In just the past month, it extracted an $11 million payment from the world's largest meatpacking com",
     "tags": {
-        "actor": "Criminal",
-        "cost-usd": 1000000,
+        "actor": "Criminal:Revil",
+        "cost-usd": 16000000,
         "impacted-user-count": 0,
         "initial-access": "?",
         "motive": "Money:Ransom"
