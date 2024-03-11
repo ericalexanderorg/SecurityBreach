@@ -1,0 +1,16 @@
+{
+    "entity": "Eskenazi Health",
+    "links": [
+        "https://www.indystar.com/story/news/health/2021/08/04/eskenazi-health-ransomware-attack/5489509001/"
+    ],
+    "month": 8,
+    "summary": "Eskenazi Health went on diversion, meaning all incoming ambulances were routed to other hospitals, a",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
