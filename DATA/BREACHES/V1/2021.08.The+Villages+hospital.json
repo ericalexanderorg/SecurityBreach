@@ -1,0 +1,16 @@
+{
+    "entity": "The Villages hospital",
+    "links": [
+        "https://www.villages-news.com/2021/08/04/the-villages-hospital-admits-it-contacted-law-enforcement-in-ransomware-attack/"
+    ],
+    "month": 8,
+    "summary": "UF Health-The Villages Hospital is now admitting it contacted law enforcement in the wake of the Mem",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
