@@ -1,0 +1,16 @@
+{
+    "entity": "Italian health portal",
+    "links": [
+        "https://www.msspalert.com/cybersecurity-breaches-and-attacks/ransomware/ransomexx-hits-italy/"
+    ],
+    "month": 8,
+    "summary": "Hackers have infiltrated an Italian health portal used to schedule COVID-19 vaccination appointments",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
