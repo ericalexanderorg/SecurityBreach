@@ -4,13 +4,13 @@
         "https://www.ksla.com/2021/07/15/texarkana-water-utilities-recovers-ransomware-attack-customers-encouraged-resume-payments/"
     ],
     "month": 7,
-    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "summary": "City and county employees locked out of their computers, but the attacker has not demanded money or threatened to publish personal information.",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1078",
-        "motive": "Political"
+        "initial-access": "?",
+        "motive": "Money:Ransom"
     },
     "year": 2021
 }
