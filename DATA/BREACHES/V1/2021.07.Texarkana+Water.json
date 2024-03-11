@@ -1,0 +1,16 @@
+{
+    "entity": "Texarkana Water",
+    "links": [
+        "https://www.ksla.com/2021/07/15/texarkana-water-utilities-recovers-ransomware-attack-customers-encouraged-resume-payments/"
+    ],
+    "month": 7,
+    "summary": "City and county employees locked out of their computers, but the attacker has not demanded money or threatened to publish personal information.",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
