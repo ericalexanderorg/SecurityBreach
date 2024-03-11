@@ -1,0 +1,16 @@
+{
+    "entity": "Surrey Schools",
+    "links": [
+        "https://www.peacearchnews.com/news/more-students-involved-in-surrey-schools-data-breach-sins-posted-publicly/"
+    ],
+    "month": 8,
+    "summary": "The Surrey School District has confirmed the number of students whose personal data, including socia",
+    "tags": {
+        "actor": "Hacktivism",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2021
+}
