@@ -3,14 +3,14 @@
     "links": [
         "https://citizenlab.ca/2021/08/bahrain-hacks-activists-with-nso-group-zero-click-iphone-exploits/"
     ],
-    "month": 8,
+    "month": 6,
     "summary": "Some of the activists were hacked using two zero-click iMessage exploits: the 2020 KISMET exploit an",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Nation State:Bahraini government",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Espionage"
+        "motive": "Political"
     },
-    "year": 2021
+    "year": 2020
 }
