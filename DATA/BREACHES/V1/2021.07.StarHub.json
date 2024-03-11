@@ -3,12 +3,12 @@
     "links": [
         "https://telecoms.com/510854/starhub-the-latest-to-suffer-customer-data-breach/"
     ],
-    "month": 8,
+    "month": 7,
     "summary": "The Singapore telco detected a data dump on a third-party site containing personal information of mo",
     "tags": {
         "actor": "Criminal",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 57191,
         "initial-access": "?",
         "motive": "PII:?"
     },
