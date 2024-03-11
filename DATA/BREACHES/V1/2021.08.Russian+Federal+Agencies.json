@@ -4,9 +4,9 @@
         "https://thehackernews.com/2021/08/russian-federal-agencies-were-attacked.html"
     ],
     "month": 8,
-    "summary": "An amalgam of multiple state-sponsored threat groups from China may have been behind a string of tar",
+    "summary": "Webdav-O used in targeted attacks against Russian federal executive authorities",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Nation State:TaskMasters",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
