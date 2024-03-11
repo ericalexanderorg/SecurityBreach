@@ -1,0 +1,16 @@
+{
+    "entity": "WildWorks",
+    "links": [
+        "https://threatpost.com/animal-jam-hack-data-breach/161177/"
+    ],
+    "month": 11,
+    "summary": "Animal Jam, just the latest in a string of attacks on gaming apps, has adopted a transparent communi",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Misc"
+    },
+    "year": 2020
+}
