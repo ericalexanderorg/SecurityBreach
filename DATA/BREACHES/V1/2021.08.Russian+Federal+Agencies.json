@@ -1,0 +1,16 @@
+{
+    "entity": "Russian Federal Agencies",
+    "links": [
+        "https://thehackernews.com/2021/08/russian-federal-agencies-were-attacked.html"
+    ],
+    "month": 8,
+    "summary": "Webdav-O used in targeted attacks against Russian federal executive authorities",
+    "tags": {
+        "actor": "Nation State:TaskMasters",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
