@@ -6,11 +6,11 @@
     "month": 8,
     "summary": "The Surrey School District has confirmed the number of students whose personal data, including socia",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Hacktivism",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Ransom"
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:Schadenfreude"
     },
     "year": 2021
 }
