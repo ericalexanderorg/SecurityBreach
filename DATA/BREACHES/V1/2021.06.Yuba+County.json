@@ -4,13 +4,13 @@
         "https://www.appeal-democrat.com/news/yuba-county-bolsters-it-security-following-ransomware-attack/article_d77919a4-d87b-11eb-9596-2ba5c0a75c43.html"
     ],
     "month": 6,
-    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "summary": "Ransomware attack",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A5",
-        "motive": "Political"
+        "initial-access": "?",
+        "motive": "Money:Ransom"
     },
     "year": 2021
 }
