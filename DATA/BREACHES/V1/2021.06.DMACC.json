@@ -1,0 +1,16 @@
+{
+    "entity": "DMACC",
+    "links": [
+        "https://www.radioiowa.com/2021/06/21/negotiations-continue-with-threat-actor-who-hacked-dmacc-computer-networks/"
+    ],
+    "month": 6,
+    "summary": "The president of Des Moines Area Community College says the institution's insurance company continue",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
