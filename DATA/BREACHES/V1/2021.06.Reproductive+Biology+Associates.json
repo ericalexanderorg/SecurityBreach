@@ -1,0 +1,16 @@
+{
+    "entity": "Reproductive Biology Associates",
+    "links": [
+        "https://threatpost.com/embryology-data-breach-fertility-clinic-ransomware/167087/"
+    ],
+    "month": 6,
+    "summary": "A fertility clinic serving the Atlanta area has been hit with a ransomware attack that also exposed ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
