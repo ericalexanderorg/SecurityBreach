@@ -1,0 +1,16 @@
+{
+    "entity": "crypto.com",
+    "links": [
+        "https://www.techradar.com/news/hundreds-of-cryptocom-accounts-hacked-after-it-was-hit-by-major-data-breach"
+    ],
+    "month": 1,
+    "summary": "Crypto.com learned that a small number of users had unauthorized crypto withdrawals on their accounts",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 35000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2022
+}
