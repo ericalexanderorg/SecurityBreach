@@ -1,0 +1,16 @@
+{
+    "entity": "Cash App",
+    "links": [
+        "https://news.trendmicro.com/2022/04/07/cash-app-data-breach/"
+    ],
+    "month": 12,
+    "summary": "A former employee accessed customer financial reports without permission.",
+    "tags": {
+        "actor": "Insider",
+        "cost-usd": 0,
+        "impacted-user-count": 8200000,
+        "initial-access": "Compromised Valid Account",
+        "motive": "?"
+    },
+    "year": 2022
+}
