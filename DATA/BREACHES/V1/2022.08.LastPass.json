@@ -3,14 +3,14 @@
     "links": [
         "https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/"
     ],
-    "month": 3,
-    "summary": "Because of the hashing and encryption methods we use to protect our customers, it would be extremely",
+    "month": 8,
+    "summary": "A threat actor compromised LastPass’s development environment for four days using a developer account.",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "PII:?"
+        "motive": "?"
     },
-    "year": 2024
+    "year": 2022
 }
