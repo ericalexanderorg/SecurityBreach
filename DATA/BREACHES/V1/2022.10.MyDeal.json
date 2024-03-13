@@ -1,0 +1,16 @@
+{
+    "entity": "MyDeal",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/mydeal-data-breach-impacts-22m-users-stolen-data-for-sale-online/"
+    ],
+    "month": 10,
+    "summary": "Woolworths' MyDeal subsidiary has disclosed a data breach affecting 2.2 million customers, with the ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 6000000,
+        "impacted-user-count": 2200000,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2022
+}
