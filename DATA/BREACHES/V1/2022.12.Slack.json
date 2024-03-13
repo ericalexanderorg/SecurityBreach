@@ -1,0 +1,16 @@
+{
+    "entity": "Slack",
+    "links": [
+        "https://slack.com/intl/en-gb/blog/news/slack-security-update"
+    ],
+    "month": 12,
+    "summary": "Employee tokens had been stolen and used to access the company's GitHub external repository",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Compromised Valid Account",
+        "motive": "?"
+    },
+    "year": 2022
+}
