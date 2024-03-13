@@ -1,0 +1,16 @@
+{
+    "entity": "AirAsia",
+    "links": [
+        "https://www.thestar.com.my/tech/tech-news/2022/11/23/airasia-allegedly-hit-with-ransomware-attack-data-of-five-million-passengers-and-employees-reportedly-compromised"
+    ],
+    "month": 3,
+    "summary": "API ERROR: THE REQUESTED PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
