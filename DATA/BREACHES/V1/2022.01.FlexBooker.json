@@ -1,0 +1,16 @@
+{
+    "entity": "FlexBooker",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/flexbooker-discloses-data-breach-over-37-million-accounts-impacted/"
+    ],
+    "month": 1,
+    "summary": "Accounts of more than three million users of the U.S.-based FlexBooker appointment scheduling service have been stolen",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 3000000,
+        "initial-access": "?",
+        "motive": "Money:Data Sold"
+    },
+    "year": 2022
+}
