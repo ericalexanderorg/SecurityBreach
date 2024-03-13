@@ -1,16 +1,16 @@
 {
     "entity": "FlexBooker",
     "links": [
-        "https://ermprotect.com/blog/top-10-data-breaches-so-far-in-2022/"
+        "https://www.bleepingcomputer.com/news/security/flexbooker-discloses-data-breach-over-37-million-accounts-impacted/"
     ],
-    "month": 3,
-    "summary": "The hackers retrieved some material from Microsoft, but by March 22nd Microsoft announced it had qui",
+    "month": 1,
+    "summary": "Accounts of more than three million users of the U.S.-based FlexBooker appointment scheduling service have been stolen",
     "tags": {
         "actor": "Criminal",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 3000000,
         "initial-access": "?",
-        "motive": "Espionage"
+        "motive": "Money:Data Sold"
     },
-    "year": 2024
+    "year": 2022
 }
