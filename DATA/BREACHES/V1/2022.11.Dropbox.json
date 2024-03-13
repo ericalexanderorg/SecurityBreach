@@ -3,14 +3,14 @@
     "links": [
         "https://dropbox.tech/security/a-recent-phishing-campaign-targeting-dropbox"
     ],
-    "month": 3,
+    "month": 11,
     "summary": "We were recently the target of a phishing campaign that successfully accessed some of the code we st",
     "tags": {
         "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "Phishing:Link",
-        "motive": "PII:?"
+        "initial-access": "Phishing",
+        "motive": "?"
     },
-    "year": 2024
+    "year": 2022
 }
