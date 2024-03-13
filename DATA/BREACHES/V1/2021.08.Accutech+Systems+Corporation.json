@@ -1,0 +1,16 @@
+{
+    "entity": "Accutech Systems Corporation",
+    "links": [
+        "https://www.classaction.org/news/accutech-systems-facing-class-action-over-august-2021-data-breach"
+    ],
+    "month": 8,
+    "summary": "Its network had been accessed through an employee email account by an unauthorized actor",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Compromised Valid Account",
+        "motive": "?"
+    },
+    "year": 2021
+}
