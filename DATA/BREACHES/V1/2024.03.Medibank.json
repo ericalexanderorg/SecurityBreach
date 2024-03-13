@@ -1,0 +1,16 @@
+{
+    "entity": "Medibank",
+    "links": [
+        "https://www.abc.net.au/news/2022-10-20/medibank-cyber-attack-ransomware-explained-and-what-to-do/101555250"
+    ],
+    "month": 3,
+    "summary": "API ERROR: THE REQUESTED PAGE IS TOO SHORT",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2024
+}
