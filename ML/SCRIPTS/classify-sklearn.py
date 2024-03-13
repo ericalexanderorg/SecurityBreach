@@ -11,6 +11,56 @@ from sklearn.linear_model import SGDClassifier
 from sklearn.naive_bayes import MultinomialNB
 import etl as base
 
+def get_date(url, summry):
+    month,year = extract_date(url)
+    if month is not None and year is not None:
+        return month,year
+
+    month,year = extract_date(summry)
+    if month is not None and year is not None:
+        return month,year
+
+    # Couldn't extract a month/year so just set it to the current month/year
+    month = datetime.now().month
+    year = datetime.now().year
+    
+
+def extract_date(input):
+    month_dict = {
+            "january": "01",
+            "february": "02",
+            "march": "03",
+            "april": "04",
+            "may": "05",
+            "june": "06",
+            "july": "07",
+            "august": "08",
+            "september": "09",
+            "october": "10",
+            "november": "11",
+            "december": "12"
+        }
+
+    # match/extract from this example: https://www.classaction.org/data-breach-lawsuits/ccm-health-march-2024
+    pattern = r"(\b(?:january|february|march|april|may|june|july|august|september|october|november|december)\b)-(\d{4})"
+    matches = re.findall(pattern, input, re.IGNORECASE)
+    if matches:
+        for match in matches:
+            month_name, year = match
+            month = month_dict[month_name.lower()]
+            return month,year
+
+    # match/extract from this example: 
+    pattern = r"([a-zA-Z]+) (\d{1,2}), (\d{4})"
+    match = re.findall(pattern, input, re.IGNORECASE)
+    if match:
+        month_name = match.group(1)
+        month = month_dict[month_name]
+        year = match.group(3)
+        return month,year
+
+    return None,None
+
 def transform_name(name):
     # transform name to meet uclassify constraints on names
     name = name.replace('_', ':')
@@ -60,6 +110,7 @@ def main(url='', entity=''):
 
     # Get our summry
     summry = base.get_summry(url, sys.argv[2])
+    month,year = get_date(url, summry)
 
     # Build our output dict
     output = {}
