@@ -3,14 +3,14 @@
     "links": [
         "https://www.techradar.com/news/hundreds-of-cryptocom-accounts-hacked-after-it-was-hit-by-major-data-breach"
     ],
-    "month": 3,
-    "summary": "One of the world's biggest and most popular cryptocurrency exchanges has been hit by a major data br",
+    "month": 1,
+    "summary": "Crypto.com learned that a small number of users had unauthorized crypto withdrawals on their accounts",
     "tags": {
         "actor": "Criminal",
-        "cost-usd": 1000000,
+        "cost-usd": 35000000,
         "impacted-user-count": 0,
         "initial-access": "?",
         "motive": "Money:Cryptocurrency"
     },
-    "year": 2024
+    "year": 2022
 }
