@@ -1,0 +1,16 @@
+{
+    "entity": "Uber",
+    "links": [
+        "https://www.cshub.com/attacks/articles/the-biggest-data-breaches-and-leaks-of-2022"
+    ],
+    "month": 3,
+    "summary": "More than 4,100 publicly disclosed data breaches occurred in 2022 equating to approximately 22 billi",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
