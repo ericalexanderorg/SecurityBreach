@@ -1,0 +1,16 @@
+{
+    "entity": "Red Cross",
+    "links": [
+        "https://ermprotect.com/blog/top-10-data-breaches-so-far-in-2022/"
+    ],
+    "month": 3,
+    "summary": "API ERROR: THE REQUESTED PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
