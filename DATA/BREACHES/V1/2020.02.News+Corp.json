@@ -1,0 +1,16 @@
+{
+    "entity": "News Corp",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/news-corp-says-state-hackers-were-on-its-network-for-two-years/"
+    ],
+    "month": 2,
+    "summary": "Mass media and publishing giant News Corporation says that attackers behind a breach disclosed in 20",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2020
+}
