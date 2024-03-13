@@ -1,0 +1,16 @@
+{
+    "entity": "Red Cross",
+    "links": [
+        "https://www.cnn.com/2022/01/19/politics/red-cross-cyberattack/index.html"
+    ],
+    "month": 1,
+    "summary": "A cyberattack on a contractor used by the International Committee of the Red Cross (ICRC) has compromised the personal data of more than 515,000",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 515000,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2022
+}
