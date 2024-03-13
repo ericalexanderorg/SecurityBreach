@@ -3,14 +3,14 @@
     "links": [
         "https://www.theguardian.com/australia-news/2022/oct/18/vinomofo-data-breach-cyber-attack-hack-australian-wine-seller"
     ],
-    "month": 3,
+    "month": 10,
     "summary": "Wine dealer Vinomofo is the latest Australian company to be targeted by a cyber-attack. At risk of e",
     "tags": {
-        "actor": "Hacktivist",
+        "actor": "?",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 500000,
         "initial-access": "?",
         "motive": "PII:?"
     },
-    "year": 2024
+    "year": 2022
 }
