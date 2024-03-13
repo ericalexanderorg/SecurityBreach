@@ -1,0 +1,24 @@
+
+1. **Incident Overview**:
+   - **Medibank Private**, one of Australia's largest health insurance providers, experienced a major cybersecurity incident in October 2022.
+   - The breach occurred just weeks after the **Optus data breach**, which affected one-third of Australians.
+   - Medibank holds sensitive information, including **intimate medical records**, making this breach more serious than the Optus hack.
+
+2. **Breach Details**:
+   - On **October 13**, Medibank took its budget provider, **ahm**, and its international student division offline due to a "cyber incident."
+   - Hackers contacted Medibank, claiming to have stolen **200 gigabytes** of customer data from the company's systems.
+   - The breach included details of **medical procedures**, names, addresses, dates of birth, Medicare numbers, phone numbers, and medical claims data.
+   - The hacker also claimed to have credit card information, although this was not confirmed.
+
+3. **Investigation and Fallout**:
+   - The Australian Signals Directorate and the Australian Federal Police initiated an investigation.
+   - The cybersecurity minister, **Clare O’Neil**, warned of a new world "under relentless cyber-attack."
+   - Australia's security agencies scrambled to manage the situation.
+
+4. **Sanctions and Attribution**:
+   - A **Russian man** was named and sanctioned for his role in the breach.
+   - The breach exposed the personal information of **9.7 million Australians**, including sensitive documents like **abortion records**.
+
+5. **Ongoing Impact**:
+   - A ransomware group threatened to release Medibank customer data, leading to possible legal action against the health insurer.
+   - The breach highlights the growing threat of cyberattacks and underscores the need for robust cybersecurity measures.
