@@ -1,0 +1,16 @@
+{
+    "entity": "Uber",
+    "links": [
+        "https://www.nytimes.com/2022/09/15/technology/uber-hacking-breach.html"
+    ],
+    "month": 9,
+    "summary": "More than 4,100 publicly disclosed data breaches occurred in 2022 equating to approximately 22 billi",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2022
+}
