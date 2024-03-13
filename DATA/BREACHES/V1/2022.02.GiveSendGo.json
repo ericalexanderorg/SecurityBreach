@@ -1,0 +1,16 @@
+{
+    "entity": "GiveSendGo",
+    "links": [
+        "https://www.vice.com/en/article/wxd4zq/givesendgo-donor-list-hacker-leak"
+    ],
+    "month": 2,
+    "summary": "Hackers Leak Entire Donor History of Every Campaign on This Christian Crowdfunding Site",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 92000,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2022
+}
