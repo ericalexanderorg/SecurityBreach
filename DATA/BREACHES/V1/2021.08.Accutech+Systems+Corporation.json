@@ -3,14 +3,14 @@
     "links": [
         "https://www.classaction.org/news/accutech-systems-facing-class-action-over-august-2021-data-breach"
     ],
-    "month": 3,
-    "summary": "Accutech Systems Corporation faces a proposed class action that claims the trust and wealth manageme",
+    "month": 8,
+    "summary": "Its network had been accessed through an employee email account by an unauthorized actor",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "PII:?"
+        "initial-access": "Compromised Valid Account",
+        "motive": "?"
     },
-    "year": 2024
+    "year": 2021
 }
