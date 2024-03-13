@@ -1,0 +1,16 @@
+{
+    "entity": "LastPass",
+    "links": [
+        "https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/"
+    ],
+    "month": 3,
+    "summary": "Because of the hashing and encryption methods we use to protect our customers, it would be extremely",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
