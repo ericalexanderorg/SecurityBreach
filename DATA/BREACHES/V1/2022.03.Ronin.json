@@ -1,0 +1,16 @@
+{
+    "entity": "Ronin",
+    "links": [
+        "https://www.bbc.com/news/technology-60933174"
+    ],
+    "month": 3,
+    "summary": "A hacker transferred $540m worth of cryptocurrency to themselves",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 600000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2022
+}
