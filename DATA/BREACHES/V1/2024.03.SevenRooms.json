@@ -1,0 +1,16 @@
+{
+    "entity": "SevenRooms",
+    "links": [
+        "https://tech.co/news/sevenrooms-crm-data-breach"
+    ],
+    "month": 3,
+    "summary": "SevenRooms - a CRM system used by several major international restaurant chains and a collection of ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
