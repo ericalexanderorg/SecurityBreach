@@ -1,0 +1,16 @@
+{
+    "entity": "SevenRooms",
+    "links": [
+        "https://tech.co/news/sevenrooms-crm-data-breach"
+    ],
+    "month": 12,
+    "summary": "Unauthorized access to the file transfer tool",
+    "tags": {
+        "actor": "Missing Patch",
+        "cost-usd": 0,
+        "impacted-user-count": 1200000,
+        "initial-access": "?",
+        "motive": "Money:Data Sold"
+    },
+    "year": 2022
+}
