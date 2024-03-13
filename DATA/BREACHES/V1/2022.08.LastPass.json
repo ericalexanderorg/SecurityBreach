@@ -1,0 +1,16 @@
+{
+    "entity": "LastPass",
+    "links": [
+        "https://blog.lastpass.com/2022/12/notice-of-recent-security-incident/"
+    ],
+    "month": 8,
+    "summary": "A threat actor compromised LastPass’s development environment for four days using a developer account.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2022
+}
