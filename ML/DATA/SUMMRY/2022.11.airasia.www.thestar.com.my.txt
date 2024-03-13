@@ -1,0 +1,15 @@
+In **November 2022**, **AirAsia**, the popular airline, fell victim to a **ransomware attack** orchestrated by the **Daixin Team**. Here are the key details:
+
+1. **Scope of Attack**:
+   - **Affected Data**: The personal information of **five million passengers** and **all employees** of AirAsia.
+   - **Attack Period**: The breach occurred on **November 11 and 12**.
+   - **Data Compromised**:
+     - **Passenger Records**: The leaked data included passenger **IDs**, **full names**, and **booking IDs**.
+     - **Employee Details**: The second file contained information about employees, including **photos**, **secret questions and answers** (likely for account recovery), **nationality**, **date of birth**, **country of birth**, **location**, and **date hired**¹²³.
+
+2. **Response and Mitigation**:
+   - **AirAsia's Actions**: The airline engaged with the hackers via chat after receiving a sample of the data. However, they did not negotiate the ransom amount, indicating that they did not intend to pay the attackers.
+   - **Critical Systems Unaffected**: AirAsia clarified that the cyberattack targeted **redundant systems** and did not impact their critical operations.
+   - **Preventive Measures**: The company swiftly resolved the incident and implemented measures to prevent similar future occurrences¹⁴.
+
+While the breach exposed sensitive information, AirAsia's prompt response and security measures demonstrate their commitment to safeguarding passenger and employee data¹⁴.
