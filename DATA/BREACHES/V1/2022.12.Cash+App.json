@@ -3,7 +3,7 @@
     "links": [
         "https://ermprotect.com/blog/top-10-data-breaches-so-far-in-2022/"
     ],
-    "month": 3,
+    "month": 12,
     "summary": "A former employee accessed customer financial reports without permission.",
     "tags": {
         "actor": "Insider",
@@ -12,5 +12,5 @@
         "initial-access": "Compromised Valid Account",
         "motive": "?"
     },
-    "year": 2024
+    "year": 2022
 }
