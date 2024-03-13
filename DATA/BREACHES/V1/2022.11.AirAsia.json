@@ -1,0 +1,16 @@
+{
+    "entity": "AirAsia",
+    "links": [
+        "https://www.thestar.com.my/tech/tech-news/2022/11/23/airasia-allegedly-hit-with-ransomware-attack-data-of-five-million-passengers-and-employees-reportedly-compromised"
+    ],
+    "month": 11,
+    "summary": "airasia-allegedly-hit-with-ransomware-attack-data-of-five-million-passengers-and-employees-reportedly-compromised",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 5000000,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2022
+}
