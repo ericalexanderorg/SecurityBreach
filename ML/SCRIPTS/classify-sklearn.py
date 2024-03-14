@@ -11,14 +11,20 @@ from sklearn.linear_model import SGDClassifier
 from sklearn.naive_bayes import MultinomialNB
 import etl as base
 
-def get_date(url, summry):
-    month,year = extract_date(url)
-    if month is not None and year is not None:
-        return month,year
+def get_month_year(url, summry):
+    try:
+        month,year = extract_date(summry)
+        if month is not None and year is not None:
+            return month,year
+    except:
+        print("Error attempting to extract date from url")
 
-    month,year = extract_date(summry)
-    if month is not None and year is not None:
-        return month,year
+    try:
+        month,year = extract_date(url)
+        if month is not None and year is not None:
+            return month,year
+    except: 
+        print("Error attemptint to extract date from summry")
 
     # Couldn't extract a month/year so just set it to the current month/year
     month = datetime.now().month
@@ -50,9 +56,10 @@ def extract_date(input):
             month = month_dict[month_name.lower()]
             return month,year
 
-    # match/extract from this example: 
+    # match/extract from this example: April 10, 2023
     pattern = r"([a-zA-Z]+) (\d{1,2}), (\d{4})"
-    match = re.findall(pattern, input, re.IGNORECASE)
+    match = re.match(pattern, input, re.IGNORECASE)
+    print(match)
     if match:
         month_name = match.group(1)
         month = month_dict[month_name]
