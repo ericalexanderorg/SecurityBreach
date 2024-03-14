@@ -1,0 +1,16 @@
+{
+    "entity": "CCM Health",
+    "links": [
+        "https://www.classaction.org/data-breach-lawsuits/ccm-health-march-2024"
+    ],
+    "month": 4,
+    "summary": "The breach may have also exposed certain medical information",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2023
+}
