@@ -1,0 +1,16 @@
+{
+    "entity": "Century Federal Credit Union",
+    "links": [
+        "https://www.classaction.org/data-breach-lawsuits/century-federal-credit-union-march-2024"
+    ],
+    "month": 3,
+    "summary": "Attorneys working with ClassAction.org are looking into whether a class action lawsuit can be filed ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
