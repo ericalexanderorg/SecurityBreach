@@ -12,6 +12,12 @@ from sklearn.naive_bayes import MultinomialNB
 import etl as base
 
 def get_month_year(url, summry):
+    #this is broken, putting a quick fix in place
+    month = datetime.now().month
+    year = datetime.now().year
+
+    return month,year
+    
     try:
         month,year = extract_date(summry)
         if month is not None and year is not None:
