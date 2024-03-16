@@ -29,6 +29,8 @@ def get_month_year(url, summry):
     # Couldn't extract a month/year so just set it to the current month/year
     month = datetime.now().month
     year = datetime.now().year
+
+    return month,year
     
 
 def extract_date(input):
