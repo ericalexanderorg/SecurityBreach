@@ -61,7 +61,7 @@ def extract_date(input):
     # match/extract from this example: April 10, 2023
     pattern = r"([a-zA-Z]+) (\d{1,2}), (\d{4})"
     match = re.match(pattern, input, re.IGNORECASE)
-    print(match)
+    #print(match)
     if match:
         month_name = match.group(1)
         month = month_dict[month_name]
@@ -71,7 +71,7 @@ def extract_date(input):
     # match/extrac from this example: https://techcrunch.com/2022/09/06/parsing-samsung-july-breach-notice/
     pattern = r'(\d{4})/(\d{2})/(\d{2})'
     match = re.match(pattern, input, re.IGNORECASE)
-    print(match)
+    #print(match)
     if match:
         year = match.group(1)
         month = match.group(2)
