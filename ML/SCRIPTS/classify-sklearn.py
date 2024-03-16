@@ -136,7 +136,7 @@ def main(url='', entity=''):
 
     # Get our summry
     summry = base.get_summry(url, sys.argv[2])
-    month,year = get_month_year(url, summry)
+    #month,year = get_month_year(url, summry)
 
     # Build our output dict
     output = {}
