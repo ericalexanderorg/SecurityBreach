@@ -67,7 +67,7 @@ def extract_date(input):
         month = month_dict[month_name]
         year = match.group(3)
         return month,year
-
+    '''
     # match/extrac from this example: https://techcrunch.com/2022/09/06/parsing-samsung-july-breach-notice/
     pattern = r'(\d{4})/(\d{2})/(\d{2})'
     match = re.match(pattern, input, re.IGNORECASE)
@@ -76,6 +76,7 @@ def extract_date(input):
         year = match.group(1)
         month = match.group(2)
         return month,year
+    '''
 
 
     return None,None
