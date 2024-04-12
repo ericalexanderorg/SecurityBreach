@@ -1,0 +1,16 @@
+{
+    "entity": "Federal Civilian Executive Branch",
+    "links": [
+        "https://www.cisa.gov/news-events/directives/ed-24-02-mitigating-significant-risk-nation-state-compromise-microsoft-corporate-email-system"
+    ],
+    "month": 4,
+    "summary": "The Russian state-sponsored cyber actor known as Midnight Blizzard has exfiltrated email corresponde",
+    "tags": {
+        "actor": "Nation State:Midnight Blizzard",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2024
+}
