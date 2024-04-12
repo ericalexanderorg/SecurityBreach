@@ -1,0 +1,16 @@
+{
+    "entity": "Sisense",
+    "links": [
+        "https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data"
+    ],
+    "month": 4,
+    "summary": "CISA is collaborating with private industry partners to respond to a recent compromise discovered by",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
