@@ -1,0 +1,16 @@
+{
+    "entity": "Roku",
+    "links": [
+        "https://www.roku.com/blog/protecting-your-roku-account"
+    ],
+    "month": 4,
+    "summary": "Our website uses cookies and similar technologies, including for personalization, advertising and an",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2024
+}
