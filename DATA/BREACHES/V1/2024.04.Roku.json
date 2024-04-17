@@ -1,0 +1,16 @@
+{
+    "entity": "Roku",
+    "links": [
+        "https://www.roku.com/blog/protecting-your-roku-account"
+    ],
+    "month": 4,
+    "summary": "15,000 accounts accessed through credential stuffing",
+    "tags": {
+        "actor": "Unknown",
+        "cost-usd": 0,
+        "impacted-user-count": 15000,
+        "initial-access": "Compromised Account",
+        "motive": "Unknown"
+    },
+    "year": 2024
+}
