@@ -4,13 +4,13 @@
         "https://www.bleepingcomputer.com/news/security/critical-rce-bug-in-92-000-d-link-nas-devices-now-exploited-in-attacks/"
     ],
     "month": 5,
-    "summary": "Attackers are now actively targeting over 92,000 end-of-life D-Link Network Attached Storage devices",
+    "summary": "RCE zero day exploit used to gain control over D-Link devices that have reached end of support and are no longer patched.",
     "tags": {
         "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Ransom"
+        "initial-access": "Missing Patch",
+        "motive": "?"
     },
     "year": 2024
 }
