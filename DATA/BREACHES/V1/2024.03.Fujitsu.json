@@ -1,0 +1,16 @@
+{
+    "entity": "Fujitsu",
+    "links": [
+        "https://arstechnica.com/security/2024/03/fujitsu-says-it-found-malware-on-its-corporate-network-warns-of-possible-data-breach/"
+    ],
+    "month": 3,
+    "summary": "Notice that they found malware on some of their systems with the potential that data was exfiltrated",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2024
+}
