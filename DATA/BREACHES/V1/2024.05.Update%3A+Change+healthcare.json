@@ -1,0 +1,16 @@
+{
+    "entity": "Update: Change healthcare",
+    "links": [
+        "https://www.theregister.com/2024/03/07/china_link_change_healthcare_ransomware/"
+    ],
+    "month": 5,
+    "summary": "A criminal claiming to be an ALPHV/BlackCat affiliate - the gang responsible for the widely disrupti",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
