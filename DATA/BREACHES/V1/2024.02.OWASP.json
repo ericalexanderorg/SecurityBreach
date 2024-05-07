@@ -1,0 +1,16 @@
+{
+    "entity": "OWASP",
+    "links": [
+        "https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification"
+    ],
+    "month": 2,
+    "summary": "Directory browsing on a wiki server led to unauthorized access to member resumes",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Misconfiguration",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
