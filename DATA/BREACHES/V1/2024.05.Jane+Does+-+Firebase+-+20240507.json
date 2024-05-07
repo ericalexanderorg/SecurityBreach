@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Does - Firebase - 20240507",
+    "links": [
+        "https://env.fail/posts/firewreck-1/"
+    ],
+    "month": 5,
+    "summary": "TLDR:. - Firebase allows for easy misconfiguration of security rules with zero warnings. This has re",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Misc"
+    },
+    "year": 2024
+}
