@@ -1,0 +1,17 @@
+{
+    "entity": "Jane Does - xz",
+    "links": [
+        "https://news.ycombinator.com/item?id=39865810",
+        "https://arstechnica.com/security/2024/04/what-we-know-about-the-xz-utils-backdoor-that-almost-infected-the-world/"
+    ],
+    "month": 4,
+    "summary": "Likely nation state actor added code in a popular library to gain backdoor SSH access - CVE-2024-3094",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Code Change",
+        "motive": "Supply Chain"
+    },
+    "year": 2024
+}
