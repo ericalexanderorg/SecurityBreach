@@ -3,13 +3,13 @@
     "links": [
         "https://english.hani.co.kr/arti/english_edition/e_national/1137990"
     ],
-    "month": 5,
-    "summary": "API ERROR: THE REQUESTED PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "month": 4,
+    "summary": "Lazurus exfiltrated data from multiple South Korea defense contractors",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Nation State:Lazurus",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "Broken Access Control",
+        "initial-access": "?",
         "motive": "Political"
     },
     "year": 2024
