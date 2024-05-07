@@ -1,0 +1,16 @@
+{
+    "entity": "Finish adding @fire-bot to your repo",
+    "links": [
+        "https://fire.fundersclub.com\nhttps://fire.fundersclub.com/approve/789c0d34-4ad3-46bb-a2a1-d293b17ab0ed/"
+    ],
+    "month": 5,
+    "summary": "API ERROR: SOURCE IS TOO SHORT",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
