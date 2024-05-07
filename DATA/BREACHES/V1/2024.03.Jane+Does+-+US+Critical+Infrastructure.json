@@ -3,14 +3,14 @@
     "links": [
         "https://www.nytimes.com/2024/03/25/business/china-hacking-us-sanctions.html"
     ],
-    "month": 5,
-    "summary": "Information about your activity on this service can be stored and combined with other information ab",
+    "month": 3,
+    "summary": "US & UK accusations that China targetted and may have breached US critical infrastructure",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Nation State",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Money:Ransom"
+        "motive": "Warfare"
     },
     "year": 2024
 }
