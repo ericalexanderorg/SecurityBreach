@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Does 20240301005",
+    "links": [
+        "https://arstechnica.com/security/2024/03/hackers-exploited-windows-0-day-for-6-months-after-microsoft-knew-of-it/"
+    ],
+    "month": 3,
+    "summary": "Microsoft did not act on a zero day fix for 6 months that led to Lazurus distributing FudModule malware",
+    "tags": {
+        "actor": "Nation State:Lazurus",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2024
+}
