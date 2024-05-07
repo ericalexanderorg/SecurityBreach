@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Does - US Critical Infrastructure",
+    "links": [
+        "https://www.nytimes.com/2024/03/25/business/china-hacking-us-sanctions.html"
+    ],
+    "month": 5,
+    "summary": "Information about your activity on this service can be stored and combined with other information ab",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
