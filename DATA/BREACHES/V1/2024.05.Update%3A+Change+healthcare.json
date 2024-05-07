@@ -1,0 +1,16 @@
+{
+    "entity": "Update: Change healthcare",
+    "links": [
+        "https://krebsonsecurity.com/2024/03/blackcat-ransomware-group-implodes-after-apparent-22m-ransom-payment-by-change-healthcare/"
+    ],
+    "month": 5,
+    "summary": "There are indications that U.S. healthcare giant Change Healthcare has made a $22 million extortion ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 2000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
