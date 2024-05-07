@@ -3,12 +3,12 @@
     "links": [
         "https://www.scmagazine.com/news/jetbrains-teamcity-critical-flaw-exploited-1-4k-servers-compromised"
     ],
-    "month": 5,
-    "summary": "A JetBrains TeamCity critical vulnerability is being actively exploited to create hundreds of admini",
+    "month": 3,
+    "summary": "1400 JetBrains TeamCity servers exploited by zero day CVE-2024-27198",
     "tags": {
         "actor": "Criminal",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 1400,
         "initial-access": "?",
         "motive": "PII:?"
     },
