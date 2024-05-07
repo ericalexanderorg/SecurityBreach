@@ -1,0 +1,17 @@
+{
+    "entity": "Mintlify",
+    "links": [
+        "https://www.blankcoverage.com/2024/03/data-breach-at-mintlify-sparks-concerns.html",
+        "https://mintlify.com/blog/incident-march-13"
+    ],
+    "month": 3,
+    "summary": "Customer Github tokens accessed due to a likely secret leak that led to privileged API acces",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2024
+}
