@@ -1,0 +1,16 @@
+{
+    "entity": "MITRE",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/mitre-says-state-hackers-breached-its-network-via-ivanti-zero-days/"
+    ],
+    "month": 5,
+    "summary": "The MITRE Corporation says that a state-backed hacking group breached its systems in January 2024 by",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2024
+}
