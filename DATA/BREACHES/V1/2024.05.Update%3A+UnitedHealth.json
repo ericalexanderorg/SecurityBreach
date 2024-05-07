@@ -1,0 +1,16 @@
+{
+    "entity": "Update: UnitedHealth",
+    "links": [
+        "https://www.theregister.com/2024/04/30/unitedhealth_ceo_ransom/"
+    ],
+    "month": 5,
+    "summary": "Your profile can be used to present content that appears more relevant based on your possible intere",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
