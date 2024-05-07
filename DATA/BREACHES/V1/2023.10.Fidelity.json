@@ -1,0 +1,18 @@
+{
+    "entity": "Fidelity",
+    "links": [
+        "https://www.theregister.com/2024/03/05/fidelity_financial_info_stolen/",
+        "https://apps.web.maine.gov/online/aeviewer/ME/40/0c98c6d7-c7b3-4bbf-a7fa-8005c61168d6.shtml",
+        "https://regmedia.co.uk/2024/03/05/fidelity_life_insurance_data_breach_notification.pdf"
+    ],
+    "month": 10,
+    "summary": "Impacted by vendor breach at Infosys McCamish",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 30000,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2023
+}
