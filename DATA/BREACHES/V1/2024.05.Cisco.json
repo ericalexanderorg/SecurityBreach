@@ -1,0 +1,16 @@
+{
+    "entity": "Cisco",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/"
+    ],
+    "month": 5,
+    "summary": "An operator of the HelloKitty ransomware operation announced they changed the name to 'HelloGookie,'",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
