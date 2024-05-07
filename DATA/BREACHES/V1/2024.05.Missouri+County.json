@@ -1,0 +1,16 @@
+{
+    "entity": "Missouri County",
+    "links": [
+        "https://arstechnica.com/security/2024/04/missouri-county-declares-state-of-emergency-amid-suspected-ransomware-attack/"
+    ],
+    "month": 5,
+    "summary": "Jackson County, Missouri, has declared a state of emergency and closed key offices indefinitely as i",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
