@@ -1,0 +1,16 @@
+{
+    "entity": "AT&T",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/atandt-confirms-data-for-73-million-customers-leaked-on-hacker-forum/"
+    ],
+    "month": 5,
+    "summary": "AT&T has finally confirmed it is impacted by a data breach affecting 73 million current and former c",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
