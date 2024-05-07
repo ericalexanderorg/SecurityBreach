@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Does 2024050703",
+    "links": [
+        "https://arstechnica.com/security/2024/04/kremlin-backed-hackers-exploit-critical-windows-vulnerability-reported-by-the-nsa/"
+    ],
+    "month": 5,
+    "summary": "Kremlin-backed hackers have been exploiting a critical Microsoft vulnerability for four years in att",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2024
+}
