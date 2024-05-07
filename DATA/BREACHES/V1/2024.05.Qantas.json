@@ -1,0 +1,16 @@
+{
+    "entity": "Qantas",
+    "links": [
+        "https://7news.com.au/news/qantas-app-data-breach-allows-customers-to-access-strangers-booking-details-c-14504516"
+    ],
+    "month": 5,
+    "summary": "Qantas customers have reported a data breach with the national carrier's app that allows travellers ",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
