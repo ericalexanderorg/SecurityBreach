@@ -4,13 +4,13 @@
         "https://env.fail/posts/firewreck-1/"
     ],
     "month": 5,
-    "summary": "TLDR:. - Firebase allows for easy misconfiguration of security rules with zero warnings. This has re",
+    "summary": "Firebase databases exposed with no authentication required",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Hacktivist",
         "cost-usd": 0,
-        "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "Money:Misc"
+        "impacted-user-count": 125000000,
+        "initial-access": "Misconfiguration",
+        "motive": "Hacktivism"
     },
     "year": 2024
 }
