@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Does - Hospitals - 20240507",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/us-health-dept-warns-hospitals-of-hackers-targeting-it-help-desks/"
+    ],
+    "month": 5,
+    "summary": "The U.S. Department of Health and Human Services warns that hackers are now using social engineering",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
