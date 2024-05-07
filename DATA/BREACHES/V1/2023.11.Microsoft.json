@@ -1,0 +1,17 @@
+{
+    "entity": "Microsoft",
+    "links": [
+        "https://www.board-cybersecurity.com/incidents/tracker/20240119-microsoft-corp-cybersecurity-incident/",
+        "https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/"
+    ],
+    "month": 11,
+    "summary": "Midnight Blizzard used a password spraying attack to compromise a legacy tenant",
+    "tags": {
+        "actor": "Midnight Blizzard",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Compromised Account",
+        "motive": "Espionage"
+    },
+    "year": 2023
+}
