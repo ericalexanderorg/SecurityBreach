@@ -3,13 +3,13 @@
     "links": [
         "https://owasp.org/blog/2024/03/29/OWASP-data-breach-notification"
     ],
-    "month": 5,
-    "summary": "In late February 2024, after receiving a few support requests, the OWASP Foundation became aware of ",
+    "month": 2,
+    "summary": "Directory browsing on a wiki server led to unauthorized access to member resumes",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "Misconfiguration",
         "motive": "PII:?"
     },
     "year": 2024
