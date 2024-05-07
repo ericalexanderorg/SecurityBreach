@@ -1,0 +1,16 @@
+{
+    "entity": "Python Developers",
+    "links": [
+        "https://www.securityweek.com/top-python-developers-hacked-in-sophisticated-supply-chain-attack/"
+    ],
+    "month": 3,
+    "summary": "Multiple Python developers were infected with information-stealing malware, likely for supply chain exploitation purposes.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2024
+}
