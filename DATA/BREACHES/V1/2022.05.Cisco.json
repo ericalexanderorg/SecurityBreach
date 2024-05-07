@@ -1,0 +1,17 @@
+{
+    "entity": "Cisco",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/",
+        "https://blog.talosintelligence.com/recent-cyber-attack/",
+    ],
+    "month": 5,
+    "summary": "Cisco employee creds likely exfiltrated using info steeling malware and was followed up with voice based social engineering to compromise their MFA.",
+    "tags": {
+        "actor": "Criminal:HelloKitty",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Comrpomised Valid Account",
+        "motive": "Money:Ransom"
+    },
+    "year": 2022
+}
