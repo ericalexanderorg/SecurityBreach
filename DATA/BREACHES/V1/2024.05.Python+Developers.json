@@ -1,0 +1,16 @@
+{
+    "entity": "Python Developers",
+    "links": [
+        "https://www.securityweek.com/top-python-developers-hacked-in-sophisticated-supply-chain-attack/"
+    ],
+    "month": 5,
+    "summary": "Multiple Python developers, including a maintainer of Top.gg, were infected with information-stealin",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 170000,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2024
+}
