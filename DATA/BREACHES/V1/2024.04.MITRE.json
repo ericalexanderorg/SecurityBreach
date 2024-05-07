@@ -1,0 +1,17 @@
+{
+    "entity": "MITRE",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/mitre-says-state-hackers-breached-its-network-via-ivanti-zero-days/",
+        "https://medium.com/mitre-engenuity/advanced-cyber-threats-impact-even-the-most-prepared-56444e980dc8"
+    ],
+    "month": 4,
+    "summary": "Ivanti zero day used to breach VPN devices on their network",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2024
+}
