@@ -4,12 +4,12 @@
         "https://arstechnica.com/security/2024/04/kremlin-backed-hackers-exploit-critical-windows-vulnerability-reported-by-the-nsa/"
     ],
     "month": 5,
-    "summary": "Kremlin-backed hackers have been exploiting a critical Microsoft vulnerability for four years in att",
+    "summary": "2 year old un-patched vulnerability is still used by Russion based actors - CVE-2022-38028",
     "tags": {
         "actor": "Nation State",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "Missing Patch",
         "motive": "Espionage"
     },
     "year": 2024
