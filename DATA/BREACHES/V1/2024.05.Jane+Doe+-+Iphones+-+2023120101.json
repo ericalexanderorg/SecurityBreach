@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe - Iphones - 2023120101",
+    "links": [
+        "https://arstechnica.com/security/2023/12/exploit-used-in-mass-iphone-infection-campaign-targeted-secret-hardware-feature/"
+    ],
+    "month": 5,
+    "summary": "Researchers on Wednesday presented intriguing new findings surrounding an attack that over four year",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Phishing:Attachment",
+        "motive": "Espionage"
+    },
+    "year": 2024
+}
