@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Does South Korea 20240507",
+    "links": [
+        "https://english.hani.co.kr/arti/english_edition/e_national/1137990"
+    ],
+    "month": 4,
+    "summary": "Lazurus exfiltrated data from multiple South Korea defense contractors",
+    "tags": {
+        "actor": "Nation State:Lazurus",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2024
+}
