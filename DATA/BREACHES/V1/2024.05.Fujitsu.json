@@ -1,0 +1,16 @@
+{
+    "entity": "Fujitsu",
+    "links": [
+        "https://arstechnica.com/security/2024/03/fujitsu-says-it-found-malware-on-its-corporate-network-warns-of-possible-data-breach/"
+    ],
+    "month": 5,
+    "summary": "We and our 164 partners store and/or access information on a device, such as unique IDs in cookies t",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
