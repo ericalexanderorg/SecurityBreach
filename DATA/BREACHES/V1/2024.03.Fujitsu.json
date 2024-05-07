@@ -3,14 +3,14 @@
     "links": [
         "https://arstechnica.com/security/2024/03/fujitsu-says-it-found-malware-on-its-corporate-network-warns-of-possible-data-breach/"
     ],
-    "month": 5,
-    "summary": "We and our 164 partners store and/or access information on a device, such as unique IDs in cookies t",
+    "month": 3,
+    "summary": "Notice that they found malware on some of their systems with the potential that data was exfiltrated",
     "tags": {
-        "actor": "Nation State",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "Broken Access Control",
-        "motive": "Money:Ransom"
+        "initial-access": "?",
+        "motive": "?"
     },
     "year": 2024
 }
