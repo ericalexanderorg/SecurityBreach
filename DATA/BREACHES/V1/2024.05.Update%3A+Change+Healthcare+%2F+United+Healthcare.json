@@ -1,0 +1,16 @@
+{
+    "entity": "Update: Change Healthcare / United Healthcare",
+    "links": [
+        "https://www.infostealers.com/article/single-citrix-compromised-credential-results-in-22000000-ransom-to-change-healthcare/"
+    ],
+    "month": 5,
+    "summary": "In late February 2024 Change Healthcare suffered a devastating ransomware attack which led to major ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 8000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
