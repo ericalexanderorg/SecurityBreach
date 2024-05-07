@@ -1,0 +1,16 @@
+{
+    "entity": "AT&T",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/atandt-confirms-data-for-73-million-customers-leaked-on-hacker-forum/"
+    ],
+    "month": 3,
+    "summary": "Pre 2019 PII & hashed password strings exfiltrated from AT&T",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 73000000,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
