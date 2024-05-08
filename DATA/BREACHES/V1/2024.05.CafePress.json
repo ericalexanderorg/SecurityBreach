@@ -1,0 +1,16 @@
+{
+    "entity": "CafePress",
+    "links": [
+        "https://www.zdnet.com/article/cafepress-fined-500-million-for-shoddy-security-covering-up-data-breach/"
+    ],
+    "month": 5,
+    "summary": "CafePress's past owner has been fined $500,000 over a litany of security failures and data breaches.",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 5000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
