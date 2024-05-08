@@ -1,12 +1,12 @@
 {
-    "entity": "Dropbox Sign",
+    "entity": "Dropbox",
     "links": [
         "https://sign.dropbox.com/blog/a-recent-security-incident-involving-dropbox-sign"
     ],
     "month": 5,
-    "summary": "Upon further investigation, we discovered that a threat actor had accessed data including Dropbox Si",
+    "summary": "Customer data including password hashes and oauth tokens accessed",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
