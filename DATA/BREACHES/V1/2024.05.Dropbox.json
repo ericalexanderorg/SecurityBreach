@@ -1,0 +1,16 @@
+{
+    "entity": "Dropbox",
+    "links": [
+        "https://sign.dropbox.com/blog/a-recent-security-incident-involving-dropbox-sign"
+    ],
+    "month": 5,
+    "summary": "Customer data including password hashes and oauth tokens accessed",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
