@@ -8,9 +8,10 @@
         "initial-access": "Broken Authentication and Session Management",
         "actor": "?",
         "motive": "?",
-        "cost-usd": null
+        "cost-usd": 4000000
     },
     "links": [
-        "https://krebsonsecurity.com/2019/05/ny-investigates-exposure-of-885-million-mortgage-documents/"
+        "https://krebsonsecurity.com/2019/05/ny-investigates-exposure-of-885-million-mortgage-documents/",
+        "https://www.bankinfosecurity.com/first-american-financials-sec-breach-settlement-488000-a-16912"
     ]
 }
