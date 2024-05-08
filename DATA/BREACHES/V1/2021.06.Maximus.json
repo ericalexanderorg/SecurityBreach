@@ -1,0 +1,16 @@
+{
+    "entity": "Maximus",
+    "links": [
+        "https://www.infosecurity-magazine.com/news/ohio-medicaid-provider-suffers/"
+    ],
+    "month": 6,
+    "summary": "A security incident at an Ohio Medicaid provider last month may have resulted in the theft of person",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
