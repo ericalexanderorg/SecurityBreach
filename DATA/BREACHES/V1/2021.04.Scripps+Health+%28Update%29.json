@@ -1,0 +1,16 @@
+{
+    "entity": "Scripps Health",
+    "links": [
+        "https://www.medpagetoday.com/special-reports/exclusives/93200"
+    ],
+    "month": 4,
+    "summary": "Under-reported breach of unauthorized access to customer data",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 2000000,
+        "impacted-user-count": 174000,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2021
+}
