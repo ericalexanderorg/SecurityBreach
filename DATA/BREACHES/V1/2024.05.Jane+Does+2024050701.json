@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Does 2024050701",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/iranian-hackers-pose-as-journalists-to-push-backdoor-malware/"
+    ],
+    "month": 5,
+    "summary": "The Iranian state-backed threat actor tracked as APT42 is employing social engineering attacks, incl",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2024
+}
