@@ -2,7 +2,7 @@
     "entity": "Cisco",
     "links": [
         "https://www.bleepingcomputer.com/news/security/hellokitty-ransomware-rebrands-releases-cd-projekt-and-cisco-data/",
-        "https://blog.talosintelligence.com/recent-cyber-attack/",
+        "https://blog.talosintelligence.com/recent-cyber-attack/"
     ],
     "month": 5,
     "summary": "Cisco employee creds likely exfiltrated using info steeling malware and was followed up with voice based social engineering to compromise their MFA.",
