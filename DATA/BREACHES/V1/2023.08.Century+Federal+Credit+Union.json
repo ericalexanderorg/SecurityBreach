@@ -1,0 +1,16 @@
+{
+    "entity": "Century Federal Credit Union",
+    "links": [
+        "https://www.classaction.org/data-breach-lawsuits/century-federal-credit-union-march-2024"
+    ],
+    "month": 8,
+    "summary": "Unauthorized party gained access to an employee accoun",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 13984,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2023
+}
