@@ -1,0 +1,16 @@
+{
+    "entity": "UK Ministry of Defense",
+    "links": [
+        "https://news.sky.com/story/china-hacked-ministry-of-defence-sky-news-learns-13130757"
+    ],
+    "month": 5,
+    "summary": "The Chinese state has hacked the Ministry of Defence, Sky News understands. MPs will be told on Tues",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2024
+}
