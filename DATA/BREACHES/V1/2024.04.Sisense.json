@@ -1,16 +1,17 @@
 {
     "entity": "Sisense",
     "links": [
-        "https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data"
+        "https://www.cisa.gov/news-events/alerts/2024/04/11/compromise-sisense-customer-data",
+        "https://krebsonsecurity.com/2024/04/why-cisa-is-warning-cisos-about-a-breach-at-sisense/"
     ],
     "month": 4,
-    "summary": "CISA is collaborating with private industry partners to respond to a recent compromise discovered by",
+    "summary": "Gitlab account accessed, that led to S3 access, that led to customer secret access",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "PII:?"
+        "motive": "?"
     },
     "year": 2024
 }
