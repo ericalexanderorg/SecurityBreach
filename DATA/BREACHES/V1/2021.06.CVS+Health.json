@@ -8,7 +8,7 @@
     "tags": {
         "actor": "Hacktivist",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 1000000000,
         "initial-access": "?",
         "motive": "PII:?"
     },
