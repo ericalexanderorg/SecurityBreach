@@ -4,13 +4,13 @@
         "https://woai.iheart.com/content/2021-06-21-judson-isd-reportedly-victim-of-ransomware-attack/"
     ],
     "month": 6,
-    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "summary": "Ransomware attach",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A5",
-        "motive": "Political"
+        "initial-access": "?",
+        "motive": "Money:Ransom"
     },
     "year": 2021
 }
