@@ -1,0 +1,16 @@
+{
+    "entity": "London Drugs",
+    "links": [
+        "https://www.cbc.ca/news/canada/british-columbia/drugstore-cyberattack-canada-1.7194503"
+    ],
+    "month": 5,
+    "summary": "London Drugs is gradually reopening its stores across Western Canada, six days after it shuttered al",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
