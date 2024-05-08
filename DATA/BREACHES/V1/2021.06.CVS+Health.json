@@ -1,0 +1,16 @@
+{
+    "entity": "CVS Health",
+    "links": [
+        "https://healthitsecurity.com/news/cvs-health-faces-data-breach1b-search-records-exposed"
+    ],
+    "month": 6,
+    "summary": "June 21, 2021 - More than 1 billion CVS Health search records were accidentally posted online in a d",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 1000000000,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
