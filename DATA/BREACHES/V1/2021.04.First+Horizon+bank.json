@@ -1,0 +1,16 @@
+{
+    "entity": "First Horizon bank",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/first-horizon-bank-online-accounts-hacked-to-steal-customers-funds/"
+    ],
+    "month": 4,
+    "summary": "Bank holding company First Horizon Corporation disclosed the some of its customers had their online ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
