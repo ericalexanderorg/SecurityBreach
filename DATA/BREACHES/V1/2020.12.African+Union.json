@@ -4,13 +4,13 @@
         "https://www.reuters.com/article/ethiopia-african-union-cyber-exclusive-idUKKBN28Q1EB"
     ],
     "month": 12,
-    "summary": "Acting on a tip from Japanese cyber researchers, the African Union's technology staffers discovered ",
+    "summary": "Chinese hackers had rigged a cluster of servers in the basement of an administrative annex to quietly siphon surveillance videos",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Nation State:Bronze President",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Espionage"
+        "motive": "Political"
     },
     "year": 2020
 }
