@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe Nagios XI",
+    "links": [
+        "https://unit42.paloaltonetworks.com/nagios-xi-vulnerability-cryptomining/"
+    ],
+    "month": 4,
+    "summary": "CVE-2021-25296 exploited for cryptojacking ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Missing Patch",
+        "motive": "Money:CryptoJacking"
+    },
+    "year": 2021
+}
