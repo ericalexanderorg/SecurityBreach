@@ -4,13 +4,13 @@
         "https://threatpost.com/experian-api-leaks-american-credit-scores/165731/"
     ],
     "month": 4,
-    "summary": "A researcher is claiming that the credit scores of almost every American were exposed through an API",
+    "summary": "Broken authorization on an API allowed querying the credit score for any entity in the DB",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Hacktivist",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A5",
-        "motive": "Money:Credit Card"
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism"
     },
     "year": 2021
 }
