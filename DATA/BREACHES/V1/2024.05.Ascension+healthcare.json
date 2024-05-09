@@ -1,0 +1,16 @@
+{
+    "entity": "Ascension healthcare",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/ascension-healthcare-takes-systems-offline-after-cyberattack/"
+    ],
+    "month": 5,
+    "summary": "Company reported a cyber attack with little to no additional information",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2024
+}
