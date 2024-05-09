@@ -1,0 +1,16 @@
+{
+    "entity": "Global Tel Link",
+    "links": [
+        "https://arstechnica.com/tech-policy/2023/11/prison-phone-company-leaked-600k-users-data-and-didnt-notify-them-ftc-says/"
+    ],
+    "month": 8,
+    "summary": "S3 bucket leak of PII",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 649000,
+        "initial-access": "Misconfiguration",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
