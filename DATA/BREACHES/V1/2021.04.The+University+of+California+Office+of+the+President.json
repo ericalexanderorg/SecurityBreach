@@ -1,0 +1,16 @@
+{
+    "entity": "The University of California Office of the President",
+    "links": [
+        "https://www.newuniversity.org/2021/04/26/uc-system-information-compromised-in-accellion-data-breach-after-nation-wide-cybersecurity-attack/"
+    ],
+    "month": 4,
+    "summary": "Accellion vulnerability exploited",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Missing Patch",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
