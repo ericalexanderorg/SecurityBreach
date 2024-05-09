@@ -1,16 +1,17 @@
 {
     "entity": "Barclays",
     "links": [
-        "https://fire.fundersclub.com/\nhttps://thecyberexpress.com/hsbc-bank-data-breach-barclays/amp/"
+        "https://thecyberexpress.com/hsbc-bank-data-breach-barclays/amp/",
+        "https://twitter.com/DarkWebInformer/status/1788185745707983086"
     ],
     "month": 5,
-    "summary": "API ERROR: SOURCE IS TOO SHORT",
+    "summary": "Speculation of a breach at Barclays and HSBC",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "Broken Access Control",
-        "motive": "Money:Credit Card"
+        "initial-access": "?",
+        "motive": "?"
     },
     "year": 2024
 }
