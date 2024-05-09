@@ -1,0 +1,16 @@
+{
+    "entity": "Ascension healthcare",
+    "links": [
+        "https://fire.fundersclub.com/\nhttps://www.bleepingcomputer.com/news/security/ascension-healthcare-takes-systems-offline-after-cyberattack/"
+    ],
+    "month": 5,
+    "summary": "API ERROR: SOURCE IS TOO SHORT",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2024
+}
