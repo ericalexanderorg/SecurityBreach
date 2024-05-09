@@ -8,9 +8,9 @@
     "tags": {
         "actor": "Hacktivist",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 72000,
         "initial-access": "?",
-        "motive": "Espionage"
+        "motive": "Hacktivism"
     },
     "year": 2021
 }
