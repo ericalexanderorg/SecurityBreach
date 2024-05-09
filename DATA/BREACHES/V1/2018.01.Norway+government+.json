@@ -3,14 +3,14 @@
     "links": [
         "https://securityaffairs.co/wordpress/119161/apt/norway-blames-china-apt31.html"
     ],
-    "month": 6,
+    "month": 1,
     "summary": "Norway police secret service states said that China-linked APT31 group was behind the 2018 cyberatta",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Nation State:APT31",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Espionage"
+        "motive": "Political"
     },
-    "year": 2021
+    "year": 2018
 }
