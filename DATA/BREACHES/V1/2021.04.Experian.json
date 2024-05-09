@@ -1,0 +1,16 @@
+{
+    "entity": "Experian",
+    "links": [
+        "https://threatpost.com/experian-api-leaks-american-credit-scores/165731/"
+    ],
+    "month": 4,
+    "summary": "Broken authorization on an API allowed querying the credit score for any entity in the DB",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism"
+    },
+    "year": 2021
+}
