@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 2021042704 Sonicwall",
+    "links": [
+        "https://www.darkreading.com/perimeter/zero-day-flaws-in-sonicwall-email-security-tool-under-attack/d/d-id/1340783"
+    ],
+    "month": 4,
+    "summary": "Zero day on SonicWall email protection devices led to one confirmed breache",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Missing Patch",
+        "motive": "?"
+    },
+    "year": 2021
+}
