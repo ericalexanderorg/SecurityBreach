@@ -1,0 +1,16 @@
+{
+    "entity": "Dell",
+    "links": [
+        "https://fire.fundersclub.com/\nhttps://news.ycombinator.com/item?id=40313680"
+    ],
+    "month": 5,
+    "summary": "API ERROR: SOURCE IS TOO SHORT",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
