@@ -4,13 +4,13 @@
         "https://thehackernews.com/2021/04/php-sites-user-database-was-hacked-in.html"
     ],
     "month": 4,
-    "summary": "The maintainers of the PHP programming language have issued an update regarding the security inciden",
+    "summary": "PHP maintainers servers compromised in supply chain attack",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Espionage"
+        "motive": "?"
     },
     "year": 2021
 }
