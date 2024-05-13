@@ -1,0 +1,16 @@
+{
+    "entity": "GEICO",
+    "links": [
+        "https://www.securityweek.com/car-insurance-company-geico-discloses-data-breach"
+    ],
+    "month": 4,
+    "summary": "Information, likely from other breaches, used to gain access to PII on Geico's site. Potentially then used to file unemployment claims.",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
