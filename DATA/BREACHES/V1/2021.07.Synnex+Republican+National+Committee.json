@@ -1,0 +1,17 @@
+{
+    "entity": "Synnex and Republican National Committee",
+    "links": [
+        "https://www.theverge.com/2021/7/6/22565779/rnc-breach-russian-hackers-cozy-bear",
+        "https://en.wikipedia.org/wiki/Cozy_Bear"
+    ],
+    "month": 7,
+    "summary": "Information technology supply chain services company breached with intent to gain access to GOP data and systems",
+    "tags": {
+        "actor": "Nation State:The Dukes",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2021
+}
