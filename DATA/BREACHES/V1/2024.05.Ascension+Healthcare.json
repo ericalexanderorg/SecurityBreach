@@ -1,0 +1,16 @@
+{
+    "entity": "Ascension Healthcare",
+    "links": [
+        "https://www.darkreading.com/cyberattacks-data-breaches/ascension-healthcare-hit-by-cyberattack"
+    ],
+    "month": 5,
+    "summary": "Healthcare provider Ascension, which operates 140 hospitals across 19 states, fell victim to a cyber",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 4000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
