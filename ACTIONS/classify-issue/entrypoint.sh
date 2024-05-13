@@ -18,7 +18,7 @@ URL=$(echo "$GITHUB_ISSUE_BODY" | grep -o "https\?://[a-zA-Z0-9./?=_-]*")
 # The tool adds a link to above in the issue, so we need to extract the second link
 if [[ $URL == *"fundersclub.com"* ]]; then
     echo "Removing fundersclub.com link"
-    $URL=$(echo $URL | sed -n '2p')
+    URL=$(echo "$GITHUB_ISSUE_BODY" | grep -o "https\?://[a-zA-Z0-9./?=_-]*" | sed -n '2p')
 fi
 
 echo "$URL"
