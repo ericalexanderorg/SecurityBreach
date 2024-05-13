@@ -6,11 +6,11 @@
     "month": 4,
     "summary": "Codecov Security EventOn April 15, 2021, Codecov publicly disclosed a security event during which an",
     "tags": {
-        "actor": "Criminal",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Espionage"
+        "motive": "?"
     },
     "year": 2021
 }
