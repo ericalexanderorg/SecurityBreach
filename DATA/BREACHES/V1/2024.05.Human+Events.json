@@ -1,0 +1,16 @@
+{
+    "entity": "Human Events",
+    "links": [
+        "https://www.mediaite.com/politics/conservative-news-websites-hacked-replaced-with-page-leaking-private-information/"
+    ],
+    "month": 5,
+    "summary": "Site defaced and data exposed",
+    "tags": {
+        "actor": "Hacktivism:Schadenfreude",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism"
+    },
+    "year": 2024
+}
