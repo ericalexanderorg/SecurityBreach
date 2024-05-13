@@ -14,6 +14,13 @@ echo "Getting URL from issue body"
 GITHUB_ISSUE_BODY=$(jq --raw-output .issue.body "$GITHUB_EVENT_PATH")
 echo "$GITHUB_ISSUE_BODY"
 URL=$(echo "$GITHUB_ISSUE_BODY" | grep -o "https\?://[a-zA-Z0-9./?=_-]*")
+# A tool (https://fire.fundersclub.com/) is used to email links to issues
+# The tool adds a link to above in the issue, so we need to extract the second link
+if [[ $URL == *"fundersclub.com"* ]]; then
+    echo "Removing fundersclub.com link"
+    $URL=$(echo $URL | sed -n '2p')
+fi
+
 echo "$URL"
 
 echo "Installing dependencies"
