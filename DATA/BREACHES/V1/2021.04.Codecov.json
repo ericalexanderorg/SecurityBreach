@@ -1,0 +1,17 @@
+{
+    "entity": "Codecov",
+    "links": [
+        "https://about.codecov.io/security-update/",
+        "https://www.reuters.com/technology/codecov-hackers-breached-hundreds-restricted-customer-sites-sources-2021-04-19/"
+    ],
+    "month": 4,
+    "summary": "Supply chain attack. Codecov was breached and then used to access other entities.",
+    "tags": {
+        "actor": "?",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "?"
+    },
+    "year": 2021
+}
