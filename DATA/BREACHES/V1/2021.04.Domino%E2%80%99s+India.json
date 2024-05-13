@@ -1,0 +1,16 @@
+{
+    "entity": "Domino\u2019s India",
+    "links": [
+        "https://thepolicytimes.com/massive-data-breach-of-dominos-india-10-lakh-credit-cards-on-sale/"
+    ],
+    "month": 4,
+    "summary": "After Facebook and LinkedIn, Domino's India became a victim of a major data breach. Alon Gal, the co",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2021
+}
