@@ -1,0 +1,16 @@
+{
+    "entity": "Dennis Group",
+    "links": [
+        "https://searchstorage.techtarget.com/news/252499346/Engineering-firm-thwarts-ransomware-attack-with-Nasuni"
+    ],
+    "month": 4,
+    "summary": "Using an exploit in an older version of Microsoft SQL Server, cyberattackers successfully deployed r",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Missing Patch",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
