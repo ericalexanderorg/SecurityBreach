@@ -4,13 +4,13 @@
         "https://local12.com/news/local/trihealth-reports-patient-and-employee-data-breach-through-law-firm"
     ],
     "month": 4,
-    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "summary": "Fallout from a ransomware breach at a law office used by the entity.",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A5",
-        "motive": "Political"
+        "initial-access": "?",
+        "motive": "Money:Ransom"
     },
     "year": 2021
 }
