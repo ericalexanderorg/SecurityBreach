@@ -4,13 +4,13 @@
         "https://securityaffairs.co/wordpress/117208/hacking/soliton-filezen-file-sharing-servers.html"
     ],
     "month": 4,
-    "summary": "Threat actors are exploiting two flaws in the popular file-sharing server FileZen to steal sensitive",
+    "summary": "CVE-2020-5639 exploited",
     "tags": {
         "actor": "Nation State",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A9",
-        "motive": "Espionage"
+        "initial-access": "Missing Patch",
+        "motive": "Political"
     },
     "year": 2021
 }
