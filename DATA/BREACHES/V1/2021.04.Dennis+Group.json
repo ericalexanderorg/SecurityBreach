@@ -6,10 +6,10 @@
     "month": 4,
     "summary": "Using an exploit in an older version of Microsoft SQL Server, cyberattackers successfully deployed r",
     "tags": {
-        "actor": "Nation State",
+        "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
+        "initial-access": "Missing Patch",
         "motive": "Money:Ransom"
     },
     "year": 2021
