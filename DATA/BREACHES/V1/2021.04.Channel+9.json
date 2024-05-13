@@ -6,11 +6,11 @@
     "month": 4,
     "summary": "A live broadcast by Australia's Channel Nine TV station was taken offline by a cyber attack on Sunda",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Hacktivist",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Money:Ransom"
+        "motive": "Hacktivism"
     },
     "year": 2021
 }
