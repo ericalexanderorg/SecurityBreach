@@ -1,0 +1,17 @@
+{
+    "entity": "Pentagon",
+    "links": [
+        "https://www.npr.org/2023/04/15/1170246184/the-intelligence-community-is-doing-damage-control-after-the-pentagon-leaks",
+        "https://en.wikipedia.org/wiki/Cozy_Bear"
+    ],
+    "month": 8,
+    "summary": "Pentagon email systems shut down following a spear phishing attack by The Dukes",
+    "tags": {
+        "actor": "Nation State:The Dukes",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Phishing",
+        "motive": "Espionage"
+    },
+    "year": 2015
+}
