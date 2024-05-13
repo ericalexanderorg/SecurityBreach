@@ -4,13 +4,13 @@
         "https://www.echo.ie/tallaght/article/ransomware-attacks-hit-it-system-at-tallaght-campus"
     ],
     "month": 4,
-    "summary": "API ERROR: TEXT IS TOO SHORT 2",
+    "summary": "Ransomware attack",
     "tags": {
         "actor": "Criminal",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "OWASP:A5",
-        "motive": "Money:Cryptocurrency"
+        "initial-access": "?",
+        "motive": "Money:Ransom"
     },
     "year": 2021
 }
