@@ -1,0 +1,16 @@
+{
+    "entity": "Channel 9",
+    "links": [
+        "https://www.itpro.co.uk/security/cyber-attacks/359048/australias-channel-9-hit-by-cyber-attack-during-live-broadcast"
+    ],
+    "month": 4,
+    "summary": "A live broadcast by Australia's Channel Nine TV station was taken offline by a cyber attack on Sunda",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism"
+    },
+    "year": 2021
+}
