@@ -1,0 +1,16 @@
+{
+    "entity": "D.C. based private research institute",
+    "links": [
+        "https://web.archive.org/web/20170218075031/https://www.symantec.com/connect/blogs/forkmeiamfamous-seaduke-latest-weapon-duke-armory"
+    ],
+    "month": 4,
+    "summary": "",
+    "tags": {
+        "actor": "Nation State:The Dukes",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Phishing",
+        "motive": "Espionage"
+    },
+    "year": 2014
+}
