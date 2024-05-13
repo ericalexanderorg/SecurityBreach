@@ -6,11 +6,11 @@
     "month": 4,
     "summary": "PITTSBURGH - The app Pittsburgh Parking Authority uses has had a data breach affecting 21 million us",
     "tags": {
-        "actor": "Hacktivist",
+        "actor": "?",
         "cost-usd": 0,
-        "impacted-user-count": 0,
+        "impacted-user-count": 21000000,
         "initial-access": "?",
-        "motive": "Hacktivism:Schadenfreude"
+        "motive": "?"
     },
     "year": 2021
 }
