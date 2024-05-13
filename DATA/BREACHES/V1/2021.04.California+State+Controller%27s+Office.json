@@ -6,11 +6,11 @@
     "month": 4,
     "summary": "A phishing attack last week gave attackers access to email and files at the California State Control",
     "tags": {
-        "actor": "Nation State",
+        "actor": "?",
         "cost-usd": 1000000,
         "impacted-user-count": 0,
-        "initial-access": "ATT&CK:T1193",
-        "motive": "Espionage"
+        "initial-access": "Phishing",
+        "motive": "?"
     },
     "year": 2021
 }
