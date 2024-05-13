@@ -4,13 +4,13 @@
         "https://www.securityweek.com/three-zero-day-flaws-sonicwall-email-security-product-exploited-attacks"
     ],
     "month": 4,
-    "summary": "SonicWall's Email Security product is affected by three vulnerabilities that have been exploited in ",
+    "summary": "CVE-2021-20021 exploited to breach many entities.",
     "tags": {
-        "actor": "Nation State",
+        "actor": "?",
         "cost-usd": 0,
         "impacted-user-count": 0,
-        "initial-access": "?",
-        "motive": "PII:?"
+        "initial-access": "Missing Patch",
+        "motive": "?"
     },
     "year": 2021
 }
