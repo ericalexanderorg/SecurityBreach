@@ -1,0 +1,16 @@
+{
+    "entity": "The British Library",
+    "links": [
+        "https://blogs.lse.ac.uk/impactofsocialsciences/2024/03/19/the-british-library-hack-is-a-warning-for-all-academic-libraries/"
+    ],
+    "month": 5,
+    "summary": "Though the Library is slowly recovering and has admirably published their cyber-incident review pape",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
