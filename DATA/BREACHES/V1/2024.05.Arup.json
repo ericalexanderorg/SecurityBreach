@@ -1,0 +1,16 @@
+{
+    "entity": "Arup",
+    "links": [
+        "https://www.cnn.com/2024/05/16/tech/arup-deepfake-scam-loss-hong-kong-intl-hnk/index.html"
+    ],
+    "month": 5,
+    "summary": "API ERROR: THE REQUESTED PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
