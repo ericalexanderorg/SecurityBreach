@@ -1,0 +1,16 @@
+{
+    "entity": "Snowflake",
+    "links": [
+        "https://www.hudsonrock.com/blog/snowflake-massive-breach-access-through-infostealer-infection"
+    ],
+    "month": 5,
+    "summary": "By directly communicating with the threat actor behind the massive data breach of cloud storage gian",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 2000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2024
+}
