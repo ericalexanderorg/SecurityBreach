@@ -1,0 +1,16 @@
+{
+    "entity": "Ticketmaster",
+    "links": [
+        "https://www.foxnews.com/tech/ticketmaster-data-breach-exposes-560-million-customers-data-group-says"
+    ],
+    "month": 6,
+    "summary": "Here's what you need to know about the Ticketmaster breach and how to keep yourself safe from other ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Monitoring Failure",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2024
+}
