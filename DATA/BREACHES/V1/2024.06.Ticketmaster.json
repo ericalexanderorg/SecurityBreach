@@ -1,0 +1,16 @@
+{
+    "entity": "Ticketmaster",
+    "links": [
+        "https://variety.com/2024/digital/news/ticketmaster-hack-customer-data-security-breach-live-nation-1236021996/"
+    ],
+    "month": 6,
+    "summary": "Three days after initial reports that a notorious hacking group had stolen info on more than 500 mil",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 5000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2024
+}
