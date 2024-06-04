@@ -1,0 +1,16 @@
+{
+    "entity": "Snowflake",
+    "links": [
+        "https://community.snowflake.com/s/question/0D5VI00000Emyl00AB/detecting-and-preventing-unauthorized-user-access"
+    ],
+    "month": 6,
+    "summary": "Snowflake.com needs to review the security of your connection before proceeding. Snowflake.com to re",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Criminal:Money"
+    },
+    "year": 2024
+}
