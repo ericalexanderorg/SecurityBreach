@@ -1,0 +1,16 @@
+{
+    "entity": "Santander",
+    "links": [
+        "https://www.bbc.com/news/articles/c6ppv06e3n8o"
+    ],
+    "month": 6,
+    "summary": "Hackers are attempting to sell what they say is confidential information belonging to millions of Sa",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
