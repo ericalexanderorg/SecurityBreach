@@ -1,0 +1,16 @@
+{
+    "entity": "EU",
+    "links": [
+        "https://apnews.com/article/europe-election-cybersecurity-russia-ukraine-5b0cca725d17a028dd458df77a60440c?ref=news.risky.biz"
+    ],
+    "month": 6,
+    "summary": "ATHENS, Greece - Disruptive digital attacks, many linked to Russian-backed groups, have doubled in t",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
