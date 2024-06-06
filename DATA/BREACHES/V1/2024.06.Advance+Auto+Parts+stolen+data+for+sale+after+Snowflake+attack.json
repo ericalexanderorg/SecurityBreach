@@ -1,0 +1,16 @@
+{
+    "entity": "Advance Auto Parts stolen data for sale after Snowflake attack",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/advance-auto-parts-stolen-data-for-sale-after-snowflake-attack/"
+    ],
+    "month": 6,
+    "summary": "Threat actors claim to be selling 3TB of data from Advance Auto Parts, a leading automotive aftermar",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
