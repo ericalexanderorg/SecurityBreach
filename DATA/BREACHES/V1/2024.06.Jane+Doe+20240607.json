@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 20240607",
+    "links": [
+        "https://cointelegraph.com/news/web3-dev-loses-40k-github-key-leak"
+    ],
+    "month": 6,
+    "summary": "A Web3 developer shared the unfortunate story of losing funds after accidentally making his wallet k",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 4000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Cryptocurrency"
+    },
+    "year": 2024
+}
