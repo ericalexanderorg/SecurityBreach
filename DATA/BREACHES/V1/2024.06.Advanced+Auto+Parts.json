@@ -1,0 +1,16 @@
+{
+    "entity": "Advanced Auto Parts",
+    "links": [
+        "https://www.axios.com/2024/06/07/advance-auto-parts-snowflake-data-breach"
+    ],
+    "month": 6,
+    "summary": "Flooding - which has gotten increasingly severe in an era of extreme weather - costs the U.S. econom",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2024
+}
