@@ -1,0 +1,16 @@
+{
+    "entity": "Ritz London",
+    "links": [
+        "https://www.zdnet.com/article/ritz-london-struck-by-data-breach-fraudsters-pose-as-staff-in-credit-card-data-scam/"
+    ],
+    "month": 8,
+    "summary": "The Ritz Hotel in London has launched an investigation into a data breach in which scammers may have",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
