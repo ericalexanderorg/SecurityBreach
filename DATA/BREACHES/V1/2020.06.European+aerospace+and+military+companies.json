@@ -1,0 +1,16 @@
+{
+    "entity": "European aerospace and military companies",
+    "links": [
+        "https://www.zdnet.com/article/north-koreas-state-hackers-caught-engaging-in-bec-scams/"
+    ],
+    "month": 6,
+    "summary": "Speaking in a live stream to an audience of thousands, ESET security researcher Jean-Ian Boutin said",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
