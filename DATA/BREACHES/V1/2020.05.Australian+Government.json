@@ -1,0 +1,16 @@
+{
+    "entity": "Australian Government",
+    "links": [
+        "https://www.9news.com.au/national/chinese-cyberattack-blamed-for-hack-on-wa-government/f1de86d4-67a6-498e-a95d-3624727a6856"
+    ],
+    "month": 5,
+    "summary": "Western Australian officials have launched an investigation after the office of Premier Mark McGowan",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
