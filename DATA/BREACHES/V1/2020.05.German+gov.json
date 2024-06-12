@@ -1,0 +1,16 @@
+{
+    "entity": "German gov",
+    "links": [
+        "https://securityaffairs.co/wordpress/103172/intelligence/russian-hackers-targeted-merkel.html?utm_source=rss"
+    ],
+    "month": 5,
+    "summary": "German Chancellor Angela Merkel revealed that she is the target of an \"Outrageous\" cyber espionage c",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
