@@ -1,0 +1,16 @@
+{
+    "entity": "Georgetown County",
+    "links": [
+        "https://securityaffairs.co/wordpress/114908/hacking/georgetown-county-cyberattack.html"
+    ],
+    "month": 2,
+    "summary": "The systems of Georgetown County have been hacked at the end of January, and the county staff is sti",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
