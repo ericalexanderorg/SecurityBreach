@@ -1,0 +1,16 @@
+{
+    "entity": "GEO Group",
+    "links": [
+        "https://www.securityweek.com/private-prison-operator-geo-group-discloses-data-breach"
+    ],
+    "month": 11,
+    "summary": "Florida-based private prison operator GEO Group this week revealed that it was recently targeted in ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
