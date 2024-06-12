@@ -1,0 +1,16 @@
+{
+    "entity": "Mottech Water Management",
+    "links": [
+        "https://threatpost.com/lax-security-smart-irrigation-attack/160625/"
+    ],
+    "month": 10,
+    "summary": "More than 100 smart-irrigation systems deployed across the globe were installed without changing the",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2020
+}
