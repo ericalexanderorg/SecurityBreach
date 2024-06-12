@@ -1,0 +1,16 @@
+{
+    "entity": "Yahoo",
+    "links": [
+        "https://www.securityweek.com/former-yahoo-employee-avoids-jail-after-hacking-user-accounts"
+    ],
+    "month": 7,
+    "summary": "A former Yahoo! employee who admitted to hacking into the accounts of thousands of users was sentenc",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A2",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
