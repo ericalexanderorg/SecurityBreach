@@ -1,0 +1,16 @@
+{
+    "entity": "Toledo Public Schools",
+    "links": [
+        "https://nbc24.com/news/local/tps-confirms-ransomware-attack-that-exposed-staff-and-students-personal-information"
+    ],
+    "month": 10,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2020
+}
