@@ -1,0 +1,16 @@
+{
+    "entity": "No Support Linux Hosting",
+    "links": [
+        "https://www.nosupportlinuxhosting.com/"
+    ],
+    "month": 2,
+    "summary": "On February 8, 2021, a hacker successfully compromised all the servers we use to operate our busines",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2021
+}
