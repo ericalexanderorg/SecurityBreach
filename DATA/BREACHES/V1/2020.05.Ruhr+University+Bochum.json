@@ -1,0 +1,16 @@
+{
+    "entity": "Ruhr University Bochum",
+    "links": [
+        "https://securityaffairs.co/wordpress/102916/hacking/ruhr-university-bochum-attack.html"
+    ],
+    "month": 5,
+    "summary": "Ruhr University Bochum shuts down a large portion of its central IT infrastructure between May 6 and",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
