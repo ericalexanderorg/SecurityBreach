@@ -1,0 +1,16 @@
+{
+    "entity": "Claire's",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/accessories-giant-claires-hacked-to-steal-credit-card-info/"
+    ],
+    "month": 6,
+    "summary": "The websites for U.S. based jewelry and accessory giant Claire's, and its subsidiary Icing, were com",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
