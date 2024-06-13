@@ -1,0 +1,16 @@
+{
+    "entity": "Experian South Africa",
+    "links": [
+        "https://securityaffairs.co/wordpress/107347/data-breach/experian-africa-data-breach.html"
+    ],
+    "month": 8,
+    "summary": "The South African branch of consumer credit reporting agency Experian disclosed a data breach that i",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
