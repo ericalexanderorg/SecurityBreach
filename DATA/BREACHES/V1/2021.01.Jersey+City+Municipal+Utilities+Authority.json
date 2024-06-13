@@ -1,0 +1,16 @@
+{
+    "entity": "Jersey City Municipal Utilities Authority",
+    "links": [
+        "https://www.govtech.com/security/New-Jersey-City-Utility-Struggling-With-Costly-Cyberattack.html"
+    ],
+    "month": 1,
+    "summary": "The recent cyberattack at the Jersey City Municipal Utilities Authority inflicted damage that lasted",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
