@@ -1,0 +1,16 @@
+{
+    "entity": "Red Wing Shoes",
+    "links": [
+        "https://www.wctrib.com/business/retail/6761707-Red-Wing-Shoes-No-data-breach-in-cyber-attack"
+    ],
+    "month": 11,
+    "summary": "RED WING, Minn. - Red Wing Shoes shut down its e-commerce website on Halloween in response to a cybe",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
