@@ -1,0 +1,16 @@
+{
+    "entity": "Angilicare",
+    "links": [
+        "https://www.itnews.com.au/news/anglicare-sydney-says-17gb-data-transmitted-to-remote-location-after-attack-553654"
+    ],
+    "month": 9,
+    "summary": "Anglicare Sydney has revealed 17GB of its data was transmitted \"To a remote location\" after a ransom",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
