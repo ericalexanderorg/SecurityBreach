@@ -1,0 +1,16 @@
+{
+    "entity": "Subway UK",
+    "links": [
+        "https://securityaffairs.co/wordpress/112248/data-breach/subway-uk-trickbot-phishing.html"
+    ],
+    "month": 12,
+    "summary": "Subway UK confirmed the hack of a marketing system that was used to send out phishing messages to de",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
