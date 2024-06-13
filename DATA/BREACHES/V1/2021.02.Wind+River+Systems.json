@@ -1,0 +1,16 @@
+{
+    "entity": "Wind River Systems",
+    "links": [
+        "https://www.securityweek.com/embedded-software-developer-wind-river-discloses-data-breach"
+    ],
+    "month": 2,
+    "summary": "Embedded system software provider Wind River Systems has started informing employees of a data breac",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
