@@ -1,0 +1,16 @@
+{
+    "entity": "Military and financial orgs in Eastern Europe",
+    "links": [
+        "https://securityaffairs.co/wordpress/107128/apt/catuspete-updated-backdoor.html"
+    ],
+    "month": 8,
+    "summary": "China-linked threat actor tracked as CactusPete was employing an updated backdoor in recent attacks ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
