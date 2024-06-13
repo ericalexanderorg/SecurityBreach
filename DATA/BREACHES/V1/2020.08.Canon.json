@@ -1,0 +1,16 @@
+{
+    "entity": "Canon",
+    "links": [
+        "https://threatpost.com/canon-ransomware-attack-employee-note/158157/"
+    ],
+    "month": 8,
+    "summary": "A day after Canon was suspected of becoming the latest high-profile victim of a ransomware attack, a",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
