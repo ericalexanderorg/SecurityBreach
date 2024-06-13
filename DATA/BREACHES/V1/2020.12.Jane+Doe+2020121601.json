@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 2020121601",
+    "links": [
+        "https://www.trendmicro.com/vinfo/us/security/news/cyber-attacks/operation-earth-kitsune-tracking-slub-s-current-operations"
+    ],
+    "month": 12,
+    "summary": "We have already published findings on the SLUB malware's past campaigns. In our latest research pape",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
