@@ -1,0 +1,16 @@
+{
+    "entity": "Toll",
+    "links": [
+        "https://securityaffairs.co/wordpress/102828/malware/toll-second-ransomware-attack.html"
+    ],
+    "month": 5,
+    "summary": "Australian shipping giant Toll informed its customers that it has shut down some IT systems due to a",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
