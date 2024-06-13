@@ -1,0 +1,16 @@
+{
+    "entity": "Hurtigruten",
+    "links": [
+        "https://securityaffairs.co/wordpress/112320/malware/cruise-company-hurtigruten-ransomware.html"
+    ],
+    "month": 12,
+    "summary": "Norwegian cruise company Hurtigruten disclosed a cyber attack that impacted its entire worldwide dig",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
