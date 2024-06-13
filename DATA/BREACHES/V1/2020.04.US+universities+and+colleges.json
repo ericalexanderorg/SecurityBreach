@@ -1,0 +1,16 @@
+{
+    "entity": "US universities and colleges",
+    "links": [
+        "https://securityaffairs.co/wordpress/102281/uncategorized/crooks-target-us-universities.html"
+    ],
+    "month": 4,
+    "summary": "Several US universities and colleges were targeted in phishing attacks aimed at delivering malware p",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
