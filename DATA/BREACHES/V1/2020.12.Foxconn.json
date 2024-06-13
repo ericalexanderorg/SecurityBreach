@@ -1,0 +1,16 @@
+{
+    "entity": "Foxconn",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/foxconn-electronics-giant-hit-by-ransomware-34-million-ransom/"
+    ],
+    "month": 12,
+    "summary": "Foxconn electronics giant suffered a ransomware attack at a Mexican facility over the Thanksgiving w",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
