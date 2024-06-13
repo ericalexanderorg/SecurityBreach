@@ -1,0 +1,16 @@
+{
+    "entity": "Update ticket master",
+    "links": [
+        "https://www.theregister.com/2020/11/13/ticketmaster_fined_1_25m_magecart_breach/"
+    ],
+    "month": 11,
+    "summary": "The Information Commissioner's Office has fined Ticketmaster \u00a31.25m after the site's operators faile",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A10",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
