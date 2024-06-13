@@ -1,0 +1,16 @@
+{
+    "entity": "Tyler Technologies",
+    "links": [
+        "https://www.securityweek.com/government-software-provider-tyler-technologies-hit-possible-ransomware-attack"
+    ],
+    "month": 9,
+    "summary": "Tyler Technologies, a major Texas-based provider of software and services for the U.S. government, s",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
