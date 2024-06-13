@@ -1,0 +1,16 @@
+{
+    "entity": "Ubiqus Group",
+    "links": [
+        "https://hamodia.com/2021/01/03/hackers-freeze-nyc-public-school-systems/"
+    ],
+    "month": 1,
+    "summary": "A cyberattack paralyzed the city's Department of Education transcript provider in early December, an",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
