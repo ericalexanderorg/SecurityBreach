@@ -1,0 +1,16 @@
+{
+    "entity": "Jebsen Group",
+    "links": [
+        "https://www.cdotrends.com/story/15154/jebsen-centralizes-backup-and-survives-ransomware-attack"
+    ],
+    "month": 11,
+    "summary": "The 125-year conglomerate did not have a groupwide disaster recovery plan, and its backup process wa",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
