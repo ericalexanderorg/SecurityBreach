@@ -1,0 +1,16 @@
+{
+    "entity": "Unacademy",
+    "links": [
+        "https://www.meusec.com/hacking/news-unacademy-hacked-data-sold-at-darkweb-security/"
+    ],
+    "month": 5,
+    "summary": "Hemesh Singh , The co-founder and the CTO of Unacademy in a statement said that \"As per our internal",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
