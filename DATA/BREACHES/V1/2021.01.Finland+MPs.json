@@ -1,0 +1,16 @@
+{
+    "entity": "Finland MPs",
+    "links": [
+        "https://securityaffairs.co/wordpress/112731/cyber-warfare-2/finland-security-breach.html"
+    ],
+    "month": 1,
+    "summary": "The Parliament of Finland confirmed that threat actors had access to email accounts of multiple memb",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
