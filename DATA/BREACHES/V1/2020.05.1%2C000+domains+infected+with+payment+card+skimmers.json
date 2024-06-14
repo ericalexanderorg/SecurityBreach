@@ -1,0 +1,16 @@
+{
+    "entity": "1,000 domains infected with payment card skimmers",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/researcher-finds-1-236-websites-infected-with-credit-card-stealers/"
+    ],
+    "month": 5,
+    "summary": "A security researcher collected in a span of a few weeks over 1,000 domains infected with payment ca",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
