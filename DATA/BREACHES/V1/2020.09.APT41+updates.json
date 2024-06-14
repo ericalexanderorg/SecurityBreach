@@ -1,0 +1,16 @@
+{
+    "entity": "APT41 updates",
+    "links": [
+        "https://www.zdnet.com/article/us-charges-five-hackers-part-of-chinese-state-sponsored-group-apt41/"
+    ],
+    "month": 9,
+    "summary": "The US government has filed charges today against five Chinese nationals for hacking into more than ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
