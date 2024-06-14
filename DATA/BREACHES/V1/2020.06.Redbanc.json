@@ -1,0 +1,16 @@
+{
+    "entity": "Redbanc",
+    "links": [
+        "https://www.zdnet.com/article/north-korean-hackers-infiltrate-chiles-atm-network-after-skype-job-interview/"
+    ],
+    "month": 6,
+    "summary": "A Skype call and a gullible employee was all it took for North Korean hackers to infiltrate the comp",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
