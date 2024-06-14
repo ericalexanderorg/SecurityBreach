@@ -1,0 +1,16 @@
+{
+    "entity": "Portnox",
+    "links": [
+        "https://www.timesofisrael.com/iran-linked-hackers-say-they-breached-israeli-cyber-security-firm-portnox/"
+    ],
+    "month": 1,
+    "summary": "The hacking group Pay2Key, which has been linked to Iran, said Thursday it hacked the computer syste",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2021
+}
