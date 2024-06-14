@@ -1,0 +1,16 @@
+{
+    "entity": "Kopter",
+    "links": [
+        "https://securityaffairs.co/wordpress/111998/cyber-crime/lockbit-ransomware-kopter.html"
+    ],
+    "month": 12,
+    "summary": "LockBit ransomware operators have compromised the systems at the helicopter maker Kopter and publish",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
