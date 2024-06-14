@@ -1,0 +1,16 @@
+{
+    "entity": "VT San Antonio Aerospace",
+    "links": [
+        "https://www.bloomberg.com/news/articles/2020-06-05/vt-san-antonio-aerospace-hit-with-criminal-ransomware-attack"
+    ],
+    "month": 11,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
