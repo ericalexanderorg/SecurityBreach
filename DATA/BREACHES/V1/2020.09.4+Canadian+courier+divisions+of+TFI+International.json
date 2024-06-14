@@ -1,0 +1,16 @@
+{
+    "entity": "4 Canadian courier divisions of TFI International",
+    "links": [
+        "https://www.freightwaves.com/news/breaking-news-tfi-ransomware-attack-hits-canadian-courier-divisions"
+    ],
+    "month": 9,
+    "summary": "A ransomware attack hit TFI International's four Canadian courier divisions on Thursday, two days af",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
