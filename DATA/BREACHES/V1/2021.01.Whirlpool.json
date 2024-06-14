@@ -1,0 +1,16 @@
+{
+    "entity": "Whirlpool",
+    "links": [
+        "https://www.pcrisk.com/internet-threat-news/19760-whirlpool-suffers-a-nefilim-ransomware-attack"
+    ],
+    "month": 1,
+    "summary": "In an article published by Bleeping Computer told the publication that Whirlpool suffered the ransom",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
