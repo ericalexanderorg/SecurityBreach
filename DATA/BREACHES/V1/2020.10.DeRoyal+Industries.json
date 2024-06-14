@@ -1,0 +1,16 @@
+{
+    "entity": "DeRoyal Industries",
+    "links": [
+        "https://www.knoxnews.com/story/news/crime/2020/10/27/deroyal-industries-tennessee-ransomware-attack/3754629001/"
+    ],
+    "month": 10,
+    "summary": "DeRoyal Industries, the Powell-based medical supplies manufacturer with an international presence, s",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
