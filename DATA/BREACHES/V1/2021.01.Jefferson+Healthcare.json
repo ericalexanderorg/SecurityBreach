@@ -1,0 +1,16 @@
+{
+    "entity": "Jefferson Healthcare",
+    "links": [
+        "https://www.ptleader.com/stories/jefferson-healthcare-hit-by-phishing-cyber-attack"
+    ],
+    "month": 1,
+    "summary": "API ERROR: THE PAGE COULD NOT BE FOUND",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2021
+}
