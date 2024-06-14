@@ -1,0 +1,16 @@
+{
+    "entity": "IPG Photonics",
+    "links": [
+        "https://siliconangle.com/2020/09/20/laser-developer-ipg-photonics-hit-ransomware-attack/"
+    ],
+    "month": 9,
+    "summary": "Nasdaq-listed U.S. laser company IP Photonics Corp. has been hit by a ransomware attack that shut do",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
