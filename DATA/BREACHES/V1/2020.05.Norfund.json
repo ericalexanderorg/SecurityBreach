@@ -1,0 +1,16 @@
+{
+    "entity": "Norfund",
+    "links": [
+        "https://securityaffairs.co/wordpress/103242/cyber-crime/norway-norfund-scam.html"
+    ],
+    "month": 5,
+    "summary": "Norway's state investment fund, Norfund, suffered a business email compromise attack, hackers stole ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
