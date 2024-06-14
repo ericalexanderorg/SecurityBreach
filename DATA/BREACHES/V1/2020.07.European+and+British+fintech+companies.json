@@ -1,0 +1,16 @@
+{
+    "entity": "European and British fintech companies",
+    "links": [
+        "https://securityaffairs.co/wordpress/105784/cyber-crime/evilnum-group.html"
+    ],
+    "month": 7,
+    "summary": "A threat actor tracked as Evilnum targeted financial technology companies, mainly the British and Eu",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
