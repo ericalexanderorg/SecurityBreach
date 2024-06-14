@@ -1,0 +1,16 @@
+{
+    "entity": "John Doe 2020121501",
+    "links": [
+        "https://www.volexity.com/blog/2020/12/14/dark-halo-leverages-solarwinds-compromise-to-breach-organizations/"
+    ],
+    "month": 12,
+    "summary": "Volexity has subsequently been able to tie these attacks to multiple incidents it worked in late 201",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
