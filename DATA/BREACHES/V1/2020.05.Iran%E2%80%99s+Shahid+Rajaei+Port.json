@@ -1,0 +1,16 @@
+{
+    "entity": "Iran\u2019s Shahid Rajaei Port",
+    "links": [
+        "https://securityaffairs.co/wordpress/103517/cyber-warfare-2/israel-cyberattack-iranian-port.html"
+    ],
+    "month": 5,
+    "summary": "Israel is likely behind the recent cyberattack which disrupted some operations at Iran's Shahid Raja",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
