@@ -1,0 +1,16 @@
+{
+    "entity": "Town Sports",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/us-fitness-chains-suffer-data-breach-affecting-600k-customers/"
+    ],
+    "month": 9,
+    "summary": "New York fitness chain Town Sports has suffered a data breach after a database containing the person",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
