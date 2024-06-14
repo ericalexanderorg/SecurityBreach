@@ -1,0 +1,16 @@
+{
+    "entity": "Saint John city",
+    "links": [
+        "https://www.country94.ca/2020/11/28/city-updates-virtual-attack-recovery-status/"
+    ],
+    "month": 11,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Political"
+    },
+    "year": 2020
+}
