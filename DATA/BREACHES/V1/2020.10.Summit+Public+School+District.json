@@ -1,0 +1,16 @@
+{
+    "entity": "Summit Public School District",
+    "links": [
+        "https://www.tapinto.net/towns/summit/sections/education/articles/superintendent-summit-public-school-district-s-network-hit-with-denial-of-service-attack"
+    ],
+    "month": 10,
+    "summary": "SUMMIT, NJ - The Summit Public School District's internet service provider has confirmed that the Di",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
