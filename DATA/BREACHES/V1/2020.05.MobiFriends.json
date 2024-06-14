@@ -1,0 +1,16 @@
+{
+    "entity": "MobiFriends",
+    "links": [
+        "https://threatpost.com/hackers-breach-3-5-million-mobifriends-dating-app-credentials/155590/"
+    ],
+    "month": 5,
+    "summary": "The credentials of 3.5 million users of MobiFriends, a popular dating app, have surfaced on a promin",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A9",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
