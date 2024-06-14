@@ -1,0 +1,16 @@
+{
+    "entity": "Kawasaki Heavy Industries",
+    "links": [
+        "https://threatpost.com/japanese-aerospace-firm-kawasaki-warns-of-data-breach/162642/"
+    ],
+    "month": 1,
+    "summary": "Japanese aerospace company Kawasaki Heavy Industries on Monday warned of a security incident that ma",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
