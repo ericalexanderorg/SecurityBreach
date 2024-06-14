@@ -1,0 +1,16 @@
+{
+    "entity": "Add supply chain breaches",
+    "links": [
+        "https://github.com/IQTLabs/software-supply-chain-compromises"
+    ],
+    "month": 12,
+    "summary": "The.csv file in this repository represents the work by IQT Labs to identify and create a living data",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
