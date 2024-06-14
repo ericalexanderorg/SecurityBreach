@@ -1,0 +1,16 @@
+{
+    "entity": "Clark County School District",
+    "links": [
+        "https://news3lv.com/news/local/ccsd-says-it-was-targeted-in-ransomware-attack"
+    ],
+    "month": 9,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2020
+}
