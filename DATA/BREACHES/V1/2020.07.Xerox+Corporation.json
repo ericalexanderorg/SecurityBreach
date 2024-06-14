@@ -1,0 +1,16 @@
+{
+    "entity": "Xerox Corporation",
+    "links": [
+        "https://securityaffairs.co/wordpress/105395/cyber-crime/maze-ransomware-hacked-xerox.html"
+    ],
+    "month": 7,
+    "summary": "Xerox Corporation is the last victim of the Maze ransomware operators, hackers have encrypted its fi",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
