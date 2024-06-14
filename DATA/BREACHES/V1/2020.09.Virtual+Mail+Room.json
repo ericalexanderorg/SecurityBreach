@@ -1,0 +1,16 @@
+{
+    "entity": "Virtual Mail Room",
+    "links": [
+        "https://www.gainsboroughstandard.co.uk/news/people/west-lindsey-residents-details-leaked-online-council-breach-2970446"
+    ],
+    "month": 9,
+    "summary": "London-based outsourcing firm Virtual Mail Room was hit by a targeted attack in June, when more than",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
