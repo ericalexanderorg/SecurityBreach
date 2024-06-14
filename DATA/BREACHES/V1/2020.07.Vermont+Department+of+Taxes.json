@@ -1,0 +1,16 @@
+{
+    "entity": "Vermont Department of Taxes",
+    "links": [
+        "https://threatpost.com/vermont-taxpayers-warned-of-data-leak-over-the-past-three-years/157856/"
+    ],
+    "month": 7,
+    "summary": "The Vermont Department of Taxes may have been exposing taxpayer data that could be used in credentia",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
