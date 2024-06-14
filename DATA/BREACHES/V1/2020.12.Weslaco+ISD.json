@@ -1,0 +1,16 @@
+{
+    "entity": "Weslaco ISD",
+    "links": [
+        "https://www.krgv.com/news/fbi-investigating-a-ransomware-attack-on-weslaco-isd-s-computer-network/"
+    ],
+    "month": 12,
+    "summary": "The FBI is investigating a ransomware attack on Weslaco ISD's computer network system on Monday. \"Th",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
