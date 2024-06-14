@@ -1,0 +1,16 @@
+{
+    "entity": "DigitalOcean",
+    "links": [
+        "https://www.securityweek.com/digitalocean-inadvertently-exposed-customer-data"
+    ],
+    "month": 5,
+    "summary": "Cloud infrastructure provider DigitalOcean is informing customers that it inadvertently exposed some",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
