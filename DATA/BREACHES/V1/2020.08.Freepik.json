@@ -1,0 +1,16 @@
+{
+    "entity": "Freepik",
+    "links": [
+        "https://www.securityweek.com/freepik-discloses-data-breach-impacting-83-million-users"
+    ],
+    "month": 8,
+    "summary": "Freepik Company, the organization behind the Freepik and Flaticon websites, has disclosed a data bre",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
