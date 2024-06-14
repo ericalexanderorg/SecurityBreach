@@ -1,0 +1,16 @@
+{
+    "entity": "Randstad",
+    "links": [
+        "https://www.securityweek.com/hr-giant-randstad-hit-egregor-ransomware"
+    ],
+    "month": 12,
+    "summary": "Human resources giant Randstad last week revealed that its IT systems were targeted in a recent cybe",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
