@@ -1,0 +1,16 @@
+{
+    "entity": "Algolia",
+    "links": [
+        "https://blog.algolia.com/salt-incident-may-3rd-2020-retrospective-and-update/"
+    ],
+    "month": 5,
+    "summary": "Servers were continuing to fire alerts, shutting down one by one, without a clear cause, and remote ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
