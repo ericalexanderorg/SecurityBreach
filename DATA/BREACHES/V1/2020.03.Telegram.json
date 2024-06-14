@@ -1,0 +1,16 @@
+{
+    "entity": "Telegram",
+    "links": [
+        "https://securityaffairs.co/wordpress/100810/data-breach/unofficial-telegram-fork-leak.html"
+    ],
+    "month": 3,
+    "summary": "Security expert Bob Diachenko discovered that 42 million Iranian 'Telegram' user IDs and phone numbe",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
