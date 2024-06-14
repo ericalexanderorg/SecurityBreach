@@ -1,0 +1,16 @@
+{
+    "entity": "Wyckoff Heights Medical Center",
+    "links": [
+        "https://securityaffairs.co/wordpress/110175/cyber-crime/brooklyn-vermont-us-hospitals-ransowmare.html"
+    ],
+    "month": 11,
+    "summary": "Wyckoff Heights Medical Center in Brooklyn and the University of Vermont Health Network are the last",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
