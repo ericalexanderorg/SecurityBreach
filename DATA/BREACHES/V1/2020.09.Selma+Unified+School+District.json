@@ -1,0 +1,16 @@
+{
+    "entity": "Selma Unified School District",
+    "links": [
+        "https://kmph.com/news/local/selma-unified-hit-with-ransomware-attack"
+    ],
+    "month": 9,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
