@@ -1,0 +1,16 @@
+{
+    "entity": "Several dozen e-commerce sites using Google Analytics",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/hackers-use-google-analytics-to-steal-credit-cards-bypass-csp/"
+    ],
+    "month": 6,
+    "summary": "Hackers are using Google's servers and the Google Analytics platform to steal credit card informatio",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
