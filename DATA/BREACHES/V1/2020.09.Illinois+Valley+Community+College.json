@@ -1,0 +1,16 @@
+{
+    "entity": "Illinois Valley Community College",
+    "links": [
+        "https://www.northernpublicradio.org/post/fallout-ransomware-attack-illinois-valley-community-college-still-far-over"
+    ],
+    "month": 9,
+    "summary": "\"We were able to recover most of our data and our major servers that contained all the student infor",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
