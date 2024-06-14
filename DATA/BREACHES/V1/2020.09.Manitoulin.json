@@ -1,0 +1,16 @@
+{
+    "entity": "Manitoulin",
+    "links": [
+        "https://www.freightwaves.com/news/canada-trucking-company-manitoulin-hit-by-ransomware-attack"
+    ],
+    "month": 9,
+    "summary": "A hacking group posted data stolen from Manitoulin Transport, one of Canada's largest trucking compa",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
