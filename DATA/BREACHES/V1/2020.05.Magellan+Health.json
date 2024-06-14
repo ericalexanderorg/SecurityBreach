@@ -1,0 +1,16 @@
+{
+    "entity": "Magellan Health",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/healthcare-giant-magellan-health-hit-by-ransomware-attack/"
+    ],
+    "month": 5,
+    "summary": "Fortune 500 company Magellan Health Inc announced today that it was the victim of a ransomware attac",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
