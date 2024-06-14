@@ -1,0 +1,16 @@
+{
+    "entity": "Shoprite",
+    "links": [
+        "https://www.hipaaguide.net/shoprite-data-breach-results-in-235000-hipaa-penalty-for-wakefern-food-corporation/"
+    ],
+    "month": 11,
+    "summary": "New Jersey Attorney General General Gurbir S. Grewal and the New Jersey Division of Consumer Affairs",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 2000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
