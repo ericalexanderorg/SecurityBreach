@@ -1,0 +1,16 @@
+{
+    "entity": "Microsoft Exchange Jane Does 20210305",
+    "links": [
+        "https://www.wired.com/story/china-microsoft-exchange-server-hack-victims/"
+    ],
+    "month": 3,
+    "summary": "Earlier this week that Chinese hackers were actively targeting Microsoft Exchange servers, the cyber",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2021
+}
