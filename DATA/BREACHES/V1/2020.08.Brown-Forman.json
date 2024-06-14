@@ -1,0 +1,16 @@
+{
+    "entity": "Brown-Forman",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/us-spirits-and-wine-giant-hit-by-cyberattack-1tb-of-data-stolen/"
+    ],
+    "month": 8,
+    "summary": "Brown-Forman, one of the largest U.S. companies in the spirits and wine business, suffered a cyber a",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
