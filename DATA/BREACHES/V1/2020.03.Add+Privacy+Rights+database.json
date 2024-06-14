@@ -1,0 +1,16 @@
+{
+    "entity": "Add Privacy Rights database",
+    "links": [
+        "https://privacyrights.org/data-breaches"
+    ],
+    "month": 3,
+    "summary": "API ERROR: THE PAGE IS TOO LONG TO RETRIEVE",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2020
+}
