@@ -1,0 +1,16 @@
+{
+    "entity": "Texas Department of Transportation",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/ransomware-attack-impacts-texas-department-of-transportation/"
+    ],
+    "month": 5,
+    "summary": "A new ransomware attack is affecting the Texas government. Less than a week ago, on May 8, the Texas",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
