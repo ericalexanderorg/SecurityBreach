@@ -1,0 +1,16 @@
+{
+    "entity": "OneClass",
+    "links": [
+        "https://www.securityweek.com/e-learning-platform-oneclass-exposed-data-students-lecturers"
+    ],
+    "month": 7,
+    "summary": "An Elasticsearch database pertaining to e-learning platform OneClass was found to expose data on ove",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
