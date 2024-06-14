@@ -1,0 +1,16 @@
+{
+    "entity": "NurseryCam",
+    "links": [
+        "https://securityaffairs.co/wordpress/114919/data-breach/nurserycam-security-breach.html"
+    ],
+    "month": 2,
+    "summary": "Daycare camera product NurseryCam was hacked last week, the company was forced to shut down its IoT ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
