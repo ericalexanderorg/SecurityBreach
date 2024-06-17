@@ -1,0 +1,16 @@
+{
+    "entity": "Panera",
+    "links": [
+        "https://www.darkreading.com/cyberattacks-data-breaches/panera-notifies-employees-of-compromised-data"
+    ],
+    "month": 6,
+    "summary": "Panera Bread, the US fast-casual food chain, has begun notifying its employees of a data breach, aft",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
