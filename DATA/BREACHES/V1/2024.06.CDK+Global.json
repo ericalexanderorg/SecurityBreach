@@ -1,0 +1,16 @@
+{
+    "entity": "CDK Global",
+    "links": [
+        "https://fortune.com/2024/06/24/cdk-ransomware-attack-car-dealerships-paperwork-sales-orders-software-cyberattack/"
+    ],
+    "month": 6,
+    "summary": "CDK Global, a company that provides software for thousands of auto dealers in the U.S. and Canada, w",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
