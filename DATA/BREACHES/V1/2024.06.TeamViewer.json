@@ -1,0 +1,16 @@
+{
+    "entity": "TeamViewer",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/teamviewers-corporate-network-was-breached-in-alleged-apt-hack/"
+    ],
+    "month": 6,
+    "summary": "The remote access software company TeamViewer is warning that its corporate environment was breached",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2024
+}
