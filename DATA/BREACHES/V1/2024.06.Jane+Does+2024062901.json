@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Does 2024062901",
+    "links": [
+        "https://www.wired.com/story/crypto-home-invasion-crime-ring/"
+    ],
+    "month": 6,
+    "summary": "API ERROR: THE REQUESTED PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
