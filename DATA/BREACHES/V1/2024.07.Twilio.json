@@ -1,0 +1,16 @@
+{
+    "entity": "Twilio",
+    "links": [
+        "https://www.foxnews.com/tech/33-million-authy-users-exposed-authentication-apps-own-security-nightmare"
+    ],
+    "month": 7,
+    "summary": "A hacker claimed to have stolen 33 million phone numbers from U.S. messaging giant Twilio. Twilio ha",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
