@@ -1,0 +1,16 @@
+{
+    "entity": "Disney",
+    "links": [
+        "https://hackread.com/disneys-internal-slack-breached-nullbulge-leak-data/"
+    ],
+    "month": 7,
+    "summary": "Hacktivist group NullBulge claims to have breached Disney, leaking 1.1 TiB of internal Slack data. A",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
