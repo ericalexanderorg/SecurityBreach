@@ -1,0 +1,16 @@
+{
+    "entity": "MGM",
+    "links": [
+        "https://www.westmidlands.police.uk/news/west-midlands/news/news/2024/july/walsall-teenager-arrested-in-joint-west-midlands-police-and-fbi-operation/?ref=news.risky.biz"
+    ],
+    "month": 7,
+    "summary": "API ERROR: SOURCE IS TOO SHORT",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
