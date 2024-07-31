@@ -1,0 +1,16 @@
+{
+    "entity": "Microsoft",
+    "links": [
+        "https://www.bbc.com/news/articles/c903e793w74o"
+    ],
+    "month": 7,
+    "summary": "Technology giant Microsoft has apologised after thousands of people across the UK reported issues wi",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
