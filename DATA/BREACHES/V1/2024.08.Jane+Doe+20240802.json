@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 20240802",
+    "links": [
+        "https://www.reddit.com/r/cybersecurity/comments/1ehzwii/i_discovered_a_huge_data_breach_in_a_foreign/"
+    ],
+    "month": 8,
+    "summary": "To continue, log in to your Reddit account or use your developer token. If you think you've been blo",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2024
+}
