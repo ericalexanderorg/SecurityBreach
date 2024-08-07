@@ -1,0 +1,16 @@
+{
+    "entity": "National Public Data",
+    "links": [
+        "https://www.techradar.com/pro/3-billion-people-s-personal-data-leaked-to-the-dark-web-including-social-security-numbers"
+    ],
+    "month": 8,
+    "summary": "A class action lawsuit brought against background check company National Public Data alleges the per",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 3000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
