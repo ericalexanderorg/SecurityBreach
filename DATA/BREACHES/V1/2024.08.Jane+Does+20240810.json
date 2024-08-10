@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Does 20240810",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/us-dismantles-laptop-farm-used-by-undercover-north-korean-it-workers/"
+    ],
+    "month": 8,
+    "summary": "API ERROR: THE REQUESTED PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
