@@ -1,0 +1,16 @@
+{
+    "entity": "National Public Data",
+    "links": [
+        "https://www.troyhunt.com/inside-the-3-billion-people-national-public-data-breach/"
+    ],
+    "month": 8,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
