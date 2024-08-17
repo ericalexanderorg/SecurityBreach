@@ -1,0 +1,16 @@
+{
+    "entity": "FlightAware",
+    "links": [
+        "https://loyaltylobby.com/2024/08/16/flightaware-leaks-customer-data-name-email-addresses-passwords/"
+    ],
+    "month": 8,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
