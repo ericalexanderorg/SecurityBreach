@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 2024082601",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/us-dismantles-laptop-farm-used-by-undercover-north-korean-it-workers/"
+    ],
+    "month": 8,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
