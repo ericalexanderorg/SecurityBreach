@@ -1,0 +1,16 @@
+{
+    "entity": "Fortigate customers 2022010101",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/chinese-hackers-breached-20-000-fortigate-systems-worldwide/"
+    ],
+    "month": 8,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
