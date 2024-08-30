@@ -1,0 +1,16 @@
+{
+    "entity": "Dicks Sporting Goods",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/dicks-shuts-down-email-locks-employee-accounts-after-cyberattack/"
+    ],
+    "month": 8,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
