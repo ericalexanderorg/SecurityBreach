@@ -1,0 +1,16 @@
+{
+    "entity": "Versa Director Customers",
+    "links": [
+        "https://www.scmagazine.com/brief/internet-exposed-versa-director-servers-persist-amid-volt-typhoon-attacks"
+    ],
+    "month": 8,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
