@@ -1,0 +1,16 @@
+{
+    "entity": "JAS Worldwide",
+    "links": [
+        "https://dysruptionhub.zba.bz/ransomware-attack-disrupts-global-operations-of-jas-worldwide/"
+    ],
+    "month": 8,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
