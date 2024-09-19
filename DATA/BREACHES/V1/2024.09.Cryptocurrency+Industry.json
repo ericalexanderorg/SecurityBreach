@@ -1,0 +1,16 @@
+{
+    "entity": "Cryptocurrency Industry",
+    "links": [
+        "https://securityonline.info/north-korean-hackers-target-cryptocurrency-developers-with-thiefbucket-malware/"
+    ],
+    "month": 9,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
