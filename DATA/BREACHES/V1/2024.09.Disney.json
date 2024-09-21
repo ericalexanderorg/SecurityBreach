@@ -1,0 +1,16 @@
+{
+    "entity": "Disney",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/disney-ditching-slack-after-massive-july-data-breach/"
+    ],
+    "month": 9,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
