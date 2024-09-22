@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Does 2024092201",
+    "links": [
+        "https://nltimes.nl/2024/09/19/chinese-state-hackers-infiltrated-thousands-smart-devices-netherlands"
+    ],
+    "month": 9,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
