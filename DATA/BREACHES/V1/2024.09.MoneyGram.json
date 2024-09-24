@@ -1,0 +1,16 @@
+{
+    "entity": "MoneyGram",
+    "links": [
+        "https://www.securityweek.com/cyberattack-causes-moneygram-service-outage/"
+    ],
+    "month": 9,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
