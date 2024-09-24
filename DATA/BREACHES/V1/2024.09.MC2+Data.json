@@ -1,0 +1,16 @@
+{
+    "entity": "MC2 Data",
+    "links": [
+        "https://www.dailymail.co.uk/sciencetech/article-13883523/More-100-MILLION-Americans-private-information-leaked-data-breach-background-check-company.html"
+    ],
+    "month": 9,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
