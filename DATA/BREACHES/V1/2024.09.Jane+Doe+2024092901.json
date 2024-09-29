@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 2024092901",
+    "links": [
+        "https://www.theregister.com/2024/09/27/microsoft_storm_0501/"
+    ],
+    "month": 9,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
