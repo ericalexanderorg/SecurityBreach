@@ -1,0 +1,16 @@
+{
+    "entity": "US court wiretap systems",
+    "links": [
+        "https://www.reuters.com/technology/cybersecurity/chinese-hackers-breached-us-court-wiretap-systems-wsj-reports-2024-10-06/"
+    ],
+    "month": 10,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
