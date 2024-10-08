@@ -1,0 +1,16 @@
+{
+    "entity": "American Water",
+    "links": [
+        "https://apnews.com/article/american-water-cyberattack-36423062dbce05c9aa70ef8aa07810cb"
+    ],
+    "month": 10,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
