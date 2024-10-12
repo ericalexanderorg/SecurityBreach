@@ -1,0 +1,16 @@
+{
+    "entity": "Casio",
+    "links": [
+        "https://cyberinsider.com/casio-admits-ransomware-attack-exposed-employee-and-client-data/"
+    ],
+    "month": 10,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
