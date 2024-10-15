@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Does 2024101101",
+    "links": [
+        "https://securityaffairs.com/169708/apt/apt29-target-zimbra-and-jetbrains-teamcity.html"
+    ],
+    "month": 10,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
