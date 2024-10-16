@@ -1,0 +1,16 @@
+{
+    "entity": "Marriott",
+    "links": [
+        "https://www.scworld.com/news/marriott-faces-52-million-ftc-fine-and-reprimand-over-data-breaches"
+    ],
+    "month": 10,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
