@@ -1,0 +1,16 @@
+{
+    "entity": "Texas Tech Health Network",
+    "links": [
+        "https://dysruptionhub.zba.bz/texas-tech-health-network-acknowledges-cyberattack-after-weeks-long-it-outage/"
+    ],
+    "month": 10,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
