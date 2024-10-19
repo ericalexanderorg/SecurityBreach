@@ -1,0 +1,16 @@
+{
+    "entity": "ESET",
+    "links": [
+        "https://cyberinsider.com/eset-israel-breached-sends-customers-wiper-malware/"
+    ],
+    "month": 10,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
