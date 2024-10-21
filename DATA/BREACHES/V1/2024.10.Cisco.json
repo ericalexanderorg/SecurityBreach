@@ -1,0 +1,16 @@
+{
+    "entity": "Cisco",
+    "links": [
+        "https://www.securityweek.com/cisco-confirms-security-incident-after-hacker-offers-to-sell-data/"
+    ],
+    "month": 10,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
