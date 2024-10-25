@@ -1,0 +1,16 @@
+{
+    "entity": "Alleged Cisco data breach could affect Microsoft, Barclays, and SAP developer data | CSO Online",
+    "links": [
+        "https://www.csoonline.com/article/3564374/alleged-cisco-data-breach-could-affect-microsoft-barclays-and-sap-developer-data.html"
+    ],
+    "month": 10,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
