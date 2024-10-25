@@ -1,0 +1,16 @@
+{
+    "entity": "U.S. Department of Health & Human Services - Office for Civil Rights",
+    "links": [
+        "https://ocrportal.hhs.gov/ocr/breach/breach_report.jsf"
+    ],
+    "month": 10,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Money:Sale on dark web"
+    },
+    "year": 2024
+}
