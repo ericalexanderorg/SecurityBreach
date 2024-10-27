@@ -1,0 +1,16 @@
+{
+    "entity": "Transport for London",
+    "links": [
+        "https://www.londoncentric.media/p/an-utter-shitshow-inside-the-transport"
+    ],
+    "month": 10,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
