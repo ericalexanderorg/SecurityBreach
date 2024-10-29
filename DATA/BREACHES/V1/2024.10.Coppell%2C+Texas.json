@@ -1,0 +1,16 @@
+{
+    "entity": "Coppell, Texas",
+    "links": [
+        "https://dysruptionhub.zba.bz/cyberattack-disrupts-coppell-texas-as-city-remains-silent-on-cause/"
+    ],
+    "month": 10,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
