@@ -1,0 +1,16 @@
+{
+    "entity": "Trump family",
+    "links": [
+        "https://www.telegraph.co.uk/us/politics/2024/10/29/china-hacked-phones-donald-trump-family-says-fbi/"
+    ],
+    "month": 10,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
