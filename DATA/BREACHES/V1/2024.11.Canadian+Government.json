@@ -1,0 +1,16 @@
+{
+    "entity": "Canadian Government",
+    "links": [
+        "https://www.techradar.com/pro/security/chinese-hackers-had-access-to-canadian-government-systems-for-years"
+    ],
+    "month": 11,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
