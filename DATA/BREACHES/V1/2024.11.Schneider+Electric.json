@@ -1,0 +1,16 @@
+{
+    "entity": "Schneider Electric",
+    "links": [
+        "https://www.infostealers.com/article/schneider-electric-hacked-and-blackmailed-due-to-lumma-infostealer-infection/"
+    ],
+    "month": 11,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
