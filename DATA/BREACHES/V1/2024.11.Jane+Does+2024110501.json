@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Does 2024110501",
+    "links": [
+        "https://www.wsj.com/politics/national-security/china-hack-enabled-vast-spying-on-u-s-officials-likely-ensnaring-thousands-of-contacts-1340ba4a"
+    ],
+    "month": 11,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:?"
+    },
+    "year": 2024
+}
