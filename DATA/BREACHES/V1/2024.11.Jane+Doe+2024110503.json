@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 2024110503",
+    "links": [
+        "https://www.washingtonpost.com/opinions/2024/11/02/china-spying-telecom-trump-harris-fbi-cell-phone/"
+    ],
+    "month": 11,
+    "summary": "API ERROR: PARTNER ACCOUNT BANNED, CONTACT SMMRY ADMINISTRATOR",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
