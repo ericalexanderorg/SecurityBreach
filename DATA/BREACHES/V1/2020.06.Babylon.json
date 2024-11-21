@@ -1,0 +1,16 @@
+{
+    "entity": "Babylon",
+    "links": [
+        "https://nakedsecurity.sophos.com/2020/06/10/babylon-mobile-health-app-mixes-up-patient-consultation-videos/"
+    ],
+    "month": 6,
+    "summary": "Mobile health app Babylon, which states its company mission as putting \"An accessible and affordable",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2020
+}
