@@ -1,0 +1,16 @@
+{
+    "entity": "U.S. Department of Treasury",
+    "links": [
+        "https://thehackernews.com/2025/01/us-sanctions-chinese-cybersecurity-firm.html"
+    ],
+    "month": 1,
+    "summary": "Silk Typhoon, a nation-state actor, targeted the U.S. Treasury via SaaS exploitation, leading to sanctions against a Chinese firm and individual.",
+    "tags": {
+        "actor": "Nation State: Silk Typhoon",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Misconfiguration",
+        "motive": "Espionage"
+    },
+    "year": 2025
+}
