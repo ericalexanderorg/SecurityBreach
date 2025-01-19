@@ -1,0 +1,14 @@
+{
+  "entity": "Wolf Haldenstein",
+  "links": ["https://cyberinsider.com/wolf-haldenstein-data-breach-exposed-3-5-million-americans/"],
+  "month": 1,
+  "summary": "Wolf Haldenstein breach exposed 3.5 million Americans' data due to a security vulnerability.",
+  "tags": {
+    "actor": "Criminal",
+    "cost-usd": 0,
+    "impacted-user-count": 3500000,
+    "initial-access": "Misconfiguration",
+    "motive": "PII",
+    "year": 2025
+  }
+}
