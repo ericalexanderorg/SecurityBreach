@@ -4,6 +4,7 @@ from openai import OpenAI
 import urllib.parse
 import sys
 import re
+from bs4 import BeautifulSoup
 from datetime import datetime
 
 # Set your GitHub token and OpenAI API key as environment variables
@@ -23,12 +24,62 @@ github_headers = {
     "Accept": "application/vnd.github.v3+json"
 }
 
+def cosine_similarity(vec1, vec2):
+  """Computes cosine similarity between two vectors."""
+  dot_product = sum(p*q for p,q in zip(vec1, vec2))
+  magnitude_1 = math.sqrt(sum([x**2 for x in vec1]))
+  magnitude_2 = math.sqrt(sum([x**2 for x in vec2]))
+  if not magnitude_1 or not magnitude_2:
+    return 0
+  return dot_product / (magnitude_1 * magnitude_2)
+
+def summarize_html(html_content, num_sentences=10):
+  """
+  Summarizes HTML content using a simple sentence scoring approach.
+
+  Args:
+    html_content: The HTML content to be summarized.
+    num_sentences: The desired number of sentences in the summary.
+
+  Returns:
+    A summary of the text extracted from the HTML content.
+  """
+
+  soup = BeautifulSoup(html_content, 'html.parser')
+  text = soup.get_text()  # Extract plain text from HTML
+
+  # 1. Sentence Tokenization
+  sentences = sent_tokenize(text)
+
+  # 2. Preprocessing (optional)
+  stop_words = set(stopwords.words('english'))
+  words = [word.lower() for word in text.split() if word.isalnum() and word not in stop_words]
+
+  # 3. Word Frequency
+  word_freq = FreqDist(words)
+
+  # 4. Sentence Scoring (Simple Approach)
+  sentence_scores = {}
+  for sentence in sentences:
+    words_in_sentence = [word.lower() for word in sentence.split() if word.isalnum() and word not in stop_words]
+    sentence_score = 0
+    for word in words_in_sentence:
+      sentence_score += word_freq[word]
+    sentence_scores[sentence] = sentence_score
+
+  # 5. Select Top Sentences
+  summary_sentences = sorted(sentence_scores.items(), key=lambda x: x[1], reverse=True)[:num_sentences]
+  summary = ' '.join([sentence for sentence, _ in summary_sentences])
+
+  return summary
+
 def scrape_url(url):
     if "fundersclub" in url:
         print(f"Error incorrect url provided: {url}")
         sys.exit(1)
     response = requests.get(f"https://scrape.abstractapi.com/v1/?use_proxy=true&api_key={ABSTRACT_API_KEY}&url={url}")
     if response.status_code == 200:
+        print(response.text)
         return response.text
     else:
         print("Failed to scrape URL")
@@ -146,7 +197,7 @@ def process_issue(issue_number):
         url = extract_url(issue_description)
         if url:
             # Step 2: Send the URL to ChatGPT and get the response
-            chatgpt_response = get_chatgpt_response(url, scrape_url(url))
+            chatgpt_response = get_chatgpt_response(url, summarize_html(scrape_url(url)))
 
             # Step 3: Format the filename and content
             current_date = datetime.now().strftime("%Y.%m")
