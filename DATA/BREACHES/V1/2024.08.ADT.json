@@ -1,0 +1,16 @@
+{
+    "entity": "ADT",
+    "links": [
+        "https://www.theverge.com/2024/8/8/24216197/adt-hackers-obtained-customer-information-breach"
+    ],
+    "month": 8,
+    "summary": "Security company ADT disclosed in an SEC filing that hackers obtained \"Some limited customer informa",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
