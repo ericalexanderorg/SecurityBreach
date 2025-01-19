@@ -1,7 +1,8 @@
 {
     "entity": "U.S. Department of Treasury",
     "links": [
-        "https://thehackernews.com/2025/01/us-sanctions-chinese-cybersecurity-firm.html"
+        "https://thehackernews.com/2025/01/us-sanctions-chinese-cybersecurity-firm.html",
+        "https://www.reuters.com/technology/cybersecurity/chinese-hackers-accessed-yellens-computer-us-treasury-breach-bloomberg-news-2025-01-17/"
     ],
     "month": 1,
     "summary": "Silk Typhoon, a nation-state actor, targeted the U.S. Treasury via SaaS exploitation, leading to sanctions against a Chinese firm and individual.",
