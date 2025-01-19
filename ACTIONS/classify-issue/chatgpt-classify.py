@@ -9,6 +9,7 @@ from datetime import datetime
 # Set your GitHub token and OpenAI API key as environment variables
 GITHUB_TOKEN = os.getenv('GITHUB_TOKEN')
 OPENAI_API_KEY = os.getenv('OPENAI_API_KEY')
+ABSTRACT_API_KEY = os.getenv('ABSTRACT_API_KEY')
 GITHUB_REPO = "ericalexanderorg/SecurityBreach"
 
 # GitHub API base URL
@@ -22,13 +23,28 @@ github_headers = {
     "Accept": "application/vnd.github.v3+json"
 }
 
+def scrape_url(url):
+    if "fundersclub" in url:
+        print(f"Error incorrect url provided: {url}")
+        sys.exit(1)
+    response = requests.get(f"https://scrape.abstractapi.com/v1/?use_proxy=true&api_key={ABSTRACT_API_KEY}&url={url}")
+    if response.status_code == 200:
+        return response.text
+    else:
+        print("Failed to scrape URL")
+        sys.exit(1)
+
 def extract_url(input_string):
     # Regular expression to find URLs
     url_pattern = r'https?://\S+'
     urls = re.findall(url_pattern, input_string)
     
-    # Return the first URL found (or None if no URL is found)
-    return urls[0] if urls else None
+    # Return the url that is not the fundersclub url
+    for url in urls:
+        if "fundersclub" not in url:
+            return url
+    print(f"Error: could not extract url from {input_string}")
+    sys.exit(1)
 
 # Function to get the issue details
 def get_issue_details(issue_number):
@@ -37,25 +53,20 @@ def get_issue_details(issue_number):
     if response.status_code == 200:
         issue_data = response.json()
         description = issue_data['body']
+        print(description)
         return extract_url(description)
     else:
         print(f"Error fetching issue {issue_number}: {response.status_code}")
         return None
 
-# Function to extract URL from the issue description
-def extract_url(description):
-    # Search for URLs in the description
-    import re
-    urls = re.findall(r'https?://\S+', description)
-    return urls[0] if urls else None
 
 # Function to send prompt to ChatGPT API with updated requirements
-def get_chatgpt_response(url):
+def get_chatgpt_response(url, article_content):
     prompt = f"""
-Please provide a summary of the article at the following URL, classify it using the following criteria, and return the information in JSON format:
+Please provide a summary of the article below , classify it using the following criteria, and return the information in JSON format:
 
 - **entity**: The entity that was hacked.
-- **links**: A list of the article URLs.
+- **links**: ["{url}"].
 - **month**: The month the event occurred as a number.
 - **summary**: A brief summary of the article that focuses on how the hack occurred (140 characters or less).
 - **tags**:
@@ -66,7 +77,8 @@ Please provide a summary of the article at the following URL, classify it using 
   - **motive**: One of the following: `Political`, `PII`, `Money`, `Hacktivist`, `Hacktivism`, `Espionage`.
 - **year**: The year the event occurred as a number.
 
-URL: {url}
+Article:
+{article_content}
     """
     print(url)
     response = client.chat.completions.create(model="gpt-4o",
@@ -134,7 +146,7 @@ def process_issue(issue_number):
         url = extract_url(issue_description)
         if url:
             # Step 2: Send the URL to ChatGPT and get the response
-            chatgpt_response = get_chatgpt_response(url)
+            chatgpt_response = get_chatgpt_response(url, scrape_url(url))
 
             # Step 3: Format the filename and content
             current_date = datetime.now().strftime("%Y.%m")
