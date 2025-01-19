@@ -1,0 +1,14 @@
+{
+  "entity": "Avery Products Corporation",
+  "links": ["https://www.bleepingcomputer.com/news/security/label-giant-avery-says-website-hacked-to-steal-credit-cards/"],
+  "month": 12,
+  "summary": "Avery’s website was hacked from July to December 2024, stealing credit card data of over 61,000 customers.",
+  "tags": {
+    "actor": "Criminal",
+    "cost-usd": 0,
+    "impacted-user-count": 61193,
+    "initial-access": "Injection",
+    "motive": "Money"
+  },
+  "year": 2024
+}
