@@ -26,6 +26,8 @@ echo "$URL"
 echo "Installing dependencies"
 #pip3 install -r ./ML/SCRIPTS/requirements-classify-sklearn.txt
 pip3 install requests
+pip3 install nltk
+pip3 install beautifulsoup4
 
 # Generate output file name
 MONTH=$(date '+%m')
