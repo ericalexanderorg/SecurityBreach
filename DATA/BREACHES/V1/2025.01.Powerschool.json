@@ -1,0 +1,16 @@
+{
+    "entity": "Powerschool",
+    "links": [
+        "https://www.infosecurity-magazine.com/news/powerschool-pays-ransom-data-leak/"
+    ],
+    "month": 1,
+    "summary": "PowerSchool Reportedly Pays Ransom to Prevent Student Data Leak - Infosecurity Magazine News Topics ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2025
+}
