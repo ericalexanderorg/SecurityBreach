@@ -1,4 +1,4 @@
-FROM smizy/scikit-learn:0.21.3-alpine
+FROM smizy/scikit-learn:latest
 
 LABEL "com.github.actions.name"="Classify security breach"
 LABEL "com.github.actions.description"="Pull SUMMRY, classify, add comments to issue, and create a PR."
