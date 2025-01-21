@@ -1,0 +1,16 @@
+{
+  "entity": "Jane Does 2024120101",
+  "links": [
+    "https://www.theregister.com/2025/01/13/ransomware_crew_abuses_compromised_aws/"
+  ],
+  "month": 12,
+  "summary": "Codefinger gang encrypts AWS S3 data using compromised keys and SSE-C.",
+  "tags": {
+    "actor": "Criminal",
+    "cost-usd": 0,
+    "impacted-user-count": 0,
+    "initial-access": "Compromised Account",
+    "motive": "Money"
+  },
+  "year": 2024
+}
