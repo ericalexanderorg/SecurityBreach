@@ -1,0 +1,16 @@
+{
+  "entity": "AT&T and Verizon",
+  "links": [
+    "https://www.newsweek.com/att-verizon-hacks-linked-us-army-soldier-doj-2017242"
+  ],
+  "month": 12,
+  "summary": "U.S. Army soldier arrested for selling stolen AT&T and Verizon phone records.",
+  "tags": {
+    "actor": "Insider",
+    "cost-usd": 0,
+    "impacted-user-count": 0,
+    "initial-access": "Compromised Valid Account",
+    "motive": "Money"
+  },
+  "year": 2024
+}
