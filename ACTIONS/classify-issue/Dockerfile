@@ -10,6 +10,7 @@ LABEL "homepage"="https://github.com/ericalexanderorg/SecurityBreach/ACTIONS/cla
 LABEL "maintainer"="Eric Alexander"
 
 RUN apk add --no-cache bash curl jq
+RUN apk --no-cache --update add build-base 
 
 COPY "entrypoint.sh" "/entrypoint.sh"
 RUN chmod +x /entrypoint.sh
