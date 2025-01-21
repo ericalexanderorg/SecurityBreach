@@ -1,0 +1,16 @@
+{
+    "entity": "Powerschool",
+    "links": [
+        "https://www.infosecurity-magazine.com/news/powerschool-pays-ransom-data-leak/"
+    ],
+    "month": 1,
+    "summary": "\n**********************************************************************\n  Resource \u001b[93mpunkt_tab\u001b[0",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2025
+}
