@@ -1,0 +1,17 @@
+{
+  "entity": "Telefonica",
+  "links": [
+    "https://www.infostealers.com/article/telefonica-breach-infostealer-malware-opens-door-for-social-engineering-tactics/"
+  ],
+  "month": 1,
+  "summary": "Attackers used infostealer malware and social engineering to breach Telefonica's internal systems.",
+  "tags": {
+    "actor": "Criminal",
+    "cost-usd": 0,
+    "impacted-user-count": 24000,
+    "initial-access": "Compromised Valid Account",
+    "motive": "PII"
+  },
+  "year": 2025
+}
+ 
