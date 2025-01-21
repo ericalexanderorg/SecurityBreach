@@ -1,0 +1,17 @@
+{
+  "entity": "Eindhoven University of Technology",
+  "links": [
+    "https://www.tue.nl/en/news-and-events/cyberattack",
+    "https://www.cursor.tue.nl/en/news/2025/januari/week-2/tu-e-hit-by-cyberattack/"
+  ],
+  "month": 1,
+  "summary": "TU/e took its network offline in response to a cyberattack.",
+  "tags": {
+    "actor": "Unknown",
+    "cost-usd": 0,
+    "impacted-user-count": 0,
+    "initial-access": "Unknown",
+    "motive": "Unknown"
+  },
+  "year": 2025
+}
