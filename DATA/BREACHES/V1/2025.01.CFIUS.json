@@ -1,0 +1,16 @@
+{
+  "entity": "Committee on Foreign Investment in the United States (CFIUS)",
+  "links": [
+    "https://www.cnn.com/2025/01/10/politics/chinese-hackers-breach-committee-on-foreign-investment-in-the-us/index.html"
+  ],
+  "month": 1,
+  "summary": "Chinese hackers breached CFIUS via a third-party vendor vulnerability.",
+  "tags": {
+    "actor": "Nation State: China",
+    "cost-usd": 0,
+    "impacted-user-count": 0,
+    "initial-access": "Compromised Account",
+    "motive": "Espionage"
+  },
+  "year": 2025
+}
