@@ -9,7 +9,7 @@ LABEL "repository"="https://github.com/ericalexanderorg/SecurityBreach/ACTIONS/c
 LABEL "homepage"="https://github.com/ericalexanderorg/SecurityBreach/ACTIONS/classify-issue"
 LABEL "maintainer"="Eric Alexander"
 
-RUN apk add --no-cache bash curl jq build-base gcc
+RUN apk add --no-cache bash curl jq build-base gcc python3-dev
 
 COPY "entrypoint.sh" "/entrypoint.sh"
 RUN chmod +x /entrypoint.sh
