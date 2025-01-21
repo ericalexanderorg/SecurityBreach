@@ -2,6 +2,7 @@ import sys
 import os
 import json
 import re
+from summarize import WebSummarizer
 from datetime import datetime
 from sklearn.datasets import load_files
 from sklearn.feature_extraction.text import TfidfVectorizer
@@ -135,7 +136,9 @@ def main(url='', entity=''):
         script = True
 
     # Get our summry
-    summry = base.get_summry(url, sys.argv[2])
+    #summry = base.get_summry(url, sys.argv[2])
+    summarizer = WebSummarizer()
+    summry = summarizer.summarize_url(url, num_sentences=12)
     #month,year = get_month_year(url, summry)
 
     # Build our output dict
