@@ -1,0 +1,16 @@
+{
+  "entity": "Town of Bourne, Massachusetts",
+  "links": [
+    "https://dysruptionhub.com/bourne-it-cyberattack-investigation/"
+  ],
+  "month": 1,
+  "summary": "Bourne's IT network was compromised; critical services remain unaffected.",
+  "tags": {
+    "actor": "Criminal",
+    "cost-usd": 0,
+    "impacted-user-count": 0,
+    "initial-access": "Unknown",
+    "motive": "Unknown"
+  },
+  "year": 2025
+}
