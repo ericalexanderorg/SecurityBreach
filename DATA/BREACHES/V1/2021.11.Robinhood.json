@@ -1,0 +1,16 @@
+{
+  "entity": "Robinhood Markets",
+  "links": [
+    "https://www.wsj.com/finance/robinhood-to-pay-45-million-sec-settlement-over-data-breach-other-violations-50b837dc"
+  ],
+  "month": 11,
+  "summary": "Intruder impersonated employee to access systems, exposing millions of customer records.",
+  "tags": {
+    "actor": "Criminal",
+    "cost-usd": 45000000,
+    "impacted-user-count": 7000000,
+    "initial-access": "Compromised Valid Account",
+    "motive": "PII"
+  },
+  "year": 2021
+}
