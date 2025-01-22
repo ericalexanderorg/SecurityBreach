@@ -1,0 +1,16 @@
+{
+  "entity": "Gravy Analytics",
+  "links": [
+    "https://www.usnews.com/news/technology/articles/2025-01-08/hacker-claims-breach-of-us-location-tracking-company-gravy-analytics"
+  ],
+  "month": 1,
+  "summary": "Hacker accessed Gravy Analytics' AWS cloud storage using a misappropriated key.",
+  "tags": {
+    "actor": "Criminal",
+    "cost-usd": 0,
+    "impacted-user-count": 0,
+    "initial-access": "Compromised Valid Account",
+    "motive": "PII",
+    "year": 2025
+  }
+}
