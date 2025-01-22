@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Does 2024062501",
+    "links": [
+        "https://sansec.io/research/polyfill-supply-chain-attack"
+    ],
+    "month": 6,
+    "summary": "Update June 25th: Google has already started blocking Google Ads for eCommerce sites that use polyfi",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
