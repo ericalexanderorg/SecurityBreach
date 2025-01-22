@@ -1,0 +1,16 @@
+{
+  "entity": "U.S. Department of the Treasury",
+  "links": [
+    "https://www.csoonline.com/article/3632744/chinesische-hacker-attackieren-us-finanzministerium.html"
+  ],
+  "month": 12,
+  "summary": "Chinese hackers accessed Treasury files via a third-party vendor vulnerability.",
+  "tags": {
+    "actor": "Nation State: China",
+    "cost-usd": 0,
+    "impacted-user-count": 0,
+    "initial-access": "Compromised Valid Account",
+    "motive": "Espionage"
+  },
+  "year": 2024
+}
