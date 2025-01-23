@@ -1,0 +1,16 @@
+{
+    "entity": "John Doe 20240718001",
+    "links": [
+        "https://www.cyber.gov.au/about-us/view-all-content/alerts-and-advisories/apt40-advisory-prc-mss-tradecraft-in-action?ref=news.risky.biz"
+    ],
+    "month": 7,
+    "summary": "Much of the compromise was facilitated by the group's establishment of multiple access vectors into ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Compromised Account",
+        "motive": "Espionage"
+    },
+    "year": 2024
+}
