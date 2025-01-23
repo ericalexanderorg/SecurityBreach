@@ -7,7 +7,7 @@
     "summary": "In a significant escalation within the cybersecurity realm, the notorious ransomware group Lockbit 3",
     "tags": {
         "actor": "Criminal",
-        "cost-usd": 5000000,
+        "cost-usd": 50000,
         "impacted-user-count": 0,
         "initial-access": "?",
         "motive": "Money:Ransom"
