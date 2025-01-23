@@ -1,0 +1,16 @@
+{
+    "entity": "Ticketmaster",
+    "links": [
+        "https://stackdiary.com/ticketmaster-has-begun-warning-customers-about-data-breach/"
+    ],
+    "month": 6,
+    "summary": "Ticketmaster has started sending out warnings to customers that their personal information has been ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 560000000,
+        "initial-access": "Monitoring Failure",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
