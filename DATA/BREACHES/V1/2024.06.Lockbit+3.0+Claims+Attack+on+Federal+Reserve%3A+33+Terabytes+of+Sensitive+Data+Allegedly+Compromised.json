@@ -1,0 +1,16 @@
+{
+    "entity": "Lockbit 3.0 Claims Attack on Federal Reserve: 33 Terabytes of Sensitive Data Allegedly Compromised",
+    "links": [
+        "https://www.redhotcyber.com/en/post/lockbit-3-0-claims-attack-on-federal-reserve-33-terabytes-of-sensitive-data-allegedly-compromised/"
+    ],
+    "month": 6,
+    "summary": "In a significant escalation within the cybersecurity realm, the notorious ransomware group Lockbit 3",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 50000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
