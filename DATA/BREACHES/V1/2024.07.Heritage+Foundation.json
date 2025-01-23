@@ -1,0 +1,16 @@
+{
+    "entity": "Heritage Foundation",
+    "links": [
+        "https://theintercept.com/2024/07/09/gay-furry-hackers-claim-credit-for-hacking-heritage-foundation-over-project-2025/"
+    ],
+    "month": 7,
+    "summary": "SiegedSec, a collective of self-proclaimed \"Gay furry hackers,\" has claimed credit for breaching onl",
+    "tags": {
+        "actor": "Hacktivist:Gay Furry",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism"
+    },
+    "year": 2024
+}
