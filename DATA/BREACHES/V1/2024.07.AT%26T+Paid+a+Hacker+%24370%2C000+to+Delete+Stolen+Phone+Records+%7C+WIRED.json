@@ -1,0 +1,16 @@
+{
+    "entity": "AT&T Paid a Hacker $370,000 to Delete Stolen Phone Records | WIRED",
+    "links": [
+        "https://www.wired.com/story/atandt-paid-hacker-300000-to-delete-stolen-call-records/"
+    ],
+    "month": 7,
+    "summary": "He says Binns asked him to contact AT&T \"To facilitate a buyback of the data,\" and that \"Given the i",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 370000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
