@@ -6,11 +6,11 @@
     "month": 7,
     "summary": "Hacktivist group NullBulge claims to have breached Disney, leaking 1.1 TiB of internal Slack data. A",
     "tags": {
-        "actor": "Criminal",
+        "actor": "Hacktivist",
         "cost-usd": 0,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Money:Ransom"
+        "motive": "Hacktivism"
     },
     "year": 2024
 }
