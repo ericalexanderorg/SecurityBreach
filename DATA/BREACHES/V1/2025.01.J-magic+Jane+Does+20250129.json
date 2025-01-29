@@ -1,0 +1,16 @@
+{
+    "entity": "J-magic Jane Does 20250129",
+    "links": [
+        "https://www.schneier.com/blog/archives/2025/01/new-vpn-backdoor.html"
+    ],
+    "month": 1,
+    "summary": "Crudely for understanding only, the authentication step is, The service \u201cRequester\u201d sends a \u201cnonce+I",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2025
+}
