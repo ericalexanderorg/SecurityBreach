@@ -1,0 +1,16 @@
+{
+    "entity": "Smiths Group",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/engineering-giant-smiths-group-discloses-security-breach/"
+    ],
+    "month": 1,
+    "summary": "Error fetching the webpage: 403 Client Error: Forbidden for url: https://www.bleepingcomputer.com/ne",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2025
+}
