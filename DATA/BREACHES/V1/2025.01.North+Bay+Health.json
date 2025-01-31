@@ -1,0 +1,16 @@
+{
+    "entity": "North Bay Health",
+    "links": [
+        "https://www.securityweek.com/northbay-health-data-breach-impacts-569000-individuals/"
+    ],
+    "month": 1,
+    "summary": "Error fetching the webpage: 403 Client Error: Forbidden for url: https://www.securityweek.com/northb",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2025
+}
