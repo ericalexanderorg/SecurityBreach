@@ -1,0 +1,16 @@
+{
+    "entity": "New York Blood Center Enterprises",
+    "links": [
+        "https://www.theregister.com/2025/01/30/ransomware_attack_at_new_york/"
+    ],
+    "month": 1,
+    "summary": "Error fetching the webpage: 403 Client Error: Forbidden for url: https://www.theregister.com/2025/01",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2025
+}
