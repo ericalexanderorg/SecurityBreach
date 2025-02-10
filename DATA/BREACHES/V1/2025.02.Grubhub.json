@@ -1,0 +1,16 @@
+{
+    "entity": "Grubhub",
+    "links": [
+        "https://techcrunch.com/2025/02/04/grubhub-confirms-data-breach-affecting-customers-and-drivers/?guccounter=1"
+    ],
+    "month": 2,
+    "summary": "Grubhub confirms data breach affecting customers and drivers | TechCrunch Grubhub confirms data brea",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2025
+}
