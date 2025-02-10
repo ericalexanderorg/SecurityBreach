@@ -1,0 +1,16 @@
+{
+    "entity": "Lee Enterprises",
+    "links": [
+        "https://www.theregister.com/2025/02/10/us_newspapers_lee_enterprises_cyberattack/"
+    ],
+    "month": 2,
+    "summary": "Error fetching the webpage: 403 Client Error: Forbidden for url: https://www.theregister.com/2025/02",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2025
+}
