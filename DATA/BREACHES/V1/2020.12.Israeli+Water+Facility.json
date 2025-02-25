@@ -1,0 +1,16 @@
+{
+    "entity": "Israeli Water Facility",
+    "links": [
+        "https://securityaffairs.co/wordpress/111934/ics-scada/israeli-water-facility-breached.html"
+    ],
+    "month": 12,
+    "summary": "A group of Iranian hackers gained access to a un unprotected ICS at an Israeli Water Facility and po",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2020
+}
