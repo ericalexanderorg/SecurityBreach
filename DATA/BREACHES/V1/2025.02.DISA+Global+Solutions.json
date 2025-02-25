@@ -1,0 +1,16 @@
+{
+    "entity": "DISA Global Solutions",
+    "links": [
+        "https://techcrunch.com/2025/02/25/us-employee-screening-giant-disa-says-hackers-accessed-data-of-more-than-3m-people/"
+    ],
+    "month": 2,
+    "summary": "US employee screening giant DISA says hackers accessed data of more than 3M people | TechCrunch US e",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 5000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2025
+}
