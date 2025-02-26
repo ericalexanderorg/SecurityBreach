@@ -1,0 +1,16 @@
+{
+    "entity": "General Electric (GE)",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/tech-giant-ge-discloses-data-breach-after-service-provider-hack/"
+    ],
+    "month": 3,
+    "summary": "Fortune 500 technology giant General Electric disclosed that personally identifiable information of ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
