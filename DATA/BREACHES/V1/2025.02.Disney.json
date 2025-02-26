@@ -1,0 +1,16 @@
+{
+    "entity": "Disney",
+    "links": [
+        "https://cybersecuritynews.com/comfyui-users-targeted-by-malicious/"
+    ],
+    "month": 2,
+    "summary": "Error fetching the webpage: 403 Client Error: Forbidden for url: https://cybersecuritynews.com/comfy",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Criminal:Money"
+    },
+    "year": 2025
+}
