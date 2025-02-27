@@ -1,0 +1,16 @@
+{
+    "entity": "Bytebit",
+    "links": [
+        "https://cside.dev/blog/bytebit-attack-1-5b-stolen-through-malicious-javascript"
+    ],
+    "month": 2,
+    "summary": "No single person can move the money and coins alone.However, the hackers didn\u2019t access the vault dir",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2025
+}
