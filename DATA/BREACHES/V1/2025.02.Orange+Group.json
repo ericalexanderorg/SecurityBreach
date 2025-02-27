@@ -1,0 +1,16 @@
+{
+    "entity": "Orange Group",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/orange-group-confirms-breach-after-hacker-leaks-company-documents/"
+    ],
+    "month": 2,
+    "summary": "Error fetching the webpage: 403 Client Error: Forbidden for url: https://www.bleepingcomputer.com/ne",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2025
+}
