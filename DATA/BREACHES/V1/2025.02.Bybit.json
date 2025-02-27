@@ -1,0 +1,16 @@
+{
+    "entity": "Bybit",
+    "links": [
+        "https://www.ic3.gov/PSA/2025/PSA250226"
+    ],
+    "month": 2,
+    "summary": "Internet Crime Complaint Center (IC3) | North Korea Responsible for $1.5 Billion Bybit Hack Skip to ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2025
+}
