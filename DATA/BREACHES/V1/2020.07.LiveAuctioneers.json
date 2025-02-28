@@ -1,0 +1,16 @@
+{
+    "entity": "LiveAuctioneers",
+    "links": [
+        "https://securityaffairs.co/wordpress/105876/data-breach/liveauctioneers-data-breach.html?utm_source=rss"
+    ],
+    "month": 7,
+    "summary": "Auctions platform LiveAuctioneers admitted to have suffered a data breach that likely impacted appro",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
