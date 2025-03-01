@@ -1,0 +1,16 @@
+{
+    "entity": "Newhall schools",
+    "links": [
+        "https://signalscv.com/2020/09/newhall-schools-put-virtual-lessons-on-hold-due-to-ransomware-attack/"
+    ],
+    "month": 9,
+    "summary": "Newhall School District officials put virtual classes on hold Monday as staff worked to secure stude",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
