@@ -1,0 +1,16 @@
+{
+    "entity": "Konica Minolta",
+    "links": [
+        "https://securityaffairs.co/wordpress/107226/cyber-crime/konica-minolta-ransomware.html"
+    ],
+    "month": 8,
+    "summary": "IT giant Konica Minolta was hit with a ransomware attack at the end of July, its services have been ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
