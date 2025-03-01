@@ -1,0 +1,16 @@
+{
+    "entity": "Veiligheidsregio Noord- en Oost-Gelderland",
+    "links": [
+        "https://nltimes.nl/2020/09/14/gelderland-security-region-hit-ransomware-attack"
+    ],
+    "month": 9,
+    "summary": "Veiligheidsregio Noord- en Oost-Gelderland was infected by ransomware over the weekend. Some functio",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
