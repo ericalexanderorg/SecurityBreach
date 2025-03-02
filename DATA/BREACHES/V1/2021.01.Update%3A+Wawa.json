@@ -1,0 +1,16 @@
+{
+    "entity": "Update: Wawa",
+    "links": [
+        "https://securityboulevard.com/2021/01/wawa-data-breach-a-lesson-in-the-consequences-of-data-security-failures/"
+    ],
+    "month": 1,
+    "summary": "While the United States has no federally-mandated consumer data privacy regulations, organisations s",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2021
+}
