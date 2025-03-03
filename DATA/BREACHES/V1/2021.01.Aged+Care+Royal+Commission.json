@@ -1,0 +1,16 @@
+{
+    "entity": "Aged Care Royal Commission",
+    "links": [
+        "https://insideageing.com.au/aged-care-royal-commission-involved-in-cyber-security-breach/"
+    ],
+    "month": 1,
+    "summary": "On Sunday 22 November 2020 - 59 Aged Care Royal Commission documents were impacted in a cyber securi",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 3000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
