@@ -1,0 +1,16 @@
+{
+    "entity": "Stadler",
+    "links": [
+        "https://www.securityweek.com/railway-vehicle-maker-stadler-hit-malware-attack"
+    ],
+    "month": 5,
+    "summary": "Railway rolling stock manufacturer Stadler Rail is currently investigating a malware attack that for",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
