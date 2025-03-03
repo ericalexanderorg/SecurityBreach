@@ -1,0 +1,16 @@
+{
+    "entity": "Walgreens",
+    "links": [
+        "https://www.securityweek.com/walgreens-discloses-data-breach-related-mobile-app"
+    ],
+    "month": 3,
+    "summary": "Pharmacy store chain Walgreens has started informing some users of its mobile application that their",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
