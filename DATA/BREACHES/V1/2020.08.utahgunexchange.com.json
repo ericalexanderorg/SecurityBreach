@@ -1,0 +1,16 @@
+{
+    "entity": "utahgunexchange.com",
+    "links": [
+        "https://securityaffairs.co/wordpress/107124/data-breach/us-gun-exchange-data-breach.html"
+    ],
+    "month": 8,
+    "summary": "A threat actor has released the databases of Utah-based gun exchange and hunting sites for free on a",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
