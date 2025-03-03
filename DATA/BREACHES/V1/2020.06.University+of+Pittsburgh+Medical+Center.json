@@ -1,0 +1,16 @@
+{
+    "entity": "University of Pittsburgh Medical Center",
+    "links": [
+        "https://krebsonsecurity.com/2020/06/fema-it-specialist-charged-in-id-theft-tax-refund-fraud-conspiracy/"
+    ],
+    "month": 6,
+    "summary": "On June 16, authorities in Michigan arrested 29-year-old Justin Sean Johnson in connection with a 43",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
