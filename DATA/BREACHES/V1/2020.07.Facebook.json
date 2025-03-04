@@ -1,0 +1,16 @@
+{
+    "entity": "Facebook",
+    "links": [
+        "https://threatpost.com/facebook-privacy-glitch-5k-developers/157118/"
+    ],
+    "month": 7,
+    "summary": "Facebook is facing yet another privacy faux pas in how its users' data is collected and used by thir",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
