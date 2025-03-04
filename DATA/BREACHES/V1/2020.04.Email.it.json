@@ -1,0 +1,16 @@
+{
+    "entity": "Email.it",
+    "links": [
+        "https://securityaffairs.co/wordpress/101196/data-breach/italian-email-provider-email-it-hacked.html"
+    ],
+    "month": 4,
+    "summary": "A database stolen from the Italian email provider Email. The group shared a series of snapshots on t",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Schadenfreude"
+    },
+    "year": 2020
+}
