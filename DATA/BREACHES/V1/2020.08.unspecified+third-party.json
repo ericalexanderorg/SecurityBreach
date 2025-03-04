@@ -1,0 +1,16 @@
+{
+    "entity": "unspecified third-party",
+    "links": [
+        "https://www.itnews.com.au/news/over-54000-scanned-nsw-drivers-licenses-found-in-open-cloud-storage-552544"
+    ],
+    "month": 8,
+    "summary": "Tens of thousands of scanned NSW driver's licenses and completed tolling notice statutory declaratio",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
