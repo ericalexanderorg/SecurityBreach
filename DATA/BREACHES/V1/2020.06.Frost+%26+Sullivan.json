@@ -1,0 +1,16 @@
+{
+    "entity": "Frost & Sullivan",
+    "links": [
+        "https://securityaffairs.co/wordpress/105159/data-breach/frost-sullivan-data-breach.html"
+    ],
+    "month": 6,
+    "summary": "U.S. business consulting firm Frost & Sullivan suffered a data breach, a threat actor is offering fo",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
