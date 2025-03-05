@@ -1,0 +1,16 @@
+{
+    "entity": "Michigan State University",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/michigan-state-university-discloses-credit-card-theft-incident/"
+    ],
+    "month": 8,
+    "summary": "Michigan State University today disclosed that attackers were able to steal credit card and personal",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
