@@ -1,0 +1,16 @@
+{
+    "entity": "Azerbaijan government bodies",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/russian-hackers-use-fake-nato-training-docs-to-breach-govt-networks/"
+    ],
+    "month": 9,
+    "summary": "Researchers further inspected the files containing the payload and discovered these impersonated JPG",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
