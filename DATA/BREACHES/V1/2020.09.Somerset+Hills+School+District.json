@@ -1,0 +1,16 @@
+{
+    "entity": "Somerset Hills School District",
+    "links": [
+        "https://www.nj.com/education/2020/09/school-district-had-to-shut-down-in-person-classes-because-of-ransomware-attack-superintendent-says.html"
+    ],
+    "month": 9,
+    "summary": "After one day of classes, the Somerset Hills School District closed down the schools on Tuesday beca",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
