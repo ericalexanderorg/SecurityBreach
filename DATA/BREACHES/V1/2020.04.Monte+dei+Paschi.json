@@ -1,0 +1,16 @@
+{
+    "entity": "Monte dei Paschi",
+    "links": [
+        "https://securityaffairs.co/wordpress/101427/cyber-crime/monte-dei-paschi-hack.html"
+    ],
+    "month": 4,
+    "summary": "Monte dei Paschi, one of the biggest Italian banks, suffered a cyber attack, hackers accessed the ma",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
