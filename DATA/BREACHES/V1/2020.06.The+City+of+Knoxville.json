@@ -1,0 +1,16 @@
+{
+    "entity": "The City of Knoxville",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/city-of-knoxville-shuts-down-network-after-ransomware-attack/"
+    ],
+    "month": 6,
+    "summary": "The City of Knoxville, Tennessee, was forced to shut down its entire computer network following a ra",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
