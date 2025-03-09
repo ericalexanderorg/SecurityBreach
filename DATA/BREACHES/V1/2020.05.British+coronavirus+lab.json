@@ -1,0 +1,16 @@
+{
+    "entity": "British coronavirus lab",
+    "links": [
+        "https://www.dailymail.co.uk/news/article-8304095/Kremlin-linked-cyber-hackers-steal-hundreds-medical-trial-records-British-coronavirus-lab.html"
+    ],
+    "month": 5,
+    "summary": "Highly confidential details of hundreds of Britons taking part in medical trials have been stolen fr",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2020
+}
