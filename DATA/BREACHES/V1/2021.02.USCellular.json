@@ -1,0 +1,16 @@
+{
+    "entity": "USCellular",
+    "links": [
+        "https://www.gearbrain.com/uscellular-customer-data-breach-2021-2650221784.html"
+    ],
+    "month": 2,
+    "summary": "USCellular has reported that it got hit by a data breach after retail employees were duped into down",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
