@@ -1,0 +1,16 @@
+{
+    "entity": "Stormshield",
+    "links": [
+        "https://securityaffairs.co/wordpress/114204/data-breach/stormshield-discloses-data-breach.html"
+    ],
+    "month": 2,
+    "summary": "The provider of network security products Stormshield discloses data breach, threat actors stole inf",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
