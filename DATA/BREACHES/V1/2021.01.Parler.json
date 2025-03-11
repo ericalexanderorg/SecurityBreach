@@ -1,0 +1,16 @@
+{
+    "entity": "Parler",
+    "links": [
+        "https://www.wired.com/story/parler-hack-data-public-posts-images-video/"
+    ],
+    "month": 1,
+    "summary": "It's fair to say that by \"Free speech\" the site's creators didn't mean that anyone could freely down",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2021
+}
