@@ -1,0 +1,16 @@
+{
+    "entity": "Blue Water Shipping",
+    "links": [
+        "https://shippingwatch.com/logistics/article12459659.ece"
+    ],
+    "month": 10,
+    "summary": "The cyberattack on logistics company Blue Water Shipping may have impacted the majority of its emplo",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
