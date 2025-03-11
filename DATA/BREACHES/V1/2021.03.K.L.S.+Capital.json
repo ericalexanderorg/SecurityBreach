@@ -1,0 +1,16 @@
+{
+    "entity": "K.L.S. Capital",
+    "links": [
+        "https://worldview.stratfor.com/situation-report/israel-iranian-linked-hackers-breach-servers-car-financing-company"
+    ],
+    "month": 3,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2021
+}
