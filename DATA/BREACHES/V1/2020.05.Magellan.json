@@ -1,0 +1,16 @@
+{
+    "entity": "Magellan",
+    "links": [
+        "https://ericalexander.org/SecurityNews/"
+    ],
+    "month": 5,
+    "summary": "API ERROR: THE PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
