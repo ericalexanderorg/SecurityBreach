@@ -1,0 +1,16 @@
+{
+    "entity": "1000+ victims in 27 countries",
+    "links": [
+        "https://securityaffairs.co/wordpress/107446/apt/transparent-tribe-apt-2020.html"
+    ],
+    "month": 8,
+    "summary": "The Transparent Tribe cyber-espionage group continues to improve its arsenal while targets Military ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
