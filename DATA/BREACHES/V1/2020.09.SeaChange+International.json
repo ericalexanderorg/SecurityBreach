@@ -1,0 +1,16 @@
+{
+    "entity": "SeaChange International",
+    "links": [
+        "https://securityaffairs.co/wordpress/108081/cyber-crime/seachange-ransomware-attack.html"
+    ],
+    "month": 9,
+    "summary": "US-based supplier of video delivery software solutions, SeaChange International, revealed that a ran",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
