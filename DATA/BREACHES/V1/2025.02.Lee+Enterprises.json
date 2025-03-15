@@ -1,0 +1,16 @@
+{
+    "entity": "Lee Enterprises",
+    "links": [
+        "https://techcrunch.com/2025/02/18/as-us-newspaper-outages-drag-on-lee-enterprises-blames-cyberattack-for-encrypting-critical-systems/?guccounter=1"
+    ],
+    "month": 2,
+    "summary": "As US newspaper outages drag on, Lee Enterprises blames cyberattack for encrypting critical systems\u00a0",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2025
+}
