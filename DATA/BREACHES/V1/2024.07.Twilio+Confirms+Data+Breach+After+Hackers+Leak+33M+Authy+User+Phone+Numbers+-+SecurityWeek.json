@@ -1,0 +1,16 @@
+{
+    "entity": "Twilio Confirms Data Breach After Hackers Leak 33M Authy User Phone Numbers - SecurityWeek",
+    "links": [
+        "https://www.securityweek.com/twilio-confirms-data-breach-after-hackers-leak-33m-authy-user-phone-numbers/"
+    ],
+    "month": 7,
+    "summary": "Twilio this week confirmed suffering a data breach after hackers leaked 33 million phone numbers ass",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 33000000,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
