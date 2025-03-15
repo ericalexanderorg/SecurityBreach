@@ -1,0 +1,16 @@
+{
+    "entity": "AT&T",
+    "links": [
+        "https://www.cnn.com/2024/07/12/business/att-customers-massive-breach/index.html"
+    ],
+    "month": 7,
+    "summary": "API ERROR: THE REQUESTED PAGE IS IN AN UNRECOGNISABLE FORMAT",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2024
+}
