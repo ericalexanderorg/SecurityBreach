@@ -1,0 +1,16 @@
+{
+    "entity": "Lexipol",
+    "links": [
+        "https://www.dailydot.com/debug/lexipol-data-leak-puppygirl-hacker-polycule/"
+    ],
+    "month": 2,
+    "summary": "Lexipol Data Leak: Hackers Drop Police Training Manuals Lexipol Data Leak: Hackers Drop Police Train",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2025
+}
