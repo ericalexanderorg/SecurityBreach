@@ -1,0 +1,16 @@
+{
+    "entity": "GoDaddy",
+    "links": [
+        "https://www.ftc.gov/news-events/news/press-releases/2025/01/ftc-takes-action-against-godaddy-alleged-lax-data-security-its-website-hosting-services"
+    ],
+    "month": 1,
+    "summary": "Translation Menu Espa\u00f1ol Secondary Menu Report Fraud Get Consumer Alerts Search the Legal Library Su",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2025
+}
