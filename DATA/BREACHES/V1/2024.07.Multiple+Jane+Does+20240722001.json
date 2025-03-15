@@ -1,0 +1,16 @@
+{
+    "entity": "Multiple Jane Does 20240722001",
+    "links": [
+        "https://escape.tech/resources/api-threat-landscape"
+    ],
+    "month": 7,
+    "summary": "API ERROR: THE REQUESTED PAGE COULD NOT BE FOUND",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Access Control",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2024
+}
