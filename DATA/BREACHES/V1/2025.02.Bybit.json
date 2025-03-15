@@ -1,0 +1,16 @@
+{
+    "entity": "Bybit",
+    "links": [
+        "https://apnews.com/article/bybit-exchange-crypto-hack-88256366c723a9de8327ef3d4071057e"
+    ],
+    "month": 2,
+    "summary": "Error fetching the webpage: 403 Client Error: Forbidden for url: https://apnews.com/article/bybit-ex",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2025
+}
