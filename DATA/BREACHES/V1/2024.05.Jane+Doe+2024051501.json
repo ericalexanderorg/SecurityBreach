@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 2024051501",
+    "links": [
+        "https://www.microsoft.com/en-us/security/blog/2024/05/15/threat-actors-misusing-quick-assist-in-social-engineering-attacks-leading-to-ransomware/"
+    ],
+    "month": 5,
+    "summary": "Since mid-April 2024, Microsoft Threat Intelligence has observed the threat actor Storm-1811 misusin",
+    "tags": {
+        "actor": "Nation State:Storm-1811",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2024
+}
