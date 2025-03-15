@@ -1,0 +1,16 @@
+{
+    "entity": "PC Tattle Tale",
+    "links": [
+        "https://www.ericdaigle.ca/pctattletale-leaking-screen-captures/"
+    ],
+    "month": 5,
+    "summary": "Rather than the sophisticated monitoring of many similarly insecure competitors it simply asks for p",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Hardware Additions",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
