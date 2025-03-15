@@ -1,0 +1,16 @@
+{
+    "entity": "Southern Water",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/southern-water-says-black-basta-ransomware-attack-cost-45m-in-expenses/"
+    ],
+    "month": 2,
+    "summary": "Black Basta ransomware attacked Southern Water, incurring £4.5M in expenses",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 5700000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2025
+}
