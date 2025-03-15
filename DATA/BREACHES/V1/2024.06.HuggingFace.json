@@ -1,0 +1,16 @@
+{
+    "entity": "HuggingFace",
+    "links": [
+        "https://huggingface.co/blog/space-secrets-disclosure"
+    ],
+    "month": 6,
+    "summary": "As a consequence, we have suspicions that a subset of Spaces' secrets could have been accessed witho",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "Broken Authentication and Session Management",
+        "motive": "PII:?"
+    },
+    "year": 2024
+}
