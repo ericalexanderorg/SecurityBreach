@@ -1,0 +1,16 @@
+{
+    "entity": "Jane Doe 2025051601",
+    "links": [
+        "https://www.welivesecurity.com/en/eset-research/ebury-alive-unseen-400k-linux-servers-compromised-cryptotheft-financial-gain/"
+    ],
+    "month": 5,
+    "summary": "Ten years ago we raised awareness of Ebury by publishing a white paper we called Operation Windigo, ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2024
+}
