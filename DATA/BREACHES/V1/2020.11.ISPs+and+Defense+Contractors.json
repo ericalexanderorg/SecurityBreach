@@ -1,0 +1,16 @@
+{
+    "entity": "ISPs and Defense Contractors",
+    "links": [
+        "https://thehackernews.com/2020/11/north-korean-hackers-used-torisma.html"
+    ],
+    "month": 11,
+    "summary": "The attacks, which targeted IP-addresses belonging to internet service providers in Australia, Israe",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
