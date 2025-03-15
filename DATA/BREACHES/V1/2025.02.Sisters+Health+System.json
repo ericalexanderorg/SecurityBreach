@@ -1,0 +1,16 @@
+{
+    "entity": "Sisters Health System",
+    "links": [
+        "https://www.securityweek.com/information-of-883000-stolen-in-crippling-attack-on-hospital-sisters-health-system/"
+    ],
+    "month": 2,
+    "summary": "Error fetching the webpage: 403 Client Error: Forbidden for url: https://www.securityweek.com/inform",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2025
+}
