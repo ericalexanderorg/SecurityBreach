@@ -6,11 +6,11 @@
     "month": 2,
     "summary": "No single person can move the money and coins alone.However, the hackers didn\u2019t access the vault dir",
     "tags": {
-        "actor": "Criminal",
-        "cost-usd": 1000000,
+        "actor": "Nation State",
+        "cost-usd": 1500000000,
         "impacted-user-count": 0,
         "initial-access": "?",
-        "motive": "Money:Credit Card"
+        "motive": "Money:Cryptocurrency"
     },
     "year": 2025
 }
