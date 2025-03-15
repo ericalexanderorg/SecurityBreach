@@ -13,4 +13,19 @@
         "motive": "Money:Ransom"
     },
     "year": 2025
+}{
+    "entity": "Powerschool",
+    "links": [
+        "https://arstechnica.com/security/2025/01/students-parents-and-teachers-still-smarting-from-breach-exposing-their-info/"
+    ],
+    "month": 1,
+    "summary": "The schools serve 60 million students and employ an unknown number of teachers. Besides providing so",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2025
 }
