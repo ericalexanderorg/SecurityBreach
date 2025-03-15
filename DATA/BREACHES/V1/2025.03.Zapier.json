@@ -1,0 +1,16 @@
+{
+    "entity": "Zapier",
+    "links": [
+        "https://www.theverge.com/news/622026/zapier-data-breach-code-repositories"
+    ],
+    "month": 3,
+    "summary": "Zapier says someone broke into its code repositories and may have accessed customer data | The Verge",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2025
+}
