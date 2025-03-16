@@ -1,0 +1,16 @@
+{
+    "entity": "Enel Argentina",
+    "links": [
+        "https://threatpost.com/snake-ransomware-honda-energy/156462/"
+    ],
+    "month": 6,
+    "summary": "The ICS/SCADA-focused malware is likely behind a duo of attacks this week, on Honda and a South Amer",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
