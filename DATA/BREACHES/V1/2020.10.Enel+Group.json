@@ -1,0 +1,16 @@
+{
+    "entity": "Enel Group",
+    "links": [
+        "https://securityaffairs.co/wordpress/110067/malware/enel-group-netwalker-ransomware.html"
+    ],
+    "month": 10,
+    "summary": "Multinational energy company Enel Group has been hit by Netwalker ransomware operators that are aski",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
