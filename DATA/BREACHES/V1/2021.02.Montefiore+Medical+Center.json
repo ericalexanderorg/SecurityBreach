@@ -1,0 +1,16 @@
+{
+    "entity": "Montefiore Medical Center",
+    "links": [
+        "https://ritzherald.com/montefiore-medical-center-notifies-patients-about-security-breach-potential-identity-theft/"
+    ],
+    "month": 2,
+    "summary": "Montefiore is notifying some patients about a security breach involving information illegally access",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 1000000,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2021
+}
