@@ -1,0 +1,16 @@
+{
+    "entity": "17 companies",
+    "links": [
+        "https://securityaffairs.co/wordpress/110259/data-breach/account-databases-stolen-17-companies.html"
+    ],
+    "month": 11,
+    "summary": "A threat actor is offering for sale account databases containing an aggregate total of 34 million us",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
