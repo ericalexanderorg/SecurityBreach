@@ -1,0 +1,16 @@
+{
+    "entity": "Shopify",
+    "links": [
+        "https://securityaffairs.co/wordpress/108669/cyber-crime/shopify-insider-threats.html"
+    ],
+    "month": 9,
+    "summary": "E-commerce platform provider Shopify revealed that two members of its support staff accessed custome",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
