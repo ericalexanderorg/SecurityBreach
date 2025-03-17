@@ -1,0 +1,16 @@
+{
+    "entity": "American Payroll Association",
+    "links": [
+        "https://www.securityweek.com/american-payroll-association-user-data-stolen-skimmer-attack"
+    ],
+    "month": 9,
+    "summary": "The American Payroll Association says user information was stolen after attackers managed to inject ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
