@@ -1,0 +1,16 @@
+{
+    "entity": "Update: Ukraine power grid & Olympics breaches",
+    "links": [
+        "https://threatpost.com/doj-charges-6-sandworm-apt-members-in-notpetya-cyberattacks/160304/"
+    ],
+    "month": 10,
+    "summary": "The Department of Justice on Monday announced charges against six Russian nationals who are allegedl",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Political"
+    },
+    "year": 2020
+}
