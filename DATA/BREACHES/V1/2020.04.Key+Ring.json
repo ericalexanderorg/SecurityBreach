@@ -1,0 +1,16 @@
+{
+    "entity": "Key Ring",
+    "links": [
+        "https://www.vpnmentor.com/blog/report-keyring-leak/"
+    ],
+    "month": 4,
+    "summary": "Led by Noam Rotem and Ran Locar, vpnMentor's research team recently discovered a data leak by the po",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
