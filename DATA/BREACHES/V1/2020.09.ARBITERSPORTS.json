@@ -1,0 +1,16 @@
+{
+    "entity": "ARBITERSPORTS",
+    "links": [
+        "https://www.express.co.uk/news/world/1338392/US-cyber-attack-ArbiterSports-payout-data-sports-referees-ransomware-hack-china-russia"
+    ],
+    "month": 9,
+    "summary": "In a data breach notification letter filed with multiple states across the US, the company said that",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
