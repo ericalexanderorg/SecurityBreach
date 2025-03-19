@@ -1,0 +1,16 @@
+{
+    "entity": "Norwegian parliament",
+    "links": [
+        "https://www.securityweek.com/norway-accuses-russian-hackers-parliament-attack"
+    ],
+    "month": 12,
+    "summary": "Norway's domestic spy agency on Tuesday blamed a Russian hacker group linked to Moscow's military in",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Espionage"
+    },
+    "year": 2020
+}
