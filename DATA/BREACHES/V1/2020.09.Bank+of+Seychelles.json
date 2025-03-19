@@ -1,0 +1,16 @@
+{
+    "entity": "Bank of Seychelles",
+    "links": [
+        "https://securityaffairs.co/wordpress/108199/cyber-crime/bank-of-seychelles-ransomware-attack.html"
+    ],
+    "month": 9,
+    "summary": "The Development Bank of Seychelles was hit by a ransomware attack disclose the Central Bank of Seych",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
