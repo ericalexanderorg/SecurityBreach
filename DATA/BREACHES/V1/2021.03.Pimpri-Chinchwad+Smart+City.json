@@ -1,0 +1,16 @@
+{
+    "entity": "Pimpri-Chinchwad Smart City",
+    "links": [
+        "https://www.medianama.com/2021/03/223-pimpri-chinchwad-tech-mahindra-ransomware/"
+    ],
+    "month": 3,
+    "summary": "Servers of the Pimpri-Chinchwad Smart City project were infected with a ransomware, with attackers e",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2021
+}
