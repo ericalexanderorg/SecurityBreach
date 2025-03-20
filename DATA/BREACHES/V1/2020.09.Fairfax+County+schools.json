@@ -1,0 +1,16 @@
+{
+    "entity": "Fairfax County schools",
+    "links": [
+        "https://www.bleepingcomputer.com/news/security/fairfax-county-schools-hit-by-maze-ransomware-student-data-leaked/"
+    ],
+    "month": 9,
+    "summary": "Fairfax County Public Schools, the 10th largest school division in the US, was recently hit by ranso",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
