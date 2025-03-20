@@ -1,0 +1,16 @@
+{
+    "entity": "Virgin Mobile KSA",
+    "links": [
+        "https://www.bankinfosecurity.com/hackers-hit-virgin-mobile-in-saudi-arabia-a-15018"
+    ],
+    "month": 9,
+    "summary": "Security researchers who acquired the stolen data warned Virgin Mobile KSA, which secured its networ",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
