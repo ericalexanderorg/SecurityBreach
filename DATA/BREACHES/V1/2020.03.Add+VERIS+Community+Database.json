@@ -1,0 +1,16 @@
+{
+    "entity": "Add VERIS Community Database",
+    "links": [
+        "https://github.com/vz-risk/VCDB"
+    ],
+    "month": 3,
+    "summary": "While there are a handful of efforts to capture security incidents that are publicly disclosed, ther",
+    "tags": {
+        "actor": "Nation State",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
