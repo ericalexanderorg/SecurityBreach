@@ -1,0 +1,16 @@
+{
+    "entity": "Microsoft Bing",
+    "links": [
+        "https://threatpost.com/microsoft-bing-search-queries/159407/"
+    ],
+    "month": 9,
+    "summary": "An unsecured database has exposed sensitive data for users of Microsoft's Bing search engine mobile ",
+    "tags": {
+        "actor": "Hacktivist",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "OWASP:A5",
+        "motive": "Hacktivism:Press"
+    },
+    "year": 2020
+}
