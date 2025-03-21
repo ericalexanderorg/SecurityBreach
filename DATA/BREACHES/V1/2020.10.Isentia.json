@@ -1,0 +1,16 @@
+{
+    "entity": "Isentia",
+    "links": [
+        "https://www.infosecurity-magazine.com/news/isentia-reeling-after-suspected/"
+    ],
+    "month": 10,
+    "summary": "Media monitoring giant Isentia has revealed that it is currently dealing with a major security incid",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Ransom"
+    },
+    "year": 2020
+}
