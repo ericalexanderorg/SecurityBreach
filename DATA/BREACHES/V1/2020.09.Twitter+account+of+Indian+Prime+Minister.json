@@ -1,0 +1,16 @@
+{
+    "entity": "Twitter account of Indian Prime Minister",
+    "links": [
+        "https://securityaffairs.co/wordpress/107881/hacking/modi-twitter-account-hacked.html"
+    ],
+    "month": 9,
+    "summary": "The Twitter account of the Indian Prime Minister Modi was hacked, attackers sent a series of tweets ",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "ATT&CK:T1078",
+        "motive": "PII:?"
+    },
+    "year": 2020
+}
