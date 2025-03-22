@@ -1,0 +1,16 @@
+{
+    "entity": "Defense Information Systems Agency",
+    "links": [
+        "https://govanguard.com/blog/white-house-data-breach/"
+    ],
+    "month": 3,
+    "summary": "Because these cookies are strictly necessary to deliver the website, refuseing them will have impact",
+    "tags": {
+        "actor": "Criminal",
+        "cost-usd": 0,
+        "impacted-user-count": 0,
+        "initial-access": "?",
+        "motive": "Money:Credit Card"
+    },
+    "year": 2020
+}
